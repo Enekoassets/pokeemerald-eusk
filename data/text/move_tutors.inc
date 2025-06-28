@@ -1,28 +1,28 @@
 MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnce:
-	.string "This move can be learned only\n"
-	.string "once. Is that okay?$"
+	.string "Eraso hau behin bakarrik erakutsi\n"
+	.string "daiteke. Ados?$"
 
 MoveTutor_Text_SwaggerTeach:
-	.string "Heh! My POKéMON totally rules!\n"
-	.string "It's cooler than any POKéMON!\p"
-	.string "I was lipping off with a swagger in\n"
-	.string "my step like that when the CHAIRMAN\l"
-	.string "chewed me out.\p"
-	.string "That took the swagger out of my step.\p"
-	.string "If you'd like, I'll teach the move\n"
-	.string "SWAGGER to a POKéMON of yours.$"
+	.string "Kar kar! Nire POKéMONa onena da!\n"
+	.string "Beste edozein POKéMON baino hobea!\p"
+	.string "Horrelako harrokeriaz ari nintzen\n"
+	.string "hizketan PRESIDENTEAK izugarrizko\l"
+	.string "bronka bota arte.\p"
+	.string "Horrek harrokeria guztia kendu zidan.\p"
+	.string "Nahi baduzu zure POKéMON bati\n"
+	.string "HARROKERIA erasoa erakutsiko diot.$"
 
 MoveTutor_Text_SwaggerDeclined:
-	.string "What, no? Can't you get into\n"
-	.string "the spirit of things?$"
+	.string "Nola, ezetz? Ezin al duzu gauzen\n"
+	.string "espiritua ulertu?$"
 
 MoveTutor_Text_SwaggerWhichMon:
-	.string "All right, which POKéMON wants to\n"
-	.string "learn how to SWAGGER?$"
+	.string "Ondo bada, zein POKéMONi\n"
+	.string "erakutsiko diot HARROKERIA?$"
 
 MoveTutor_Text_SwaggerTaught:
-	.string "I'll just praise my POKéMON from now\n"
-	.string "on without the swagger.$"
+	.string "Hemendik aurrera nire POKéMONak goraipatuko\n"
+	.string "ditut, baina harrokeriarik gabe.$"
 
 MoveTutor_Text_RolloutTeach:
 	.string "Did you know that you can go from\n"

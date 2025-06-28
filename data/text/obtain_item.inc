@@ -1,31 +1,31 @@
 gText_ObtainedTheItem::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "{STR_VAR_2} lortu duzu!$"
 
 gText_TheBagIsFull::
-	.string "The BAG is full…$"
+	.string "POLTSA beteta dago…$"
 
 gText_PutItemInPocket::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3} POCKET.$"
+	.string "{PLAYER}(e)k {STR_VAR_2} gorde du\n"
+	.string "{STR_VAR_3} POLTSIKOAN.$"
 
 gText_PlayerFoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.string "{PLAYER}(e)k {STR_VAR_2} aurkitu du!$"
 
 gText_TooBadBagIsFull::
-	.string "Too bad!\n"
-	.string "The BAG is full…$"
+	.string "Pena!\n"
+	.string "POLTSA beteta dago…$"
 
 gText_PlayerPutItemInBag::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the BAG.$"
+	.string "{PLAYER}(e)k {STR_VAR_2} POLTSAN\n"
+	.string "gorde du.$"
 
 gText_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "{STR_VAR_2} lortu duzu!$"
 
 gText_NoRoomLeftForAnother::
-	.string "Too bad! There's no room left for\n"
-	.string "another {STR_VAR_2}…$"
+	.string "Pena! Ez dago lekurik\n"
+	.string "{STR_VAR_2} gordetzeko…$"
 
 gText_TheDecorWasTransferredToThePC::
-	.string "The {STR_VAR_2} was transferred\n"
-	.string "to the PC.$"
+	.string "{STR_VAR_2} PCra bidali\n"
+	.string "duzu.$"

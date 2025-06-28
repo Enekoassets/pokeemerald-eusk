@@ -1,32 +1,32 @@
 gText_PkmnTransferredSomeonesPC::
-	.string "{STR_VAR_2} was transferred to\n"
-	.string "SOMEONE'S PC.\p"
-	.string "It was placed in \n"
-	.string "BOX “{STR_VAR_1}.”$"
+	.string "{STR_VAR_2} NORBAITEN PCra\n"
+	.string "bidali da.\p"
+	.string "“{STR_VAR_1}” KUTXAN\n"
+	.string "gorde da$"
 
 gText_PkmnTransferredLanettesPC::
-	.string "{STR_VAR_2} was transferred to\n"
-	.string "LANETTE'S PC.\p"
-	.string "It was placed in \n"
-	.string "BOX “{STR_VAR_1}.”$"
+	.string "{STR_VAR_2} LANETTEREN\n"
+	.string "PCra bidali da.\p"
+	.string "“{STR_VAR_1}” KUTXAN\n"
+	.string "gorde da.”$"
 
 gText_PkmnTransferredSomeonesPCBoxFull::
-	.string "BOX “{STR_VAR_3}” on\n"
-	.string "SOMEONE'S PC was full.\p"
-	.string "{STR_VAR_2} was transferred to\n"
-	.string "BOX “{STR_VAR_1}.”$"
+	.string "“{STR_VAR_3}” KUTXA\n"
+	.string "beteta NORBAITEN PCan.\p"
+	.string "{STR_VAR_2} “{STR_VAR_1}”\n"
+	.string "KUTXARA bidali da.$"
 
 gText_PkmnTransferredLanettesPCBoxFull::
-	.string "BOX “{STR_VAR_3}” on\n"
-	.string "LANETTE'S PC was full.\p"
-	.string "{STR_VAR_2} was transferred to\n"
-	.string "BOX “{STR_VAR_1}.”$"
+	.string "“{STR_VAR_3}” KUTXA\n"
+	.string "beteta LANETTEREN PCan.\p"
+	.string "{STR_VAR_2} “{STR_VAR_1}”\n"
+	.string "KUTXARA bidali da$"
 
 gText_NoMoreRoomForPokemon::
-	.string "There's no more room for POKéMON!\p"
-	.string "The POKéMON BOXES are full and\n"
-	.string "can't accept any more!$"
+	.string "Ez dago lekurik POKéMONENTZAT!\p"
+	.string "POKéMON KUTXAK beteta daude\n"
+	.string "eta ezin dira gehiago gorde!$"
 
 gText_NicknameThisPokemon::
-	.string "Do you want to give a nickname to\n"
-	.string "this {STR_VAR_1}?$"
+	.string "Nahi diozu ezizen bat eman\n"
+	.string "{STR_VAR_1}(e)ri?$"

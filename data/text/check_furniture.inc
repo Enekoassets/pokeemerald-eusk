@@ -1,27 +1,27 @@
 Text_PictureBookShelf:
-	.string "There's a set of POKéMON picture books.$"
+	.string "POKéMONen argazki-liburuz betea dago.$"
 
 Text_BookShelf:
-	.string "It's filled with all sorts of books.$"
+	.string "Mota askotako liburuz lepo dago.$"
 
 Text_PokemonCenterBookShelf:
-	.string "POKéMON magazines!\n"
-	.string "POKéMON PAL…\p"
-	.string "POKéMON HANDBOOK…\n"
-	.string "ADORABLE POKéMON…$"
+	.string "POKéMONen aldizkariak!\n"
+	.string "POKéMON LAGUNA…\p"
+	.string "POKéMON ESKULIBURUA…\n"
+	.string "POKéMON POLITAK…$"
 
 Text_Vase:
-	.string "This vase looks expensive…\n"
-	.string "Peered inside…\p"
-	.string "But, it was empty.$"
+	.string "Ontzi garestia dirudi…\n"
+	.string "Barruan begiratu duzu…\p"
+	.string "Baina, hutsik dago.$"
 
 Text_EmptyTrashCan:
-	.string "It's empty.$"
+	.string "Hutsik dago.$"
 
 Text_ShopShelf:
-	.string "The shelves brim with all sorts of\n"
-	.string "POKéMON merchandise.$"
+	.string "Apalak POKéMON merchandisingez\n"
+	.string "mukuru daude.$"
 
 Text_Blueprint:
-	.string "A blueprint of some sort?\n"
-	.string "It's too complicated!$"
+	.string "Plano bat edo antzeko zeozer da.\n"
+	.string "Ulergaitza da guztiz!$"
