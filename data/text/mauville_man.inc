@@ -1,63 +1,63 @@
 @ Only contains the text for the Mauville Man named Giddy. The rest is in scripts/mauville_man.inc
 GiddyText_SoPretty::
-	.string " so pretty!$"
+	.string " zeinen ederra!$"
 
 GiddyText_SoDarling::
-	.string " so darling!$"
+	.string " zeinen maitagarria!$"
 
 GiddyText_SoRelaxed::
-	.string " so relaxed!$"
+	.string " zeinen erlaxatua!$"
 
 GiddyText_SoSunny::
-	.string " so sunny!$"
+	.string " zeinen eguzkitsua!$"
 
 GiddyText_SoDesirable::
-	.string " so desirable!$"
+	.string " zeinen desiragarria!$"
 
 GiddyText_SoExciting::
-	.string " so exciting!$"
+	.string " zeinen zirraragarria!$"
 
 GiddyText_SoAmusing::
-	.string " so amusing!$"
+	.string " zeinen dibertigarria!$"
 
 GiddyText_SoMagical::
-	.string " so magical!$"
+	.string " zeinen magikoa!$"
 
 GiddyText_Is::
-	.string " is$"
+	.string " da$"
 
 GiddyText_DontYouAgree::
 	.string "\n"
-	.string "Don't you agree?$"
+	.string "Ez zaizu iruditzen?$"
 
 GiddyText_ISoWantToGoOnAVacation::
-	.string "I so want to go on a vacation.\n"
-	.string "Would you happen to know a nice place?$"
+	.string "Oporretan joateko gogo itzela dut.\n"
+	.string "Ezagutzen al duzu leku egokirik?$"
 
 GiddyText_IBoughtCrayonsWith120Colors::
-	.string "I bought crayons with 120 colors!\n"
-	.string "Don't you think that's nice?$"
+	.string "120 koloretako margoak erosi ditut!\n"
+	.string "Ez zaizu ederra iruditzen?$"
 
 GiddyText_WouldntItBeNiceIfWeCouldFloat::
-	.string "Wouldn't it be nice if we could float\n"
-	.string "away on a cloud of bubbles?$"
+	.string "Burbuilaz betetako hodei batean\n"
+	.string "flotatzea ederra litzateke, baietz?$"
 
 GiddyText_WhenYouWriteOnASandyBeach::
-	.string "When you write on a sandy beach,\n"
-	.string "they wash away. It makes me sad.$"
+	.string "Hondarretan idazten duzunean,\n"
+	.string "ezabatu egiten dira. Triste jartzen nau.$"
 
 GiddyText_WhatsTheBottomOfTheSeaLike::
-	.string "What's the bottom of the sea like?\n"
-	.string "Just once I would so love to go!$"
+	.string "Nolakoa da itsasoaren hondoa?\n"
+	.string "Izugarri gustatuko litzaidake behin joatea!$"
 
 GiddyText_WhenYouSeeTheSettingSunDoesIt::
-	.string "When you see the setting sun, does it\n"
-	.string "make you want to go home?$"
+	.string "Eguzkia sartzen ikusten duzunean,\n"
+	.string "etxera joateko gogoa ematen al dizu?$"
 
 GiddyText_LyingBackInTheGreenGrass::
-	.string "Lying back in the green grass…\n"
-	.string "Oh, it's so, so nice!$"
+	.string "Belar berdean etzanda egotea…\n"
+	.string "Benetan atsegina da!$"
 
 GiddyText_SecretBasesAreSoWonderful::
-	.string "SECRET BASES are so wonderful!\n"
-	.string "Can't you feel the excitement?$"
+	.string "BASE SEKRETUAK itzelak dira!\n"
+	.string "Sentitzen al duzu zirrara?$"

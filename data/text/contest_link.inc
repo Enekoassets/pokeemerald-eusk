@@ -1,38 +1,38 @@
 @ With the exception of Link standby, none of the below texts are used
 
 gTest_MissedTurn::
-	.string "Missed turn$"
+	.string "Txanda galduta$"
 
 gText_LinkStandby4::
-	.string "Link standby!$"
+	.string "Konexioa geldituta!$"
 
 gText_WinnerIsPlayersMonCongrats::
-	.string "The winner is {STR_VAR_1}'s {STR_VAR_2}!\n"
-	.string "Congratulations!$"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2} da irabazlea!\n"
+	.string "Zorionak!$"
 
 gText_WinnerIsPlayersMon::
-	.string "The winner is {STR_VAR_1}'s {STR_VAR_2}!{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2} da irabazlea!{PAUSE_UNTIL_PRESS}$"
 
 gText_PrimaryJudgingNumX::
-	.string "Primary judging: No. {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.string "Lehen epaia: {STR_VAR_1}. a{PAUSE_UNTIL_PRESS}$"
 
 gText_SecondaryJudgingNumX::
-	.string "Secondary judging: No. {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.string "Bigarren epaia: {STR_VAR_1}. a{PAUSE_UNTIL_PRESS}$"
 
 gText_SetEventNumX::
-	.string "Set event: No. {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.string "Gertaera: {STR_VAR_1}. a{PAUSE_UNTIL_PRESS}$"
 
 gText_MoveUsedMostOften::
-	.string "The move used most often:\n"
+	.string "Gehien erabilitako erasoa:\n"
 	.string "{STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
 
 gText_MostImpressiveMon::
-	.string "The most impressive POKéMON:\n"
-	.string "{STR_VAR_1}'s {STR_VAR_2}{PAUSE_UNTIL_PRESS}$"
+	.string "POKéMON harrigarriena:\n"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}{PAUSE_UNTIL_PRESS}$"
 
 gText_SetEventNumX2::
-	.string "Set event: No. {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.string "Gertaera: {STR_VAR_1}. a{PAUSE_UNTIL_PRESS}$"
 
 gText_LinkTVProgramWillNotBeMadeTrainerLost::
-	.string "A link TV program will not be made\n"
-	.string "because the TRAINER lost.{PAUSE_UNTIL_PRESS}$"
+	.string "Ez da Link telebistako programarik egingo\n"
+	.string "ENTRENATZAILEAK galdu egin duelako.{PAUSE_UNTIL_PRESS}$"

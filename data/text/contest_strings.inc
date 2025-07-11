@@ -1,772 +1,772 @@
 @ Contest move effect descriptions
 
 gText_HighlyAppealingMove::
-	.string "A highly appealing move.$"
+	.string "Erakustaldi itzela da eraso hau.$"
 
 gText_UserMoreEasilyStartled::
-	.string "After this move, the user is\n"
-	.string "more easily startled.$"
+	.string "Eraso honen ostean, erabiltzailea\n"
+	.string "errazago ikaratzen da.$"
 
 gText_GreatAppealButNoMoreToEnd::
-	.string "Makes a great appeal, but\n"
-	.string "allows no more to the end.$"
+	.string "Erakustaldi izugarria da, baina\n"
+	.string "gero ezin da ezer gehiago egin.$"
 
 gText_UsedRepeatedlyWithoutBoringJudge::
-	.string "Can be repeatedly used\n"
-	.string "without boring the JUDGE.$"
+	.string "Behin eta berriz erabili daiteke\n"
+	.string "EPAILEA aspertu gabe.$"
 
 gText_AvoidStartledByOthersOnce::
-	.string "Can avoid being startled\n"
-	.string "by others once.$"
+	.string "Besteek ikaratzea saihestu\n"
+	.string "dezake, behin.$"
 
 gText_AvoidStartledByOthers::
-	.string "Can avoid being startled\n"
-	.string "by others.$"
+	.string "Besteek ikaratzea saihestu\n"
+	.string "dezake.$"
 
 gText_AvoidStartledByOthersLittle::
-	.string "Can avoid being startled\n"
-	.string "by others a little.$"
+	.string "Besteek ikaratzea saihestu\n"
+	.string "dezake, pixka bat.$"
 
 gText_UserLessLikelyStartled::
-	.string "After this move, the user is\n"
-	.string "less likely to be startled.$"
+	.string "Eraso honen ostean, erabiltzaileak\n"
+	.string "ikaratzeko aukera gutxiago du.$"
 
 gText_SlightlyStartleFrontMon::
-	.string "Slightly startles the\n"
-	.string "POKéMON in front.$"
+	.string "Parean duen POKéMONa\n"
+	.string "pixka bat ikaratzen du.$"
 
 gText_SlightlyStartleAppealed::
-	.string "Slightly startles those\n"
-	.string "that have made appeals.$"
+	.string "Erakustaldiak egin dituztenak\n"
+	.string "pixka bat ikaratzen ditu.$"
 
 gText_StartleAppealedBeforeUser::
-	.string "Startles the POKéMON that\n"
-	.string "appealed before the user.$"
+	.string "Erabiltzailearen aurretik aritutako\n"
+	.string "POKéMONa ikaratzen du.$"
 
 gText_StartleAllAppealed::
-	.string "Startles all POKéMON that\n"
-	.string "have done their appeals.$"
+	.string "Erakustaldia egin duten POKéMON\n"
+	.string "guztiak ikaratzen ditu.$"
 
 gText_BadlyStartleFrontMon::
-	.string "Badly startles the\n"
-	.string "POKéMON in front.$"
+	.string "Parean duen POKéMONa\n"
+	.string "asko ikaratzen du.$"
 
 gText_BadlyStartleAppealed::
-	.string "Badly startles those that\n"
-	.string "have made appeals.$"
+	.string "Erakustaldiak egin dituztenak\n"
+	.string "asko ikaratzen ditu.$"
 
 gText_StartleAppealedBeforeUser2::
-	.string "Startles the POKéMON that\n"
-	.string "appealed before the user.$"
+	.string "Erabiltzailearen aurretik aritutako\n"
+	.string "POKéMONa ikaratzen du.$"
 
 gText_StartleAllAppealed2::
-	.string "Startles all POKéMON that\n"
-	.string "have done their appeals.$"
+	.string "Erakustaldia egin duten POKéMON\n"
+	.string "guztiak ikaratzen ditu.$"
 
 gText_ShiftJudgesAttentionFromOthers::
-	.string "Shifts the JUDGE's\n"
-	.string "attention from others.$"
+	.string "EPAILEAREN atentzioa besteengandik\n"
+	.string "kentzen du.$"
 
 gText_StartleMonHasJudgesAttention::
-	.string "Startles the POKéMON that\n"
-	.string "has the JUDGE's attention.$"
+	.string "EPAILEAREN atentzioa duen\n"
+	.string "POKéMONa ikaratzen du.$"
 
 gText_JamOthersMissesTurn::
-	.string "Jams the others, and misses\n"
-	.string "one turn of appeals.$"
+	.string "Besteak gogaitzen ditu, baina\n"
+	.string "erakustaldi txanda bat galtzen da.$"
 
 gText_StartleMonsMadeSameTypeAppeal::
-	.string "Startles POKéMON that\n"
-	.string "made a same-type appeal.$"
+	.string "Mota bereko erakustaldia egin\n"
+	.string "duten POKéMONak ikaratzen ditu.$"
 
 gText_BadlyStartleCoolAppeals::
-	.string "Badly startles POKéMON\n"
-	.string "that made COOL appeals.$"
+	.string "Asko ikaratzen ditu KARISMA\n"
+	.string "motako erakustaldia egin dutenak.$"
 
 gText_BadlyStartleBeautyAppeals::
-	.string "Badly startles POKéMON\n"
-	.string "that made BEAUTY appeals.$"
+	.string "Asko ikaratzen ditu EDERTASUN\n"
+	.string "motako erakustaldia egin dutenak.$"
 
 gText_BadlyStartleCuteAppeals::
-	.string "Badly startles POKéMON\n"
-	.string "that made CUTE appeals.$"
+	.string "Asko ikaratzen ditu POLITA\n"
+	.string "motako erakustaldia egin dutenak.$"
 
 gText_BadlyStartleSmartAppeals::
-	.string "Badly startles POKéMON\n"
-	.string "that made SMART appeals.$"
+	.string "Asko ikaratzen ditu ARGITASUN\n"
+	.string "motako erakustaldia egin dutenak.$"
 
 gText_BadlyStartleToughAppeals::
-	.string "Badly startles POKéMON\n"
-	.string "that made TOUGH appeals.$"
+	.string "Asko ikaratzen ditu GOGORTASUN\n"
+	.string "motako erakustaldia egin dutenak.$"
 
 gText_MakeMonAfterUserNervous::
-	.string "Makes one POKéMON after\n"
-	.string "the user nervous.$"
+	.string "Erabiltzailearen osteko POKéMONa\n"
+	.string "urduri jartzen du.$"
 
 gText_MakeAllMonsAfterUserNervous::
-	.string "Makes all POKéMON after\n"
-	.string "the user nervous.$"
+	.string "Erabiltzailearen osteko POKéMON\n"
+	.string "guztiak urduri jartzen ditu.$"
 
 gText_WorsenConditionOfThoseMadeAppeals::
-	.string "Worsens the condition of\n"
-	.string "those that made appeals.$"
+	.string "Erakustaldia egin dutenen\n"
+	.string "egoera okertzen du.$"
 
 gText_BadlyStartleMonsGoodCondition::
-	.string "Badly startles POKéMON in\n"
-	.string "good condition.$"
+	.string "Egoera onean dauden POKéMONak\n"
+	.string "ikaratzen ditu.$"
 
 gText_AppealGreatIfPerformedFirst::
-	.string "The appeal works great if\n"
-	.string "performed first.$"
+	.string "Oso ongi funtzionatzen du\n"
+	.string "lehenengo erabiltzen bada.$"
 
 gText_AppealGreatIfPerformedLast::
-	.string "The appeal works great if\n"
-	.string "performed last.$"
+	.string "Oso ongi funtzionatzen du\n"
+	.string "azkenengo erabiltzen bada.$"
 
 gText_AppealAsGoodAsThoseBeforeIt::
-	.string "Makes the appeal as good\n"
-	.string "as those before it.$"
+	.string "Aurrekoena bezain erakustaldi\n"
+	.string "ona egiten du.$"
 
 gText_AppealAsGoodAsOneBeforeIt::
-	.string "Makes the appeal as good\n"
-	.string "as the one before it.$"
+	.string "Aurrekoarena bezain erakustaldi\n"
+	.string "ona egiten du.$"
 
 gText_AppealBetterLaterItsPerformed::
-	.string "The appeal works better\n"
-	.string "the later it is performed.$"
+	.string "Zenbat eta beranduago erabili\n"
+	.string "orduan eta hobeto funtzionatzen du.$"
 
 gText_AppealVariesDependingOnTiming::
-	.string "The appeal's quality varies\n"
-	.string "depending on its timing.$"
+	.string "Erabiltzen den momentuaren arabera\n"
+	.string "aldatzen da erakustaldiaren maila.$"
 
 gText_WorksWellIfSameTypeAsBefore::
-	.string "Works well if it's the same\n"
-	.string "type as the one before.$"
+	.string "Ondo funtzionatzen du aurreko\n"
+	.string "erasoaren mota berdinekoa bada.$"
 
 gText_WorksWellIfDifferentTypeAsBefore::
-	.string "Works well if different in\n"
-	.string "type than the one before.$"
+	.string "Ondo funtzionatzen du aurreko\n"
+	.string "erasoaren mota desberdinekoa bada.$"
 
 gText_AffectedByAppealInFront::
-	.string "Affected by how well the\n"
-	.string "appeal in front goes.$"
+	.string "Aurreko erakustaldiaren kalitatearen\n"
+	.string "arabera funtzionatzen du.$"
 
 gText_UpsConditionHelpsPreventNervousness::
-	.string "Ups the user's condition.\n"
-	.string "Helps prevent nervousness.$"
+	.string "Erabiltzailearen egoera hobetzen du.\n"
+	.string "Urduritasuna saihesten du.$"
 
 gText_AppealWorksWellIfConditionGood::
-	.string "The appeal works well if the\n"
-	.string "user's condition is good.$"
+	.string "Ondo funtzionatzen du erabiltzailearen\n"
+	.string "egoera ona baldin bada.$"
 
 gText_NextAppealMadeEarlier::
-	.string "The next appeal can be\n"
-	.string "made earlier next turn.$"
+	.string "Hurrengo txandako erakustaldia\n"
+	.string "lehenago egin daiteke.$"
 
 gText_NextAppealMadeLater::
-	.string "The next appeal can be\n"
-	.string "made later next turn.$"
+	.string "Hurrengo txandako erakustaldia\n"
+	.string "beranduago egin daiteke.$"
 
 gText_TurnOrderMoreEasilyScrambled::
-	.string "Makes the next turn's order\n"
-	.string "more easily scrambled.$"
+	.string "Hurrengo txandako ordena nahasteko\n"
+	.string "errazagoa bihurtzen da.$"
 
 gText_ScrambleOrderOfNextAppeals::
-	.string "Scrambles the order of\n"
-	.string "appeals on the next turn.$"
+	.string "Hurrengo txandako erakustaldien\n"
+	.string "ordena aldatzen du.$"
 
 gText_AppealExcitesAudienceInAnyContest::
-	.string "An appeal that excites the\n"
-	.string "audience in any CONTEST.$"
+	.string "Edozein TXAPELKETATAN publikoa\n"
+	.string "animatzen du.$"
 
 gText_BadlyStartlesMonsGoodAppeals::
-	.string "Badly startles all POKéMON\n"
-	.string "that made good appeals.$"
+	.string "Erakustaldi ona egin duten POKéMON\n"
+	.string "guztiak asko ikaratzen ditu.$"
 
 gText_AppealBestMoreCrowdExcited::
-	.string "The appeal works best the\n"
-	.string "more the crowd is excited.$"
+	.string "Hobe funtzionatzen du publikoa\n"
+	.string "animatuta baldin badago.$"
 
 gText_TemporarilyStopCrowdExcited::
-	.string "Temporarily stops the\n"
-	.string "crowd from growing excited.$"
+	.string "Tarte batean ez dio publikoari\n"
+	.string "animatzen uzten.$"
 
 @ Unused move names
 
 gText_RainDance::
-	.string "RAIN DANCE$"
+	.string "EURI DANTZA$"
 
 gText_Rage::
-	.string "RAGE$"
+	.string "AMORRUA$"
 
 gText_FocusEnergy::
-	.string "FOCUS ENERGY$"
+	.string "ENERGIA FOKUA$"
 
 gText_Hypnosis::
-	.string "HYPNOSIS$"
+	.string "HIPNOSIA$"
 
 gText_Softboiled::
-	.string "SOFTBOILED$"
+	.string "AMORTIGUATZAILEA$"
 
 gText_HornAttack::
-	.string "HORN ATTACK$"
+	.string "ADAR ERASOA$"
 
 gText_SwordsDance::
-	.string "SWORDS DANCE$"
+	.string "EZPATA DANTZA$"
 
 gText_Conversion::
-	.string "CONVERSION$"
+	.string "BIHURTZEA$"
 
 gText_SunnyDay::
-	.string "SUNNY DAY$"
+	.string "EGUN EGUZKITSUA$"
 
 gText_Rest2::
-	.string "REST$"
+	.string "ATSEDENA$"
 
 gText_Vicegrip::
-	.string "VICEGRIP$"
+	.string "HELTZEA$"
 
 gText_DefenseCurl::
-	.string "DEFENSE CURL$"
+	.string "DEFENTSA KIRRUA$"
 
 gText_LockOn::
-	.string "LOCK-ON$"
+	.string "ITUA FINKATU$"
 
 @ Contest type names
 
 gContestMoveTypeCoolText::
-	.string "COOL$"
+	.string "KARISMA$"
 
 gContestMoveTypeBeautyText::
-	.string "BEAUTY$"
+	.string "EDERTASUNA$"
 
 gContestMoveTypeCuteText::
-	.string "CUTE$"
+	.string "POLITA$"
 
 gContestMoveTypeSmartText::
-	.string "SMART$"
+	.string "AZKARRA$"
 
 gContestMoveTypeToughText::
-	.string "TOUGH$"
+	.string "GOGORRA$"
 
 gText_AppealNumWhichMoveWillBePlayed::
-	.string "Appeal no. {STR_VAR_1}!\n"
-	.string "Which move will be played?$"
+	.string "{STR_VAR_1}. erakustaldia!\n"
+	.string "Zein eraso erabiliko da?$"
 
 gText_AppealNumButItCantParticipate::
-	.string "Appeal no. {STR_VAR_1}!\n"
-	.string "But it can't participate!$"
+	.string "{STR_VAR_1}. erakustaldia!\n"
+	.string "Baina ezin du parte hartu!$"
 
 gText_MonAppealedWithMove::
-	.string "{STR_VAR_1} appealed with\n"
-	.string "{STR_VAR_2}!$"
+	.string "{STR_VAR_1}(e)k {STR_VAR_2}\n"
+	.string "erabili du!$"
 
 gText_MonWasWatchingOthers::
-	.string "{STR_VAR_1} was watching\n"
-	.string "the others.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1} besteei begira\n"
+	.string "zegoen.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AllOutOfAppealTime::
-	.string "We're all out of\n"
-	.string "Appeal Time!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Erakustaldientzat denbora\n"
+	.string "gabe geratu gara!{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 @ Unused appeal result texts
 
 gText_ButAppealWasJammed::
-	.string "But the appeal was\n"
-	.string "jammed.$"
+	.string "Baina erakustaldia\n"
+	.string "eten egin da.$"
 
 gText_FollowedAnotherMonsLead::
-	.string "It followed another\n"
-	.string "POKéMON's lead.$"
+	.string "Beste POKéMON bati\n"
+	.string "jarraitu dio.$"
 
 gText_ButItMessedUp::
-	.string "But it messed up.$"
+	.string "Baina nahastu egin zen.$"
 
 gText_WentBetterThanUsual::
-	.string "It went better than\n"
-	.string "usual.$"
+	.string "Ohi baino hobeto joan\n"
+	.string "da.$"
 
 gText_JudgeLookedAwayForSomeReason::
-	.string "The JUDGE looked away\n"
-	.string "for some reason.$"
+	.string "EPAILEAK beste alde batera\n"
+	.string "begiratu du zeozerengatik.$"
 
 gText_WorkedHardToBuildOnPastMistakes::
-	.string "It worked hard to build on\n"
-	.string "past mistakes.$"
+	.string "Lan handia egin du lehengo\n"
+	.string "akatsetatik ikasteko.$"
 
 gText_CantMakeAnyMoreMoves::
-	.string "It can't make any more\n"
-	.string "moves.$"
+	.string "Ezin du eraso gehiago\n"
+	.string "erabili.$"
 
 gText_WorkedFrighteninglyWell::
-	.string "It worked frighteningly\n"
-	.string "well.$"
+	.string "Izugarri ondo funtzionatu\n"
+	.string "du.$"
 
 gText_WorkedHardAsStandoutMon::
-	.string "It worked as hard as the\n"
-	.string "standout POKéMON.$"
+	.string "POKéMON esanguratsuenak bezain\n"
+	.string "gogor egin du lan.$"
 
 gText_JudgedLookedOnExpectantly::
-	.string "The JUDGE looked on\n"
-	.string "expectantly.$"
+	.string "EPAILEAK adi-adi begiratu\n"
+	.string "du.$"
 
 gText_WorkedRatherWell::
-	.string "It worked rather well.$"
+	.string "Nahiko ondo funtzionatu du.$"
 
 gText_WorkedLittleBetterThanUsual::
-	.string "It worked a little better\n"
-	.string "than usual.$"
+	.string "Normalean baino hobeto\n"
+	.string "funtzionatu du.$"
 
 @ Round result texts
 
 gText_MonFailedToStandOutAtAll::
-	.string "{STR_VAR_1} failed to\n"
-	.string "stand out at all…{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} ez du lortu\n"
+	.string "inolako atentziorik ematerik…{PAUSE_UNTIL_PRESS}$"
 
 gText_MonDidntStandOutVeryMuch::
-	.string "{STR_VAR_1} didn't stand\n"
-	.string "out very much…{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} ez du lortu\n"
+	.string "atentzio gehiegi ematerik…{PAUSE_UNTIL_PRESS}$"
 
 gText_MonCaughtALittleAttention::
-	.string "{STR_VAR_1} caught a\n"
-	.string "little attention.{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} atentzio pixka\n"
+	.string "bat eman du.{PAUSE_UNTIL_PRESS}$"
 
 gText_MonAttractedALotOfAttention::
-	.string "{STR_VAR_1} attracted a\n"
-	.string "lot of attention.{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} atentzio asko\n"
+	.string "eman du.{PAUSE_UNTIL_PRESS}$"
 
 gText_MonCommandedTotalAttention::
-	.string "{STR_VAR_1} commanded\n"
-	.string "total attention.{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} atentzioa eman\n"
+	.string "du guztiz.{PAUSE_UNTIL_PRESS}$"
 
 gText_MonHasntMadeItsAppeal::
-	.string "{STR_VAR_1} hasn't made\n"
-	.string "its appeal.{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} ez du bere\n"
+	.string "erakustaldia egin.{PAUSE_UNTIL_PRESS}$"
 
 @ Unused
 gText_AnticipationSwelledForMonsAppealNext2::
-	.string "Anticipation swelled for\n"
-	.string "{STR_VAR_1}'s appeal next.$"
+	.string "Ikusleak {STR_VAR_1} ikusteko\n"
+	.string "gogo handiz daude.$"
 
 gText_EmptyContestString::
 	.string "$"
 
 gText_JudgesViewsOnMonHeldFirm::
-	.string "The JUDGE 's views on\n"
-	.string "{STR_VAR_1} held firm.$"
+	.string "EPAILEAK {STR_VAR_1}(r)engan\n"
+	.string "zuen iritzia mantendu da.$"
 
 gText_MonsXChangedPerceptions::
-	.string "{STR_VAR_1}'s {STR_VAR_3}\n"
-	.string "changed perceptions.$"
+	.string "{STR_VAR_1}(r)en {STR_VAR_3}ek\n"
+	.string "iritziak aldatu ditu.$"
 
 gText_MonsAppealEffectWoreOff::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "effect wore off.$"
+	.string "{STR_VAR_1}(r)en efektua\n"
+	.string "agortu egin da.$"
 
 gText_SpecialAppealsEffectWoreOff::
-	.string "The special appeal's\n"
-	.string "effect wore off.$"
+	.string "Efektu berezia\n"
+	.string "agortu egin da.$"
 
 gText_EveryonesAppealsMadeToLookSame::
-	.string "Everyone's appeals were\n"
-	.string "made to look the same.$"
+	.string "Guztien erakustaldiek itxura\n"
+	.string "berdina izan dute.$"
 
 gText_CheapenedMonsAppeal::
-	.string "It cheapened\n"
-	.string "{STR_VAR_2}'s appeal.$"
+	.string "{STR_VAR_2}(r)en erakustaldia\n"
+	.string "kaskartu egin da.$"
 
 gText_CheapenedAppealOfThoseAhead::
-	.string "It cheapened the appeal\n"
-	.string "of those ahead.$"
+	.string "Ondorengoen erakustaldiak\n"
+	.string "kaskartu egin dira.$"
 
 gText_StoleAttentionAwayFromMon::
-	.string "It stole attention away\n"
-	.string "from {STR_VAR_2}.$"
+	.string "Atentzioa lapurtu dio\n"
+	.string "{STR_VAR_2}(e)ri.$"
 
 gText_CheapenedMonsAppeal2::
-	.string "It cheapened\n"
-	.string "{STR_VAR_2}'s appeal.$"
+	.string "{STR_VAR_2}(r)en erakustaldia\n"
+	.string "kaskartu egin da.$"
 
 gText_SeverelyCheapenedOtherAppeals::
-	.string "It severely cheapened\n"
-	.string "other appeals.$"
+	.string "Beste erakustaldiak asko\n"
+	.string "kaskartu ditu.$"
 
 gText_AnticipationSwelledForMonsAppealNext::
-	.string "Anticipation swelled for\n"
-	.string "{STR_VAR_1}'s appeal next.$"
+	.string "{STR_VAR_1} ikusteko gogoa\n"
+	.string "handitu egin da.$"
 
 gText_CheapenedAppealOfThoseAhead2::
-	.string "It cheapened the appeal\n"
-	.string "of those ahead.$"
+	.string "Ondorengoen erakustaldiak\n"
+	.string "kaskartu egin dira.$"
 
 gText_CheapenedJudgesFavoriteAppeal::
-	.string "It cheapened the JUDGE's\n"
-	.string "favorite appeal.$"
+	.string "EPAILEAREN erakustaldi\n"
+	.string "begikoena kaskartu du.$"
 
 gText_AppealsOfOthersCheapenedByHalf::
-	.string "The appeals of others\n"
-	.string "were cheapened by half.$"
+	.string "Besteen erakustaldiak\n"
+	.string "erdira kaskartu ditu.$"
 
 gText_StoodOutToMakeUpForBeingJammed::
-	.string "It stood out to make up\n"
-	.string "for being jammed.$"
+	.string "Erakustaldia eten egin dela\n"
+	.string "konpontzeko asko nabaritu da.$"
 
 gText_CantParticipateInAppealsAnyMore::
-	.string "It can't participate in\n"
-	.string "appeals any more.$"
+	.string "Ezin du erakustaldietan\n"
+	.string "gehiago parte hartu.$"
 
 gText_TouchedJudgeForFantasticAppeal::
-	.string "It touched the JUDGE for\n"
-	.string "a fantastic appeal.$"
+	.string "EPAILEA hunkitu egin du\n"
+	.string "erakustaldi itzela eginda.$"
 
 gText_AnticipationRoseForUpcomingAppeals::
-	.string "Anticipation rose for\n"
-	.string "upcoming appeals.$"
+	.string "Hurrengo erakustaldiak ikusteko\n"
+	.string "gogoa handitu da.$"
 
 gText_StoodOutAsMuchAsSpecialAppeals::
-	.string "It stood out as much as\n"
-	.string "special appeals.$"
+	.string "Erakustaldi bereziek bezain\n"
+	.string "ondo funtzionatu du.$"
 
 gText_StoodOutAsMuchAsMon::
-	.string "It stood out as much as\n"
-	.string "{STR_VAR_1}.$"
+	.string "{STR_VAR_1}(e)k bezain\n"
+	.string "ondo funtzionatu du.$"
 
 gText_JammedAppealsMadeEvenLessNoticeable::
-	.string "Jammed appeals were made\n"
-	.string "even less noticeable.$"
+	.string "Etendako erakustaldiak are\n"
+	.string "kaskarragoak bihurtu dira.$"
 
 gText_EveryonesAppealsMadeSame::
-	.string "Everyone's appeals were\n"
-	.string "made the same.$"
+	.string "Guztien erakustaldiek itxura\n"
+	.string "berdina izan dute.$"
 
 @ Appeal result texts
 
 gText_BecameMoreConsciousOfOtherMons::
-	.string "It became more conscious\n"
-	.string "of the other POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Beste POKéMONen presentzia\n"
+	.string "areago nabaritu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonCantMakeAnAppealAfterThis::
-	.string "{STR_VAR_1} can't make an\n"
-	.string "appeal after this.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(e)k ezingo du beste\n"
+	.string "erakustaldi bat egin honen ostean.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_SettledDownJustLittleBit::
-	.string "It settled down just a\n"
-	.string "little bit.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Pixka bat lasaitu\n"
+	.string "da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_BecameObliviousToOtherMons::
-	.string "It became oblivious to\n"
-	.string "the other POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Beste POKéMONak hor zeudela\n"
+	.string "ahaztu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_BecameLessAwareOfOtherMons::
-	.string "It became less aware of\n"
-	.string "the other POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Beste POKéMONen presentzia\n"
+	.string "pixka bat gutxitu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StoppedCaringAboutOtherMons::
-	.string "It stopped caring about\n"
-	.string "other POKéMON much.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ez zaizkio jada beste\n"
+	.string "POKéMONak horrenbeste axola.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToStartleOtherMons::
-	.string "It tried to startle the\n"
-	.string "other POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Beste POKéMONak ikaratzen\n"
+	.string "saiatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToDazzleOthers::
-	.string "It tried to dazzle the\n"
-	.string "others.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Besteak itsutzen saiatu\n"
+	.string "da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_JudgeLookedAwayFromMon::
-	.string "The JUDGE looked away\n"
-	.string "from {STR_VAR_1}.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "EPAILEAK beste alde batera\n"
+	.string "begiratu du, ez {STR_VAR_1}(e)ri.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToUnnerveNextMon::
-	.string "It tried to unnerve the\n"
-	.string "next POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Hurrengo POKéMONa urduritzen\n"
+	.string "saiatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonBecameNervous::
-	.string "{STR_VAR_1} became\n"
-	.string "nervous.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1} urduri jarri\n"
+	.string "da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_AppealTriedToUnnerveWaitingMons::
-	.string "The appeal tried to\n"
-	.string "unnerve waiting POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Itxaroten ari diren POKéMONak\n"
+	.string "urduritzen saiatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TauntedMonsDoingWell::
-	.string "It taunted POKéMON\n"
-	.string "doing well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ondo zihoazen POKéMONei\n"
+	.string "burla egin die.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonRegainedItsForm::
-	.string "{STR_VAR_1} regained its\n"
-	.string "form.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1} berriro sasoi\n"
+	.string "onera bueltatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToJamMonDoingWell::
-	.string "It tried to jam POKéMON\n"
-	.string "doing well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ondo zihoazen POKéMONak\n"
+	.string "eteten saiatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StandoutMonHustledEvenMore::
-	.string "The standout {STR_VAR_1}\n"
-	.string "hustled even more.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Nabarmentzen ari zen {STR_VAR_1}\n"
+	.string "are gehiago ahalegindu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_LargelyUnnoticedMonWorkedHard::
-	.string "The largely unnoticed\n"
-	.string "{STR_VAR_1} worked hard.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Nabarmentzen ari ez zen {STR_VAR_1}\n"
+	.string "asko ahalegindu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_WorkedAsMuchAsMonBefore::
-	.string "It worked as much as\n"
-	.string "POKéMON before it.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Bere aurreko POKéMONek bezain\n"
+	.string "ondo funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotGoWell::
-	.string "{STR_VAR_1}'s appeal did\n"
-	.string "not go well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "ez du ondo funtzionatu.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_WorkedAsMuchAsPrecedingMon::
-	.string "It worked as much as the\n"
-	.string "preceding POKéMON.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Aurreko POKéMONak bezain\n"
+	.string "ondo funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotGoWell2::
-	.string "{STR_VAR_1}'s appeal did\n"
-	.string "not go well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "ez du ondo funtzionatu.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotGoWell3::
-	.string "{STR_VAR_1}'s appeal did\n"
-	.string "not go well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "ez du ondo funtzionatu.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentSlightlyWell::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went slightly well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "nahiko ondo funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentPrettyWell::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went pretty well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldia\n"
+	.string "nahiko ondo joan da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentExcellently::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went excellently.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "bikain funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWasDud::
-	.string "{STR_VAR_1}'s appeal was\n"
-	.string "a dud.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "huts egin du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotWorkVeryWell::
-	.string "{STR_VAR_1}'s appeal did\n"
-	.string "not work very well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "ez du oso ondo funtzionatu.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentSlightlyWell2::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went slightly well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "nahiko ondo funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentPrettyWell2::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went pretty well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldia\n"
+	.string "nahiko ondo joan da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentVeryWell::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went very well.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "oso ondo funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealWentExcellently2::
-	.string "{STR_VAR_1}'s appeal\n"
-	.string "went excellently.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en erakustaldiak\n"
+	.string "bikain funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_SameTypeAsOneBeforeGood::
-	.string "It's the same type as the\n"
-	.string "POKéMON before--good!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Aurreko POKéMONaren mota\n"
+	.string "berdinekoa izan da. Ondo!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_NotSameTypeAsOneBeforeGood::
-	.string "It's not the same type as\n"
-	.string "the one before--good!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ez da aurrekoaren mota\n"
+	.string "berdinekoa. Ondo!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StoodOutMuchMoreThanMonBefore::
-	.string "It stood out much more\n"
-	.string "than the POKéMON before.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Aurreko POKéMONak baino\n"
+	.string "askoz itxura hobea izan du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_DidntDoAsWellAsMonBefore::
-	.string "It didn't do as well as the\n"
-	.string "POKéMON before.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Ez du aurreko POKéMONak\n"
+	.string "bezain ondo egin.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsConditionRoseAboveUsual::
-	.string "{STR_VAR_1}'s condition\n"
-	.string "rose above usual.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en egoera\n"
+	.string "normalean baino hobe dago.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsHotStatusMadeGreatAppeal::
-	.string "{STR_VAR_1}'s hot status\n"
-	.string "made it a great appeal!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "{STR_VAR_1}(r)en egoera onari\n"
+	.string "esker, erakustaldi bikaina izan da!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MovedUpInLineForNextAppeal::
-	.string "It moved up in line for\n"
-	.string "the next appeal.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Posizio bat aurreratu da\n"
+	.string "hurrengo txandarako.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MovedBackInLineForNextAppeal::
-	.string "It moved back in line once\n"
-	.string "for the next appeal.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Posizio bat atzeratu da\n"
+	.string "hurrengo txandarako.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_ScrambledUpOrderForNextTurn::
-	.string "It scrambled up the\n"
-	.string "order for the next turn.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "Hurrengo txandako ordena\n"
+	.string "nahastu egin da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_JudgeLookedAtMonExpectantly::
-	.string "The JUDGE looked at\n"
-	.string "{STR_VAR_1} expectantly.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "EPAILEAK irrikaz begiratu\n"
+	.string "dio {STR_VAR_1}(e)ri.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AppealComboWentOverWell::
-	.string "The appeal combo went\n"
-	.string "over well.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Erakustaldi konboak\n"
+	.string "ondo funtzionatu du.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AppealComboWentOverVeryWell::
-	.string "The appeal combo went\n"
-	.string "over very well.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Erakustaldi konboak\n"
+	.string "oso ondo funtzionatu du.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AppealComboWentOverExcellently::
-	.string "The appeal combo went\n"
-	.string "over excellently.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Erakustaldi konboak\n"
+	.string "bikain funtzionatu du.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonManagedToAvertGaze::
-	.string "{STR_VAR_1} managed to\n"
-	.string "avert its gaze.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(e)k beste aldera\n"
+	.string "begiratzea lortu du.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonManagedToAvoidSeeingIt::
-	.string "{STR_VAR_1} managed to\n"
-	.string "avoid seeing it.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(e)k ez ikustea\n"
+	.string "lortu du.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonIsntFazedByThatSortOfThing::
-	.string "{STR_VAR_1} isn't fazed\n"
-	.string "by that sort of thing.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1} ez da horrelako\n"
+	.string "gauzekin asaldatzen.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonBecameALittleDistracted::
-	.string "{STR_VAR_1} became a\n"
-	.string "little distracted.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1} pixka bat\n"
+	.string "distraitu egin da.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_TriedToStartleOtherPokemon::
-	.string "It tried to startle the\n"
-	.string "other POKéMON.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Beste POKéMONak ikaratzen\n"
+	.string "saiatu da.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonLookedDownOutOfDistraction::
-	.string "{STR_VAR_1} looked down\n"
-	.string "out of distraction.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(e)k behera begiratu\n"
+	.string "du, distraituta.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonTurnedBackOutOfDistraction::
-	.string "{STR_VAR_1} turned back\n"
-	.string "out of distraction.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(e)k buelta eman\n"
+	.string "du, distraituta.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonCouldntHelpUtteringCry::
-	.string "{STR_VAR_1} couldn't help\n"
-	.string "uttering a cry.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(e)k ezin izan dio\n"
+	.string "eutsi negarrari.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonCouldntHelpLeapingUp::
-	.string "{STR_VAR_1} couldn't help\n"
-	.string "leaping up.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(e)k ezin izan dio\n"
+	.string "eutsi jauzi egiteari.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonTrippedOutOfDistraction::
-	.string "{STR_VAR_1} tripped over\n"
-	.string "out of distraction.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(e)k estropezu egin\n"
+	.string "du, distraituta.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonWasTooNervousToMove::
-	.string "{STR_VAR_1} was too\n"
-	.string "nervous to move.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1} urduriegi dago\n"
+	.string "mugitzeko.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_ButItMessedUp2::
-	.string "But it messed up.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Baina nahastu egin zen.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_ButItFailedToMakeTargetNervous::
-	.string "But it failed to make\n"
-	.string "the target nervous.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Baina ez du lortu helburua\n"
+	.string "urduri jartzea.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_ButItFailedToMakeAnyoneNervous::
-	.string "But it failed to make\n"
-	.string "anyone nervous.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Baina ez du lortu inor\n"
+	.string "urduri jartzea.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_ButItWasIgnored::
-	.string "But it was ignored…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Baina ez diote kasurik egin…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_CouldntImproveItsCondition::
-	.string "But it couldn't improve\n"
-	.string "its condition…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Baina ez du lortu bere\n"
+	.string "egoera hobetzea…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_BadConditionResultedInWeakAppeal::
-	.string "Its bad condition\n"
-	.string "resulted in a weak appeal.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Bere egoera eskasarengatik\n"
+	.string "erakustaldi kaskarra egin du.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonWasUnaffected::
-	.string "{STR_VAR_1} was\n"
-	.string "unaffected.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(e)ri ez dio\n"
+	.string "eragin.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_RepeatedAppeal::
-	.string "{STR_VAR_1} disappointed\n"
-	.string "by repeating an appeal.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(e)k gaizki egin\n"
+	.string "du erakustaldia errepikatuz.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonsXWentOverGreat::
-	.string "{STR_VAR_1}'s {STR_VAR_3}\n"
-	.string "went over great.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(r)en {STR_VAR_3}\n"
+	.string "ederki joan da.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonsXDidntGoOverWell::
-	.string "{STR_VAR_1}'s {STR_VAR_3}\n"
-	.string "didn't go over well here…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(r)en {STR_VAR_3}\n"
+	.string "ez da oso ondo joan…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonsXGotTheCrowdGoing::
-	.string "{STR_VAR_1}'s {STR_VAR_3}\n"
-	.string "got the crowd going.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1}(r)en {STR_VAR_3}(e)k\n"
+	.string "publikoa animatu du.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonCantAppealNextTurn::
-	.string "{STR_VAR_1} can't appeal\n"
-	.string "next turn…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "{STR_VAR_1} ezingo da hurrengo\n"
+	.string "txandan aritu…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_AttractedCrowdsAttention::
-	.string "It attracted the crowd's\n"
-	.string "attention.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Publikoaren atentzioa\n"
+	.string "eman du.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_CrowdContinuesToWatchMon::
-	.string "The crowd continues to\n"
-	.string "watch {STR_VAR_3}.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Publikoak {STR_VAR_3}(e)ri\n"
+	.string "begira jarraitzen du.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonsMoveIsIgnored::
-	.string "{STR_VAR_1}'s\n"
-	.string "{STR_VAR_2} is ignored.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
+	.string "Ez diote kasurik egin\n"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}(e)ri.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_Contest_Shyness::
-	.string "shyness$"
+	.string "lotsa$"
 
 gText_Contest_Anxiety::
-	.string "anxiety$"
+	.string "antsietatea$"
 
 gText_Contest_Laziness::
-	.string "laziness$"
+	.string "alferkeria$"
 
 gText_Contest_Hesitancy::
-	.string "hesitancy$"
+	.string "zalantza$"
 
 gText_Contest_Fear::
-	.string "fear$"
+	.string "ikara$"
 
 gText_Contest_Coolness::
-	.string "coolness$"
+	.string "karisma$"
 
 gText_Contest_Beauty::
-	.string "beauty$"
+	.string "edertasua$"
 
 gText_Contest_Cuteness::
-	.string "cuteness$"
+	.string "polita$"
 
 gText_Contest_Smartness::
-	.string "smartness$"
+	.string "argitasuna$"
 
 gText_Contest_Toughness::
-	.string "toughness$"
+	.string "gogortasuna$"
 
 @ Unused
 gText_Tension::
-	.string "TENSION$"
+	.string "TENTSIOA$"
 
 gText_CoolMove::
-	.string "COOL Move$"
+	.string "Eraso KARISMADUNA$"
 
 gText_BeautyMove::
-	.string "BEAUTY Move$"
+	.string "Eraso EDERRA$"
 
 gText_CuteMove::
-	.string "CUTE Move$"
+	.string "Eraso POLITA$"
 
 gText_SmartMove::
-	.string "SMART Move$"
+	.string "Eraso AZKARRA$"
 
 gText_ToughMove::
-	.string "TOUGH Move$"
+	.string "Eraso GOGORRA$"
 
 gText_3QuestionMarks::
 	.string "???$"

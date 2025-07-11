@@ -8,7 +8,7 @@ EventTicket_Text_OldSeaMapTooFar:
 	.string "Nik ezin di(n)at lagundu hiri ba…$"
 
 EventTicket_Text_BrineyHoldOnASecond:
-	.string "BRINEY: Momentu bat!\p"
+	.string "SARDINZAR: Momentu bat!\p"
 	.string "Nola esan diozu ezeztz horrenbeste\n"
 	.string "zor diodan bati?$"
 
@@ -32,7 +32,7 @@ EventTicket_Text_OddTicketGetOnBoard:
 	.string "Igo ontzira, gazte!$"
 
 FarawayIsland_Entrance_Text_SailorReturn:
-	.string "BRINEY oso aldakorra da, erotu\n"
+	.string "SARDINZAR oso aldakorra da, erotu\n"
 	.string "egiten nau askotan…\p"
 	.string "UR-LILIRA bueltatu nahi al duzu?$"
 

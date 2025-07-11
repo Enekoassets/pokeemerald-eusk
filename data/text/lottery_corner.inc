@@ -1,77 +1,77 @@
 LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
-	.string "This is the POKéMON LOTTERY CORNER.\p"
-	.string "All shoppers at our DEPARTMENT STORE\n"
-	.string "get to draw a POKéMON LOTO TICKET.\p"
-	.string "If the LOTO TICKET's number matches\n"
-	.string "the ID number of any of your POKéMON,\l"
-	.string "you will receive a fabulous gift.\p"
-	.string "Would you like to draw a POKéMON\n"
-	.string "LOTO TICKET?$"
+	.string "Hau POKéMON LOTERIA TXOKOA da.\p"
+	.string "Gure SALTOKIGUNEKO bezeroek POKéMON\n"
+	.string "LOTERIAKO TIKET bat atera dezakete.\p"
+	.string "LOTERIAKO TIKETEKO zenbakiak zure\n"
+	.string "edozein POKéMONen ID berdina badu,\l"
+	.string "opari izugarri bat jasoko duzu.\p"
+	.string "Nahi duzu POKéMON LOTERIAKO TIKET\n"
+	.string "bat atera?$"
 
 LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
-	.string "Please come back tomorrow.$"
+	.string "Itzuli bihar, mesedez.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "Berriz etorriko zarela espero dugu.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
-	.string "Please pick a LOTO TICKET.\n"
+	.string "Mesedez aukeratu LOTERIAKO TIKET Bat.\n"
 	.string "…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait:
-	.string "The LOTO TICKET number is {STR_VAR_1}.\p"
-	.string "I need to run a check on this number\n"
-	.string "to see if it matches any of your\l"
-	.string "POKéMON's ID numbers. Please wait.$"
+	.string "LOTERIAKO TIKETAREN zenbakia {STR_VAR_1} da.\p"
+	.string "Zure POKéMONen baten IDaren berdina\n"
+	.string "den begiratzeko momentu bat behar\l"
+	.string "dut. Itxaron, mesedez.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPartyMon:
-	.string "Congratulations!\p"
-	.string "The ID number of your team's\n"
-	.string "{STR_VAR_1} matches your\l"
-	.string "LOTO TICKET's number!$"
+	.string "Zorionak!\p"
+	.string "Zure taldeko {STR_VAR_1} POKéMONak\n"
+	.string "LOTERIAKO TIKETEKO zenbakiaren\l"
+	.string "ID berdina dauka!$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPCMon:
-	.string "Congratulations!\p"
-	.string "The ID number of your PC-boxed\n"
-	.string "{STR_VAR_1} matches your\l"
-	.string "LOTO TICKET's number!$"
+	.string "Zorionak!\p"
+	.string "Zure ordenagailuko {STR_VAR_1} POKéMONak\n"
+	.string "LOTERIAKO TIKETEKO zenbakiaren\l"
+	.string "ID berdina dauka!$"
 
 LilycoveCity_DepartmentStore_1F_Text_NoNumbersMatched:
-	.string "I'm sorry.\n"
-	.string "None of the numbers matched.$"
+	.string "Sentitzen dut.\n"
+	.string "Zenbakiak ez du bat egin.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TwoDigitsMatched:
-	.string "Two digits matched, so you win the\n"
-	.string "third prize!\l"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Bi digituk bat egin dute,\n"
+	.string "hirugarren saria lortu duzu!\l"
+	.string "{STR_VAR_1} bat irabazi duzu!$"
 
 LilycoveCity_DepartmentStore_1F_Text_ThreeDigitsMatched:
-	.string "Three digits matched, so you win the\n"
-	.string "second prize!\l"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Hiru digituk bat egin dute,\n"
+	.string "bigarren saria lortu duzu!\l"
+	.string "{STR_VAR_1} bat irabazi duzu!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FourDigitsMatched:
-	.string "Four digits matched, so you win the\n"
-	.string "first prize!\l"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Lau digituk bat egin dute,\n"
+	.string "lehenengo saria lortu duzu!\l"
+	.string "{STR_VAR_1} bat irabazi duzu!$"
 
 LilycoveCity_DepartmentStore_1F_Text_AllFiveDigitsMatched:
-	.string "Oh, my goodness, all five digits\n"
-	.string "matched!\p"
-	.string "You've won the jackpot prize!\n"
-	.string "You've won the {STR_VAR_1}!$"
+	.string "Jainko maitea, bost digituek\n"
+	.string "bat egin dute!\p"
+	.string "Sari nagusia irabazi duzu!\n"
+	.string "{STR_VAR_1} bat irabazi duzu!$"
 
 LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis:
-	.string "Oh?\n"
-	.string "You seem to have no room for this.\p"
-	.string "Please make room in your BAG and\n"
-	.string "let me know.$"
+	.string "Nola?\n"
+	.string "Badirudi ez duzula lekurik honentzat.\p"
+	.string "Mesedez, egin tokia POLTSAN eta itzuli\n"
+	.string "sariaren bila.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding:
 	.string "{PLAYER}?\n"
-	.string "Yes, I've been expecting you.\p"
-	.string "This is the prize we've been holding\n"
-	.string "for you.$"
+	.string "Bai, zure zain egon naiz.\p"
+	.string "Hementxe dago zuretzat gorde\n"
+	.string "dudan saria.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain2:
-	.string "Please do visit again.$"
+	.string "Berriz etorriko zarela espero dugu.$"
