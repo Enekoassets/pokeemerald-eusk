@@ -498,7 +498,7 @@ gText_ApprenticeRejectTeaching11::
 	.string "izan nire irakasle, mesedez!$"
 
 gText_ApprenticeWhichLevelMode11::
-	.string "Hori da itzela!\n"
+	.string "Hori bai itzela!\n"
 	.string "{PLAYER}, benetan onena zarela!\p"
 	.string "Hau da nire lehen galdera\n"
 	.string "zuk erantzute aldera!\p"

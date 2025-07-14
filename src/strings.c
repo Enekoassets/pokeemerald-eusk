@@ -1462,7 +1462,7 @@ ALIGNED(4) const u8 gText_FrontierFacilityFloorsCleared[] = _("Pasatako solairua
 ALIGNED(4) const u8 gText_123Dot[][3] = {_("1."), _("2."), _("3.")};
 
 const u8 gText_SavingDontTurnOff2[] = _("GORDETZEN…\nEZ ITZALI.");
-const u8 gText_BlenderMaxSpeedRecord[] = _("BAIA NAHASTAILEA\nABIADURA MAXIMOAREN ERREKORRA!");
+const u8 gText_BlenderMaxSpeedRecord[] = _("BAIA NAHASGAILUA\nABIADURA MAXIMOAREN ERREKORRA!");
 const u8 gText_234Players[] = _("2 JOKALARI\n3 JOKALARI\n4 JOKALARI");
 const u8 gText_YesNo[] = _("BAI\nEZ");
 const u8 gText_SelectorArrow3[] = _("▶");

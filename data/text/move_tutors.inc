@@ -25,213 +25,213 @@ MoveTutor_Text_SwaggerTaught:
 	.string "ditut, baina harrokeriarik gabe.$"
 
 MoveTutor_Text_RolloutTeach:
-	.string "Did you know that you can go from\n"
-	.string "here a long way in that direction\l"
-	.string "without changing direction?\p"
-	.string "I might even be able to roll\n"
-	.string "that way.\p"
-	.string "Do you think your POKéMON will\n"
-	.string "want to roll, too?\p"
-	.string "I can teach one the move ROLLOUT\n"
-	.string "if you'd like.$"
+	.string "Badakizu hemendik zuzen-zuzen\n"
+	.string "jarraituz oso urrurtira\l"
+	.string "iritsi zaitezkeela?\p"
+	.string "Uste dut lurretik biraka ere\n"
+	.string "egin nezakeela bidea.\p"
+	.string "Zure POKéMONek ere nahiko\n"
+	.string "lukete biratu, zure ustez?\p"
+	.string "Zure POKéMONetako bati JIRABIRA\n"
+	.string "erasoa erakutsi diezaioket.$"
 
 MoveTutor_Text_RolloutDeclined:
-	.string "You don't need to be shy about it.\n"
-	.string "Let's roll!$"
+	.string "Ez izan lotsarik, aizu.\n"
+	.string "Bira dezagun!$"
 
 MoveTutor_Text_RolloutWhichMon:
-	.string "Ehehe, sure thing! It'd be great if\n"
-	.string "the POKéMON looked like me.$"
+	.string "Kar-kar, noski! Itzela litzateke\n"
+	.string "POKéMONak nire antza balu.$"
 
 MoveTutor_Text_RolloutTaught:
-	.string "Rolling around in the grass makes me\n"
-	.string "happy. Come on, let's roll!$"
+	.string "Belarretan jira eta bira ibilita\n"
+	.string "zoriontsu naiz. Bira dezagun!$"
 
 MoveTutor_Text_FuryCutterTeach:
-	.string "There's a move that gets stronger\n"
-	.string "when you keep using it in a row.\p"
-	.string "It's a BUG-type move, and it is\n"
-	.string "wickedly cool.\p"
-	.string "It's called FURY CUTTER.\n"
-	.string "Want me to teach it to a POKéMON?$"
+	.string "Eraso bat ezagutzen dut, jarraian\n"
+	.string "erabiliz gero, are indartsuagoa.\p"
+	.string "ZOMORRO motako erasoa da, zinez\n"
+	.string "txundigarria.\p"
+	.string "SUMIN EBAKIAK izena du.\n"
+	.string "Nahi duzu POKéMON bati irakastea?$"
 
 MoveTutor_Text_FuryCutterDeclined:
-	.string "We're not on the same wavelength.$"
+	.string "Ez gara oso antzekoak, beraz.$"
 
 MoveTutor_Text_FuryCutterWhichMon:
-	.string "Yay!\n"
-	.string "Show me which POKéMON I should teach.$"
+	.string "Bai!\n"
+	.string "Zein POKéMONi erakutsiko diot.$"
 
 MoveTutor_Text_FuryCutterTaught:
-	.string "I get a thrill watching to see if\n"
-	.string "the move keeps hitting in succession!$"
+	.string "Zirrara itzela sortzen dit jarraian\n"
+	.string "kolpatuko duen edo ez ikusteak!$"
 
 MoveTutor_MimicTeach:
-	.string "Ah, young one!\p"
-	.string "I am also a young one, but I mimic\n"
-	.string "the styles and speech of the elderly\l"
-	.string "folks of this town.\p"
-	.string "What do you say, young one?\n"
-	.string "Would you agree to it if I were to\l"
-	.string "offer to teach the move MIMIC?$"
+	.string "Aizu, gazte!\p"
+	.string "Ni ere gaztea naiz izatez, baina\n"
+	.string "herri honetako jende zaharraren\l"
+	.string "hitz egiteko forma mimetizatu dut.\p"
+	.string "Zer diozu, gazte?\n"
+	.string "MIMETIKO erasoa erakutsi diezaioket\l"
+	.string "zure POKéMON bati. Nahi duzu?$"
 
 MoveTutor_MimicDeclined:
-	.string "Oh, boo! I wanted to teach MIMIC\n"
-	.string "to your POKéMON!$"
+	.string "Bah, aizu! Zure POKéMONei\n"
+	.string "MIMETIKOA soilik erakutsi nahi nien!$"
 
 MoveTutor_Text_MimicWhichMon:
-	.string "Fwofwo! And so I shall!\n"
-	.string "Let me see the POKéMON\l"
-	.string "you wish me to teach.$"
+	.string "Baibai! Hala bedi!\n"
+	.string "Erakutsi erasoa ikasiko\l"
+	.string "duen POKéMONa.$"
 
 MoveTutor_Text_MimicTaught:
-	.string "MIMIC is a move of great depth.\p"
-	.string "Could you execute it to perfection\n"
-	.string "as well as me…?$"
+	.string "MIMIKOA benetan eraso sakona da.\p"
+	.string "Gai izango al zinateke nik bezain\n"
+	.string "ondo egiteko…?$"
 
 MoveTutor_Text_MetronomeTeach:
-	.string "I want all sorts of things!\n"
-	.string "But I used up my allowance…\p"
-	.string "Wouldn't it be nice if there were\n"
-	.string "a spell that made money appear when\l"
-	.string "you waggle a finger?\p"
-	.string "If you want, I can teach your POKéMON\n"
-	.string "the move METRONOME.\p"
-	.string "Money won't appear, but your POKéMON\n"
-	.string "will waggle a finger. Yes?$"
+	.string "Era guztietako gauzak nahi ditut!\n"
+	.string "Baina diru-laguntza agortu zait…\p"
+	.string "Ez al litzateke zirraragarria\n"
+	.string "hatz bat mugitu eta dirua sortuko\l"
+	.string "lukeen aztikeria ezagutzea?\p"
+	.string "Nahi baduzu, zure POKéMON bati\n"
+	.string "METRONOMOA erasoa erakutsiko diot.\p"
+	.string "Dirua ez da agertuko, baina zure\n"
+	.string "POKéMONak hatz bat mugituko du, bai?$"
 
 MoveTutor_Text_MetronomeDeclined:
-	.string "Okay. I'll be here if you change\n"
-	.string "your mind.$"
+	.string "Ongi. Hemen egongo naiz iritzia\n"
+	.string "aldatzen baduzu.$"
 
 MoveTutor_Text_MetronomeWhichMon:
-	.string "Okay! I'll teach it!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "Ongi! Prest nago!\n"
+	.string "Zein POKéMONi erakutsiko diot?$"
 
 MoveTutor_Text_MetronomeTaught:
-	.string "When a POKéMON waggles its finger\n"
-	.string "like a METRONOME, all sorts of nice\l"
-	.string "things happen.\p"
-	.string "Wouldn't it be nice if we could\n"
-	.string "use it, too?$"
+	.string "POKéMON batek hatza METRONOMO\n"
+	.string "baten antzera mugitzean era askotako\l"
+	.string "gauzak gertatzen dira.\p"
+	.string "Guk erabili ahal izatea ere\n"
+	.string "bikaina litzateke, baietz?$"
 
 MoveTutor_Text_SleepTalkTeach:
-	.string "Humph! My wife relies on HIDDEN\n"
-	.string "POWER to stay awake.\p"
-	.string "She should just take a nap like I do,\n"
-	.string "and SLEEP TALK.\p"
-	.string "I can teach your POKéMON how to\n"
-	.string "SLEEP TALK instead. Interested?$"
+	.string "Humph! Nire emazteak BOTERE\n"
+	.string "EZKUTUA behar du esna egoteko.\p"
+	.string "NIk bezala siesta egin behar luke,\n"
+	.string "eta SOMNANBULU ibili.\p"
+	.string "Zure POKéMONei erakuts diezaieket\n"
+	.string "nola erabili SOMNANBULUA. Nahi duzu?$"
 
 MoveTutor_Text_SleepTalkDeclined:
-	.string "Oh, fine, fine. You want to stay awake\n"
-	.string "with HIDDEN POWER, too…$"
+	.string "Oh, ongi, ongi. Zuk ere esna egon\n"
+	.string "nahi duzu BOTERE EZKUTUAREKIN, beraz…$"
 
 MoveTutor_Text_SleepTalkWhichMon:
-	.string "Ah, an appreciative child!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "Gazte adeitsua zara, bai!\n"
+	.string "Zein POKéMONi erakutsiko diot?$"
 
 MoveTutor_Text_SleepTalkTaught:
-	.string "I've never once gotten my wife's\n"
-	.string "coin trick right.\p"
-	.string "I would be happy if I got it right\n"
-	.string "even as I SLEEP TALK…$"
+	.string "Nire emazteak txanponekin egiten\n"
+	.string "duen trukua ezin dut egin.\p"
+	.string "Gustatuko litzaidake ondo egitea,\n"
+	.string "nahiz eta SOMNANBULU gisan izan…$"
 
 MoveTutor_Text_SubstituteTeach:
-	.string "When I see the wide world from up\n"
-	.string "here on the roof…\p"
-	.string "I think about how nice it would be\n"
-	.string "if there were more than just one me\l"
-	.string "so I could enjoy all sorts of lives.\p"
-	.string "Of course it's not possible.\n"
-	.string "Giggle…\p"
-	.string "I know! Would you be interested in\n"
-	.string "having a POKéMON learn SUBSTITUTE?$"
+	.string "Hemen teilatu gainetik mundu zabala\n"
+	.string "ikusten dudanean…\p"
+	.string "Burura etortzen zait gorputz bakarra\n"
+	.string "baino gehiago izan nahi nituzkeela,\l"
+	.string "bizitza desberdinak bizitzeko.\p"
+	.string "Hori ez da posible, noski.\n"
+	.string "Jiji\p"
+	.string "Badakit! Nahi duzu POKéMON bati\n"
+	.string "ORDEZKOA erasoa erakustea?$"
 
 MoveTutor_Text_SubstituteDeclined:
-	.string "Oh, no?\p"
-	.string "A POKéMON can make a copy of\n"
-	.string "itself using it, you know.$"
+	.string "Ez, e?\p"
+	.string "Jakizu bada POKéMONak bere kopia\n"
+	.string "sortu dezakeela erasoarekin.$"
 
 MoveTutor_Text_SubstituteWhichMon:
-	.string "Giggle…\n"
-	.string "Which POKéMON do you want me to\l"
-	.string "teach SUBSTITUTE?$"
+	.string "Jiji…\n"
+	.string "Zein POKéMONi erakutsiko diot\l"
+	.string "ORDEZKOA?$"
 
 MoveTutor_Text_SubstituteTaught:
-	.string "We human beings should enjoy our\n"
-	.string "own lives to the utmost!\p"
-	.string "I hope you'll get that way, too!$"
+	.string "Gizakiok gure bizitzak topera\n"
+	.string "bizi behar ditugu!\p"
+	.string "Zuk ere hala biziko duzula espero dut!$"
 
 MoveTutor_Text_DynamicPunchTeach:
-	.string "I can't do this anymore!\p"
-	.string "It's utterly hopeless!\p"
-	.string "I'm a FIGHTING-type TRAINER,\n"
-	.string "so I can't win at the MOSSDEEP GYM\l"
-	.string "no matter how hard I try!\p"
-	.string "Argh! Punch! Punch! Punch!\n"
-	.string "Punch! Punch! Punch!\p"
-	.string "What, don't look at me that way!\n"
-	.string "I'm only hitting the ground!\p"
-	.string "Or do you want me to teach your\n"
-	.string "POKéMON DYNAMICPUNCH?$"
+	.string "Ezin dut gehiago!\p"
+	.string "Esperantza galdu dut!\p"
+	.string "BORROKA motako ENTRENATZAILEA naiz,\n"
+	.string "eta ezin dut GOROLDIKO GIMNASIOA\l"
+	.string "gainditu, gogoz saiatuta ere!\p"
+	.string "Argh! Dinbi! Danba! Dinbi!\n"
+	.string "Danba! Dinbi! Danba!\p"
+	.string "Zer, ez begiratu horrela niri!\n"
+	.string "Lurrari joka bakarrik nabil!\p"
+	.string "Edo nahiago duzu zure POKéMON\n"
+	.string "bati UKABIL DINAMIKOA erakustea?$"
 
 MoveTutor_Text_DynamicPunchDeclined:
-	.string "Darn! You're even making fun of me?\n"
-	.string "Punch! Punch! Punch!$"
+	.string "Kaka! Nitaz barrezka, ala?\n"
+	.string "Dinbi! Danba! Dinbi!$"
 
 MoveTutor_Text_DynamicPunchWhichMon:
-	.string "What? You do? You're a good person!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "Zer? Baietz? Zu bai pertsona ona!\n"
+	.string "Zein POKéMONi erakutsiko diot?$"
 
 MoveTutor_Text_DynamicPunchTaught:
-	.string "I want you to win at the MOSSDEEP GYM\n"
-	.string "using that DYNAMICPUNCH!$"
+	.string "Gainditu GOROLDIKO GIMNASIOA\n"
+	.string "UKABIL DINAMIKOA erabiliz!$"
 
 MoveTutor_Text_DoubleEdgeTeach:
-	.string "Sigh…\p"
-	.string "SOOTOPOLIS's GYM LEADER is really\n"
-	.string "lovably admirable.\p"
-	.string "But that also means I have many\n"
-	.string "rivals for his attention.\p"
-	.string "He's got appeal with a DOUBLE-EDGE.\n"
-	.string "I couldn't even catch his eye.\p"
-	.string "Please, let me teach your POKéMON\n"
-	.string "the move DOUBLE-EDGE!$"
+	.string "Aiii…\p"
+	.string "ARREZIPOLISEKO liderra benetan\n"
+	.string "xarmanta eta miragarria da.\p"
+	.string "Baina horrek esan nahi du gehiago\n"
+	.string "dabiltzala nork eman atentzioa hari.\p"
+	.string "AHO-BIKOITZEKO xarma du benetan.\n"
+	.string "Ez dit kasurik ere egin.\p"
+	.string "Mesedez, utzi zure POKéMON bati\n"
+	.string "AHO-BIKOITZA erakusten!$"
 
 MoveTutor_Text_DoubleEdgeDeclined:
-	.string "Oh…\n"
-	.string "Even you rejected me…$"
+	.string "Ene…\n"
+	.string "Zuk ere ezezkoa?$"
 
 MoveTutor_Text_DoubleEdgeWhichMon:
-	.string "Okay, which POKéMON should I teach\n"
-	.string "DOUBLE-EDGE?$"
+	.string "Ongi, zein POKéMONek ikasiko du\n"
+	.string "AHO-BIKOITZA?$"
 
 MoveTutor_Text_DoubleEdgeTaught:
-	.string "I won't live for love anymore!\n"
-	.string "I'll become tough!$"
+	.string "Maitasuna alde batera utziko dut!\n"
+	.string "Indartsu bihurtuko naiz!$"
 
 MoveTutor_Text_ExplosionTeach:
-	.string "I don't intend to be going nowhere\n"
-	.string "fast in the sticks like this forever.\p"
-	.string "You watch me, I'll get out to the city\n"
-	.string "and become a huge hit.\p"
-	.string "Seriously, I'm going to cause\n"
-	.string "a huge EXPLOSION of popularity!\p"
-	.string "If you overheard that, I'll happily\n"
-	.string "teach EXPLOSION to your POKéMON!$"
+	.string "Ezin dut jarraitu herri txiki\n"
+	.string "batean bizitzen.\p"
+	.string "Ikusiko duzu, hirira joango naiz\n"
+	.string "eta famatu bilakatuko naiz.\p"
+	.string "Benetan, nire ospea EZTANDA batez\n"
+	.string "lehertuko da, zin dagizut!\p"
+	.string "Entzun badidazu, zure POKéMON\n"
+	.string "bati EZTANDA erasoa erakusiko diot!$"
 
 MoveTutor_Text_ExplosionDeclined:
-	.string "Gaah! You're turning me down because\n"
-	.string "I live in the country?$"
+	.string "Eeeez! Ezetz esan didazu ez\n"
+	.string "naizelako hirian bizi, ezta?$"
 
 MoveTutor_Text_ExplosionWhichMon:
-	.string "Fine! An EXPLOSION it is!\n"
-	.string "Which POKéMON wants to blow up?$"
+	.string "Ondo! EZTANDA bat, beraz!\n"
+	.string "Zein POKéMONek nahi du lehertu?$"
 
 MoveTutor_Text_ExplosionTaught:
-	.string "For a long time, I've taught POKéMON\n"
-	.string "how to use EXPLOSION, but I've yet\l"
-	.string "to ignite my own EXPLOSION…\p"
-	.string "Maybe it's because deep down,\n"
-	.string "I would rather stay here…$"
+	.string "Denbora luzean, POKéMONei erakusi\n"
+	.string "diet EZTANDA erabiltzen, baina\l"
+	.string "nik oraindik ez dut EZTANDA egin…\p"
+	.string "Izan daiteke, izatez, hemen\n"
+	.string "bizitzen jarraitu nahi dudala…$"
