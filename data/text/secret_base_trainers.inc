@@ -1,286 +1,286 @@
 SecretBase_Text_Trainer0Intro:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Since you're already here, how would\n"
-	.string "you like to battle?$"
+	.string "Egin al duzu jada BASE SEKRETURIK?\p"
+	.string "Ni leku bila ibili naiz toki guztietan\n"
+	.string "leku hau aukeratu aurretik.\p"
+	.string "Aizu, hemen zaudenez, nahi al\n"
+	.string "duzu borrokatu?$"
 
 SecretBase_Text_Trainer0AcceptBattle:
-	.string "Okay!\n"
-	.string "Here we come!$"
+	.string "Ongi!\n"
+	.string "Goazen, ba!$"
 
 SecretBase_Text_Trainer0DeclineBattle:
-	.string "Hunh?\n"
-	.string "Oh, you can't now…$"
+	.string "Zer?\n"
+	.string "Ah, ezin duzu orain…$"
 
 SecretBase_Text_Trainer0Defeated::
-	.string "Waaargh! You're too strong!\n"
-	.string "About me losing… Please keep it secret!$"
+	.string "Aaarg! Indartsuegia zara!\n"
+	.string "Mesedez… Ez esan inori galdu egin dudala!$"
 
 SecretBase_Text_Trainer0PostBattle:
-	.string "What do you think of my SECRET BASE?\n"
-	.string "Come visit me again tomorrow.$"
+	.string "Zer iruditzen zaizu nire BASE SEKRETUA?\n"
+	.string "Etorri bihar bisitan.$"
 
 SecretBase_Text_Trainer0PreChampion:
-	.string "Have you made a SECRET BASE already?\p"
-	.string "I went here, there, everywhere before\n"
-	.string "choosing this place.\p"
-	.string "Feel free to hang out!$"
+	.string "Egin al duzu jada BASE SEKRETURIK?\p"
+	.string "Ni leku bila ibili naiz toki guztietan\n"
+	.string "leku hau aukeratu aurretik.\p"
+	.string "Nahi duzun denbora guztia geratu!$"
 
 SecretBase_Text_Trainer5Intro:
-	.string "There're a lot of places where\n"
-	.string "you can make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?\p"
-	.string "Oh, would you like to have a battle?$"
+	.string "BASE SEKRETUA egiteko pila bat\n"
+	.string "leku desberdin daude.\p"
+	.string "Niri hau gustatzen zait gehien, baina.\n"
+	.string "Ez al da leku atsegina?\p"
+	.string "Aizu, borrokatu nahi al duzu?$"
 
 SecretBase_Text_Trainer5AcceptBattle:
-	.string "Okay, here goes!$"
+	.string "Ongi, banoa bada!$"
 
 SecretBase_Text_Trainer5DeclineBattle:
 	.string "Oh…\n"
-	.string "You can't now, okay.$"
+	.string "Ezin duzu orain, ados.$"
 
 SecretBase_Text_Trainer5Defeated::
-	.string "Hmmm… It's our loss…\n"
-	.string "But don't tell anyone!\l"
-	.string "It's a confidential secret!$"
+	.string "Hmmm… Galdu egin dugu…\n"
+	.string "Baina ez zabaldu hau!\l"
+	.string "Sekretua da!$"
 
 SecretBase_Text_Trainer5PostBattle:
-	.string "If you're in this area again,\n"
-	.string "I hope you'll visit me.$"
+	.string "Hemen inguruan bazabiltza,\n"
+	.string "etorri bisitan, mesedez.$"
 
 SecretBase_Text_Trainer5PreChampion:
-	.string "There're a lot of places where you can\n"
-	.string "make a SECRET BASE.\p"
-	.string "But I like this spot best.\n"
-	.string "Don't you think it's nice?$"
+	.string "BASE SEKRETUA egiteko pila bat\n"
+	.string "leku desberdin daude.\p"
+	.string "Niri hau gustatzen zait gehien, baina.\n"
+	.string "Ez al da leku atsegina?$"
 
 SecretBase_Text_Trainer1Intro:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "Oh! Were you thinking about\n"
-	.string "taking this spot, too?\p"
-	.string "I'll tell you what, you can have this\n"
-	.string "spot if you can beat me.$"
+	.string "Hau oso leku ezaguna da.\n"
+	.string "Beti hartuta dago.\p"
+	.string "Ene, zu ere leku honen\n"
+	.string "bila etorri al zara?\p"
+	.string "Begira, irabazten baldin badidazu\n"
+	.string "leku hau erabili dezakezu.$"
 
 SecretBase_Text_Trainer1AcceptBattle:
-	.string "Okay!\n"
-	.string "I'm going to defend my SECRET BASE!$"
+	.string "Ongi!\n"
+	.string "Nire BASE SEKRETUA defendatuko dut!$"
 
 SecretBase_Text_Trainer1DeclineBattle:
-	.string "Hunh? Is that right?\n"
-	.string "You're not interested in this spot?$"
+	.string "Zer? Ondo ulertu al dizut?\n"
+	.string "Ez zaizu leku hau interesatzen?$"
 
 SecretBase_Text_Trainer1Defeated::
-	.string "I can't keep going!\n"
-	.string "I surrender!$"
+	.string "Ezin dut gehiago!\n"
+	.string "Errenditu egin naiz!$"
 
 SecretBase_Text_Trainer1PostBattle:
-	.string "Okay, when I move one day,\n"
-	.string "this place will be yours!$"
+	.string "Ongi, noizbait norabait banoa,\n"
+	.string "leku hau zuretzat izango da!$"
 
 SecretBase_Text_Trainer1PreChampion:
-	.string "This is a popular spot.\n"
-	.string "It's always taken.\p"
-	.string "I waited a long time for it to open.\n"
-	.string "I finally got to use it!$"
+	.string "Hau oso leku ezaguna da.\n"
+	.string "Beti hartuta dago.\p"
+	.string "Denbora asko itxaron dut ireki arte.\n"
+	.string "Erabili dezaket azkenean!$"
 
 SecretBase_Text_Trainer6Intro:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.\p"
-	.string "Would you like to see how strong I am?$"
+	.string "Ongi etorri nire POKéMON LABORATEGIRA.\p"
+	.string "Hemen sekretupean ikertu dezaket\n"
+	.string "borroken inguruan.\p"
+	.string "Ikusi nahi al duzu nire indarra?$"
 
 SecretBase_Text_Trainer6AcceptBattle:
-	.string "I'm going to go all out!$"
+	.string "Indar guztiekin borrokatuko dut!$"
 
 SecretBase_Text_Trainer6DeclineBattle:
-	.string "Oh.\n"
-	.string "Some other time, then!$"
+	.string "Ados.\n"
+	.string "Beste batean, orduan!$"
 
 SecretBase_Text_Trainer6Defeated::
-	.string "Hmm… I've still got lots to learn.\n"
-	.string "I have to study some more.$"
+	.string "Hmm… Asko dut ikasteko oraindik.\n"
+	.string "Gehiago aztertu behar dut dena.$"
 
 SecretBase_Text_Trainer6PostBattle:
-	.string "Thanks for battling with me.\n"
-	.string "Please come back again tomorrow.$"
+	.string "Eskerrik asko nirekin borrokatzeagatik.\n"
+	.string "Mesedez, itzuli bihar.$"
 
 SecretBase_Text_Trainer6PreChampion:
-	.string "Welcome to my POKéMON LAB.\p"
-	.string "I carry out research on battling in\n"
-	.string "secrecy.$"
+	.string "Ongi etorri nire POKéMON LABORATEGIRA.\p"
+	.string "Hemen sekretupean ikertu dezaket\n"
+	.string "borroken inguruan.$"
 
 SecretBase_Text_Trainer2Intro:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.\p"
-	.string "So, how would you like a battle?$"
+	.string "Luxuzko etxeak ederrak dira, baina\n"
+	.string "nik nahiago dut leku hau.\p"
+	.string "Asko atsegin dut, era guztietako\n"
+	.string "jendea datorkidalako bisitan.\p"
+	.string "Nahi al duzu borrokan egin?$"
 
 SecretBase_Text_Trainer2AcceptBattle:
-	.string "That's the way!$"
+	.string "Hori da hitza!$"
 
 SecretBase_Text_Trainer2DeclineBattle:
-	.string "When you're ready, give me a shout!$"
+	.string "Prest zaudenean, abisatu!$"
 
 SecretBase_Text_Trainer2Defeated::
-	.string "Aww! Done in!\n"
-	.string "But it's still fun to battle!$"
+	.string "Ene! Galdu egin dut!\n"
+	.string "Hala ere, borrokatzea atsegin dut!$"
 
 SecretBase_Text_Trainer2PostBattle:
-	.string "Well, anyway, I should go buy some\n"
-	.string "decorations and furniture.\p"
-	.string "I want my SECRET BASE to be a place\n"
-	.string "other people can enjoy.$"
+	.string "Bueno, apaingarri eta altzari batzuk\n"
+	.string "erostera joan behar nuke.\p"
+	.string "Nire BASE SEKRETUA edozeinek ondo\n"
+	.string "pasatzeko lekua izatea nahi dut.$"
 
 SecretBase_Text_Trainer2PreChampion:
-	.string "A big mansion is nice, but I like this\n"
-	.string "sort of place more.\p"
-	.string "I like it because all kinds of people\n"
-	.string "come visit me.$"
+	.string "Luxuzko etxeak ederrak dira, baina\n"
+	.string "nik nahiago dut leku hau.\p"
+	.string "Asko atsegin dut, era guztietako\n"
+	.string "jendea datorkidalako bisitan.$"
 
 SecretBase_Text_Trainer7Intro:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.\p"
-	.string "If you would be so kind, will you battle\n"
-	.string "with my POKéMON?$"
+	.string "Izugarri gustatzen zait apaingarri\n"
+	.string "eta altzariak erostea.\p"
+	.string "POKéMONAK haztea ere izugarri\n"
+	.string "gustatzen zait.\p"
+	.string "Inporta ez badizu, egingo zenuke\n"
+	.string "borroka nire POKéMONEN aurka?$"
 
 SecretBase_Text_Trainer7AcceptBattle:
-	.string "Thank you.\n"
-	.string "Shall we begin?$"
+	.string "Eskerrik asko.\n"
+	.string "Hasiko gara?$"
 
 SecretBase_Text_Trainer7DeclineBattle:
-	.string "Oh.\n"
-	.string "How disappointing…$"
+	.string "Ene.\n"
+	.string "Hau bai etsigarria…$"
 
 SecretBase_Text_Trainer7Defeated::
-	.string "I concede…$"
+	.string "Errenditu egin naiz…$"
 
 SecretBase_Text_Trainer7PostBattle:
-	.string "That was all in good fun!\n"
-	.string "I should go enjoy shopping now.$"
+	.string "Zeinen ongi pasatu dudan!\n"
+	.string "Orain erosketak egitera joango naiz.$"
 
 SecretBase_Text_Trainer7PreChampion:
-	.string "I simply adore shopping for decorations\n"
-	.string "and furniture.\p"
-	.string "I also love raising POKéMON just\n"
-	.string "as much.$"
+	.string "Izugarri gustatzen zait apaingarri\n"
+	.string "eta altzariak erostea.\p"
+	.string "POKéMONAK haztea ere izugarri\n"
+	.string "gustatzen zait.$"
 
 SecretBase_Text_Trainer3Intro:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?\p"
-	.string "But since you found me, how about we\n"
-	.string "have a battle?$"
+	.string "Batzuek BASE SEKRETUA oso leku\n"
+	.string "ezkutuetan eraikitzen dituzte.\l"
+	.string "Bakar-bakarrik egon nahi ote dute?\p"
+	.string "Zuk ni aurkitu nauzunez, nahi\n"
+	.string "al duzu borrokatu?$"
 
 SecretBase_Text_Trainer3AcceptBattle:
-	.string "I'm not going down easily!$"
+	.string "Ez da erraza izango ni garaitzea!$"
 
 SecretBase_Text_Trainer3DeclineBattle:
-	.string "Oh… Are you maybe tired from searching\n"
-	.string "for this place?$"
+	.string "Ene… Nekatuta al zaude leku honen\n"
+	.string "bila egoteagatik, ala?$"
 
 SecretBase_Text_Trainer3Defeated::
-	.string "I went down…$"
+	.string "Galdu egin dut…$"
 
 SecretBase_Text_Trainer3PostBattle:
-	.string "Where's your SECRET BASE?\n"
-	.string "I should go visit you there.$"
+	.string "Non dago zure BASE SEKRETUA?\n"
+	.string "Bisitan joan behar nintzateke.$"
 
 SecretBase_Text_Trainer3PreChampion:
-	.string "Some people make their SECRET BASES in\n"
-	.string "hard-to-find places.\l"
-	.string "Do they want to just lie low?$"
+	.string "Batzuek BASE SEKRETUA oso leku\n"
+	.string "ezkutuetan eraikitzen dituzte.\l"
+	.string "Bakar-bakarrik egon nahi ote dute?$"
 
 SecretBase_Text_Trainer8Intro:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!\p"
-	.string "In the meantime, want to battle?$"
+	.string "lagunek esan didate apaingarriak\n"
+	.string "lortzeko era desberdinak daudela.\p"
+	.string "Apustua egin behar genuke, ea nork\n"
+	.string "lortu apaingarri eta altzairu politenak!\p"
+	.string "Bitartean, borrokatu nahi?$"
 
 SecretBase_Text_Trainer8AcceptBattle:
-	.string "This is my SECRET BASE.\n"
-	.string "I can't lose!$"
+	.string "Hau nire BASE SEKRETUA da.\n"
+	.string "Ezin dut galdu!$"
 
 SecretBase_Text_Trainer8DeclineBattle:
-	.string "I'll battle with you anytime.$"
+	.string "Zurekin borrokatuko dut nahi duzunean.$"
 
 SecretBase_Text_Trainer8Defeated::
-	.string "Huh?\n"
-	.string "Did I just lose?$"
+	.string "Nola?\n"
+	.string "Galdu egin al dut?$"
 
 SecretBase_Text_Trainer8PostBattle:
-	.string "I won't lose at collecting decorations.\n"
-	.string "Come visit again!$"
+	.string "Apaingarriak biltzen ez dut galduko.\n"
+	.string "Etorri nahi duzunean!$"
 
 SecretBase_Text_Trainer8PreChampion:
-	.string "People have told me that you can get\n"
-	.string "decorations in several ways.\p"
-	.string "We should have a race to see who can\n"
-	.string "get nicer decorations and furniture!$"
+	.string "lagunek esan didate apaingarriak\n"
+	.string "lortzeko era desberdinak daudela.\p"
+	.string "Apustua egin behar genuke, ea nork\n"
+	.string "lortu apaingarri eta altzairu politenak!$"
 
 SecretBase_Text_Trainer4Intro:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "That's what I do.\n"
-	.string "Want to battle with me?$"
+	.string "Leku atsegin bat aurkitu nuen eta\n"
+	.string "nire apaingarri gustokoenekin bete.\p"
+	.string "Nire POKéMON gogokoenak hazten ditut\n"
+	.string "eta gero eta indartsuago bihurtu.\p"
+	.string "Hori da egiten dudana.\n"
+	.string "Borrokatu nahi al duzu nirekin?$"
 
 SecretBase_Text_Trainer4AcceptBattle:
-	.string "Show me what you're made of!$"
+	.string "Erakutsi bada, zure indarra!$"
 
 SecretBase_Text_Trainer4DeclineBattle:
-	.string "I guess there are times when you're not\n"
-	.string "into it.$"
+	.string "Normala da batzuetan borrokatzeko\n"
+	.string "gogorik ez izatea.$"
 
 SecretBase_Text_Trainer4Defeated::
-	.string "I know exactly what you're made of now.$"
+	.string "Garbi erakutsi didazu zure indarra, bai.$"
 
 SecretBase_Text_Trainer4PostBattle:
-	.string "We can both become stronger.\n"
-	.string "Let's keep at it!$"
+	.string "Biok indartsuagoak izan gaitezke.\n"
+	.string "Segi dezagun lanean!$"
 
 SecretBase_Text_Trainer4PreChampion:
-	.string "I found a spot I liked, and I did it up\n"
-	.string "with my favorite decorations.\p"
-	.string "I raise my favorite POKéMON and grow\n"
-	.string "stronger with it.\p"
-	.string "Every day is a great day.$"
+	.string "Leku atsegin bat aurkitu nuen eta\n"
+	.string "nire apaingarri gustokoenekin bete.\p"
+	.string "Nire POKéMON gogokoenak hazten ditut\n"
+	.string "eta gero eta indartsuago bihurtu.\p"
+	.string "Pozik nago egunero horrela.$"
 
 SecretBase_Text_Trainer9Intro:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?\p"
-	.string "Want to see my taste in battling?$"
+	.string "Asko ikasi daiteke jendearen gainean\n"
+	.string "erabiltzen dituzten apaingarrien\l"
+	.string "arabera, eta hauek jartzeko duten\l"
+	.string "eraren arabera.\p"
+	.string "Zer iruditzen zaizu nire estiloa?\n"
+	.string "Harri eta zur geratu zara, e?\p"
+	.string "Nahi duzu nire borroka estiloa ezagutu?$"
 
 SecretBase_Text_Trainer9AcceptBattle:
-	.string "There's no holding back!$"
+	.string "Indar osoz borrokatuko dut!$"
 
 SecretBase_Text_Trainer9DeclineBattle:
-	.string "I'll be happy to demonstrate my style\n"
-	.string "anytime.$"
+	.string "Nahi duzunean erakutsiko dizut nire\n"
+	.string "borroka estiloa.$"
 
 SecretBase_Text_Trainer9Defeated::
-	.string "You're supremely talented!\n"
-	.string "Your power seems to be limitless…$"
+	.string "Zu bai zu trebea!\n"
+	.string "Zure indarrak amaigabea dirudi…$"
 
 SecretBase_Text_Trainer9PostBattle:
-	.string "What did you think of my style?\n"
-	.string "I'll keep on polishing it!$"
+	.string "Zer iruditu zaizu nire estiloa?\n"
+	.string "Lantzen jarraituko dut!$"
 
 SecretBase_Text_Trainer9PreChampion:
-	.string "You can learn a lot about the taste\n"
-	.string "and sense of people by the kinds of\l"
-	.string "decorations they have, and how they\l"
-	.string "display them.\p"
-	.string "What do you think of my taste?\n"
-	.string "Are you speechless?$"
+	.string "Asko ikasi daiteke jendearen gainean\n"
+	.string "erabiltzen dituzten apaingarrien\l"
+	.string "arabera, eta hauek jartzeko duten\l"
+	.string "eraren arabera.\p"
+	.string "Zer iruditzen zaizu nire estiloa?\n"
+	.string "Harri eta zur geratu zara, e?$"

@@ -59,7 +59,7 @@ gTrickHouse_Mechadoll_HarborMail::
 	.string "HARBOR MAIL$"
 
 gTrickHouse_Mechadoll_SamePrice::
-	.string "Same price$"
+	.string "Prezio berdina$"
 
 gTrickHouse_Mechadoll_60Yen::
 	.string "¥60$"
@@ -68,37 +68,37 @@ gTrickHouse_Mechadoll_55Yen::
 	.string "¥55$"
 
 gTrickHouse_Mechadoll_Nothing::
-	.string "Nothing$"
+	.string "Ezer ez$"
 
 gTrickHouse_Mechadoll_CostMore::
-	.string "They will cost more.$"
+	.string "Gehiago balioko dute.$"
 
 gTrickHouse_Mechadoll_CostLess::
-	.string "They will cost less.$"
+	.string "Gutxiago balioko dute.$"
 
 gTrickHouse_Mechadoll_SamePrice2::
-	.string "Same price$"
+	.string "Prezio berdina$"
 
 gTrickHouse_Mechadoll_Male::
-	.string "Male$"
+	.string "Arra$"
 
 gTrickHouse_Mechadoll_Female::
-	.string "Female$"
+	.string "Emea$"
 
 gTrickHouse_Mechadoll_Neither::
-	.string "Neither$"
+	.string "Bat ere ez$"
 
 gTrickHouse_Mechadoll_ElderlyMen::
-	.string "Elderly men$"
+	.string "Gizon adinduak$"
 
 gTrickHouse_Mechadoll_ElderlyLadies::
-	.string "Elderly ladies$"
+	.string "Emakume adinduak$"
 
 gTrickHouse_Mechadoll_SameNumber::
-	.string "Same number$"
+	.string "Kantitate berdina$"
 
 gTrickHouse_Mechadoll_None::
-	.string "None$"
+	.string "Bat ere ez$"
 
 gTrickHouse_Mechadoll_One::
 	.string "1$"
