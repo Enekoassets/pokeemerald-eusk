@@ -87,7 +87,7 @@ gBirchDexRatingText_LessThan160::
 
 gBirchDexRatingText_LessThan170::
 	.string "Norbaitek zure POKéDEXari begiratua\n"
-	.string "emango balio, HOENN eskualdeko POKéMONen\l"
+	.string "emango balio, HOENN eskualdeko POKÉMONEN\l"
 	.string "jakintza handia jasoko luke.$"
 
 gBirchDexRatingText_LessThan180::

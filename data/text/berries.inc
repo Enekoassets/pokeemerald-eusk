@@ -195,7 +195,7 @@ Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
 	.string "BAIA bat landatu dezakezu eta hazten\n"
 	.string "ikusi, edo POKéMON bati eman.\p"
 	.string "Baina orain BAIAK nahasten dituen\n"
-	.string "MAKINA bat daukate POKéMONentzat\l"
+	.string "MAKINA bat daukate POKÉMONENTZAT\l"
 	.string "gozokiak egiteko.\p"
 	.string "Nik ere gozokiak nahi ditut.$"
 

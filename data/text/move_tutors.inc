@@ -30,7 +30,7 @@ MoveTutor_Text_RolloutTeach:
 	.string "iritsi zaitezkeela?\p"
 	.string "Uste dut lurretik biraka ere\n"
 	.string "egin nezakeela bidea.\p"
-	.string "Zure POKéMONek ere nahiko\n"
+	.string "Zure POKÉMONEK ere nahiko\n"
 	.string "lukete biratu, zure ustez?\p"
 	.string "Zure POKéMONetako bati JIRABIRA\n"
 	.string "erasoa erakutsi diezaioket.$"
@@ -204,7 +204,7 @@ MoveTutor_Text_DoubleEdgeDeclined:
 	.string "Zuk ere ezezkoa?$"
 
 MoveTutor_Text_DoubleEdgeWhichMon:
-	.string "Ongi, zein POKéMONek ikasiko du\n"
+	.string "Ongi, zein POKÉMONEK ikasiko du\n"
 	.string "AHO-BIKOITZA?$"
 
 MoveTutor_Text_DoubleEdgeTaught:
@@ -227,7 +227,7 @@ MoveTutor_Text_ExplosionDeclined:
 
 MoveTutor_Text_ExplosionWhichMon:
 	.string "Ondo! EZTANDA bat, beraz!\n"
-	.string "Zein POKéMONek nahi du lehertu?$"
+	.string "Zein POKÉMONEK nahi du lehertu?$"
 
 MoveTutor_Text_ExplosionTaught:
 	.string "Denbora luzean, POKéMONei erakusi\n"

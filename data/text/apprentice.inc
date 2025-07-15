@@ -70,9 +70,9 @@ gText_ApprenticePleaseTeach0::
 	.string "{STR_VAR_1} naiz, eta asko miresten\n"
 	.string "zaitut, {PLAYER}.\p"
 	.string "Nire ametsa izan da zu ezagutu\n"
-	.string "eta POKéMONen inguruan galderak egitea.\p"
+	.string "eta POKÉMONEN inguruan galderak egitea.\p"
 	.string "Mesedez, faborez, {PLAYER}!\n"
-	.string "mesedez, irakatsi POKéMONen inguruan!$"
+	.string "mesedez, irakatsi POKÉMONEN inguruan!$"
 
 gText_ApprenticeRejectTeaching0::
 	.string "B-Baina…\n"
@@ -214,7 +214,7 @@ gText_ApprenticeLevelModeThanks3::
 gText_ApprenticePleaseTeach4::
 	.string "Oh! {PLAYER}{KUN}, zara, ezta?\p"
 	.string "Entzun dut oso ona zarela\n"
-	.string "POKéMONekin!\p"
+	.string "POKÉMONEKIN!\p"
 	.string "Ni {STR_VAR_1} naiz!\n"
 	.string "Zure laguna izango naiz!\p"
 	.string "Bazekenien?\p"
@@ -482,7 +482,7 @@ gText_ApprenticePleaseTeach11::
 	.string "zure inguruan, nik ezagutzeko lain!\p"
 	.string "Uh-huh, uh-huh!\n"
 	.string "{PLAYER}{KUN} zure izena,\l"
-	.string "POKéMONekin onena!\p"
+	.string "POKÉMONEKIN onena!\p"
 	.string "Gaztea zara gainera,\n"
 	.string "mundua esploratzeko tankera!\p"
 	.string "Bestalde, esan nahi dut\n"

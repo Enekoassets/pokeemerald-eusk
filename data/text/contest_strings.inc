@@ -442,7 +442,7 @@ gText_EveryonesAppealsMadeSame::
 @ Appeal result texts
 
 gText_BecameMoreConsciousOfOtherMons::
-	.string "Beste POKéMONen presentzia\n"
+	.string "Beste POKÉMONEN presentzia\n"
 	.string "areago nabaritu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonCantMakeAnAppealAfterThis::
@@ -458,7 +458,7 @@ gText_BecameObliviousToOtherMons::
 	.string "ahaztu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_BecameLessAwareOfOtherMons::
-	.string "Beste POKéMONen presentzia\n"
+	.string "Beste POKÉMONEN presentzia\n"
 	.string "pixka bat gutxitu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StoppedCaringAboutOtherMons::
@@ -510,7 +510,7 @@ gText_LargelyUnnoticedMonWorkedHard::
 	.string "asko ahalegindu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_WorkedAsMuchAsMonBefore::
-	.string "Bere aurreko POKéMONek bezain\n"
+	.string "Bere aurreko POKÉMONEK bezain\n"
 	.string "ondo funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotGoWell::

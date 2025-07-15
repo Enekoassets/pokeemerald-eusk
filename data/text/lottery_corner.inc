@@ -3,7 +3,7 @@ LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
 	.string "Gure SALTOKIGUNEKO bezeroek POKéMON\n"
 	.string "LOTERIAKO TIKET bat atera dezakete.\p"
 	.string "LOTERIAKO TIKETEKO zenbakiak zure\n"
-	.string "edozein POKéMONen ID berdina badu,\l"
+	.string "edozein POKÉMONEN ID berdina badu,\l"
 	.string "opari izugarri bat jasoko duzu.\p"
 	.string "Nahi duzu POKéMON LOTERIAKO TIKET\n"
 	.string "bat atera?$"
@@ -20,7 +20,7 @@ LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
 
 LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait:
 	.string "LOTERIAKO TIKETAREN zenbakia {STR_VAR_1} da.\p"
-	.string "Zure POKéMONen baten IDaren berdina\n"
+	.string "Zure POKÉMONEN baten IDaren berdina\n"
 	.string "den begiratzeko momentu bat behar\l"
 	.string "dut. Itxaron, mesedez.$"
 
