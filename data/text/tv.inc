@@ -102,8 +102,8 @@ gTVBravoTrainerText07::
 	.string "Bejondeizula, {STR_VAR_2}!\p"
 	.string "Espero dugu hemendik aurrera\n"
 	.string "{STR_VAR_1} gehiagotan ikusiko dugula!\p"
-	.Eta hementxe bukatzen da gure programa!\n"
-	.Hurrengora arte, agurr!$"
+	.string "Eta hementxe bukatzen da gure programa!\n"
+	.string "Hurrengora arte, agur!$"
 
 gTVBravoTrainerText08::
 	.string "Zuekin, ENTRENATZAILEAREN {STR_VAR_1}(a)!$"
