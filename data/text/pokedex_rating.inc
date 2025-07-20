@@ -1,7 +1,7 @@
 gBirchDexRatingText_AreYouCurious::
 	.string "URKI MAIS.: Ah, {PLAYER}{KUN}!\p"
 	.string "Jakin nahi al duzu zure\n"
-	.string "POKéDEXa nola doan?$"
+	.string "POKéDEXA nola doan?$"
 
 gBirchDexRatingText_Cancel::
 	.string "Hm? Oh, oraindik ez duzu nahikoa\n"
@@ -86,7 +86,7 @@ gBirchDexRatingText_LessThan160::
 	.string "aukera.$"
 
 gBirchDexRatingText_LessThan170::
-	.string "Norbaitek zure POKéDEXari begiratua\n"
+	.string "Norbaitek zure POKéDEXARI begiratua\n"
 	.string "emango balio, HOENN eskualdeko POKÉMONEN\l"
 	.string "jakintza handia jasoko luke.$"
 
@@ -100,13 +100,13 @@ gBirchDexRatingText_LessThan190::
 	.string "profesional galanta zara zu!$"
 
 gBirchDexRatingText_LessThan200::
-	.string "POKéDEXa amaitzetik oso hurbil\n"
+	.string "POKéDEXA amaitzetik oso hurbil\n"
 	.string "zaude, alajaina.\l"
 	.string "Barruan sentitu dezaket!$"
 
 gBirchDexRatingText_DexCompleted::
 	.string "Zorionak!\n"
-	.string "Zure POKéDEXa beteta dago!$"
+	.string "Zure POKéDEXA beteta dago!$"
 
 gBirchDexRatingText_OnANationwideBasis::
 	.string "Hmhm…\n"

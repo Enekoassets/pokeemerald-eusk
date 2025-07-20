@@ -1100,9 +1100,9 @@ MatchCall_PersonalizedText39::
 	.string "Txip-txap! Txip-txap!\p"
 	.string "Ei! Barkatu! Justu-justu eguzkia\n"
 	.string "hartzeko krema eman dut.\p"
-	.string "Nire POKéNAVak ihes egin dit eskutik\n"
+	.string "Nire POKéNAVAK ihes egin dit eskutik\n"
 	.string "eta uretara erori zait!\p"
-	.string "Baina DEVONen POKéNAVa zinez gogorra\n"
+	.string "Baina DEVONen POKéNAVA zinez gogorra\n"
 	.string "da. Ondo atera da bainu horretatik!\p"
 	.string "Beno, okupatuta nago eguzkia hartzen,\n"
 	.string "beste batean hitz egingo dugu.$"
@@ -2438,7 +2438,7 @@ MatchCall_Text_May12::
 MatchCall_Text_May13::
 	.string "MAIA: Kaixo, {PLAYER}{KUN}!\p"
 	.string "Zer moduz?\n"
-	.string "Ari al zara POKéDEXa betezen?\p"
+	.string "Ari al zara POKéDEXA betezen?\p"
 	.string "Entzun dut aspaldi-aspaldiko\n"
 	.string "POKéMONak daudela hor nonbait.\l"
 	.string "Hiru omen dira denera!\p"
@@ -2565,7 +2565,7 @@ MatchCall_Text_Brendan12::
 MatchCall_Text_Brendan13::
 	.string "BRENDAN: Hey there, {PLAYER}!\p"
 	.string "Zer moduz? Ari al zara\n"
-	.string "POKéDEXa betetzen?\p"
+	.string "POKéDEXA betetzen?\p"
 	.string "Entzun dut aspaldi-aspaldiko\n"
 	.string "POKéMONak daudela hor nonbait.\l"
 	.string "Hiru omen dira denera!\p"
@@ -2628,7 +2628,7 @@ MatchCall_Text_Wally5::
 MatchCall_Text_Wally6::
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "WALLYk ez du POKéNAVeko\n"
+	.string "WALLYk ez du POKéNAVEKO\n"
 	.string "estaldurarik orain…$"
 
 MatchCall_Text_Wally7::
@@ -2706,7 +2706,7 @@ MatchCall_Text_Scott6::
 MatchCall_Text_Scott7::
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "TRIKIK ez du POKéNAVeko\n"
+	.string "TRIKIK ez du POKéNAVEKO\n"
 	.string "estaldurarik orain…$"
 
 MatchCall_Text_Norman1::
@@ -2834,26 +2834,26 @@ MatchCall_Text_Steven7::
 MatchCall_Text_BirchRegisterCall:
 	.string "URKI DOKT.: Aizu, {PLAYER}{KUN}!\n"
 	.string "Zutaz hitz egin didate, bai!\p"
-	.string "Orain zure POKéNAVak\n"
+	.string "Orain zure POKéNAVAK\n"
 	.string "BORROKA ZERRENDA dauka.\p"
 	.string "Beno, ni ere erregistratuko naiz!\p"
-	.string "Horrela zure POKéDEXa aztertzeko\n"
+	.string "Horrela zure POKéDEXA aztertzeko\n"
 	.string "gai izango naiz, nahiz eta ez\l"
 	.string "egon hemen.\p"
 	.string "… … … … … …$"
 
 MatchCall_Text_RegisteredBirch:
 	.string "URKI DOKT. erregistratu\n"
-	.string "duzu POKéNAVean.$"
+	.string "duzu POKéNAVEAN.$"
 
 MatchCall_Text_UnusedProfBirch:
-	.string "URKI DOKT.: Norbaitek POKéDEXa\n"
-	.string "eta POKéNAVa ditueanean, POKéMONak\l"
+	.string "URKI DOKT.: Norbaitek POKéDEXA\n"
+	.string "eta POKéNAVA ditueanean, POKéMONAK\l"
 	.string "aztertzea dibertigarriagoa da, ezta?$"
 
 MatchCall_Text_MrStone1::
 	.string "HARRI JN.: Oh? {PLAYER}{KUN}!\p"
-	.string "Zuk deitu didazunez, POKéNAVa\n"
+	.string "Zuk deitu didazunez, POKéNAVA\n"
 	.string "ondo dabilela dirudi!\p"
 	.string "Jende gehiago ere gehitu dezakezu,\n"
 	.string "probatzeko deitu beraiei ere!\p"

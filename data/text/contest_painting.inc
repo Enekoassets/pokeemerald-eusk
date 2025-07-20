@@ -28,7 +28,7 @@ gContestBeauty::
 	.string "EDERTASUNA$"
 
 gContestCuteness::
-	.string "POLITA$"
+	.string "POLITASUNA$"
 
 gContestSmartness::
 	.string "ARGITASUNA$"

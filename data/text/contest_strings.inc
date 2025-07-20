@@ -88,7 +88,7 @@ gText_BadlyStartleBeautyAppeals::
 	.string "motako erakustaldia egin dutenak.$"
 
 gText_BadlyStartleCuteAppeals::
-	.string "Asko ikaratzen ditu POLITA\n"
+	.string "Asko ikaratzen ditu POLITASUN\n"
 	.string "motako erakustaldia egin dutenak.$"
 
 gText_BadlyStartleSmartAppeals::
@@ -241,7 +241,7 @@ gContestMoveTypeBeautyText::
 	.string "EDERTASUNA$"
 
 gContestMoveTypeCuteText::
-	.string "POLITA$"
+	.string "POLITASUNA$"
 
 gContestMoveTypeSmartText::
 	.string "AZKARRA$"
@@ -738,10 +738,10 @@ gText_Contest_Coolness::
 	.string "karisma$"
 
 gText_Contest_Beauty::
-	.string "edertasua$"
+	.string "edertasuna$"
 
 gText_Contest_Cuteness::
-	.string "polita$"
+	.string "politasuna$"
 
 gText_Contest_Smartness::
 	.string "argitasuna$"
