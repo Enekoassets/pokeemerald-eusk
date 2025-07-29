@@ -13,7 +13,7 @@ Route104_Text_PlantBerriesInSoilTakeThis:
 Route104_Text_TrainersOftenMakeMonHoldBerries:
 	.string "Zure begiradan ikus dezaket,\n"
 	.string "ENTRENATZAILEA zara, baietz?\p"
-	.string "ENTERNATZAILEEK POKéMONei\n"
+	.string "ENTERNATZAILEEK POKéMONEI\n"
 	.string "BAIAK eman ohi dizkiete.\p"
 	.string "Zuk aukeratu BAIAK landatu\n"
 	.string "edo erabiltzen dituzun.$"
@@ -86,7 +86,7 @@ LilycoveCity_Text_BecauseYoureTrainer:
 LilycoveCity_Text_PokeblocksSuitPokemon:
 	.string "Barren barrenean begiratzen badugu…\p"
 	.string "Nola geratzen zaidan sinpletasuna niri,\n"
-	.string "hala {POKEBLOCK}ak POKéMONei.$"
+	.string "hala {POKEBLOCK}ak POKéMONEI.$"
 
 Route123_BerryMastersHouse_Text_YoureDeservingOfBerry:
 	.string "BAIA MAISUA dei diezadaketa.\p"
@@ -195,7 +195,7 @@ Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
 	.string "BAIA bat landatu dezakezu eta hazten\n"
 	.string "ikusi, edo POKéMON bati eman.\p"
 	.string "Baina orain BAIAK nahasten dituen\n"
-	.string "MAKINA bat daukate POKÉMONENTZAT\l"
+	.string "MAKINA bat daukate POKéMONENTZAT\l"
 	.string "gozokiak egiteko.\p"
 	.string "Nik ere gozokiak nahi ditut.$"
 

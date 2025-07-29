@@ -1,11 +1,11 @@
 Text_PictureBookShelf:
-	.string "POKÉMONEN argazki-liburuz betea dago.$"
+	.string "POKéMONEN argazki-liburuz betea dago.$"
 
 Text_BookShelf:
 	.string "Mota askotako liburuz lepo dago.$"
 
 Text_PokemonCenterBookShelf:
-	.string "POKÉMONEN aldizkariak!\n"
+	.string "POKéMONEN aldizkariak!\n"
 	.string "POKéMON LAGUNA…\p"
 	.string "POKéMON ESKULIBURUA…\n"
 	.string "POKéMON POLITAK…$"

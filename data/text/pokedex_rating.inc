@@ -14,7 +14,7 @@ gBirchDexRatingText_SoYouveSeenAndCaught::
 
 gBirchDexRatingText_LessThan10::
 	.string "Belarra dagoen lekuetara joan zaitez\n"
-	.string "eta bilatu POKéMONak adi-adi.$"
+	.string "eta bilatu POKéMONAK adi-adi.$"
 
 gBirchDexRatingText_LessThan20::
 	.string "Ematen du ari zarela honi tankera hartzen.\n"
@@ -39,7 +39,7 @@ gBirchDexRatingText_LessThan60::
 	.string "Itsasoan POKéMON asko daude.$"
 
 gBirchDexRatingText_LessThan70::
-	.string "POKéMONak harrapatu soilik egin beharean,\n"
+	.string "POKéMONAK harrapatu soilik egin beharean,\n"
 	.string "zergatik ez zara saiatzen eboluzionatzen?$"
 
 gBirchDexRatingText_LessThan80::
@@ -58,7 +58,7 @@ gBirchDexRatingText_LessThan100::
 
 gBirchDexRatingText_LessThan110::
 	.string "Azkenean lortu duzu 100 motatako\n"
-	.string "POKéMONak aurkitzea.\p"
+	.string "POKéMONAK aurkitzea.\p"
 	.string "POKéDEX harrigarria daukazu!$"
 
 gBirchDexRatingText_LessThan120::
@@ -70,7 +70,7 @@ gBirchDexRatingText_LessThan130::
 	.string "beste batzuekin trukatuz.$"
 
 gBirchDexRatingText_LessThan140::
-	.string "Entzun dudanaren arabera, badaude POKéMONak\n"
+	.string "Entzun dudanaren arabera, badaude POKéMONAK\n"
 	.string "beraien ENTRENATZAILEA guztiz maite dutenean\l"
 	.string "eboluzionatzen direnak.$"
 
@@ -87,7 +87,7 @@ gBirchDexRatingText_LessThan160::
 
 gBirchDexRatingText_LessThan170::
 	.string "Norbaitek zure POKéDEXARI begiratua\n"
-	.string "emango balio, HOENN eskualdeko POKÉMONEN\l"
+	.string "emango balio, HOENN eskualdeko POKéMONEN\l"
 	.string "jakintza handia jasoko luke.$"
 
 gBirchDexRatingText_LessThan180::

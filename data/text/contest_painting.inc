@@ -93,4 +93,4 @@ gContestPaintingTough2::
 
 gContestPaintingTough3::
 	.string "Izugarri ahaltsua,\n"
-	.string "{STR_VAR_1} hiper POKéMONa$"
+	.string "{STR_VAR_1} hiper POKéMONA$"

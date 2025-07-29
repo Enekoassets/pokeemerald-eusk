@@ -23,7 +23,7 @@ gText_PkmnTransferredLanettesPCBoxFull::
 	.string "KUTXARA bidali da$"
 
 gText_NoMoreRoomForPokemon::
-	.string "Ez dago lekurik POKÉMONENTZAT!\p"
+	.string "Ez dago lekurik POKéMONENTZAT!\p"
 	.string "POKéMON KUTXAK beteta daude\n"
 	.string "eta ezin dira gehiago gorde!$"
 

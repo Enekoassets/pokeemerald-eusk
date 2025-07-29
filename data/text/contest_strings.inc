@@ -32,7 +32,7 @@ gText_UserLessLikelyStartled::
 	.string "ikaratzeko aukera gutxiago du.$"
 
 gText_SlightlyStartleFrontMon::
-	.string "Parean duen POKéMONa\n"
+	.string "Parean duen POKéMONA\n"
 	.string "pixka bat ikaratzen du.$"
 
 gText_SlightlyStartleAppealed::
@@ -41,14 +41,14 @@ gText_SlightlyStartleAppealed::
 
 gText_StartleAppealedBeforeUser::
 	.string "Erabiltzailearen aurretik aritutako\n"
-	.string "POKéMONa ikaratzen du.$"
+	.string "POKéMONA ikaratzen du.$"
 
 gText_StartleAllAppealed::
 	.string "Erakustaldia egin duten POKéMON\n"
 	.string "guztiak ikaratzen ditu.$"
 
 gText_BadlyStartleFrontMon::
-	.string "Parean duen POKéMONa\n"
+	.string "Parean duen POKéMONA\n"
 	.string "asko ikaratzen du.$"
 
 gText_BadlyStartleAppealed::
@@ -57,7 +57,7 @@ gText_BadlyStartleAppealed::
 
 gText_StartleAppealedBeforeUser2::
 	.string "Erabiltzailearen aurretik aritutako\n"
-	.string "POKéMONa ikaratzen du.$"
+	.string "POKéMONA ikaratzen du.$"
 
 gText_StartleAllAppealed2::
 	.string "Erakustaldia egin duten POKéMON\n"
@@ -69,7 +69,7 @@ gText_ShiftJudgesAttentionFromOthers::
 
 gText_StartleMonHasJudgesAttention::
 	.string "EPAILEAREN atentzioa duen\n"
-	.string "POKéMONa ikaratzen du.$"
+	.string "POKéMONA ikaratzen du.$"
 
 gText_JamOthersMissesTurn::
 	.string "Besteak gogaitzen ditu, baina\n"
@@ -77,7 +77,7 @@ gText_JamOthersMissesTurn::
 
 gText_StartleMonsMadeSameTypeAppeal::
 	.string "Mota bereko erakustaldia egin\n"
-	.string "duten POKéMONak ikaratzen ditu.$"
+	.string "duten POKéMONAK ikaratzen ditu.$"
 
 gText_BadlyStartleCoolAppeals::
 	.string "Asko ikaratzen ditu KARISMA\n"
@@ -100,7 +100,7 @@ gText_BadlyStartleToughAppeals::
 	.string "motako erakustaldia egin dutenak.$"
 
 gText_MakeMonAfterUserNervous::
-	.string "Erabiltzailearen osteko POKéMONa\n"
+	.string "Erabiltzailearen osteko POKéMONA\n"
 	.string "urduri jartzen du.$"
 
 gText_MakeAllMonsAfterUserNervous::
@@ -112,7 +112,7 @@ gText_WorsenConditionOfThoseMadeAppeals::
 	.string "egoera okertzen du.$"
 
 gText_BadlyStartleMonsGoodCondition::
-	.string "Egoera onean dauden POKéMONak\n"
+	.string "Egoera onean dauden POKéMONAK\n"
 	.string "ikaratzen ditu.$"
 
 gText_AppealGreatIfPerformedFirst::
@@ -442,7 +442,7 @@ gText_EveryonesAppealsMadeSame::
 @ Appeal result texts
 
 gText_BecameMoreConsciousOfOtherMons::
-	.string "Beste POKÉMONEN presentzia\n"
+	.string "Beste POKéMONEN presentzia\n"
 	.string "areago nabaritu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonCantMakeAnAppealAfterThis::
@@ -454,19 +454,19 @@ gText_SettledDownJustLittleBit::
 	.string "da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_BecameObliviousToOtherMons::
-	.string "Beste POKéMONak hor zeudela\n"
+	.string "Beste POKéMONAK hor zeudela\n"
 	.string "ahaztu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_BecameLessAwareOfOtherMons::
-	.string "Beste POKÉMONEN presentzia\n"
+	.string "Beste POKéMONEN presentzia\n"
 	.string "pixka bat gutxitu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StoppedCaringAboutOtherMons::
 	.string "Ez zaizkio jada beste\n"
-	.string "POKéMONak horrenbeste axola.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
+	.string "POKéMONAK horrenbeste axola.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToStartleOtherMons::
-	.string "Beste POKéMONak ikaratzen\n"
+	.string "Beste POKéMONAK ikaratzen\n"
 	.string "saiatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToDazzleOthers::
@@ -478,7 +478,7 @@ gText_JudgeLookedAwayFromMon::
 	.string "begiratu du, ez {STR_VAR_1}(e)ri.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToUnnerveNextMon::
-	.string "Hurrengo POKéMONa urduritzen\n"
+	.string "Hurrengo POKéMONA urduritzen\n"
 	.string "saiatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonBecameNervous::
@@ -486,11 +486,11 @@ gText_MonBecameNervous::
 	.string "da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_AppealTriedToUnnerveWaitingMons::
-	.string "Itxaroten ari diren POKéMONak\n"
+	.string "Itxaroten ari diren POKéMONAK\n"
 	.string "urduritzen saiatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TauntedMonsDoingWell::
-	.string "Ondo zihoazen POKéMONei\n"
+	.string "Ondo zihoazen POKéMONEI\n"
 	.string "burla egin die.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonRegainedItsForm::
@@ -498,7 +498,7 @@ gText_MonRegainedItsForm::
 	.string "onera bueltatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_TriedToJamMonDoingWell::
-	.string "Ondo zihoazen POKéMONak\n"
+	.string "Ondo zihoazen POKéMONAK\n"
 	.string "eteten saiatu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StandoutMonHustledEvenMore::
@@ -510,7 +510,7 @@ gText_LargelyUnnoticedMonWorkedHard::
 	.string "asko ahalegindu da.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_WorkedAsMuchAsMonBefore::
-	.string "Bere aurreko POKÉMONEK bezain\n"
+	.string "Bere aurreko POKéMONEK bezain\n"
 	.string "ondo funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotGoWell::
@@ -518,7 +518,7 @@ gText_MonsAppealDidNotGoWell::
 	.string "ez du ondo funtzionatu.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_WorkedAsMuchAsPrecedingMon::
-	.string "Aurreko POKéMONak bezain\n"
+	.string "Aurreko POKéMONAK bezain\n"
 	.string "ondo funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsAppealDidNotGoWell2::
@@ -566,7 +566,7 @@ gText_MonsAppealWentExcellently2::
 	.string "bikain funtzionatu du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_SameTypeAsOneBeforeGood::
-	.string "Aurreko POKéMONaren mota\n"
+	.string "Aurreko POKéMONAREN mota\n"
 	.string "berdinekoa izan da. Ondo!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_NotSameTypeAsOneBeforeGood::
@@ -574,11 +574,11 @@ gText_NotSameTypeAsOneBeforeGood::
 	.string "berdinekoa. Ondo!{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_StoodOutMuchMoreThanMonBefore::
-	.string "Aurreko POKéMONak baino\n"
+	.string "Aurreko POKéMONAK baino\n"
 	.string "askoz itxura hobea izan du.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_DidntDoAsWellAsMonBefore::
-	.string "Ez du aurreko POKéMONak\n"
+	.string "Ez du aurreko POKéMONAK\n"
 	.string "bezain ondo egin.{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 gText_MonsConditionRoseAboveUsual::
@@ -634,7 +634,7 @@ gText_MonBecameALittleDistracted::
 	.string "distraitu egin da.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_TriedToStartleOtherPokemon::
-	.string "Beste POKéMONak ikaratzen\n"
+	.string "Beste POKéMONAK ikaratzen\n"
 	.string "saiatu da.{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 gText_MonLookedDownOutOfDistraction::

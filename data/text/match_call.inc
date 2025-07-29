@@ -27,7 +27,7 @@ MatchCall_WildBattleText3::
 MatchCall_WildBattleText4::
 	.string "Aizu, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} naiz.\p"
-	.string "Ezagutzen duzu {STR_VAR_2} POKéMONa?\n"
+	.string "Ezagutzen duzu {STR_VAR_2} POKéMONA?\n"
 	.string "Ia-ia bat harrapatu dut.\p"
 	.string "Duela gutxi izan da.\n"
 	.string "Uste nuen lortu nuela, baina ihes egin du.\p"
@@ -38,7 +38,7 @@ MatchCall_WildBattleText4::
 MatchCall_WildBattleText5::
 	.string "Kaixo-kaixo, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} naiz.\l"
-	.string "Harrapatu duzu POKéMONik azkenaldian?\p"
+	.string "Harrapatu duzu POKéMONIK azkenaldian?\p"
 	.string "Duela pixka bat bat harrapatzera\n"
 	.string "iritsi nintzen ia, baina ihes egin zuen.\p"
 	.string "Ongi, zaindu zaitez!$"
@@ -46,7 +46,7 @@ MatchCall_WildBattleText5::
 MatchCall_WildBattleText6::
 	.string "Aizu, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} naiz.\l"
-	.string "Harrapatu duzu POKéMONik azkenaldian?\p"
+	.string "Harrapatu duzu POKéMONIK azkenaldian?\p"
 	.string "AUrrekoan bat neureganatu nuen ia-ia.\n"
 	.string "Baina nolabait ihes egin zuen.\p"
 	.string "Zaindu zaitez.$"
@@ -63,7 +63,7 @@ MatchCall_WildBattleText8::
 	.string "{PLAYER}{KUN}, zer moduz?\n"
 	.string "{STR_VAR_1} naiz ni.\p"
 	.string "Azkenaldian lortu al duzu\n"
-	.string "POKéMONik harrapatzea?\p"
+	.string "POKéMONIK harrapatzea?\p"
 	.string "Duela ez hainbeste ia-ia bat lortu\n"
 	.string "nuen, baina ihes egin zidan azkenean.\p"
 	.string "Gehiago saiatu beharko dut!\n"
@@ -98,18 +98,18 @@ MatchCall_WildBattleText11::
 MatchCall_WildBattleText12::
 	.string "Kaixo, {PLAYER}{KUN}.\n"
 	.string "Ni naiz, {STR_VAR_1}.\l"
-	.string "Oraindik POKéMONak harrapatzen a dituzu?\p"
+	.string "Oraindik POKéMONAK harrapatzen a dituzu?\p"
 	.string "Ni azkenaldian aritu naiz hauek\n"
 	.string "harrapatzen saiatzen, baina ez da erraza.\p"
-	.string "POKéMONak zientzia sakona dira, gero!$"
+	.string "POKéMONAK zientzia sakona dira, gero!$"
 
 MatchCall_WildBattleText13::
 	.string "Ah, kaixo, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} naiz!\l"
-	.string "POKéMONak harrapatzen aritu al zara?\p"
+	.string "POKéMONAK harrapatzen aritu al zara?\p"
 	.string "NI neu saiatu naiz hauek harrapatzen\n"
 	.string "baina ez dut ezer askorik lortu.\p"
-	.string "POKéMONak zientzia sakona dira, gero!$"
+	.string "POKéMONAK zientzia sakona dira, gero!$"
 
 MatchCall_WildBattleText14::
 	.string "Aupa, {PLAYER}{KUN}, zelan?\n"
@@ -190,7 +190,7 @@ MatchCall_NegativeBattleText7::
 MatchCall_NegativeBattleText8::
 	.string "{PLAYER}{KUN}, zelan zabiltza?\n"
 	.string "Ni {STR_VAR_1} naiz.\p"
-	.string "Zelan daude zure POKéMONak?\n"
+	.string "Zelan daude zure POKéMONAK?\n"
 	.string "Aurrekoan borroka bat galdu nuen.\p"
 	.string "Gogorrago saiatu beharko dut!\n"
 	.string "Ikusi arte!$"
@@ -209,13 +209,13 @@ MatchCall_NegativeBattleText10::
 	.string "{STR_VAR_1} naiz.\p"
 	.string "Duela gutxi borroka bat izan dut.\n"
 	.string "Galdu egin dut, ordea.\p"
-	.string "Nire POKéMONak gehiago hazi behar ditut.\n"
+	.string "Nire POKéMONAK gehiago hazi behar ditut.\n"
 	.string "Ondo segi.$"
 
 MatchCall_NegativeBattleText11::
 	.string "Ah, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} naiz.\l"
-	.string "Zer moduz zure POKéMONak?\p"
+	.string "Zer moduz zure POKéMONAK?\p"
 	.string "Beste borroka bat galdu berri dut nik.\p"
 	.string "Beno, ikusi arte!$"
 
@@ -314,7 +314,7 @@ MatchCall_PositiveBattleText8::
 MatchCall_PositiveBattleText9::
 	.string "Ei, {PLAYER}{KUN}, kaixo!\n"
 	.string "{STR_VAR_1} naiz ni!\p"
-	.string "Zer moduz zure POKéMONak?\n"
+	.string "Zer moduz zure POKéMONAK?\n"
 	.string "Nireek oraintxe irabazi dute borroka bat!\p"
 	.string "Nire {STR_VAR_2} ikusgarria izan da,\n"
 	.string "esan behar dut!\p"
@@ -325,7 +325,7 @@ MatchCall_PositiveBattleText10::
 	.string "{PLAYER}{KUN}, kaixo…\n"
 	.string "{STR_VAR_1} naiz.\p"
 	.string "Zer berri, zer moduz bizitza?\p"
-	.string "Nire POKéMONak energiaz beteta daudela\n"
+	.string "Nire POKéMONAK energiaz beteta daudela\n"
 	.string "dirudi.\p"
 	.string "Borroka bat irabazi berri dut beraiekin.\n"
 	.string "Ondo segi.$"
@@ -413,7 +413,7 @@ MatchCall_SameRouteBattleRequestText5::
 MatchCall_SameRouteBattleRequestText6::
 	.string "Iepa, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} naiz.\l"
-	.string "Zer moduz zure POKéMONak?\p"
+	.string "Zer moduz zure POKéMONAK?\p"
 	.string "Zer, bentan? {STR_VAR_2}\n"
 	.string "inguruan zabiltza?\p"
 	.string "Ba, orduan errebantxa bat egin\n"
@@ -428,7 +428,7 @@ MatchCall_SameRouteBattleRequestText7::
 	.string "justu orain?\p"
 	.string "Borroka dezagun, beraz.\n"
 	.string "Oraintxe bertan, esan nahi dut.\p"
-	.string "Nire POKéMONak erakutsiko dizkizut.\n"
+	.string "Nire POKéMONAK erakutsiko dizkizut.\n"
 	.string "Itxarongo dizut.$"
 
 MatchCall_SameRouteBattleRequestText8::
@@ -518,10 +518,10 @@ MatchCall_DifferentRouteBattleRequestText2::
 MatchCall_DifferentRouteBattleRequestText3::
 	.string "Aupa, {PLAYER}!\n"
 	.string "Ni naiz, {STR_VAR_1}.\p"
-	.string "Nire POKéMONak asko indartu dira\n"
+	.string "Nire POKéMONAK asko indartu dira\n"
 	.string "azken aldian egon ginenetik.\p"
 	.string "Beraien indarra neurtu nahi nuke\n"
-	.string "zure POKÉMONEN aurka, {PLAYER}.\p"
+	.string "zure POKéMONEN aurka, {PLAYER}.\p"
 	.string "Borroka dezagun, beraz!\p"
 	.string "Zure zain egongo naiz {STR_VAR_2}\n"
 	.string "aldetik.$"
@@ -530,7 +530,7 @@ MatchCall_DifferentRouteBattleRequestText4::
 	.string "Iepa, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} naiz.\l"
 	.string "Zer moduz zabiltza?\p"
-	.string "Nire POKéMONak asko indartu dira\n"
+	.string "Nire POKéMONAK asko indartu dira\n"
 	.string "azkenaldian.\p"
 	.string "Aizu, nahiko zenuke nire aurka\n"
 	.string "borroka egin berriro?\p"
@@ -540,7 +540,7 @@ MatchCall_DifferentRouteBattleRequestText4::
 MatchCall_DifferentRouteBattleRequestText5::
 	.string "Apakaixo, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} naiz.\p"
-	.string "Nire POKéMONak asko hazten ari\n"
+	.string "Nire POKéMONAK asko hazten ari\n"
 	.string "dira, oso indartsuak dira.\p"
 	.string "Asko gustatuko litzaidake zure aurka\n"
 	.string "beste borroka bat egitea.\p"
@@ -560,7 +560,7 @@ MatchCall_DifferentRouteBattleRequestText6::
 MatchCall_DifferentRouteBattleRequestText7::
 	.string "…Ein, {PLAYER}{KUN}?\n"
 	.string "{STR_VAR_1} naiz…\l"
-	.string "Eta? Ari al dira zure POKéMONak hazten?\p"
+	.string "Eta? Ari al dira zure POKéMONAK hazten?\p"
 	.string "Nireak itzel indartu dira.\n"
 	.string "Erakutsi nahi nizkizuke.\p"
 	.string "{STR_VAR_2} inguruan egongo naiz.\n"
@@ -571,7 +571,7 @@ MatchCall_DifferentRouteBattleRequestText8::
 	.string "Ei, {PLAYER}{KUN}, zer martxa?\n"
 	.string "{STR_VAR_1} deika.\p"
 	.string "Ondo zaudela espero dut.\n"
-	.string "Nire POKéMONak oso jostalariak dira.\p"
+	.string "Nire POKéMONAK oso jostalariak dira.\p"
 	.string "Hemendik hurbil bazaude, mesedez,\n"
 	.string "errebantxa bat nahiko nuke.\p"
 	.string "{STR_VAR_2} inguruan izango naiz.\n"
@@ -580,8 +580,8 @@ MatchCall_DifferentRouteBattleRequestText8::
 MatchCall_DifferentRouteBattleRequestText9::
 	.string "{PLAYER}{KUN}, kaixo!\n"
 	.string "{STR_VAR_1} naiz!\l"
-	.string "Zer moduz zure POKéMONak?\p"
-	.string "Nire POKéMONak gero eta hobeak dira.\n"
+	.string "Zer moduz zure POKéMONAK?\p"
+	.string "Nire POKéMONAK gero eta hobeak dira.\n"
 	.string "Erakutsi nahi nizkizuke, {PLAYER}{KUN}.\p"
 	.string "{STR_VAR_2} aldetik nabil orain,\n"
 	.string "borroka dezagun hemendik bazabiltza.\p"
@@ -591,7 +591,7 @@ MatchCall_DifferentRouteBattleRequestText10::
 	.string "{PLAYER}{KUN}, kaixo…\n"
 	.string "{STR_VAR_1} naiz.\l"
 	.string "Zer, zer moduz doa dena?\p"
-	.string "Nire POKéMONak lehen baino askoz ere\n"
+	.string "Nire POKéMONAK lehen baino askoz ere\n"
 	.string "indartsuagoak dira.\p"
 	.string "Beste borroka bat nahi nuke,\n"
 	.string "{PLAYER}{KUN}.\p"
@@ -602,8 +602,8 @@ MatchCall_DifferentRouteBattleRequestText11::
 	.string "Ah, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} naiz.\l"
 	.string "Nondik zabiltza?\p"
-	.string "Nire POKéMONak biziberrituta daude.\n"
-	.string "Uste dut zure POKéMONak ikusteko\l"
+	.string "Nire POKéMONAK biziberrituta daude.\n"
+	.string "Uste dut zure POKéMONAK ikusteko\l"
 	.string "gogo handiz daudela, {PLAYER}{KUN}.\p"
 	.string "{STR_VAR_2} inguruan nago orain.\n"
 	.string "Gure bila etorriko zara, ezta?$"
@@ -611,7 +611,7 @@ MatchCall_DifferentRouteBattleRequestText11::
 MatchCall_DifferentRouteBattleRequestText12::
 	.string "Kaixo, {PLAYER}{KUN}.\n"
 	.string "Ni naiz, {STR_VAR_1}.\p"
-	.string "Esan behar dizut, nire POKéMONak oso\n"
+	.string "Esan behar dizut, nire POKéMONAK oso\n"
 	.string "indartsuak dira orain.\p"
 	.string "Zure kontrako borroka batean ikusi\n"
 	.string "nahi nituzke, {PLAYER}{KUN}.\p"
@@ -621,8 +621,8 @@ MatchCall_DifferentRouteBattleRequestText12::
 MatchCall_DifferentRouteBattleRequestText13::
 	.string "Ei, kaixo, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} naiz!\l"
-	.string "Ondo al daude zure POKéMONak?\p"
-	.string "Nire POKéMONak oso osasuntsu daude,\n"
+	.string "Ondo al daude zure POKéMONAK?\p"
+	.string "Nire POKéMONAK oso osasuntsu daude,\n"
 	.string "ematen du garaitezinak direla!\p"
 	.string "Asko gustatuko litzaidake beste borroka\n"
 	.string "bat egieta zure aurka.\p"
@@ -633,7 +633,7 @@ MatchCall_DifferentRouteBattleRequestText14::
 	.string "Aupa, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} naiz.\l"
 	.string "Ondo zabiltza, ezta?\p"
-	.string "Bai, bai! Nire POKéMONak inoiz\n"
+	.string "Bai, bai! Nire POKéMONAK inoiz\n"
 	.string "baino indartsuago daude.\p"
 	.string "Ez al duzu uste borroka bat egin\n"
 	.string "behar genukeela, {PLAYER}{KUN}?\p"
@@ -656,7 +656,7 @@ MatchCall_PersonalizedText2::
 	.string "Zuri buruz hitz egin berri diot\n"
 	.string "ENTRENATZAILE bati.\p"
 	.string "ENTRENATZAILE indartsua zarela esan diot,\n"
-	.string "POKéMONak ondo tratatzen dituena.\p"
+	.string "POKéMONAK ondo tratatzen dituena.\p"
 	.string "Espero dut mundu guztiak goraipatzen duen\n"
 	.string "ENTRENATZAILE bilakatuko zarela.\p"
 	.string "Ikusiko dugu elkar berriz!$"
@@ -691,7 +691,7 @@ MatchCall_PersonalizedText6::
 	.string "Ñam-ñam…\n"
 	.string "Ene, aupa, {STR_VAR_1} naiz.\l"
 	.string "Atsegin dut hondartzan jatea.\p"
-	.string "Nire POKéMONak eta ni oso ondo\n"
+	.string "Nire POKéMONAK eta ni oso ondo\n"
 	.string "gabiltza. Energiak topera ditugu!\l"
 	.string "Igeri egitera noa. Aio!$"
 
@@ -714,7 +714,7 @@ MatchCall_PersonalizedText7::
 MatchCall_PersonalizedText8::
 	.string "Iujuu, {STR_VAR_1} naiz!\n"
 	.string "Zelan zabiltza?\p"
-	.string "Nire POKéMONak entrenatzen aritu naiz\n"
+	.string "Nire POKéMONAK entrenatzen aritu naiz\n"
 	.string "zu helburutzat hartuta.\p"
 	.string "Ez dut berriro ere galduko hurrengoan\n"
 	.string "borrokatzen dugunean.\p"
@@ -726,7 +726,7 @@ MatchCall_PersonalizedText9::
 	.string "Oraintxe bertan, zure atzean…\l"
 	.string "Ez al zegoen zerbait…?\p"
 	.string "Hemen PIRO MENDIAN datzaten\n"
-	.string "POKÉMONEN indarra…\p"
+	.string "POKéMONEN indarra…\p"
 	.string "Zutaz hitz egiten ari zait…\p"
 	.string "Hemendik ihes egin behar zenuke,\n"
 	.string "eta ez atzera begiratu…\p"
@@ -761,7 +761,7 @@ MatchCall_PersonalizedText12::
 	.string "Bai, hori da, aberatsa naiz, bai.\p"
 	.string "Azkenengoz elkar ikusi genuenetik\n"
 	.string "asko aberastu naiz, gainera.\p"
-	.string "Are gehiago, nire POKéMONak ere\n"
+	.string "Are gehiago, nire POKéMONAK ere\n"
 	.string "askoz indartsuagoak dira.\p"
 	.string "Uste dut mundu guzti hau\n"
 	.string "niretzako soilik existitzen dela!\p"
@@ -808,10 +808,10 @@ MatchCall_PersonalizedText15::
 
 MatchCall_PersonalizedText16::
 	.string "{STR_VAR_1} naiz! Entzun, nire\n"
-	.string "POKéMONei karatea erakusten aritu naiz.\p"
+	.string "POKéMONEI karatea erakusten aritu naiz.\p"
 	.string "Orain ni baino hobeak dira, ordea!\n"
 	.string "Beraien aurka galdu eta galdu ari naiz!\p"
-	.string "Nire POKÉMONEN aurka galtzen badut ere,\n"
+	.string "Nire POKéMONEN aurka galtzen badut ere,\n"
 	.string "ez dut galduko beste ENTRENATZAILE\l"
 	.string "baten aurka, ez horixe!\p"
 	.string "Berriro borrokatu behar dugu!\n"
@@ -929,7 +929,7 @@ MatchCall_PersonalizedText26::
 MatchCall_PersonalizedText27::
 	.string "kaixo, ANNA naiz! MEG, nire kide\n"
 	.string "gaztearekin nago gaur ere.\p"
-	.string "Oso atsegin dut MEG eta POKéMONak\n"
+	.string "Oso atsegin dut MEG eta POKéMONAK\n"
 	.string "zaintzea. Hain dira politak!\p"
 	.string "Nire anai-arrebak balira bezala\n"
 	.string "zaindu nahi nituzke!\p"
@@ -945,7 +945,7 @@ MatchCall_PersonalizedText27::
 	.string "Hamaiketakoa egiteko ordua iritsi da!$"
 
 MatchCall_PersonalizedText28::
-	.string "Maite ditut POKéMONak!\n"
+	.string "Maite ditut POKéMONAK!\n"
 	.string "FAN KLUBEKO {STR_VAR_1} naiz!\p"
 	.string "Entzun honako hau!\n"
 	.string "Nire POKéMON kuttunak…\p"
@@ -980,7 +980,7 @@ MatchCall_PersonalizedText30::
 	.string "Baina gauza bat ondo dakit.\n"
 	.string "Ezingo nuke ADITU izan nik\l"
 	.string "bakarrik.\p"
-	.string "Soilik POKÉMONEN laguntzarekin bihur\n"
+	.string "Soilik POKéMONEN laguntzarekin bihur\n"
 	.string "daiteke ENTRENATZAILEA ADITU.\p"
 	.string "Humph! Uste dut zeozer oso sakon\n"
 	.string "eta interesgarria esan dudala!\p"
@@ -1064,7 +1064,7 @@ MatchCall_PersonalizedText36::
 	.string "erdi-erdian harrapatu nauzu!\p"
 	.string "baina, aizu, beti dut denbora hitz\n"
 	.string "egiteko!\p"
-	.string "POKÉMONEKIN batera ariketa egitea\n"
+	.string "POKéMONEKIN batera ariketa egitea\n"
 	.string "itzela da!\p"
 	.string "Elkarrekin hitz egin gabe ere, bihotz\n"
 	.string "bakarra bagenu bezala da kasik.\p"
@@ -1119,8 +1119,8 @@ MatchCall_PersonalizedText40::
 MatchCall_PersonalizedText41::
 	.string "Kaixo, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} naiz.\p"
-	.string "Zer moduz daude zure POKéMONak?\p"
-	.string "Nire DRAGOI POKéMONak sasoi\n"
+	.string "Zer moduz daude zure POKéMONAK?\p"
+	.string "Nire DRAGOI POKéMONAK sasoi\n"
 	.string "betean daude. Agur oraingoz.$"
 
 MatchCall_PersonalizedText42::
@@ -1177,14 +1177,14 @@ MatchCall_PersonalizedText47::
 	.string "Baina lurra gorabeheratsuegia da.\n"
 	.string "Hemen ezin dut denda jarri…\p"
 	.string "Ideia bat izan dut!\p"
-	.string "Agian nire POKéMONak gai izango dira\n"
+	.string "Agian nire POKéMONAK gai izango dira\n"
 	.string "lurra kolpeka lautzeko!\p"
 	.string "Ea zeozer lortzen dudan!\n"
 	.string "Aio-aio!$"
 
 MatchCall_PersonalizedText48::
 	.string "Iepa, iepa, {STR_VAR_1} naiz!\p"
-	.string "LIVekin batera POKéMONak hazten ari naiz!\n"
+	.string "LIVekin batera POKéMONAK hazten ari naiz!\n"
 	.string "Esfortzu handia egiten ari gara!\p"
 	.string "Gogorrago saiatuz, onenak\n"
 	.string "bihurtuko al gara? Aio-aio!$"
@@ -1201,7 +1201,7 @@ MatchCall_PersonalizedText49::
 
 MatchCall_PersonalizedText50::
 	.string "{STR_VAR_1} naiz.\n"
-	.string "Eta? POKéMONik harrapatu duzu?\p"
+	.string "Eta? POKéMONIK harrapatu duzu?\p"
 	.string "POKéMON berri bat harrapatzen baduzu,\n"
 	.string "erakutsi egin behar didazu.\p"
 	.string "Ez zaitut gehiago gogaituko.\n"
@@ -1209,12 +1209,12 @@ MatchCall_PersonalizedText50::
 
 MatchCall_PersonalizedText51::
 	.string "{STR_VAR_1} naiz.\p"
-	.string "Zure POKéMONak era optimoan\n"
+	.string "Zure POKéMONAK era optimoan\n"
 	.string "hazten ari zara?\p"
 	.string "Hemen airea oso garbi dago.\n"
-	.string "POKéMONak hazteko leku\l"
+	.string "POKéMONAK hazteko leku\l"
 	.string "paregabea da hau.\p"
-	.string "POKéMONak haztekotan baldin bazaude\n"
+	.string "POKéMONAK haztekotan baldin bazaude\n"
 	.string "{STR_VAR_2}(e)ra etorri behar\l"
 	.string "zenuke. Zaindu zaitez zu ere.$"
 
@@ -1222,17 +1222,17 @@ MatchCall_PersonalizedText52::
 	.string "Kaixo, {STR_VAR_1} deika.\p"
 	.string "{POKEBLOCK} bat eman nion {STR_VAR_2}(e)ri.\n"
 	.string "Asko gustatu zitzaiola zirudien.\p"
-	.string "Badirudi POKÉMONEK {POKEBLOCK} batzuk\n"
+	.string "Badirudi POKéMONEK {POKEBLOCK} batzuk\n"
 	.string "besteak baino gustokoago dituztela.\p"
 	.string "Oso interesgarria iruditzen zait.\n"
 	.string "Zaindu zaitez.$"
 
 MatchCall_PersonalizedText53::
 	.string "{STR_VAR_1} deika.\p"
-	.string "POKÉMONEKIN elkarlanean arituz,\n"
+	.string "POKéMONEKIN elkarlanean arituz,\n"
 	.string "eroso sentitzen da bat edozein lekutan.\p"
 	.string "Hortaz ohartu behar ginateke denok\n"
-	.string "eta POKÉMONEKIN elkarlanean aritu.\p"
+	.string "eta POKéMONEKIN elkarlanean aritu.\p"
 	.string "Hori litzateke egokiena.\n"
 	.string "Benetan uste dut.\p"
 	.string "Uste dut zu bide onean zabiltzala!\n"
@@ -1242,7 +1242,7 @@ MatchCall_PersonalizedText54::
 	.string "Kaixo, {STR_VAR_1} naiz. Badakizu,\n"
 	.string "beti prest dagoen ENTRENATZAILEA!\p"
 	.string "{PLAYER}{KUN}, badituzu nahikoa item?\n"
-	.string "Zure POKéMONak sasoian al daude?\p"
+	.string "Zure POKéMONAK sasoian al daude?\p"
 	.string "Guztia uneoro perfektu mantentzea\n"
 	.string "da sekretua zure bidaian\l"
 	.string "inolako arazorik ez izateko.\p"
@@ -1262,14 +1262,14 @@ MatchCall_PersonalizedText55::
 
 MatchCall_PersonalizedText56::
 	.string "Ni naiz, {STR_VAR_1}.\p"
-	.string "ZOMORRO motako POKéMONak ditudalako\n"
+	.string "ZOMORRO motako POKéMONAK ditudalako\n"
 	.string "naiz ezaguna, baietz?\p"
 	.string "Ba gaur nire zomorro gogokoenak\n"
 	.string "eraman ditut eskolara.\p"
 	.string "Gustuko dudan neska negarrez hasi da!\n"
 	.string "Bai, egin barre nahi baduzu.\p"
 	.string "Erakutsi egingo diot zergatik atsegin\n"
-	.string "ditudan horrenbeste ZOMORRO POKéMONak.\p"
+	.string "ditudan horrenbeste ZOMORRO POKéMONAK.\p"
 	.string "Zintz…\n"
 	.string "Ikusi arte!$"
 
@@ -1323,11 +1323,11 @@ MatchCall_PersonalizedText60::
 	.string "Plazera da zu bezalako ENTRENATZAILE\n"
 	.string "gazte batekin hitz egitea.\p"
 	.string "Suposatzen dut adina gorabehera\n"
-	.string "POKéMONak beti gustatuko zaizkidala.\p"
+	.string "POKéMONAK beti gustatuko zaizkidala.\p"
 	.string "Bikaina litzateke guk bezalako\n"
 	.string "laguntasuna edukitzea, baietz?\p"
 	.string "Noski, {PLAYER}{KUN}, zuk jada baduzu\n"
-	.string "zure POKÉMONEN maitasun osoa\l"
+	.string "zure POKéMONEN maitasun osoa\l"
 	.string "orain, ordea.\p"
 	.string "Betirako iraungo duten erlazioak\n"
 	.string "eraikitzen ari zara!\p"
@@ -1426,7 +1426,7 @@ MatchCall_BattleFrontierStreakText5::
 	.string "Aurrekoan {STR_VAR_2}N jarraian\n"
 	.string "{STR_VAR_3} borroka irabazi zenituen?\l"
 	.string "Hori sinestezina da!\p"
-	.string "Nire POKéMONak entrenatu beharko ditut.\n"
+	.string "Nire POKéMONAK entrenatu beharko ditut.\n"
 	.string "Ikusi arte!$"
 
 MatchCall_BattleFrontierStreakText6::
@@ -1581,7 +1581,7 @@ MatchCall_BattleFrontierRecordStreakText8::
 	.string "{STR_VAR_3} borroka irabazi dituzula\l"
 	.string "jarraian {STR_VAR_2}N.\p"
 	.string "Hori izugarri da!\n"
-	.string "Nire POKéMONak entrenatu beharko ditut!$"
+	.string "Nire POKéMONAK entrenatu beharko ditut!$"
 
 MatchCall_BattleFrontierRecordStreakText9::
 	.string "{PLAYER}{KUN}, kaixo!\n"
@@ -1685,7 +1685,7 @@ MatchCall_BattleDomeText6::
 	.string "Portzierto, entzun dut {STR_VAR_3}\n"
 	.string "aldiz txapela jantzi duzula\l"
 	.string "{STR_VAR_2}N.\p"
-	.string "Nire POKéMONak entrenatu beharko"
+	.string "Nire POKéMONAK entrenatu beharko"
 	.string "ditut ditut ez nadin atzean geratu.$"
 
 MatchCall_BattleDomeText7::
@@ -1705,7 +1705,7 @@ MatchCall_BattleDomeText8::
 	.string "Beno, bazabiltza.\p"
 	.string "Entzun dut {STR_VAR_3} titulu irabazi\n"
 	.string "dituzula {STR_VAR_2}N.\p"
-	.string "Nire POKéMONak zuk bezala heziko ditut.\n"
+	.string "Nire POKéMONAK zuk bezala heziko ditut.\n"
 	.string "Ikusi arte.$"
 
 MatchCall_BattleDomeText9::
@@ -1794,7 +1794,7 @@ MatchCall_BattlePikeText4::
 	.string "{STR_VAR_1} deika.\p"
 	.string "Entzun dut {STR_VAR_3} gela gainditu\n"
 	.string "dituzula {STR_VAR_2}N.\p"
-	.string "Nire POKéMONak entrenatu eta\n"
+	.string "Nire POKéMONAK entrenatu eta\n"
 	.string "indartuko ditut!$"
 
 MatchCall_BattlePikeText5::
@@ -1810,7 +1810,7 @@ MatchCall_BattlePikeText6::
 	.string "{STR_VAR_1} naiz. Zelan?\p"
 	.string "Portzierto, entzun dut {STR_VAR_3} gela\n"
 	.string "garaitu dituzula {STR_VAR_2}N.\p"
-	.string "Nire POKéMONak entrenatu beharko\n"
+	.string "Nire POKéMONAK entrenatu beharko\n"
 	.string "ditut ez nadin atzean geratu.$"
 
 MatchCall_BattlePikeText7::
@@ -1830,7 +1830,7 @@ MatchCall_BattlePikeText8::
 	.string "Esan didate {STR_VAR_2}N\n"
 	.string "{STR_VAR_3} gela gainditu dituzula.\p"
 	.string "Hori ikusgarria da!\n"
-	.string "Nire POKéMONak zuk bezala heziko ditut.\l"
+	.string "Nire POKéMONAK zuk bezala heziko ditut.\l"
 	.string "Ikusi arte.$"
 
 MatchCall_BattlePikeText9::
@@ -1903,7 +1903,7 @@ MatchCall_BattlePyramidText2::
 	.string "Esan didate {STR_VAR_3} solairu igo\n"
 	.string "dituzula {STR_VAR_2}N.\p"
 	.string "Uau, hori itzela da!\n"
-	.string "Nire POKéMONak entrenatu beharko ditut!$"
+	.string "Nire POKéMONAK entrenatu beharko ditut!$"
 
 MatchCall_BattlePyramidText3::
 	.string "Kaixo, {PLAYER}!\n"
@@ -1935,7 +1935,7 @@ MatchCall_BattlePyramidText6::
 	.string "{STR_VAR_1} naiz. Zelan?\p"
 	.string "Portzierto, entzun dut {STR_VAR_3}\n"
 	.string "solairu igo dituzula {STR_VAR_2}N.\p"
-	.string "Nire POKéMONak entrenatu beharko"
+	.string "Nire POKéMONAK entrenatu beharko"
 	.string "ditut ez nadin atzean geratu.$"
 
 MatchCall_BattlePyramidText7::
@@ -1956,7 +1956,7 @@ MatchCall_BattlePyramidText8::
 	.string "Entzun dut {STR_VAR_3} solairu\n"
 	.string "igo dituzula {STR_VAR_2}N.\p"
 	.string "Itzela da hori!\n"
-	.string "Nire POKéMONak zuk bezala heziko ditut.\l"
+	.string "Nire POKéMONAK zuk bezala heziko ditut.\l"
 	.string "Hurrengora arte.$"
 
 MatchCall_BattlePyramidText9::
@@ -2016,11 +2016,11 @@ MatchCall_BattlePyramidText14::
 
 MatchCall_Text_Mom1::
 	.string "AMA: Zure aita eta zu…\n"
-	.string "Guztiak POKÉMONEKIN itsututa daude.\p"
-	.string "Zein ote da POKÉMONEN xarma?\p"
+	.string "Guztiak POKéMONEKIN itsututa daude.\p"
+	.string "Zein ote da POKéMONEN xarma?\p"
 	.string "Nik?\n"
 	.string "Eguneroko lanetan laguntzen didaten\l"
-	.string "POKéMONak ditut gustoko.$"
+	.string "POKéMONAK ditut gustoko.$"
 
 MatchCall_Text_Mom2::
 	.string "AMA: Kaixo, {PLAYER}!\n"
@@ -2269,7 +2269,7 @@ MatchCall_Text_Phoebe::
 	.string "Zer iruditzen zaizu hemendik\n"
 	.string "pasatzen bazara noizbait?\p"
 	.string "GUstatuko litzaidake zu eta zure\n"
-	.string "POKÉMONEN arteko lotura nola\l"
+	.string "POKéMONEN arteko lotura nola\l"
 	.string "hazi den ikustea.$"
 
 MatchCall_Text_Glacia::
@@ -2394,7 +2394,7 @@ MatchCall_Text_May7::
 
 MatchCall_Text_May8::
 	.string "MAIA: {PLAYER}{KUN}, aupa.\p"
-	.string "PIRO MENDIA zendu diren POKéMONei\n"
+	.string "PIRO MENDIA zendu diren POKéMONEI\n"
 	.string "egindako oroigarri bat da.\p"
 	.string "Agian horregatik dago MAMU\n"
 	.string "motako POKéMONez gainezka!$"
@@ -2440,7 +2440,7 @@ MatchCall_Text_May13::
 	.string "Zer moduz?\n"
 	.string "Ari al zara POKéDEXA betezen?\p"
 	.string "Entzun dut aspaldi-aspaldiko\n"
-	.string "POKéMONak daudela hor nonbait.\l"
+	.string "POKéMONAK daudela hor nonbait.\l"
 	.string "Hiru omen dira denera!\p"
 	.string "Bakarra ikusita pozik negoke ni, bada…$"
 
@@ -2521,7 +2521,7 @@ MatchCall_Text_Brendan7::
 
 MatchCall_Text_Brendan8::
 	.string "BRENDAN: {PLAYER}!\p"
-	.string "PIRO MENDIA zendu diren POKéMONei\n"
+	.string "PIRO MENDIA zendu diren POKéMONEI\n"
 	.string "egindako oroigarri bat da.\p"
 	.string "Agian horregatik dago MAMU\n"
 	.string "motako POKéMONez gainezka!$"
@@ -2550,7 +2550,7 @@ MatchCall_Text_Brendan11::
 	.string "POKéMON baten erasoa erabiliz.\p"
 	.string "Ba omen da beste POKéMON eraso bat\n"
 	.string "itsas hondora eraman zaitzakeena.\p"
-	.string "POKÉMONEK edozer egin dezakete!$"
+	.string "POKéMONEK edozer egin dezakete!$"
 
 MatchCall_Text_Brendan12::
 	.string "BRENDAN: Iepa, {PLAYER}!\n"
@@ -2567,7 +2567,7 @@ MatchCall_Text_Brendan13::
 	.string "Zer moduz? Ari al zara\n"
 	.string "POKéDEXA betetzen?\p"
 	.string "Entzun dut aspaldi-aspaldiko\n"
-	.string "POKéMONak daudela hor nonbait.\l"
+	.string "POKéMONAK daudela hor nonbait.\l"
 	.string "Hiru omen dira denera!\p"
 	.string "Bakarra ikusita pozik negoke ni, bada…$"
 
@@ -2610,9 +2610,9 @@ MatchCall_Text_Wally4::
 	.string "WALLY: {PLAYER}?\n"
 	.string "Ni naiz, WALLY!\p"
 	.string "ENTRENATZAILEEN mundua itzela da!\p"
-	.string "Nire POKéMONak aldean ditudanean,\n"
+	.string "Nire POKéMONAK aldean ditudanean,\n"
 	.string "mundu guztiak agurtzen nau!\p"
-	.string "Guztiak POKéMONei esker konektatuta\n"
+	.string "Guztiak POKéMONEI esker konektatuta\n"
 	.string "egongo bagina bezala da!$"
 
 MatchCall_Text_Wally5::
@@ -2623,7 +2623,7 @@ MatchCall_Text_Wally5::
 	.string "Ez, baina ez nintzateke horrela\n"
 	.string "harrotu behar!\p"
 	.string "Azkenean, hemen meritua dutenak\n"
-	.string "POKéMONak dira eta!$"
+	.string "POKéMONAK dira eta!$"
 
 MatchCall_Text_Wally6::
 	.string "… … … … … …\n"
@@ -2635,18 +2635,18 @@ MatchCall_Text_Wally7::
 	.string "WALLY: Epa, {PLAYER}!\p"
 	.string "Zu ezagutu aurretik ez nintzen\n"
 	.string "etxetika tera ere egiten…\p"
-	.string "Baina orain nire POKÉMONEKIN\n"
+	.string "Baina orain nire POKéMONEKIN\n"
 	.string "sekulako abentura batean nabil…\p"
 	.string "{PLAYER}…\n"
 	.string "Eskerrik asko…$"
 
 MatchCall_Text_Scott1::
 	.string "TRIKI: Howdy, {PLAYER}{KUN}!\p"
-	.string "Badakizu POKéMONak leku guzti-guztietan\n"
+	.string "Badakizu POKéMONAK leku guzti-guztietan\n"
 	.string "aurkitu daitezkeela, baietz?\p"
 	.string "Mendietan, itsasoan,\n"
 	.string "belar altuan, edonon?\p"
-	.string "Bada POKéMONak bezala, ENTRENATZAILEAK\n"
+	.string "Bada POKéMONAK bezala, ENTRENATZAILEAK\n"
 	.string "ere leku guztietan aurki ditzakezu.\p"
 	.string "Horregatik, leku guztietara presaka\n"
 	.string "ibiltzen naiz. Azkar, azkar!$"
@@ -2663,7 +2663,7 @@ MatchCall_Text_Scott3::
 	.string "TRIKI: Epa, epa, {PLAYER}{KUN}!\p"
 	.string "Eskalatu al duzu jada\n"
 	.string "PIRO MENDIA?\p"
-	.string "Zendutako POKéMONei egindako\n"
+	.string "Zendutako POKéMONEI egindako\n"
 	.string "oroigarri bat da.\p"
 	.string "ENTRENATZAILE orok igo behar\n"
 	.string "luke tontorrera behin gutxienez.$"
@@ -2684,7 +2684,7 @@ MatchCall_Text_Scott5::
 	.string "indartsurik itsas hondoan?\p"
 	.string "Nik ezin dut begiratu.\n"
 	.string "Alde batetik, ez dakit igerian.\l"
-	.string "Eta gainera, ez daukat POKéMONik…$"
+	.string "Eta gainera, ez daukat POKéMONIK…$"
 
 MatchCall_Text_Scott6::
 	.string "TRIKI: Epa, epa, {PLAYER}{KUN}!\p"
@@ -2793,7 +2793,7 @@ MatchCall_Text_Steven2::
 
 MatchCall_Text_Steven3::
 	.string "STEVEN: Kaixo, {PLAYER}{KUN}!\p"
-	.string "Zure POKÉMONEKIN abentura batean\n"
+	.string "Zure POKéMONEKIN abentura batean\n"
 	.string "zaudenean, zer pentsatu ohi duzu?\p"
 	.string "Kide indartsuak direla pentsatzen\n"
 	.string "duzu?\p"
@@ -2891,9 +2891,9 @@ MatchCall_Text_MrStone4::
 	.string "Bazenekien DEVON BURDIZELAI\n"
 	.string "TUNELA zulatzen ari zela?\p"
 	.string "Baina gelditu egin genuen lana\n"
-	.string "inguruko POKéMONak babesteko.\p"
+	.string "inguruko POKéMONAK babesteko.\p"
 	.string "Aukeraketa erraza izan da, bai.\p"
-	.string "Askoz garrantzitsuagoa da POKéMONak\n"
+	.string "Askoz garrantzitsuagoa da POKéMONAK\n"
 	.string "bakean bizitzea, guk gure onerako\l"
 	.string "tunel bat egitea baino.$"
 

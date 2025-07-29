@@ -14,11 +14,11 @@ FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
 	.string "ARREKARA HERRIKO BORROKA DENDAN,\n"
 	.string "KO Txapelketa Berezia egiten dugu.\p"
-	.string "Partaide bakoitzak hiru POKÉMONEKO\n"
+	.string "Partaide bakoitzak hiru POKéMONEKO\n"
 	.string "talde bat erabiltzen du.\p"
-	.string "Hiru POKéMONak gero agertuko diren\n"
+	.string "Hiru POKéMONAK gero agertuko diren\n"
 	.string "ordenan ipinita egon behar dira.\p"
-	.string "Borrokan, POKéMONak aurretik jarritako\n"
+	.string "Borrokan, POKéMONAK aurretik jarritako\n"
 	.string "ordenan agertuko dira, banaka.\p"
 	.string "Behin POKéMON bat borrokan sartzean,\n"
 	.string "ezin da atera hau bukatu arte.\p"
@@ -44,12 +44,12 @@ FallarborTown_BattleTentLobby_Text_WhichLevelMode:
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "Oso ondo, orain aukeratu zure\n"
-	.string "hiru POKéMONak, mesedez.$"
+	.string "hiru POKéMONAK, mesedez.$"
 
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "Erronkari maitea!\p"
 	.string "Ez dauzkazu sartzeko behar diren\n"
-	.string "hiru POKéMONak.\p"
+	.string "hiru POKéMONAK.\p"
 	.string "Gainera, ezin dute mota berdineko\n"
 	.string "itemik eduki.\p"
 	.string "ARRAUTZAK{STR_VAR_1} ez dira onartzen.\p"
@@ -59,7 +59,7 @@ FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Erronkari maitea!\p"
 	.string "Ez dauzkazu sartzeko behar diren\n"
-	.string "hiru POKéMONak.\p"
+	.string "hiru POKéMONAK.\p"
 	.string "Sartzeko, hire POKéMON mota\n"
 	.string "desberdin ekarri behar dituzu.\p"
 	.string "Gainera, ezin dute mota berdineko\n"
@@ -120,7 +120,7 @@ FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Ongi etorri BERDEZELAI HERRIKO\n"
 	.string "BORROKA DENDARA!\p"
-	.string "Hemen, ENTRENATZAILEAREN eta POKéMONaren\n"
+	.string "Hemen, ENTRENATZAILEAREN eta POKéMONAREN\n"
 	.string "arteko konfiantza neurtzen da.$"
 
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
@@ -131,13 +131,13 @@ VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
 	.string "BERDEZELAIKO BORROKA DENDAN,\n"
 	.string "beti bete beharreko arau garrantzitsu\l"
 	.string "bat dago.\p"
-	.string "ENTRENATZAILEEK beraien POKéMONak\n"
+	.string "ENTRENATZAILEEK beraien POKéMONAK\n"
 	.string "aldatu soilik egin ditzakete.\p"
 	.string "ENTRENATZAILEEK ezin diete beraien\n"
-	.string "POKéMONei bestelako agindurik eman.\p"
-	.string "POKÉMONEK beraien izaeraren arabera jokatu\n"
+	.string "POKéMONEI bestelako agindurik eman.\p"
+	.string "POKéMONEK beraien izaeraren arabera jokatu\n"
 	.string "eta bakarrik borrokatuko dira.\p"
-	.string "Zure POKÉMONENGAN konfiantza izan eta\n"
+	.string "Zure POKéMONENGAN konfiantza izan eta\n"
 	.string "begiratu soilik egin dezakezu.\p"
 	.string "Hiru ENTRENATZAILE bata bestearen atzetik\n"
 	.string "garaitzea lortzen baduzu,\l"
@@ -148,7 +148,7 @@ VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
 	.string "deskalifikatu egingo zara.$"
 
 VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
-	.string "Zure bihotza eta POKéMONak indartzean,\n"
+	.string "Zure bihotza eta POKéMONAK indartzean,\n"
 	.string "itzuli egin behar zenuke.$"
 
 @ Unused
@@ -160,7 +160,7 @@ VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "Ene…\p"
 	.string "Ez dauzkazu erronkarako behar\n"
-	.string "diren hiru POKéMONak.\p"
+	.string "diren hiru POKéMONAK.\p"
 	.string "Parte hartzeko hiru POKéMON desberdin\n"
 	.string "ekarri behar dituzu.\p"
 	.string "Gainera, ezin dute mota berdineko\n"
@@ -172,7 +172,7 @@ VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Ene…\p"
 	.string "Ez dauzkazu erronkarako behar\n"
-	.string "diren hiru POKéMONak.\p"
+	.string "diren hiru POKéMONAK.\p"
 	.string "Parte hartzeko hiru POKéMON desberdin\n"
 	.string "ekarri behar dituzu.\p"
 	.string "Gainera, ezin dute mota berdineko\n"
@@ -183,7 +183,7 @@ VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 
 VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "Ongi. Orain, aukeratu zure hiru\n"
-	.string "POKéMONak.$"
+	.string "POKéMONAK.$"
 
 VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "BORROKA DENDARA sartu aurretik, partida\n"
@@ -195,13 +195,13 @@ VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
 
 VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
 	.string "Oso zorte oneko sentitzen naiz zure\n"
-	.string "POKÉMONEN indarra ikusita.\p"
+	.string "POKéMONEN indarra ikusita.\p"
 	.string "Emaitzak gorde egingo dira.\n"
 	.string "Itxaron pixka batean.$"
 
 VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak:
 	.string "3 garaipen jarraian lortzea…\p"
-	.string "Zure bihotzaren eta zure POKÉMONENAREN\n"
+	.string "Zure bihotzaren eta zure POKéMONENAREN\n"
 	.string "artean lotura indartsua dago.$"
 
 VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded:
@@ -225,7 +225,7 @@ SlateportCity_BattleTentLobby_Text_TakeChallenge:
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
 	.string "PORTUONDOKO BORROKA DENDAN, Truke\n"
 	.string "Borrokako Txapelketak alokatutako\l"
-	.string "POKéMONak erabiliz egiten ditugu.\p"
+	.string "POKéMONAK erabiliz egiten ditugu.\p"
 	.string "Lehenik, hiru POKéMON utziko dizkizugu\n"
 	.string "txapelketa honetan parte hartzeko.\p"
 	.string "Alokatutako POKéMON hauek erabilita,\n"
@@ -254,7 +254,7 @@ SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
-	.string "Ongi, eman zure POKéMONak erronkan\n"
+	.string "Ongi, eman zure POKéMONAK erronkan\n"
 	.string "parte hartu bitartean gordetzeko.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
@@ -262,21 +262,21 @@ SlateportCity_BattleTentLobby_Text_StepThisWay:
 
 SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
 	.string "Mila esker parte hartzeagatik!\p"
-	.string "Zure POKéMONak itzuliko dizkizut\n"
-	.string "alokairuko POKÉMONEN truke.\p"
+	.string "Zure POKéMONAK itzuliko dizkizut\n"
+	.string "alokairuko POKéMONEN truke.\p"
 	.string "Erronkako emaitzak ere gorde behar ditut.\n"
 	.string "Itxaron, mesedez.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
-	.string "Zure POKéMONak itzuliko dizkizut\n"
-	.string "alokairuko POKÉMONEN truke.$"
+	.string "Zure POKéMONAK itzuliko dizkizut\n"
+	.string "alokairuko POKéMONEN truke.$"
 
 SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
 	.string "Zorionak!\n"
 	.string "Hiru borroka irabazi dituzu jarraian!\p"
-	.string "Zure POKéMONak itzuliko dizkizut\n"
-	.string "alokairuko POKÉMONEN truke.\p"
+	.string "Zure POKéMONAK itzuliko dizkizut\n"
+	.string "alokairuko POKéMONEN truke.\p"
 	.string "Erronkako emaitzak ere gorde behar ditut.\n"
 	.string "Itxaron, mesedez.$"
 
@@ -303,7 +303,7 @@ SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
-	.string "Hemen dituzu zure POKéMONak bueltan.$"
+	.string "Hemen dituzu zure POKéMONAK bueltan.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReceivedPrize:
@@ -327,8 +327,8 @@ SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
 	.string "Garaitu berri duzun ENTRENATZAILEAREKIN\n"
-	.string "soilik trukatu ditzakezu POKéMONak.\p"
-	.string "ENTRENATZAILEAK zituen POKÉMONEKIN\n"
+	.string "soilik trukatu ditzakezu POKéMONAK.\p"
+	.string "ENTRENATZAILEAK zituen POKéMONEKIN\n"
 	.string "soilik egin dezakezu trukea.$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
@@ -340,11 +340,11 @@ SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
 
 SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
 	.string "Bi gauza izan behar dituzu kontuan\n"
-	.string "POKéMONak trukatzerakoan.\p"
+	.string "POKéMONAK trukatzerakoan.\p"
 	.string "Lehenik, trukatzerakoan, ezin dituzu\n"
-	.string "jasoko duzun POKéMONaren\l"
+	.string "jasoko duzun POKéMONAREN\l"
 	.string "estatistikak begiratu.\p"
-	.string "Bigarren, zure taldeko POKéMONak\n"
+	.string "Bigarren, zure taldeko POKéMONAK\n"
 	.string "ordenatuta egongo dira, alokatu\l"
 	.string "dituzunean ordenatu dituzun bezala.\p"
 	.string "Trukeak egin ostean ere, ordena\n"
@@ -352,7 +352,7 @@ SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
 
 SlateportCity_BattleTentLobby_Text_ExplainMonRules:
 	.string "PORTUONDOKO BORROKA DENDAKO\n"
-	.string "POKéMONak alokatu egiten dira.\p"
+	.string "POKéMONAK alokatu egiten dira.\p"
 	.string "Alokatutako POKéMON guztiak\n"
 	.string "30. Mailan daude.$"
 
@@ -368,10 +368,10 @@ VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading:
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
 	.string "BERDEZELAIKO BORROKA DENDAN,\n"
-	.string "POKÉMONEK bere kasa pentsatu\l"
+	.string "POKéMONEK bere kasa pentsatu\l"
 	.string "eta borrokatu behar dute.\p"
 	.string "Basatiak direnean ez bezala,\n"
-	.string "jendearekin bizi diren POKÉMONEK beren\l"
+	.string "jendearekin bizi diren POKéMONEK beren\l"
 	.string "izaeraren arabera jokatzen dute.$"
 
 @ Unused
@@ -399,7 +399,7 @@ VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
 	.string "lagundu dezakete, hauek pozoinduz,\l"
 	.string "paralizatuz, edo beste egoera batzuk\l"
 	.string "aplikatuz.\p"
-	.string "POKÉMONEK hiru mota hauetako erasoak\n"
+	.string "POKéMONEK hiru mota hauetako erasoak\n"
 	.string "aukeratuko dituzte.$"
 
 @ Unused
@@ -423,7 +423,7 @@ VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
 
 BattleTentLobby_Text_ExplainLevelRules:
 	.string "BORROKA DENDA honetan, zure aurkarien\n"
-	.string "mailak zure POKÉMONEN mailaren arabera\l"
+	.string "mailak zure POKéMONEN mailaren arabera\l"
 	.string "orekatuta egongo dira.\p"
 	.string "Hala ere, ez da ENTRENATZAILERIK egongo\n"
 	.string "30. maila baino beherago dituenik.$"
