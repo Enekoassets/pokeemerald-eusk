@@ -272,7 +272,7 @@ BattleDome_Text_NeglectsSpDef::
 	.string "DEF. BEREZIA baztertzen du.$"
 
 BattleDome_Text_RaisesMonsWellBalanced::
-	.string "POKéMONak era orekatuan hazten ditu.$"
+	.string "POKéMONAK era orekatuan hazten ditu.$"
 
 BattleDome_Text_LetTheBattleBegin::
 	.string "Has dadila borroka!$"

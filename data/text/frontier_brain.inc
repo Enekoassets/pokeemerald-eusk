@@ -75,7 +75,7 @@ gText_GretaDefeatGold::
 
 @ Battle Palace
 gText_SpenserWonSilver::
-	.string "Zure POKéMONak ahulak dira zu ere\n"
+	.string "Zure POKéMONAK ahulak dira zu ere\n"
 	.string "ENTRENATZAILE ahula zarelako!$"
 
 gText_SpenserDefeatSilver::

@@ -1,7 +1,7 @@
 LilycoveCity_ContestLobby_Text_InterviewRequest:
 	.string "Kaixo! Zu POKéMON LEHIAKETA\n"
 	.string "batean egon zara, ezta?\l"
-	.string "Zure POKéMONak ikusita, erraza da jakiten.\p"
+	.string "Zure POKéMONAK ikusita, erraza da jakiten.\p"
 	.string "Kazetaria naiz. POKéMON LEHIAKETEN\n"
 	.string "inguruko erreportaia batekin ari naiz.\p"
 	.string "Inporta zaizu galdera batzuk egingo\n"
@@ -60,7 +60,7 @@ gTVBravoTrainerText01::
 
 gTVBravoTrainerText02::
 	.string "Bueno, {STR_VAR_1} ENTRENATZAILEAK\n"
-	.string "POKéMONa LEHIAKETAN sartu zuenean,\l"
+	.string "POKéMONA LEHIAKETAN sartu zuenean,\l"
 	.string "bere lagunaren gaineko esaldi bat\l"
 	.string "edo beste atera genion.$"
 
@@ -68,7 +68,7 @@ gTVBravoTrainerText03::
 	.string "LEHIAKETAREN ondoren, honen inguruan\n"
 	.string "galdetzean {STR_VAR_1}(e)k alai erantzun\l"
 	.string "zigun, “{STR_VAR_2}!”\p"
-	.string "Bueno, noski, {STR_VAR_1}(r)en POKéMONa\n"
+	.string "Bueno, noski, {STR_VAR_1}(r)en POKéMONA\n"
 	.string "{STR_VAR_3}. postuan gelditu zen LEHIAKETAN.\p"
 	.string "Esan ziguna guztiz bat doa\n"
 	.string "{STR_VAR_1}(r)ekin, nire iritziz!$"
@@ -77,7 +77,7 @@ gTVBravoTrainerText04::
 	.string "LEHIAKETAREN ondoren, honen inguruan\n"
 	.string "galdetzean {STR_VAR_1}(e)k erdi minduta\l"
 	.string "erantzun zigun, “{STR_VAR_2}.”\p"
-	.string "Beno, noski, {STR_VAR_1}(e)n POKéMONa\n"
+	.string "Beno, noski, {STR_VAR_1}(e)n POKéMONA\n"
 	.string "{STR_VAR_3}. postuan gelditu zen LEHIAKETAN.\p"
 	.string "{STR_VAR_1}(r)en nahigabea argi eta garbi\n"
 	.string "ikusi eta entzun daiteke!$"
@@ -276,7 +276,7 @@ SlateportCity_PokemonFanClub_Text_InterviewRequestHasName:
 	.string "Ongi, {STR_VAR_2} izena du.\p"
 	.string "Mesede bat eska diezazuket?\p"
 	.string "Telebistako kazetaria naiz eta\n"
-	.string "POKÉMONEN inguruko galdetegi bat daukat.\p"
+	.string "POKéMONEN inguruko galdetegi bat daukat.\p"
 	.string "Erantzungo zenizkidake pare bat\n"
 	.string "galdera erraz?$"
 
@@ -307,7 +307,7 @@ SlateportCity_PokemonFanClub_Text_WhatDoPokemonMeanToYou:
 	.string "Hurrengo galdera pixka bat zailagoa\n"
 	.string "izan daiteke.\p"
 	.string "Hementxe…\p"
-	.string "Zuretzat zer dira POKéMONak?$"
+	.string "Zuretzat zer dira POKéMONAK?$"
 
 SlateportCity_PokemonFanClub_Text_ThatsAllForInterview:
 	.string "Ederki!\p"
@@ -323,12 +323,12 @@ SlateportCity_PokemonFanClub_Text_ThatsAllForInterview:
 
 SlateportCity_PokemonFanClub_Text_HereIfYouGetUrgeToTellMe:
 	.string "Oh, ados…\p"
-	.string "Beno, hurrengoan nirekin POKÉMONEN inguruan\n"
+	.string "Beno, hurrengoan nirekin POKéMONEN inguruan\n"
 	.string "hitz egin nahi baduzu, lasai etorri!$"
 
 SlateportCity_PokemonFanClub_Text_EnjoyDoingInterviews:
 	.string "Gustuko dut nire lana. Elkarrizketekin\n"
-	.string "POKÉMONEN inguruan asko ikasten dut.$"
+	.string "POKéMONEN inguruan asko ikasten dut.$"
 
 SlateportCity_PokemonFanClub_Text_InterviewRequest:
 	.string "Kaixo, badirudi asko maite duzula zure\n"
@@ -336,7 +336,7 @@ SlateportCity_PokemonFanClub_Text_InterviewRequest:
 	.string "Badakizu zer?\n"
 	.string "Telebistako kazetaria naiz.\p"
 	.string "Munduan zehar bidaiatzen dut jendea\n"
-	.string "POKÉMONEN inguruan elkarrizketatzeko.\p"
+	.string "POKéMONEN inguruan elkarrizketatzeko.\p"
 	.string "Zure {STR_VAR_1}(r)en inguruan zerbait\n"
 	.string "kontatuko zenidake?$"
 
@@ -413,7 +413,7 @@ gTVFanClubOpinionsText04::
 	.string "Ikus dezagun!\p"
 	.string "Ea ba, zer ote…\p"
 	.string "{STR_VAR_1}(e)ri galdetu genion, “Zuretzat zer\n"
-	.string "dira POKéMONak?”\p"
+	.string "dira POKéMONAK?”\p"
 	.string "… … … … … …\p"
 	.string "“{STR_VAR_3}!”\p"
 	.string "Izugarria!\p"
@@ -432,7 +432,7 @@ gTVFanClubText00::
 	.string "Zuzenean gaude oraintxe!\p"
 	.string "Gaurkoan, POKéMON GALDETEGIEN TXOKOA\n"
 	.string "izango dugu programaren muina.\p"
-	.string "POKÉMONEK eta ENTRENATZAILEEK\n"
+	.string "POKéMONEK eta ENTRENATZAILEEK\n"
 	.string "sortutako istorio ederren artean, zein\l"
 	.string "drama izango ote dugu gaur gurean?\p"
 	.string "Ea ba, ikus dezagun…\p"
@@ -481,7 +481,7 @@ gTVFanClubText07::
 
 SlateportCity_OceanicMuseum_1F_Text_InterviewRequest:
 	.string "Oh?\n"
-	.string "POKéMONak gustuko al dituzu?\p"
+	.string "POKéMONAK gustuko al dituzu?\p"
 	.string "Telebistarako lan bat egiten ari naiz.\p"
 	.string "POKéMON eta ENTRENATZAILEEN arteko\n"
 	.string "istorio berriak kontatzen ari gara.\p"
@@ -498,7 +498,7 @@ SlateportCity_OceanicMuseum_1F_Text_TellMeExperienceInvolvingPokemon:
 	.string "Oh, bai?\n"
 	.string "Eskerrik asko!\p"
 	.string "Orduan, mesedez, konta iezadazu\n"
-	.string "POKÉMONEKIN azkenaldian gertatu zaizun\l"
+	.string "POKéMONEKIN azkenaldian gertatu zaizun\l"
 	.string "zeoezr interesgarria.$"
 
 SlateportCity_OceanicMuseum_1F_Text_LetMeKnowIfYouHaveStory:
@@ -550,7 +550,7 @@ gTVRecentHappeningsText04::
 	.string "bereziki adierazgarria da.$"
 
 gTVRecentHappeningsText05::
-	.string "{STR_VAR_1}(e)k POKÉMONEN inguruko\n"
+	.string "{STR_VAR_1}(e)k POKéMONEN inguruko\n"
 	.string "istorio liluragarria kontatu digu.\p"
 	.string "Eta orain {STR_VAR_1}(r)en ipuina\n"
 	.string "zuen arimari lotuta geratu da.\p"
@@ -708,13 +708,13 @@ gTVTrainerFanClubSpecialText05::
 gTVNameRaterText00::
 	.string "Eta orain, badiritsi da garaia…\n"
 	.string "IZEN BALORATZAILEEN SHOWERAKO.\p"
-	.string "Zure POKéMONaren etorkizuna iragarriko\n"
+	.string "Zure POKéMONAREN etorkizuna iragarriko\n"
 	.string "dut, emandako ezizenaren arabera.\p"
 	.string "Emateko aholku asko ditut, eta\n"
 	.string "oso baliagarriak, gainera.\p"
 	.string "Gaur egingo dudan iragarpena\n"
 	.string "{STR_VAR_3} ezizenarena izango da,\l"
-	.string "{STR_VAR_1}(r)en {STR_VAR_2} POKéMONarena.\p"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2} POKéMONARENa.\p"
 	.string "Hmhm…\p"
 	.string "Hmm…\n"
 	.string "Ezizen hau…$"
@@ -738,7 +738,7 @@ gTVNameRaterText03::
 	.string "berezitasuna izugarri garatuko da!$"
 
 gTVNameRaterText04::
-	.string "Ezizen honek POKÉMONEN zaintza eta\n"
+	.string "Ezizen honek POKéMONEN zaintza eta\n"
 	.string "maitasunaren zatia erakusten du.\p"
 	.string "Ondo haziz gero, POKéMON hau\n"
 	.string "epeltasun handikoa izango da!$"
@@ -750,19 +750,19 @@ gTVNameRaterText05::
 	.string "POKéMON honek ekarriko duena ezagutzeko.$"
 
 gTVNameRaterText06::
-	.string "Ezizen ona, POKéMONa sasoi onekoa\n"
+	.string "Ezizen ona, POKéMONA sasoi onekoa\n"
 	.string "bilakatuko duena!\p"
 	.string "POKéMON hau sasoi onean eta indartu\n"
 	.string "egongo da denbora luze-luzean.$"
 
 gTVNameRaterText07::
-	.string "Ezizen ona, POKéMONa bereziki\n"
+	.string "Ezizen ona, POKéMONA bereziki\n"
 	.string "bizia eta aktiboa bihurtuko du!\p"
 	.string "Esango nuke POKéMON hau borroketan\n"
 	.string "oso ondo ibiliko dela.$"
 
 gTVNameRaterText08::
-	.string "Ezizen erakargarria, POKéMONa\n"
+	.string "Ezizen erakargarria, POKéMONA\n"
 	.string "xarmangarria egiten du!\p"
 	.string "Ez daukat dudarik, POKéMON hau\n"
 	.string "POKéMON LEHIAKETETAN xarmantena izango da.$"
@@ -800,7 +800,7 @@ gTVNameRaterText14::
 	.string "egokia izango litzateke.$"
 
 gTVNameRaterText15::
-	.string "POKéMONaren espeziearen izena:\n"
+	.string "POKéMONAREN espeziearen izena:\n"
 	.string "{STR_VAR_2} oinarri bezala erabili daiteke\l"
 	.string "ezizena asmatzeko {STR_VAR_1}{STR_VAR_3}.$"
 
@@ -835,7 +835,7 @@ gTVPokemonAnglerText00::
 	.string "Ikusten duzu hor {STR_VAR_1}?\n"
 	.string "ENTRENATZAILE hori adibide ona da.\p"
 	.string "ENTRENATZAILE horri jada ihes egin\n"
-	.string "die {STR_VAR_3} POKÉMONEK.\p"
+	.string "die {STR_VAR_3} POKéMONEK.\p"
 	.string "Baina hortxe dago {STR_VAR_1} itxaroten.\n"
 	.string "Hori da {STR_VAR_2} harrapatzeko egin beharrekoa.\p"
 	.string "AURKEZLEA: Ados…\p"
@@ -878,7 +878,7 @@ gTVPokemonTodayFailedText00::
 	.string "ARREBA NAGUSIA: Epa! Alai eta bizi al\n"
 	.string "gaude denok gaur?\p"
 	.string "Gaurkoan {STR_VAR_1}(r)en {STR_VAR_2}\n"
-	.string "POKéMONa ikusiko dugu!\p"
+	.string "POKéMONA ikusiko dugu!\p"
 	.string "ANAIA NAGUSIA: Bai! Horixe bera egingo\n"
 	.string "dugu!$"
 
@@ -891,24 +891,24 @@ gTVPokemonTodayFailedText01::
 	.string "ANAIA NAGUSIA: Bueno, bidaia bat izan\n"
 	.string "nuen {STR_VAR_2}(e)ra.\p"
 	.string "Eta bertan aurkitu nuen kasualitatez\n"
-	.string "{STR_VAR_1}, {STR_VAR_3} POKéMONa\l"
+	.string "{STR_VAR_1}, {STR_VAR_3} POKéMONA\l"
 	.string "harrapatzen saiatzen ari zen, baina…$"
 
 gTVPokemonTodayFailedText02::
-	.string "POKéMONak ihes egitea lortu zuen!\p"
+	.string "POKéMONAK ihes egitea lortu zuen!\p"
 	.string "Badakizu zenbat POKé BALL gastatu\n"
 	.string "Zituen? {STR_VAR_2}!\p"
 	.string "{STR_VAR_1}(r)en aurpegiko frustrazio\n"
 	.string "aurpegia ikustekoa izan zen\l"
-	.string "POKéMONak ihes egin zuenean!$"
+	.string "POKéMONAK ihes egin zuenean!$"
 
 gTVPokemonTodayFailedText03::
 	.string "Baina {STR_VAR_1}(e)k txorakeriak egin\n"
-	.string "eta POKéMONa ahuldu egin zen!\p"
+	.string "eta POKéMONA ahuldu egin zen!\p"
 	.string "Badakizue zenbat POKé BALL gastatu\n"
 	.string "zituen? {STR_VAR_2}!\p"
 	.string "{STR_VAR_1}(r)en harridura aurpegia\n"
-	.string "ikusi behar zenuten POKéMONa\l"
+	.string "ikusi behar zenuten POKéMONA\l"
 	.string "ahuldu zenean!$"
 
 gTVPokemonTodayFailedText04::
@@ -935,10 +935,10 @@ gTVPokemonTodayFailedText05::
 gTVPokemonTodayFailedText06::
 	.string "ARREBA NAGUSIA: Nahikoa tontakeria\n"
 	.string "egin ditugu! Ikus dezagun gaurko\p"
-	.string "POKéMONa… Zer?\n"
+	.string "POKéMONA… Zer?\n"
 	.string "Denbroarik gabe geratu al gara?\p"
 	.string "Ohh!\n"
-	.string "Ezin izan dugu POKéMONa ikusi!\p"
+	.string "Ezin izan dugu POKéMONA ikusi!\p"
 	.string "ANAIA NAGUSIA: Hurrengora arte!\p"
 	.string "ARREBA NAGUSIA: Aizu, ez bukatu\n"
 	.string "programa ni gabe!$"
@@ -948,7 +948,7 @@ gTVPokemonTodaySuccessfulText00::
 	.string "Iritsi da POKéMON GAUR!\p"
 	.string "ARREBA NAGUSIA: Iepa! Alai eta bizi al\n"
 	.string "gaude denok gaur?\p"
-	.string "Gaurkoan, {STR_VAR_1}(r)en POKéMONa\n"
+	.string "Gaurkoan, {STR_VAR_1}(r)en POKéMONA\n"
 	.string "ikusiko dugu: {STR_VAR_2}!\p"
 	.string "ANAIA NAGUSIA: Bai! Horixe bera\n"
 	.string "egingo dugu!$"
@@ -972,7 +972,7 @@ gTVPokemonTodaySuccessfulText03::
 
 gTVPokemonTodaySuccessfulText04::
 	.string "ARREBA NAGUSIA: Ene! Hori ederra!\p"
-	.string "Badakizu esamoldea, POKéMONa harrapatzeko\n"
+	.string "Badakizu esamoldea, POKéMONA harrapatzeko\n"
 	.string "zail eta berezi, ENTRENATZAILEAREN\l"
 	.string "maitasuna merezi!$"
 
@@ -1002,7 +1002,7 @@ gTVPokemonTodaySuccessfulText08::
 	.string "Ez al da perfektua?\p"
 	.string "Letrak eta beste guztia--oso\n"
 	.string "ondo geratzen zaizkio {STR_VAR_1}\l"
-	.string "POKéMONari!\p"
+	.string "POKéMONAri!\p"
 	.string "ANAIA NAGUSIA: Bai, egia, horixe!$"
 
 gTVPokemonTodaySuccessfulText09::
@@ -1025,7 +1025,7 @@ gTVPokemonTodaySuccessfulText11::
 	.string "Beno, lagunak, ordua da.\n"
 	.string "Ikusi arte!\p"
 	.string "ANAIA NAGUSIA: Gogoratu, hurrengoan zure\n"
-	.string "POKéMONa izan daiteke protagonista!$"
+	.string "POKéMONA izan daiteke protagonista!$"
 
 SmartShopper_Text_Intro::
 	.string "Kaixo!\p"
@@ -1143,7 +1143,7 @@ gTVWorldOfMastersText00::
 	.string "Kaixo ikusleok.\p"
 	.string "Again ezagun zaizue {STR_VAR_1}\n"
 	.string "izeneko ENTRENATZAILEA.\p"
-	.string "{STR_VAR_1} famatua da POKéMONak\n"
+	.string "{STR_VAR_1} famatua da POKéMONAK\n"
 	.string "harrapatzen maisua delako.\p"
 	.string "{STR_VAR_1}(r)en POKéMON bilaketa\n"
 	.string "ingurua kontu handiz aztertzean datza.\p"
@@ -1390,7 +1390,7 @@ gTVBreakingNewsText03::
 	.string "Borrokan erabilitako POKé BALL\n"
 	.string "kopurua honakoa izan zen: {STR_VAR_1}.\p"
 	.string "Azkenean, botatako azken {STR_VAR_2}\n"
-	.string "izan zen POKéMONa harrapatu zuena.$"
+	.string "izan zen POKéMONA harrapatu zuena.$"
 
 gTVBreakingNewsText04::
 	.string "Momentu horretan, {STR_VAR_2}\n"
@@ -1418,7 +1418,7 @@ gTVBreakingNewsText07::
 	.string "ENTRENATZAILEAK {STR_VAR_2}(r)i\n"
 	.string "{STR_VAR_1} erasoa agindu zion.\p"
 	.string "Nahi gabe, ordea, ENTRENATZAILEAK\n"
-	.string "POKéMONa indargabetu zuen…$"
+	.string "POKéMONA indargabetu zuen…$"
 
 gTVBreakingNewsText12::
 	.string "Hala ere, {STR_VAR_1} urduri jarri\n"
@@ -1426,7 +1426,7 @@ gTVBreakingNewsText12::
 	.string "Nahastuta, ENTRENATZAILEAK erasotzeko\n"
 	.string "agindu zion {STR_VAR_3}(e)ri.\p"
 	.string "Nahi gabe, ordea, ENTRENATZAILEAK\n"
-	.string "POKéMONa indargabetu zuen…$"
+	.string "POKéMONA indargabetu zuen…$"
 
 gTVBreakingNewsText08::
 	.string "Momentu horretan, {STR_VAR_2}\n"
@@ -1528,7 +1528,7 @@ gTVSecretBaseVisitText08::
 gTVSecretBaseVisitText09::
 	.string "Aiii…\n"
 	.string "Aitortu behar dut, {STR_VAR_1}.\p"
-	.string "ENTRENATZAILEAREN POKÉMONEK benetan\n"
+	.string "ENTRENATZAILEAREN POKéMONEK benetan\n"
 	.string "merezi zuten TXAPELDUN izatea.\p"
 	.string "Argi eta garbi utzi zuten {STR_VAR_1}\n"
 	.string "ENTRENATZAILE gogorra dela.\p"
@@ -1567,7 +1567,7 @@ gTVSecretBaseVisitText11::
 gTVSecretBaseVisitText12::
 	.string "Bueno, bueno!\n"
 	.string "Aitortu behar dut, {STR_VAR_1}.\p"
-	.string "ENTRENATZAILEAREN POKÉMONEK\n"
+	.string "ENTRENATZAILEAREN POKéMONEK\n"
 	.string "etorkizunerako potentziala daukate.\p"
 	.string "{STR_VAR_1}(r)en itxaropen eta\n"
 	.string "ametsak erakutsi zituzten.\p"

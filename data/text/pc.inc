@@ -8,7 +8,7 @@ gText_AccessedSomeonesPC::
 	.string "NORBAITen PCra sartu zara.$"
 
 gText_StorageSystemOpened::
-	.string "POKéMONak Gordetzeko Sistema irekita.$"
+	.string "POKéMONAK Gordetzeko Sistema irekita.$"
 
 gText_AccessedPlayersPC::
 	.string "{PLAYER}(r)en PCra sartu zara.$"

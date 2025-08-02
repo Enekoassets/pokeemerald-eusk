@@ -18,7 +18,7 @@ gText_DifferentSaveFile::
 	.string "Aurretik gordetako beste\n"
 	.string "partida bat dago.\p"
 	.string "Orain gordez gero, beste partidako\n"
-	.string "abentura, itemak eta POKéMONak\l"
+	.string "abentura, itemak eta POKéMONAK\l"
 	.string "barne, galdu egingo dira.\p"
 	.string "Seguru zaude orain gorde eta\n"
 	.string "beste aprtida gainidatzi nahi duzula?$"

@@ -3,7 +3,7 @@ MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnce:
 	.string "daiteke. Ados?$"
 
 MoveTutor_Text_SwaggerTeach:
-	.string "Kar kar! Nire POKéMONa onena da!\n"
+	.string "Kar kar! Nire POKéMONA onena da!\n"
 	.string "Beste edozein POKéMON baino hobea!\p"
 	.string "Horrelako harrokeriaz ari nintzen\n"
 	.string "hizketan PRESIDENTEAK izugarrizko\l"
@@ -17,11 +17,11 @@ MoveTutor_Text_SwaggerDeclined:
 	.string "espiritua ulertu?$"
 
 MoveTutor_Text_SwaggerWhichMon:
-	.string "Ondo bada, zein POKéMONi\n"
+	.string "Ondo bada, zein POKéMONI\n"
 	.string "erakutsiko diot HARROKERIA?$"
 
 MoveTutor_Text_SwaggerTaught:
-	.string "Hemendik aurrera nire POKéMONak goraipatuko\n"
+	.string "Hemendik aurrera nire POKéMONAK goraipatuko\n"
 	.string "ditut, baina harrokeriarik gabe.$"
 
 MoveTutor_Text_RolloutTeach:
@@ -30,7 +30,7 @@ MoveTutor_Text_RolloutTeach:
 	.string "iritsi zaitezkeela?\p"
 	.string "Uste dut lurretik biraka ere\n"
 	.string "egin nezakeela bidea.\p"
-	.string "Zure POKÉMONEK ere nahiko\n"
+	.string "Zure POKéMONEK ere nahiko\n"
 	.string "lukete biratu, zure ustez?\p"
 	.string "Zure POKéMONetako bati JIRABIRA\n"
 	.string "erasoa erakutsi diezaioket.$"
@@ -41,7 +41,7 @@ MoveTutor_Text_RolloutDeclined:
 
 MoveTutor_Text_RolloutWhichMon:
 	.string "Kar-kar, noski! Itzela litzateke\n"
-	.string "POKéMONak nire antza balu.$"
+	.string "POKéMONAK nire antza balu.$"
 
 MoveTutor_Text_RolloutTaught:
 	.string "Belarretan jira eta bira ibilita\n"
@@ -60,7 +60,7 @@ MoveTutor_Text_FuryCutterDeclined:
 
 MoveTutor_Text_FuryCutterWhichMon:
 	.string "Bai!\n"
-	.string "Zein POKéMONi erakutsiko diot.$"
+	.string "Zein POKéMONI erakutsiko diot.$"
 
 MoveTutor_Text_FuryCutterTaught:
 	.string "Zirrara itzela sortzen dit jarraian\n"
@@ -76,13 +76,13 @@ MoveTutor_MimicTeach:
 	.string "zure POKéMON bati. Nahi duzu?$"
 
 MoveTutor_MimicDeclined:
-	.string "Bah, aizu! Zure POKéMONei\n"
+	.string "Bah, aizu! Zure POKéMONEI\n"
 	.string "MIMETIKOA soilik erakutsi nahi nien!$"
 
 MoveTutor_Text_MimicWhichMon:
 	.string "Baibai! Hala bedi!\n"
 	.string "Erakutsi erasoa ikasiko\l"
-	.string "duen POKéMONa.$"
+	.string "duen POKéMONA.$"
 
 MoveTutor_Text_MimicTaught:
 	.string "MIMIKOA benetan eraso sakona da.\p"
@@ -98,7 +98,7 @@ MoveTutor_Text_MetronomeTeach:
 	.string "Nahi baduzu, zure POKéMON bati\n"
 	.string "METRONOMOA erasoa erakutsiko diot.\p"
 	.string "Dirua ez da agertuko, baina zure\n"
-	.string "POKéMONak hatz bat mugituko du, bai?$"
+	.string "POKéMONAK hatz bat mugituko du, bai?$"
 
 MoveTutor_Text_MetronomeDeclined:
 	.string "Ongi. Hemen egongo naiz iritzia\n"
@@ -106,7 +106,7 @@ MoveTutor_Text_MetronomeDeclined:
 
 MoveTutor_Text_MetronomeWhichMon:
 	.string "Ongi! Prest nago!\n"
-	.string "Zein POKéMONi erakutsiko diot?$"
+	.string "Zein POKéMONI erakutsiko diot?$"
 
 MoveTutor_Text_MetronomeTaught:
 	.string "POKéMON batek hatza METRONOMO\n"
@@ -120,7 +120,7 @@ MoveTutor_Text_SleepTalkTeach:
 	.string "EZKUTUA behar du esna egoteko.\p"
 	.string "NIk bezala siesta egin behar luke,\n"
 	.string "eta SOMNANBULU ibili.\p"
-	.string "Zure POKéMONei erakuts diezaieket\n"
+	.string "Zure POKéMONEI erakuts diezaieket\n"
 	.string "nola erabili SOMNANBULUA. Nahi duzu?$"
 
 MoveTutor_Text_SleepTalkDeclined:
@@ -129,7 +129,7 @@ MoveTutor_Text_SleepTalkDeclined:
 
 MoveTutor_Text_SleepTalkWhichMon:
 	.string "Gazte adeitsua zara, bai!\n"
-	.string "Zein POKéMONi erakutsiko diot?$"
+	.string "Zein POKéMONI erakutsiko diot?$"
 
 MoveTutor_Text_SleepTalkTaught:
 	.string "Nire emazteak txanponekin egiten\n"
@@ -150,12 +150,12 @@ MoveTutor_Text_SubstituteTeach:
 
 MoveTutor_Text_SubstituteDeclined:
 	.string "Ez, e?\p"
-	.string "Jakizu bada POKéMONak bere kopia\n"
+	.string "Jakizu bada POKéMONAK bere kopia\n"
 	.string "sortu dezakeela erasoarekin.$"
 
 MoveTutor_Text_SubstituteWhichMon:
 	.string "Jiji…\n"
-	.string "Zein POKéMONi erakutsiko diot\l"
+	.string "Zein POKéMONI erakutsiko diot\l"
 	.string "ORDEZKOA?$"
 
 MoveTutor_Text_SubstituteTaught:
@@ -182,7 +182,7 @@ MoveTutor_Text_DynamicPunchDeclined:
 
 MoveTutor_Text_DynamicPunchWhichMon:
 	.string "Zer? Baietz? Zu bai pertsona ona!\n"
-	.string "Zein POKéMONi erakutsiko diot?$"
+	.string "Zein POKéMONI erakutsiko diot?$"
 
 MoveTutor_Text_DynamicPunchTaught:
 	.string "Gainditu GOROLDIKO GIMNASIOA\n"
@@ -204,7 +204,7 @@ MoveTutor_Text_DoubleEdgeDeclined:
 	.string "Zuk ere ezezkoa?$"
 
 MoveTutor_Text_DoubleEdgeWhichMon:
-	.string "Ongi, zein POKÉMONEK ikasiko du\n"
+	.string "Ongi, zein POKéMONEK ikasiko du\n"
 	.string "AHO-BIKOITZA?$"
 
 MoveTutor_Text_DoubleEdgeTaught:
@@ -227,10 +227,10 @@ MoveTutor_Text_ExplosionDeclined:
 
 MoveTutor_Text_ExplosionWhichMon:
 	.string "Ondo! EZTANDA bat, beraz!\n"
-	.string "Zein POKÉMONEK nahi du lehertu?$"
+	.string "Zein POKéMONEK nahi du lehertu?$"
 
 MoveTutor_Text_ExplosionTaught:
-	.string "Denbora luzean, POKéMONei erakusi\n"
+	.string "Denbora luzean, POKéMONEI erakusi\n"
 	.string "diet EZTANDA erabiltzen, baina\l"
 	.string "nik oraindik ez dut EZTANDA egin…\p"
 	.string "Izan daiteke, izatez, hemen\n"

@@ -3,16 +3,16 @@ gText_WouldYouLikeToRestYourPkmn::
 	.string "POKéMON ZENTRORA.\p"
 	.string "Zure POKéMON akituak\n"
 	.string "sendatzen ditugu hemen.\p"
-	.string "Nahi duzu zure POKéMONak sendatzea?$"
+	.string "Nahi duzu zure POKéMONAK sendatzea?$"
 
 gText_IllTakeYourPkmn::
-	.string "Ederki, utzi zure POKéMONak \n"
+	.string "Ederki, utzi zure POKéMONAK \n"
 	.string "pixka batean.$"
 
 gText_RestoredPkmnToFullHealth::
 	.string "Eskerrik asko itxaroteagatik.\p"
 	.string "Guztiz sendatu ditugu zure\n"
-	.string "POKéMONak.$"
+	.string "POKéMONAK.$"
 
 gText_WeHopeToSeeYouAgain::
 	.string "Bueltatu nahi duzunean!$"
@@ -34,14 +34,14 @@ gText_NoticesGoldCard::
 	.string "baina, {PLAYER}, zu zara URREZKOA\l"
 	.string "erakutsi didan lehenengoa!\p"
 	.string "Ongi, {PLAYER}, egin iezadazu\n"
-	.string "zure POKéMONak sendatzeko ohorea!$"
+	.string "zure POKéMONAK sendatzeko ohorea!$"
 
 gText_YouWantTheUsual::
 	.string "Asko pozten naiz zu ikusteaz, {PLAYER}!\n"
 	.string "Betiko nahi duzu, ezta?$"
 
 gText_IllTakeYourPkmn2::
-	.string "Ederki, utzi zure POKéMONak\n"
+	.string "Ederki, utzi zure POKéMONAK\n"
 	.string "pixka batean.$"
 
 gText_ThankYouForWaiting::
