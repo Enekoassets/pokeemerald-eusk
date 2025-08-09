@@ -1,573 +1,575 @@
 const u8 DecorDesc_SMALL_DESK[] = _(
-    "A small desk built\n"
-        "for one.");
+    "Pertsona batentzako\n"
+        "mahai txikia.");
 
 const u8 DecorDesc_POKEMON_DESK[] = _(
-    "A small desk built in\n"
-        "the shape of a POKé\n"
-        "BALL.");
+    "POKé BALL forma\n"
+        "duen idazmahai\n"
+        "txikia.");
 
 const u8 DecorDesc_HEAVY_DESK[] = _(
-    "A large desk made\n"
-        "of steel. Put some\n"
-        "decorations on it.");
+    "Altzairuz egindako\n"
+        "mahai handia. Ipini\n"
+        "apaingarriak gainean.");
 
 const u8 DecorDesc_RAGGED_DESK[] = _(
-    "A large desk made\n"
-        "of wood. Put some\n"
-        "decorations on it.");
+    "Egurren egindako\n"
+        "mahai handia. Ipini\n"
+        "apaingarriak gainean.");
 
 const u8 DecorDesc_COMFORT_DESK[] = _(
-    "A large desk made\n"
-        "of leaves. Put some\n"
-        "decorations on it.");
+    "Hostoekin egindako\n"
+        "mahai handia. Ipini\n"
+        "apaingarriak gainean.");
 
 const u8 DecorDesc_PRETTY_DESK[] = _(
-    "A huge desk made\n"
-        "of glass. Holds lots\n"
-        "of decorations.");
+    "Kristalezko mahai\n"
+        "erraldoia. Apaingarri\n"
+        "asko jarri daitezke.");
 
 const u8 DecorDesc_BRICK_DESK[] = _(
-    "A huge desk made\n"
-        "of brick. Holds lots\n"
-        "of decorations.");
+    "Adreiluzko mahai\n"
+        "erraldoia. Apaingarri\n"
+        "asko jarri daitezke.");
 
 const u8 DecorDesc_CAMP_DESK[] = _(
-    "A huge desk made\n"
-        "of logs. Put lots of\n"
-        "decorations on it.");
+    "Egurrezko mahai\n"
+        "erraldoia. Apaingarri\n"
+        "asko jarri gainean.");
 
 const u8 DecorDesc_HARD_DESK[] = _(
-    "A huge desk made\n"
-        "of rocks. Holds\n"
-        "many decorations.");
+    "Arrokazko mahai\n"
+        "erraldoia. Apaingarri\n"
+        "asko jarri daitezke.");
 
 const u8 DecorDesc_SMALL_CHAIR[] = _(
-    "A small chair made\n"
-        "for one.");
+    "Pertsona batentzako\n"
+        "aulki txikia.");
 
 const u8 DecorDesc_POKEMON_CHAIR[] = _(
-    "A small chair built\n"
-        "in the shape of a\n"
-        "POKé BALL.");
+    "POKé BALL forma\n"
+        "duen aulki\n"
+        "txikia.");
 
 const u8 DecorDesc_HEAVY_CHAIR[] = _(
-    "A small chair made\n"
-        "of steel.");
+    "Altzairuzko aulki\n"
+        "txikia.");
 
 const u8 DecorDesc_PRETTY_CHAIR[] = _(
-    "A small chair made\n"
-        "of glass.");
+    "Kristalezko aulki\n"
+        "txikia.");
 
 const u8 DecorDesc_COMFORT_CHAIR[] = _(
-    "A small chair made\n"
-        "of leaves.");
+    "Hostozko aulki\n"
+        "txikia.");
 
 const u8 DecorDesc_RAGGED_CHAIR[] = _(
-    "A small chair made\n"
-        "of wood.");
+    "Egurrezko aulki\n"
+        "txikia.");
 
 const u8 DecorDesc_BRICK_CHAIR[] = _(
-    "A small chair made\n"
-        "of brick.");
+    "Adreiluzko aulki\n"
+        "txikia.");
 
 const u8 DecorDesc_CAMP_CHAIR[] = _(
-    "A small chair made\n"
-        "of logs.");
+    "Enborrezko aulki\n"
+        "txikia.");
 
 const u8 DecorDesc_HARD_CHAIR[] = _(
-    "A small chair made\n"
-        "of rock.");
+    "Arrokazko aulki\n"
+        "txikia.");
 
 const u8 DecorDesc_RED_PLANT[] = _(
-    "A vivid red potted\n"
-        "plant.");
+    "Lorontziko landare\n"
+        "gorri bizia.");
 
 const u8 DecorDesc_TROPICAL_PLANT[] = _(
-    "A flowering tropical\n"
-        "plant in a pot.");
+    "Lorontziko landare\n"
+        "tropikal loreduna.");
 
 const u8 DecorDesc_PRETTY_FLOWERS[] = _(
-    "A pot of cute\n"
-        "flowers.");
+    "Lore politdun\n"
+        "lorontzia.");
 
 const u8 DecorDesc_COLORFUL_PLANT[] = _(
-    "A large pot with\n"
-        "many colorful\n"
-        "flowers.");
+    "Lore koloretsudun\n"
+        "lorontzi\n"
+        "handia.");
 
 const u8 DecorDesc_BIG_PLANT[] = _(
-    "A large, umbrella-\n"
-        "shaped plant in a\n"
-        "big pot.");
+    "Aterki formako\n"
+        "lorontziko landare\n"
+        "handia.");
 
 const u8 DecorDesc_GORGEOUS_PLANT[] = _(
-    "A large, impressive\n"
-        "plant in a big pot.");
+    "Landare handi eta\n"
+        "harrigarria.");
 
 const u8 DecorDesc_RED_BRICK[] = _(
-    "A red-colored brick.\n"
-        "Decorations can be\n"
-        "placed on top.");
+    "Adreilu gorria.\n"
+        "Gainean apaingarriak\n"
+        "jarri daitezke.");
 
 const u8 DecorDesc_YELLOW_BRICK[] = _(
-    "A yellow-colored\n"
-        "brick. Put some\n"
-        "decorations on top.");
+    "Adreilu horia.\n"
+        "Gainean apaingarriak\n"
+        "jarri daitezke.");
 
 const u8 DecorDesc_BLUE_BRICK[] = _(
-    "A blue-colored\n"
-        "brick. Put some\n"
-        "decorations on top.");
+    "Adreilu urdina.\n"
+        "Gainean apaingarriak\n"
+        "jarri daitezke.");
 
 const u8 DecorDesc_RED_BALLOON[] = _(
-    "A red balloon filled\n"
-        "with water. Bursts\n"
-        "if stepped on.");
+    "Urez beteriko globo\n"
+        "gorria. Zapaltzean\n"
+        "lehertu egiten da.");
 
 const u8 DecorDesc_BLUE_BALLOON[] = _(
-    "A blue balloon filled\n"
-        "with water. Bursts\n"
-        "if stepped on.");
+    "Urez beteriko globo\n"
+        "urdina. Zapaltzean\n"
+        "lehertu egiten da.");
 
 const u8 DecorDesc_YELLOW_BALLOON[] = _(
-    "A yellow balloon\n"
-        "filled with water.\n"
-        "Pops if stepped on.");
+    "Urez beteriko globo\n"
+        "horia. Zapaltzean\n"
+        "lehertu egiten da.");
 
 const u8 DecorDesc_RED_TENT[] = _(
-    "A large red tent.\n"
-        "You can hide inside\n"
-        "it.");
+    "Denda gorri handia.\n"
+        "Barruan ezkuta\n"
+        "zaitezke.");
 
 const u8 DecorDesc_BLUE_TENT[] = _(
-    "A large blue tent.\n"
-        "You can hide inside\n"
-        "it.");
+    "Denda urdin handia.\n"
+        "Barruan ezkuta\n"
+        "zaitezke.");
 
 const u8 DecorDesc_SOLID_BOARD[] = _(
-    "Place over a hole to\n"
-        "cross to the other\n"
-        "side.");
+    "Jarri zulo baten\n"
+        "gainean beste\n"
+        "aldera pasatzeko.");
 
 const u8 DecorDesc_SLIDE[] = _(
-    "Use to slide down\n"
-        "from the platform.");
+    "Erabili plataformatik\n"
+        "behera irristatzeko.");
 
 const u8 DecorDesc_FENCE_LENGTH[] = _(
-    "A small fence that\n"
-        "blocks passage.");
+    "Bidea ixten duen\n"
+        "hesi txikia.");
 
 const u8 DecorDesc_FENCE_WIDTH[] = _(
-    "A small fence that\n"
-        "blocks passage.");
+    "Bidea ixten duen\n"
+        "hesi txikia.");
 
 const u8 DecorDesc_TIRE[] = _(
-    "An old large tire.\n"
-        "Decorations can be\n"
-        "placed on top.");
+    "Neumatiko zaharra.\n"
+        "Gainean apaingarriak\n"
+        "jarri daitezke.");
 
 const u8 DecorDesc_STAND[] = _(
-    "A large pedestal\n"
-        "with steps.");
+    "Eskaileradun\n"
+        "podiuma.");
 
 const u8 DecorDesc_MUD_BALL[] = _(
-    "A large ball of mud.\n"
-        "Crumbles if stepped\n"
-        "on.");
+    "Lokatz bola handia.\n"
+        "Zapaltzerakoan hautsi\n"
+        "egiten da.");
 
 const u8 DecorDesc_BREAKABLE_DOOR[] = _(
-    "A weird door that\n"
-        "people can walk\n"
-        "right through.");
+    "Ate arraroa.\n"
+        "Jendea pasa\n"
+        "daiteke bertatik.");
 
 const u8 DecorDesc_SAND_ORNAMENT[] = _(
-    "An ornament made\n"
-        "of sand. Crumbles if\n"
-        "touched.");
+    "Hareaz egindako\n"
+        "apaingarria. Ukitzean\n"
+        "hautsi egiten da.");
 
 const u8 DecorDesc_SILVER_SHIELD[] = _(
-    "Awarded for 50\n"
-        "straight wins at\n"
-        "the BATTLE TOWER.");
+    "BORROKA DORREAN\n"
+        "50 garaipen jarraian\n"
+        "lortzeagatik emana.");
 
 const u8 DecorDesc_GOLD_SHIELD[] = _(
-    "Awarded for 100\n"
-        "straight wins at\n"
-        "the BATTLE TOWER.");
+    "BORROKA DORREAN\n"
+        "100 garaipen jarraian\n"
+        "lortzeagatik emana.");
 
 const u8 DecorDesc_GLASS_ORNAMENT[] = _(
-    "A glass replica of\n"
-        "a famous sculpture\n"
-        "at the ART MUSEUM.");
+    "ARTE MUSEOKO eskultura\n"
+        "famatu baten\n"
+        "kristalezko erreplika.");
 
 const u8 DecorDesc_TV[] = _(
-    "A small, gray-\n"
-        "colored toy TV.");
+    "Jostailuzko telebista\n"
+        "txiki grisa.");
 
 const u8 DecorDesc_ROUND_TV[] = _(
-    "A toy TV modeled\n"
-        "in the image of a\n"
-        "SEEDOT.");
+    "SEEDOT baten\n"
+        "itxurako jostailuzko\n"
+        "telebista.");
 
 const u8 DecorDesc_CUTE_TV[] = _(
-    "A toy TV modeled\n"
-        "in the image of a\n"
-        "SKITTY.");
+    "SKITTY baten\n"
+        "itxurako jostailuzko\n"
+        "telebista.");
 
 const u8 DecorDesc_GLITTER_MAT[] = _(
-    "An odd mat that\n"
-        "glitters if stepped\n"
-        "on.");
+    "Zapaltzean purpurina\n"
+        "botatzen duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_JUMP_MAT[] = _(
-    "A trick mat that\n"
-        "jumps when it is\n"
-        "stepped on.");
+    "Zapaltzean salto\n"
+        "egiten duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_SPIN_MAT[] = _(
-    "A trick mat that\n"
-        "spins around when\n"
-        "stepped on.");
+    "Zapaltzean birak\n"
+        "ematen dituen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_C_LOW_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a low C note when\n"
-        "stepped on.");
+    "Zapaltzean DO nota\n"
+        "ematen duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_D_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a D note when\n"
-        "stepped on.");
+    "Zapaltzean RE nota\n"
+        "ematen duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_E_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "an E note when\n"
-        "stepped on.");
+    "Zapaltzean MI nota\n"
+        "ematen duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_F_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "an F note when\n"
-        "stepped on.");
+    "Zapaltzean FA nota\n"
+        "ematen duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_G_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a G note when\n"
-        "stepped on.");
+    "Zapaltzean SOL nota\n"
+        "ematen duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_A_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "an A note when\n"
-        "stepped on.");
+    "Zapaltzean LA nota\n"
+        "ematen duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_B_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a B note when\n"
-        "stepped on.");
+    "Zapaltzean SI nota\n"
+        "ematen duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_C_HIGH_NOTE_MAT[] = _(
-    "A mat that plays\n"
-        "a high C note when\n"
-        "stepped on.");
+    "Zapaltzean DO nota\n"
+        "altua ematen duen\n"
+        "alfonbra bitxia.");
 
 const u8 DecorDesc_SURF_MAT[] = _(
-    "A mat designed with\n"
-        "a SURF image.\n"
-        "Put items on top.");
+    "SURF irudia duen\n"
+        "alfonbra txikia.\n"
+        "Ipini itemak gainean.");
 
 const u8 DecorDesc_THUNDER_MAT[] = _(
-    "A mat designed with\n"
-        "a THUNDER image.\n"
-        "Put items on top.");
+    "TRUMOI irudia duen\n"
+        "alfonbra txikia.\n"
+        "Ipini itemak gainean.");
 
 const u8 DecorDesc_FIRE_BLAST_MAT[] = _(
-    "A mat designed with\n"
-        "a FIRE BLAST image.\n"
-        "Put items on top.");
+    "SUGAR irudia duen\n"
+        "alfonbra txikia.\n"
+        "Ipini itemak gainean.");
 
 const u8 DecorDesc_POWDER_SNOW_MAT[] = _(
-    "A mat with a POWDER\n"
-        "SNOW image design.\n"
-        "Put items on top.");
+    "ELUR HAUTS irudia duen\n"
+        "alfonbra txikia.\n"
+        "Ipini itemak gainean.");
 
 const u8 DecorDesc_ATTRACT_MAT[] = _(
-    "A mat designed with\n"
-        "an ATTRACT image.\n"
-        "Put items on top.");
+    "MAITEMIN irudia duen\n"
+        "alfonbra txikia.\n"
+        "Ipini itemak gainean.");
 
 const u8 DecorDesc_FISSURE_MAT[] = _(
-    "A mat designed with\n"
-        "a FISSURE image.\n"
-        "Put items on top.");
+    "PITZADURA irudia duen\n"
+        "alfonbra txikia.\n"
+        "Ipini itemak gainean.");
 
 const u8 DecorDesc_SPIKES_MAT[] = _(
-    "A mat designed with\n"
-        "a SPIKES image.\n"
-        "Put items on top.");
+    "ARANTZA irudia duen\n"
+        "alfonbra txikia.\n"
+        "Ipini itemak gainean.");
 
 const u8 DecorDesc_BALL_POSTER[] = _(
-    "A small poster\n"
-        "printed with POKé\n"
-        "BALLS.");
+    "POKé BALLEN irudia\n"
+        "duen poster txikia.");
 
 const u8 DecorDesc_GREEN_POSTER[] = _(
-    "A small poster with\n"
-        "a TREECKO print.");
+    "TREECKOREN irudia\n"
+        "duen poster txikia.");
 
 const u8 DecorDesc_RED_POSTER[] = _(
-    "A small poster with\n"
-        "a TORCHIC print.");
+    "TORCHICEN irudia\n"
+        "duen poster txikia.");
 
 const u8 DecorDesc_BLUE_POSTER[] = _(
-    "A small poster with\n"
-        "a MUDKIP print.");
+    "MUDKIPEN irudia\n"
+        "duen poster txikia.");
 
 const u8 DecorDesc_CUTE_POSTER[] = _(
-    "A small poster with\n"
-        "an AZURILL print.");
+    "AZURILLEN irudia\n"
+        "duen poster txikia.");
 
 const u8 DecorDesc_PIKA_POSTER[] = _(
-    "A large poster with\n"
-        "a PIKACHU and\n"
-        "PICHU print.");
+    "PIKACU eta PICHUREN\n"
+        "irudia duen\n"
+        "poster handia.");
 
 const u8 DecorDesc_LONG_POSTER[] = _(
-    "A large poster with\n"
-        "a SEVIPER print.");
+    "SEVIPERREN irudia\n"
+        "duen poster\n"
+        "handia.");
 
 const u8 DecorDesc_SEA_POSTER[] = _(
-    "A large poster with\n"
-        "a RELICANTH print.");
+    "RELICANTHEN irudia\n"
+        "duen poster\n"
+        "handia.");
 
 const u8 DecorDesc_SKY_POSTER[] = _(
-    "A large poster with\n"
-        "a WINGULL print.");
+    "WINGULLEN irudia\n"
+        "duen poster\n"
+        "handia.");
 
 const u8 DecorDesc_KISS_POSTER[] = _(
-    "A large poster with\n"
-        "a SMOOCHUM print.");
+    "SMOOCHUMEN irudia\n"
+        "duen poster\n"
+        "handia.");
 
 const u8 DecorDesc_PICHU_DOLL[] = _(
-    "A PICHU doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "PICHUREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_PIKACHU_DOLL[] = _(
-    "A PIKACHU doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "PIKACHUREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_MARILL_DOLL[] = _(
-    "A MARILL doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "MARILLEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_TOGEPI_DOLL[] = _(
-    "A TOGEPI doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "TOGEPIREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_CYNDAQUIL_DOLL[] = _(
-    "A CYNDAQUIL doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "CYNDAQUILEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_CHIKORITA_DOLL[] = _(
-    "A CHIKORITA doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "CHIKORITAREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_TOTODILE_DOLL[] = _(
-    "A TOTODILE doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "TOTODILEREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_JIGGLYPUFF_DOLL[] = _(
-    "A JIGGLYPUFF doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "JIGGLYPUFFEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_MEOWTH_DOLL[] = _(
-    "A MEOWTH doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "MEOWTHEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_CLEFAIRY_DOLL[] = _(
-    "A CLEFAIRY doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "CLEFAIRYREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_DITTO_DOLL[] = _(
-    "A DITTO doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "DITTOREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_SMOOCHUM_DOLL[] = _(
-    "A SMOOCHUM doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "SMOOCHUMEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_TREECKO_DOLL[] = _(
-    "A TREECKO doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "TREECKOREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_TORCHIC_DOLL[] = _(
-    "A TORCHIC doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "TORCHICEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_MUDKIP_DOLL[] = _(
-    "A MUDKIP doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "MUDKIPEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_DUSKULL_DOLL[] = _(
-    "A DUSKULL doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "DUSKULLEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_WYNAUT_DOLL[] = _(
-    "A WYNAUT doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "WYNAUTEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_BALTOY_DOLL[] = _(
-    "A BALTOY doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "BALTOYEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_KECLEON_DOLL[] = _(
-    "A KECLEON doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "KECKLEONEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_AZURILL_DOLL[] = _(
-    "An AZURILL doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "AZURILLEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_SKITTY_DOLL[] = _(
-    "A SKITTY doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "SKITTYREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_SWABLU_DOLL[] = _(
-    "A SWABLU doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "SWABLUREN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_GULPIN_DOLL[] = _(
-    "A GULPIN doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "GULPINEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_LOTAD_DOLL[] = _(
-    "A LOTAD doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
-
+    "LOTADEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 const u8 DecorDesc_SEEDOT_DOLL[] = _(
-    "A SEEDOT doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "SEEDOTEN panpina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_PIKA_CUSHION[] = _(
-    "A PIKACHU cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "PIKACHUREN kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_ROUND_CUSHION[] = _(
-    "A MARILL cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "MARILLEN kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_KISS_CUSHION[] = _(
-    "A SMOOCHUM\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "SMOOCHUMEN kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_ZIGZAG_CUSHION[] = _(
-    "A ZIGZAGOON\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "ZIGZAGOONEN kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_SPIN_CUSHION[] = _(
-    "A SPINDA cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "SPINDAREN kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_DIAMOND_CUSHION[] = _(
-    "A SABLEYE cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "SABLEYEREN kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_BALL_CUSHION[] = _(
-    "A BALL cushion.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "BOLA baten kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_GRASS_CUSHION[] = _(
-    "A grass-mark\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "Belar-marka kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_FIRE_CUSHION[] = _(
-    "A fire-mark\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "Su-marka kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_WATER_CUSHION[] = _(
-    "A water-mark\n"
-        "cushion. Place it on\n"
-        "a mat or a desk.");
+    "Ur-marka kuxina.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_SNORLAX_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_RHYDON_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_LAPRAS_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_VENUSAUR_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_CHARIZARD_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_BLASTOISE_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_WAILMER_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_REGIROCK_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_REGICE_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");
 
 const u8 DecorDesc_REGISTEEL_DOLL[] = _(
-    "A large doll.\n"
-        "Place it on a mat\n"
-        "or a desk.");
+    "Panpina handia.\n"
+        "Ipini mahai edo\n"
+        "alfonbra batean.");

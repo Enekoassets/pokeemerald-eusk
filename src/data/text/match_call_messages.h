@@ -1,392 +1,392 @@
-const u8 gText_MatchCallAromaLady_Rose_Strategy[] = _("Becalm fighting emotions.");
-const u8 gText_MatchCallAromaLady_Rose_Pokemon[] = _("Fragrant GRASS POKéMON.");
-const u8 gText_MatchCallAromaLady_Rose_Intro1[] = _("Soothing aromas make the");
-const u8 gText_MatchCallAromaLady_Rose_Intro2[] = _("body and mind healthy.");
-
-const u8 gText_MatchCallRuinManiac_Andres_Strategy[] = _("I'm not very good at this.");
-const u8 gText_MatchCallRuinManiac_Andres_Pokemon[] = _("Ruin-exploration partners.");
-const u8 gText_MatchCallRuinManiac_Andres_Intro1[] = _("I am searching for undersea");
-const u8 gText_MatchCallRuinManiac_Andres_Intro2[] = _("ruins and relics.");
-
-const u8 gText_MatchCallRuinManiac_Dusty_Strategy[] = _("Overwhelm with power!");
-const u8 gText_MatchCallRuinManiac_Dusty_Pokemon[] = _("Craggy ROCK POKéMON.");
-const u8 gText_MatchCallRuinManiac_Dusty_Intro1[] = _("In search of ancient lore,");
-const u8 gText_MatchCallRuinManiac_Dusty_Intro2[] = _("I travel the world.");
-
-const u8 gText_MatchCallTuber_Lola_Strategy[] = _("I'm going to try hard!");
-const u8 gText_MatchCallTuber_Lola_Pokemon[] = _("Good swimmer POKéMON.");
-const u8 gText_MatchCallTuber_Lola_Intro1[] = _("I wish I could swim without");
-const u8 gText_MatchCallTuber_Lola_Intro2[] = _("using an inner tube.");
-
-const u8 gText_MatchCallTuber_Ricky_Strategy[] = _("I don't know. I'll try hard.");
-const u8 gText_MatchCallTuber_Ricky_Pokemon[] = _("WATER POKéMON are buddies.");
-const u8 gText_MatchCallTuber_Ricky_Intro1[] = _("It's not like I can't swim.");
-const u8 gText_MatchCallTuber_Ricky_Intro2[] = _("I just like my inner tube.");
-
-const u8 gText_MatchCallSisAndBro_LilaAndRoy_Strategy[] = _("We split our duties.");
-const u8 gText_MatchCallSisAndBro_LilaAndRoy_Pokemon[] = _("We like friendly POKéMON.");
-const u8 gText_MatchCallSisAndBro_LilaAndRoy_Intro1[] = _("We enjoy POKéMON together");
-const u8 gText_MatchCallSisAndBro_LilaAndRoy_Intro2[] = _("as sister and brother.");
-
-const u8 gText_MatchCallCooltrainer_Cristin_Strategy[] = _("I finish with power moves!");
-const u8 gText_MatchCallCooltrainer_Cristin_Pokemon[] = _("A mix of different types.");
-const u8 gText_MatchCallCooltrainer_Cristin_Intro1[] = _("I aim to become the ultimate");
-const u8 gText_MatchCallCooltrainer_Cristin_Intro2[] = _("TRAINER!");
-
-const u8 gText_MatchCallCooltrainer_Brooke_Strategy[] = _("Exploit the foe's weakness.");
-const u8 gText_MatchCallCooltrainer_Brooke_Pokemon[] = _("Balance is crucial.");
-const u8 gText_MatchCallCooltrainer_Brooke_Intro1[] = _("My goal is to become the");
-const u8 gText_MatchCallCooltrainer_Brooke_Intro2[] = _("POKéMON CHAMPION.");
-
-const u8 gText_MatchCallCooltrainer_Wilton_Strategy[] = _("Upset the opponent.");
-const u8 gText_MatchCallCooltrainer_Wilton_Pokemon[] = _("Type doesn't matter.");
-const u8 gText_MatchCallCooltrainer_Wilton_Intro1[] = _("I'm a top student at the");
-const u8 gText_MatchCallCooltrainer_Wilton_Intro2[] = _("TRAINER'S SCHOOL.");
-
-const u8 gText_MatchCallHexManiac_Valerie_Strategy[] = _("Slow, steady suffering.");
-const u8 gText_MatchCallHexManiac_Valerie_Pokemon[] = _("Scary to meet at night.");
-const u8 gText_MatchCallHexManiac_Valerie_Intro1[] = _("I see things that others");
-const u8 gText_MatchCallHexManiac_Valerie_Intro2[] = _("can't see...");
-
-const u8 gText_MatchCallLady_Cindy_Strategy[] = _("Anything to win.");
-const u8 gText_MatchCallLady_Cindy_Pokemon[] = _("Gorgeous type!");
-const u8 gText_MatchCallLady_Cindy_Intro1[] = _("I have a pool specially for");
-const u8 gText_MatchCallLady_Cindy_Intro2[] = _("my POKéMON at home.");
-
-const u8 gText_MatchCallBeauty_Thalia_Strategy[] = _("You'll fall under my spell!");
-const u8 gText_MatchCallBeauty_Thalia_Pokemon[] = _("Mature WATER type.");
-const u8 gText_MatchCallBeauty_Thalia_Intro1[] = _("I dream of cruising around");
-const u8 gText_MatchCallBeauty_Thalia_Intro2[] = _("the world on a luxury liner.");
-
-const u8 gText_MatchCallBeauty_Jessica_Strategy[] = _("I'll lead you astray.");
-const u8 gText_MatchCallBeauty_Jessica_Pokemon[] = _("Cute, of course.");
-const u8 gText_MatchCallBeauty_Jessica_Intro1[] = _("I love the SAFARI ZONE.");
-const u8 gText_MatchCallBeauty_Jessica_Intro2[] = _("I seem to end up there.");
-
-const u8 gText_MatchCallRichBoy_Winston_Strategy[] = _("Strategy? Who needs it?");
-const u8 gText_MatchCallRichBoy_Winston_Pokemon[] = _("I spent big money on it!");
-const u8 gText_MatchCallRichBoy_Winston_Intro1[] = _("I, being rich, sleep in a");
-const u8 gText_MatchCallRichBoy_Winston_Intro2[] = _("custom POKéMON bed.");
-
-const u8 gText_MatchCallPokeManiac_Steve_Strategy[] = _("Wrestle down with power.");
-const u8 gText_MatchCallPokeManiac_Steve_Pokemon[] = _("Took all night to catch.");
-const u8 gText_MatchCallPokeManiac_Steve_Intro1[] = _("Big, burly, and buff");
-const u8 gText_MatchCallPokeManiac_Steve_Intro2[] = _("POKéMON are the best...");
-
-const u8 gText_MatchCallSwimmer_Tony_Strategy[] = _("Ram at full speed!");
-const u8 gText_MatchCallSwimmer_Tony_Pokemon[] = _("Funky WATER type!");
-const u8 gText_MatchCallSwimmer_Tony_Intro1[] = _("If I can't be out swimming,");
-const u8 gText_MatchCallSwimmer_Tony_Intro2[] = _("I'll be pumping weights.");
-
-const u8 gText_MatchCallBlackBelt_Nob_Strategy[] = _("Grand slam pummeling!");
-const u8 gText_MatchCallBlackBelt_Nob_Pokemon[] = _("FIGHTING type.");
-const u8 gText_MatchCallBlackBelt_Nob_Intro1[] = _("Not to brag, but I can bust");
-const u8 gText_MatchCallBlackBelt_Nob_Intro2[] = _("ten roof tiles!");
-
-const u8 gText_MatchCallBlackBelt_Koji_Strategy[] = _("Witness karate power!");
-const u8 gText_MatchCallBlackBelt_Koji_Pokemon[] = _("My partners in training!");
-const u8 gText_MatchCallBlackBelt_Koji_Intro1[] = _("Let us discuss matters of");
-const u8 gText_MatchCallBlackBelt_Koji_Intro2[] = _("the world with bare fists!");
-
-const u8 gText_MatchCallGuitarist_Fernando_Strategy[] = _("Rock to stunning sounds!");
-const u8 gText_MatchCallGuitarist_Fernando_Pokemon[] = _("Electric-and-sound combo!");
-const u8 gText_MatchCallGuitarist_Fernando_Intro1[] = _("My compositions will shock");
-const u8 gText_MatchCallGuitarist_Fernando_Intro2[] = _("you and stun you!");
-
-const u8 gText_MatchCallGuitarist_Dalton_Strategy[] = _("I'll electrify you!");
-const u8 gText_MatchCallGuitarist_Dalton_Pokemon[] = _("They're ELECTRIC!");
-const u8 gText_MatchCallGuitarist_Dalton_Intro1[] = _("I want to make people cry");
-const u8 gText_MatchCallGuitarist_Dalton_Intro2[] = _("with songs from my heart.");
-
-const u8 gText_MatchCallKindler_Bernie_Strategy[] = _("Burn it all down!");
-const u8 gText_MatchCallKindler_Bernie_Pokemon[] = _("Burn-inducing POKéMON.");
-const u8 gText_MatchCallKindler_Bernie_Intro1[] = _("When you light a campfire,");
-const u8 gText_MatchCallKindler_Bernie_Intro2[] = _("be sure there's some water.");
-
-const u8 gText_MatchCallCamper_Ethan_Strategy[] = _("Hang in and be tenacious!");
-const u8 gText_MatchCallCamper_Ethan_Pokemon[] = _("I'll raise any POKéMON.");
-const u8 gText_MatchCallCamper_Ethan_Intro1[] = _("POKéMON raised in the wild");
-const u8 gText_MatchCallCamper_Ethan_Intro2[] = _("grow strong!");
-
-const u8 gText_MatchCallOldCouple_JohnAndJay_Strategy[] = _("Our love lets us prevail.");
-const u8 gText_MatchCallOldCouple_JohnAndJay_Pokemon[] = _("We've had them for years.");
-const u8 gText_MatchCallOldCouple_JohnAndJay_Intro1[] = _("Married 50 years, we've");
-const u8 gText_MatchCallOldCouple_JohnAndJay_Intro2[] = _("devotedly raised POKéMON.");
-
-const u8 gText_MatchCallBugManiac_Jeffrey_Strategy[] = _("Attack in waves!");
-const u8 gText_MatchCallBugManiac_Jeffrey_Pokemon[] = _("BUG POKéMON are cool.");
-const u8 gText_MatchCallBugManiac_Jeffrey_Intro1[] = _("I go into the forest every");
-const u8 gText_MatchCallBugManiac_Jeffrey_Intro2[] = _("day to catch BUG POKéMON.");
-
-const u8 gText_MatchCallPsychic_Cameron_Strategy[] = _("Daze and confuse!");
-const u8 gText_MatchCallPsychic_Cameron_Pokemon[] = _("Ones with weird powers.");
-const u8 gText_MatchCallPsychic_Cameron_Intro1[] = _("I can see through exactly");
-const u8 gText_MatchCallPsychic_Cameron_Intro2[] = _("what you're thinking!");
-
-const u8 gText_MatchCallPsychic_Jacki_Strategy[] = _("Battle at full power.");
-const u8 gText_MatchCallPsychic_Jacki_Pokemon[] = _("POKéMON of many mysteries.");
-const u8 gText_MatchCallPsychic_Jacki_Intro1[] = _("When we spoke, I was really");
-const u8 gText_MatchCallPsychic_Jacki_Intro2[] = _("using telepathy.");
-
-const u8 gText_MatchCallGentleman_Walter_Strategy[] = _("Calm and collected.");
-const u8 gText_MatchCallGentleman_Walter_Pokemon[] = _("POKéMON of distinction.");
-const u8 gText_MatchCallGentleman_Walter_Intro1[] = _("We enjoy a spot of tea");
-const u8 gText_MatchCallGentleman_Walter_Intro2[] = _("every day. It's imported.");
-
-const u8 gText_MatchCallSchoolKid_Karen_Strategy[] = _("I use my head to battle.");
-const u8 gText_MatchCallSchoolKid_Karen_Pokemon[] = _("I love any kind of POKéMON!");
-const u8 gText_MatchCallSchoolKid_Karen_Intro1[] = _("My daddy gives me spending");
-const u8 gText_MatchCallSchoolKid_Karen_Intro2[] = _("money if I ace a test.");
-
-const u8 gText_MatchCallSchoolKid_Jerry_Strategy[] = _("My knowledge rules!");
-const u8 gText_MatchCallSchoolKid_Jerry_Pokemon[] = _("Any smart POKéMON!");
-const u8 gText_MatchCallSchoolKid_Jerry_Intro1[] = _("I want to be a POKéMON");
-const u8 gText_MatchCallSchoolKid_Jerry_Intro2[] = _("researcher in the future.");
-
-const u8 gText_MatchCallSrAndJr_AnnaAndMeg_Strategy[] = _("We talk it over first.");
-const u8 gText_MatchCallSrAndJr_AnnaAndMeg_Pokemon[] = _("POKéMON that we both like.");
-const u8 gText_MatchCallSrAndJr_AnnaAndMeg_Intro1[] = _("We're senior and junior");
-const u8 gText_MatchCallSrAndJr_AnnaAndMeg_Intro2[] = _("students into POKéMON!");
-
-const u8 gText_MatchCallPokefan_Isabel_Strategy[] = _("Go for it, my dears!");
-const u8 gText_MatchCallPokefan_Isabel_Pokemon[] = _("I have no likes or dislikes.");
-const u8 gText_MatchCallPokefan_Isabel_Intro1[] = _("While out shopping for");
-const u8 gText_MatchCallPokefan_Isabel_Intro2[] = _("supper, I battle too.");
-
-const u8 gText_MatchCallPokefan_Miguel_Strategy[] = _("I battle with love!");
-const u8 gText_MatchCallPokefan_Miguel_Pokemon[] = _("A POKéMON raised with love!");
-const u8 gText_MatchCallPokefan_Miguel_Intro1[] = _("It's important to build");
-const u8 gText_MatchCallPokefan_Miguel_Intro2[] = _("trust with your POKéMON.");
-
-const u8 gText_MatchCallExpert_Timothy_Strategy[] = _("I see through your moves!");
-const u8 gText_MatchCallExpert_Timothy_Pokemon[] = _("The essence of FIGHTING.");
-const u8 gText_MatchCallExpert_Timothy_Intro1[] = _("I'm not ready to give way");
-const u8 gText_MatchCallExpert_Timothy_Intro2[] = _("to the young yet!");
-
-const u8 gText_MatchCallExpert_Shelby_Strategy[] = _("Attack while defending.");
-const u8 gText_MatchCallExpert_Shelby_Pokemon[] = _("The FIGHTING type.");
-const u8 gText_MatchCallExpert_Shelby_Intro1[] = _("Being old, I have my own");
-const u8 gText_MatchCallExpert_Shelby_Intro2[] = _("style of battling.");
-
-const u8 gText_MatchCallYoungster_Calvin_Strategy[] = _("I do what I can.");
-const u8 gText_MatchCallYoungster_Calvin_Pokemon[] = _("I use different types.");
-const u8 gText_MatchCallYoungster_Calvin_Intro1[] = _("I'm going to keep working");
-const u8 gText_MatchCallYoungster_Calvin_Intro2[] = _("until I beat a GYM LEADER.");
-
-const u8 gText_MatchCallFisherman_Elliot_Strategy[] = _("I battle patiently.");
-const u8 gText_MatchCallFisherman_Elliot_Pokemon[] = _("WATER POKéMON to battle!");
-const u8 gText_MatchCallFisherman_Elliot_Intro1[] = _("I'm the world's only guy to");
-const u8 gText_MatchCallFisherman_Elliot_Intro2[] = _("catch a huge POKéMON!");
-
-const u8 gText_MatchCallTriathlete_Isaiah_Strategy[] = _("Exploit the environment!");
-const u8 gText_MatchCallTriathlete_Isaiah_Pokemon[] = _("All hail the WATER type!");
-const u8 gText_MatchCallTriathlete_Isaiah_Intro1[] = _("I won't be beaten by some");
-const u8 gText_MatchCallTriathlete_Isaiah_Intro2[] = _("beach bum SWIMMER!");
-
-const u8 gText_MatchCallTriathlete_Maria_Strategy[] = _("Speed above all!");
-const u8 gText_MatchCallTriathlete_Maria_Pokemon[] = _("I use a speedy POKéMON.");
-const u8 gText_MatchCallTriathlete_Maria_Intro1[] = _("A marathon is a challenge");
-const u8 gText_MatchCallTriathlete_Maria_Intro2[] = _("against your own self.");
-
-const u8 gText_MatchCallTriathlete_Abigail_Strategy[] = _("Defense is crucial.");
-const u8 gText_MatchCallTriathlete_Abigail_Pokemon[] = _("My POKéMON is solid.");
-const u8 gText_MatchCallTriathlete_Abigail_Intro1[] = _("I started this for dieting,");
-const u8 gText_MatchCallTriathlete_Abigail_Intro2[] = _("but I got right into it.");
-
-const u8 gText_MatchCallTriathlete_Dylan_Strategy[] = _("Strike before stricken!");
-const u8 gText_MatchCallTriathlete_Dylan_Pokemon[] = _("A fast-running POKéMON!");
-const u8 gText_MatchCallTriathlete_Dylan_Intro1[] = _("If you ran and ran, you'd");
-const u8 gText_MatchCallTriathlete_Dylan_Intro2[] = _("become one with the wind.");
-
-const u8 gText_MatchCallTriathlete_Katelyn_Strategy[] = _("All-out offensive!");
-const u8 gText_MatchCallTriathlete_Katelyn_Pokemon[] = _("WATER POKéMON rule!");
-const u8 gText_MatchCallTriathlete_Katelyn_Intro1[] = _("I must swim over 6 miles");
-const u8 gText_MatchCallTriathlete_Katelyn_Intro2[] = _("every day.");
-
-const u8 gText_MatchCallTriathlete_Benjamin_Strategy[] = _("Push and push again!");
-const u8 gText_MatchCallTriathlete_Benjamin_Pokemon[] = _("The strength of STEEL.");
-const u8 gText_MatchCallTriathlete_Benjamin_Intro1[] = _("If you're sweating, get");
-const u8 gText_MatchCallTriathlete_Benjamin_Intro2[] = _("fluids into you regularly.");
-
-const u8 gText_MatchCallTriathlete_Pablo_Strategy[] = _("Draw the power of WATER.");
-const u8 gText_MatchCallTriathlete_Pablo_Pokemon[] = _("Toughened WATER POKéMON.");
-const u8 gText_MatchCallTriathlete_Pablo_Intro1[] = _("Training POKéMON is good,");
-const u8 gText_MatchCallTriathlete_Pablo_Intro2[] = _("but don't neglect yourself.");
-
-const u8 gText_MatchCallDragonTamer_Nicolas_Strategy[] = _("It's about POKéMON power!");
-const u8 gText_MatchCallDragonTamer_Nicolas_Pokemon[] = _("See the power of DRAGONS!");
-const u8 gText_MatchCallDragonTamer_Nicolas_Intro1[] = _("I'll become legendary as the");
-const u8 gText_MatchCallDragonTamer_Nicolas_Intro2[] = _("strongest one day!");
-
-const u8 gText_MatchCallBirdKeeper_Robert_Strategy[] = _("I'll show you my technique!");
-const u8 gText_MatchCallBirdKeeper_Robert_Pokemon[] = _("Elegantly wheeling BIRDS.");
-const u8 gText_MatchCallBirdKeeper_Robert_Intro1[] = _("My BIRD POKéMON, deliver my");
-const u8 gText_MatchCallBirdKeeper_Robert_Intro2[] = _("love to that girl!");
-
-const u8 gText_MatchCallNinjaBoy_Lao_Strategy[] = _("You'll suffer from poison!");
-const u8 gText_MatchCallNinjaBoy_Lao_Pokemon[] = _("Poisonous POKéMON.");
-const u8 gText_MatchCallNinjaBoy_Lao_Intro1[] = _("I undertake training so");
-const u8 gText_MatchCallNinjaBoy_Lao_Intro2[] = _("that I may become a ninja.");
-
-const u8 gText_MatchCallBattleGirl_Cyndy_Strategy[] = _("The first strike wins!");
-const u8 gText_MatchCallBattleGirl_Cyndy_Pokemon[] = _("Speedy FIGHTING type.");
-const u8 gText_MatchCallBattleGirl_Cyndy_Intro1[] = _("If my POKéMON lose,");
-const u8 gText_MatchCallBattleGirl_Cyndy_Intro2[] = _("I'll carry on the fight!");
-
-const u8 gText_MatchCallParasolLady_Madeline_Strategy[] = _("Go, go, my POKéMON!");
-const u8 gText_MatchCallParasolLady_Madeline_Pokemon[] = _("I'll raise anything.");
-const u8 gText_MatchCallParasolLady_Madeline_Intro1[] = _("UV rays are your skin's");
-const u8 gText_MatchCallParasolLady_Madeline_Intro2[] = _("enemy. Get protected.");
-
-const u8 gText_MatchCallSwimmer_Jenny_Strategy[] = _("No mercy!");
-const u8 gText_MatchCallSwimmer_Jenny_Pokemon[] = _("Cute WATER POKéMON.");
-const u8 gText_MatchCallSwimmer_Jenny_Intro1[] = _("I have too many fans.");
-const u8 gText_MatchCallSwimmer_Jenny_Intro2[] = _("I was interviewed on TV.");
-
-const u8 gText_MatchCallPicnicker_Diana_Strategy[] = _("I think about this & that.");
-const u8 gText_MatchCallPicnicker_Diana_Pokemon[] = _("I like all POKéMON.");
-const u8 gText_MatchCallPicnicker_Diana_Intro1[] = _("What lies beyond that");
-const u8 gText_MatchCallPicnicker_Diana_Intro2[] = _("yonder hill?");
-
-const u8 gText_MatchCallTwins_AmyAndLiv_Strategy[] = _("We battle together!");
-const u8 gText_MatchCallTwins_AmyAndLiv_Pokemon[] = _("We train together!");
-const u8 gText_MatchCallTwins_AmyAndLiv_Intro1[] = _("We like the same POKéMON,");
-const u8 gText_MatchCallTwins_AmyAndLiv_Intro2[] = _("but different desserts.");
-
-const u8 gText_MatchCallSailor_Ernest_Strategy[] = _("I force things with power!");
-const u8 gText_MatchCallSailor_Ernest_Pokemon[] = _("WATER and FIGHTING types.");
-const u8 gText_MatchCallSailor_Ernest_Intro1[] = _("Seamen are rough spirits!");
-const u8 gText_MatchCallSailor_Ernest_Intro2[] = _("Any complaints?");
-
-const u8 gText_MatchCallSailor_Cory_Strategy[] = _("Up for a fight anytime!");
-const u8 gText_MatchCallSailor_Cory_Pokemon[] = _("WATER POKéMON are my faves!");
-const u8 gText_MatchCallSailor_Cory_Intro1[] = _("If you want to shout loud,");
-const u8 gText_MatchCallSailor_Cory_Intro2[] = _("suck in air with your belly!");
-
-const u8 gText_MatchCallCollector_Edwin_Strategy[] = _("Protect POKéMON from harm.");
-const u8 gText_MatchCallCollector_Edwin_Pokemon[] = _("I love rare POKéMON.");
-const u8 gText_MatchCallCollector_Edwin_Intro1[] = _("I want to collect all the");
-const u8 gText_MatchCallCollector_Edwin_Intro2[] = _("world's rare POKéMON.");
-
-const u8 gText_MatchCallPkmnBreeder_Lydia_Strategy[] = _("I count on power.");
-const u8 gText_MatchCallPkmnBreeder_Lydia_Pokemon[] = _("POKéMON are my children.");
-const u8 gText_MatchCallPkmnBreeder_Lydia_Intro1[] = _("It takes knowledge and");
-const u8 gText_MatchCallPkmnBreeder_Lydia_Intro2[] = _("love to raise POKéMON.");
-
-const u8 gText_MatchCallPkmnBreeder_Isaac_Strategy[] = _("Full-on attack!");
-const u8 gText_MatchCallPkmnBreeder_Isaac_Pokemon[] = _("Anything. I'll raise it.");
-const u8 gText_MatchCallPkmnBreeder_Isaac_Intro1[] = _("I give them {POKEBLOCK}S for");
-const u8 gText_MatchCallPkmnBreeder_Isaac_Intro2[] = _("going after CONTEST titles.");
-
-const u8 gText_MatchCallPkmnBreeder_Gabrielle_Strategy[] = _("I raise POKéMON with care.");
-const u8 gText_MatchCallPkmnBreeder_Gabrielle_Pokemon[] = _("Fun-to-raise POKéMON.");
-const u8 gText_MatchCallPkmnBreeder_Gabrielle_Intro1[] = _("Treat every POKéMON you");
-const u8 gText_MatchCallPkmnBreeder_Gabrielle_Intro2[] = _("meet with respect.");
-
-const u8 gText_MatchCallPkmnRanger_Catherine_Strategy[] = _("I believe in my POKéMON.");
-const u8 gText_MatchCallPkmnRanger_Catherine_Pokemon[] = _("I like strong POKéMON.");
-const u8 gText_MatchCallPkmnRanger_Catherine_Intro1[] = _("I'm training for rescue");
-const u8 gText_MatchCallPkmnRanger_Catherine_Intro2[] = _("work with my POKéMON.");
-
-const u8 gText_MatchCallPkmnRanger_Jackson_Strategy[] = _("Attack in waves!");
-const u8 gText_MatchCallPkmnRanger_Jackson_Pokemon[] = _("I use different types.");
-const u8 gText_MatchCallPkmnRanger_Jackson_Intro1[] = _("Those who destroy nature");
-const u8 gText_MatchCallPkmnRanger_Jackson_Intro2[] = _("must never be forgiven!");
-
-const u8 gText_MatchCallLass_Haley_Strategy[] = _("I'll show you some guts!");
-const u8 gText_MatchCallLass_Haley_Pokemon[] = _("Cute POKéMON are my faves!");
-const u8 gText_MatchCallLass_Haley_Intro1[] = _("After a battle, I always");
-const u8 gText_MatchCallLass_Haley_Intro2[] = _("bathe with my POKéMON.");
-
-const u8 gText_MatchCallBugCatcher_James_Strategy[] = _("Lightning-fast attack!");
-const u8 gText_MatchCallBugCatcher_James_Pokemon[] = _("BUG POKéMON are number 1!");
-const u8 gText_MatchCallBugCatcher_James_Intro1[] = _("If you want to catch BUG");
-const u8 gText_MatchCallBugCatcher_James_Intro2[] = _("POKéMON, wake up early.");
-
-const u8 gText_MatchCallHiker_Trent_Strategy[] = _("I battle with power.");
-const u8 gText_MatchCallHiker_Trent_Pokemon[] = _("Hard-bodied POKéMON.");
-const u8 gText_MatchCallHiker_Trent_Intro1[] = _("I've been planning a month");
-const u8 gText_MatchCallHiker_Trent_Intro2[] = _("for today's hike.");
-
-const u8 gText_MatchCallHiker_Sawyer_Strategy[] = _("I like it hot!");
-const u8 gText_MatchCallHiker_Sawyer_Pokemon[] = _("Hot POKéMON!");
-const u8 gText_MatchCallHiker_Sawyer_Intro1[] = _("As much as I love POKéMON,");
-const u8 gText_MatchCallHiker_Sawyer_Intro2[] = _("I surely like hiking!");
-
-const u8 gText_MatchCallYoungCouple_LoisAndHal_Strategy[] = _("Lovey-dovey strategy!");
-const u8 gText_MatchCallYoungCouple_LoisAndHal_Pokemon[] = _("Lovey-dovey POKéMON!");
-const u8 gText_MatchCallYoungCouple_LoisAndHal_Intro1[] = _("We're lovey-dovey!");
-const u8 gText_MatchCallYoungCouple_LoisAndHal_Intro2[] = _("Forever lovey-dovey!");
-
-const u8 gText_MatchCallPkmnTrainer_Wally_Strategy[] = _("We let it all hang out.");
-const u8 gText_MatchCallPkmnTrainer_Wally_Pokemon[] = _("The 1st POKéMON I caught.");
-const u8 gText_MatchCallPkmnTrainer_Wally_Intro1[] = _("POKéMON and I have grown");
-const u8 gText_MatchCallPkmnTrainer_Wally_Intro2[] = _("stronger together.");
-
-const u8 gText_MatchCallRockinWhiz_Roxanne_Strategy[] = _("ROCK-type power attack.");
-const u8 gText_MatchCallRockinWhiz_Roxanne_Pokemon[] = _("I prefer rock-hard POKéMON.");
-const u8 gText_MatchCallRockinWhiz_Roxanne_Intro1[] = _("A LEADER of a big GYM bears");
-const u8 gText_MatchCallRockinWhiz_Roxanne_Intro2[] = _("a lot of responsibility.");
-
-const u8 gText_MatchCallTheBigHit_Brawly_Strategy[] = _("Direct physical action!");
-const u8 gText_MatchCallTheBigHit_Brawly_Pokemon[] = _("FIGHTING POKéMON rule!");
-const u8 gText_MatchCallTheBigHit_Brawly_Intro1[] = _("The world awaits me as the");
-const u8 gText_MatchCallTheBigHit_Brawly_Intro2[] = _("next big wave!");
-
-const u8 gText_MatchCallSwellShock_Wattson_Strategy[] = _("I choose to electrify.");
-const u8 gText_MatchCallSwellShock_Wattson_Pokemon[] = _("Get shocked by electricity!");
-const u8 gText_MatchCallSwellShock_Wattson_Intro1[] = _("One must never throw a");
-const u8 gText_MatchCallSwellShock_Wattson_Intro2[] = _("match. Even I must not.");
-
-const u8 gText_MatchCallPassionBurn_Flannery_Strategy[] = _("Battle aggressively.");
-const u8 gText_MatchCallPassionBurn_Flannery_Pokemon[] = _("Burn with passion!");
-const u8 gText_MatchCallPassionBurn_Flannery_Intro1[] = _("Completely wash away daily");
-const u8 gText_MatchCallPassionBurn_Flannery_Intro2[] = _("fatigue in hot springs!");
-
-const u8 gText_MatchCallReliableOne_Dad_Strategy[] = _("I flexibly adapt my style.");
-const u8 gText_MatchCallReliableOne_Dad_Pokemon[] = _("Grown in a balanced manner.");
-const u8 gText_MatchCallReliableOne_Dad_Intro1[] = _("I walk the 30 minutes from");
-const u8 gText_MatchCallReliableOne_Dad_Intro2[] = _("home to here every day.");
-
-const u8 gText_MatchCallSkyTamer_Winona_Strategy[] = _("I take advantage of speed.");
-const u8 gText_MatchCallSkyTamer_Winona_Pokemon[] = _("Graceful sky dancers.");
-const u8 gText_MatchCallSkyTamer_Winona_Intro1[] = _("The ultimate would be to");
-const u8 gText_MatchCallSkyTamer_Winona_Intro2[] = _("live as one with nature.");
-
-const u8 gText_MatchCallMysticDuo_TateAndLiza_Strategy[] = _("We battle in cooperation.");
-const u8 gText_MatchCallMysticDuo_TateAndLiza_Pokemon[] = _("Always friendly POKéMON.");
-const u8 gText_MatchCallMysticDuo_TateAndLiza_Intro1[] = _("Papa has trouble telling");
-const u8 gText_MatchCallMysticDuo_TateAndLiza_Intro2[] = _("the two of us apart!");
-
-const u8 gText_MatchCallDandyCharm_Juan_Strategy[] = _("I use splendid waterpower.");
-const u8 gText_MatchCallDandyCharm_Juan_Pokemon[] = _("POKéMON of elegance!");
-const u8 gText_MatchCallDandyCharm_Juan_Intro1[] = _("The adulation of beautiful");
-const u8 gText_MatchCallDandyCharm_Juan_Intro2[] = _("ladies fills me with energy!");
-
-const u8 gText_MatchCallEliteFour_Sidney_Strategy[] = _("Offense over defense!");
-const u8 gText_MatchCallEliteFour_Sidney_Pokemon[] = _("The DARK side's beauties.");
-const u8 gText_MatchCallEliteFour_Sidney_Intro1[] = _("They said I was a punk, but");
-const u8 gText_MatchCallEliteFour_Sidney_Intro2[] = _("I'm one of the ELITE FOUR!");
-
-const u8 gText_MatchCallEliteFour_Phoebe_Strategy[] = _("Confuse and confound.");
-const u8 gText_MatchCallEliteFour_Phoebe_Pokemon[] = _("There's nothing definite.");
-const u8 gText_MatchCallEliteFour_Phoebe_Intro1[] = _("I wonder how my grandma at");
-const u8 gText_MatchCallEliteFour_Phoebe_Intro2[] = _("MT. PYRE is doing?");
-
-const u8 gText_MatchCallEliteFour_Glacia_Strategy[] = _("I use items for help.");
-const u8 gText_MatchCallEliteFour_Glacia_Pokemon[] = _("Flaming passion in icy cold!");
-const u8 gText_MatchCallEliteFour_Glacia_Intro1[] = _("The ICE type can be better");
-const u8 gText_MatchCallEliteFour_Glacia_Intro2[] = _("trained in this hot land.");
-
-const u8 gText_MatchCallEliteFour_Drake_Strategy[] = _("Harness strong abilities.");
-const u8 gText_MatchCallEliteFour_Drake_Pokemon[] = _("The raw power of DRAGONS!");
-const u8 gText_MatchCallEliteFour_Drake_Intro1[] = _("I dedicate myself to the");
-const u8 gText_MatchCallEliteFour_Drake_Intro2[] = _("POKéMON that saved me.");
-
-const u8 gText_MatchCallChampion_Wallace_Strategy[] = _("Dignity and respect.");
-const u8 gText_MatchCallChampion_Wallace_Pokemon[] = _("I prefer POKéMON of grace.");
-const u8 gText_MatchCallChampion_Wallace_Intro1[] = _("I represent beauty as");
-const u8 gText_MatchCallChampion_Wallace_Intro2[] = _("well as intelligence.");
+const u8 gText_MatchCallAromaLady_Rose_Strategy[] = _("Lasaitu borrokarako gogoa.");
+const u8 gText_MatchCallAromaLady_Rose_Pokemon[] = _("BELAR POKéMON lurrintsuak.");
+const u8 gText_MatchCallAromaLady_Rose_Intro1[] = _("Usain goxoak burua eta");
+const u8 gText_MatchCallAromaLady_Rose_Intro2[] = _("gorputza sendatzen dute.");
+
+const u8 gText_MatchCallRuinManiac_Andres_Strategy[] = _("Ez naiz oso ona honetan.");
+const u8 gText_MatchCallRuinManiac_Andres_Pokemon[] = _("Hondakin esploratzaile lagunak.");
+const u8 gText_MatchCallRuinManiac_Andres_Intro1[] = _("Ur azpiko hondakin eta");
+const u8 gText_MatchCallRuinManiac_Andres_Intro2[] = _("erlikia bila nabil.");
+
+const u8 gText_MatchCallRuinManiac_Dusty_Strategy[] = _("Boterez garaitu!");
+const u8 gText_MatchCallRuinManiac_Dusty_Pokemon[] = _("ARROKA POKéMON malkartsuak.");
+const u8 gText_MatchCallRuinManiac_Dusty_Intro1[] = _("Aspaldiko historiaren bila,");
+const u8 gText_MatchCallRuinManiac_Dusty_Intro2[] = _("mundua zeharkatzen dut.");
+
+const u8 gText_MatchCallTuber_Lola_Strategy[] = _("Asko saiatuko naiz!");
+const u8 gText_MatchCallTuber_Lola_Pokemon[] = _("Igerian onak diren POKéMONAK.");
+const u8 gText_MatchCallTuber_Lola_Intro1[] = _("Flotagailu gabe igeri");
+const u8 gText_MatchCallTuber_Lola_Intro2[] = _("egiten jakin nahi nuke.");
+
+const u8 gText_MatchCallTuber_Ricky_Strategy[] = _("Ez dakit. Saiatuko naiz.");
+const u8 gText_MatchCallTuber_Ricky_Pokemon[] = _("UR POKéMONAK lagunak dira.");
+const u8 gText_MatchCallTuber_Ricky_Intro1[] = _("Ez da ez dakidala igerian.");
+const u8 gText_MatchCallTuber_Ricky_Intro2[] = _("Flotagailua atsegin dut soilik.");
+
+const u8 gText_MatchCallSisAndBro_LilaAndRoy_Strategy[] = _("Lanak elkarbanatzen ditugu.");
+const u8 gText_MatchCallSisAndBro_LilaAndRoy_Pokemon[] = _("POKéMON lagunkoiak atsegin ditugu.");
+const u8 gText_MatchCallSisAndBro_LilaAndRoy_Intro1[] = _("POKéMONEKIN gozatzen dugu");
+const u8 gText_MatchCallSisAndBro_LilaAndRoy_Intro2[] = _("batera, anai arreba gisan.");
+
+const u8 gText_MatchCallCooltrainer_Cristin_Strategy[] = _("Eraso indartsuekin bukatzen dut!");
+const u8 gText_MatchCallCooltrainer_Cristin_Pokemon[] = _("Mota desberdinen nahasketa.");
+const u8 gText_MatchCallCooltrainer_Cristin_Intro1[] = _("ENTRENATZAILE onena bihurtuko");
+const u8 gText_MatchCallCooltrainer_Cristin_Intro2[] = _("naiz!");
+
+const u8 gText_MatchCallCooltrainer_Brooke_Strategy[] = _("Etsaiaren ahulgunea baliatu.");
+const u8 gText_MatchCallCooltrainer_Brooke_Pokemon[] = _("Oreka da garrantzitsuena.");
+const u8 gText_MatchCallCooltrainer_Brooke_Intro1[] = _("Nire helburua POKéMON");
+const u8 gText_MatchCallCooltrainer_Brooke_Intro2[] = _("TXAPELDUNA izatea da.");
+
+const u8 gText_MatchCallCooltrainer_Wilton_Strategy[] = _("Etsaia nahigabetu.");
+const u8 gText_MatchCallCooltrainer_Wilton_Pokemon[] = _("Motak ez du axola.");
+const u8 gText_MatchCallCooltrainer_Wilton_Intro1[] = _("ENTRENATZAILEEN ESKOLAKO");
+const u8 gText_MatchCallCooltrainer_Wilton_Intro2[] = _("ikasle onenetakoa naiz.");
+
+const u8 gText_MatchCallHexManiac_Valerie_Strategy[] = _("Sufrimendu motel apurkakoa.");
+const u8 gText_MatchCallHexManiac_Valerie_Pokemon[] = _("Gauean elkartzeko beldurgarria.");
+const u8 gText_MatchCallHexManiac_Valerie_Intro1[] = _("Besteek ikusi ezin dutena");
+const u8 gText_MatchCallHexManiac_Valerie_Intro2[] = _("ikusi dezaket...");
+
+const u8 gText_MatchCallLady_Cindy_Strategy[] = _("Irabazteko, edozer.");
+const u8 gText_MatchCallLady_Cindy_Pokemon[] = _("Mota ederrak!");
+const u8 gText_MatchCallLady_Cindy_Intro1[] = _("Nire POKéMONENTZAT etxean");
+const u8 gText_MatchCallLady_Cindy_Intro2[] = _("igerilekua daukat.");
+
+const u8 gText_MatchCallBeauty_Thalia_Strategy[] = _("Sorgindu egingo zaitut!");
+const u8 gText_MatchCallBeauty_Thalia_Pokemon[] = _("UR mota da helduena.");
+const u8 gText_MatchCallBeauty_Thalia_Intro1[] = _("Luxuzko itsasontzi batean");
+const u8 gText_MatchCallBeauty_Thalia_Intro2[] = _("mundua zeharkatu nahi dut.");
+
+const u8 gText_MatchCallBeauty_Jessica_Strategy[] = _("Galarazi egingo zaitut.");
+const u8 gText_MatchCallBeauty_Jessica_Pokemon[] = _("Polita, noski.");
+const u8 gText_MatchCallBeauty_Jessica_Intro1[] = _("SAFARI GUNEA maite dut.");
+const u8 gText_MatchCallBeauty_Jessica_Intro2[] = _("Hor bukatzen dut beti.");
+
+const u8 gText_MatchCallRichBoy_Winston_Strategy[] = _("Estrategia? Zertarako?");
+const u8 gText_MatchCallRichBoy_Winston_Pokemon[] = _("Diru asko gastatu dut!");
+const u8 gText_MatchCallRichBoy_Winston_Intro1[] = _("Aberatsa naizenez POKéMON");
+const u8 gText_MatchCallRichBoy_Winston_Intro2[] = _("ohe pertsonalizatua dut.");
+
+const u8 gText_MatchCallPokeManiac_Steve_Strategy[] = _("Borrokatu botere handiz.");
+const u8 gText_MatchCallPokeManiac_Steve_Pokemon[] = _("Gau osoa behar harrapatzeko.");
+const u8 gText_MatchCallPokeManiac_Steve_Intro1[] = _("POKéMON handi, indartsu eta");
+const u8 gText_MatchCallPokeManiac_Steve_Intro2[] = _("gartsuak dira onenak...");
+
+const u8 gText_MatchCallSwimmer_Tony_Strategy[] = _("Azkar eman kolpea!");
+const u8 gText_MatchCallSwimmer_Tony_Pokemon[] = _("UR mota funkya!");
+const u8 gText_MatchCallSwimmer_Tony_Intro1[] = _("Ez banago igerian,");
+const u8 gText_MatchCallSwimmer_Tony_Intro2[] = _("pisua altxatzen nago.");
+
+const u8 gText_MatchCallBlackBelt_Nob_Strategy[] = _("Zartakoka, dinbi danba!");
+const u8 gText_MatchCallBlackBelt_Nob_Pokemon[] = _("BORROKA mota.");
+const u8 gText_MatchCallBlackBelt_Nob_Intro1[] = _("Ez da harrokeria, baina");
+const u8 gText_MatchCallBlackBelt_Nob_Intro2[] = _("hamar teila puska ditzaket!");
+
+const u8 gText_MatchCallBlackBelt_Koji_Strategy[] = _("Begira karatearen indarra!");
+const u8 gText_MatchCallBlackBelt_Koji_Pokemon[] = _("Nire lagunekin entrenatzen!");
+const u8 gText_MatchCallBlackBelt_Koji_Intro1[] = _("Eztabaidatu dezagun ukabilen");
+const u8 gText_MatchCallBlackBelt_Koji_Intro2[] = _("indarra askatuz!");
+
+const u8 gText_MatchCallGuitarist_Fernando_Strategy[] = _("Rocka eta doinu bortitzak!");
+const u8 gText_MatchCallGuitarist_Fernando_Pokemon[] = _("Soinua eta elektrizitatea!");
+const u8 gText_MatchCallGuitarist_Fernando_Intro1[] = _("Nire abestiek ziztatu");
+const u8 gText_MatchCallGuitarist_Fernando_Intro2[] = _("eta kolpatuko zaituzte!");
+
+const u8 gText_MatchCallGuitarist_Dalton_Strategy[] = _("Elektrifikatu egingo zaitut!");
+const u8 gText_MatchCallGuitarist_Dalton_Pokemon[] = _("ELEKTRIKOAK dira!");
+const u8 gText_MatchCallGuitarist_Dalton_Intro1[] = _("Pertsonak negarrez utzi nahi");
+const u8 gText_MatchCallGuitarist_Dalton_Intro2[] = _("ditut nire abestiekin.");
+
+const u8 gText_MatchCallKindler_Bernie_Strategy[] = _("Erre guztiak!");
+const u8 gText_MatchCallKindler_Bernie_Pokemon[] = _("Erretzen duten POKéMONAK.");
+const u8 gText_MatchCallKindler_Bernie_Intro1[] = _("Mendian sua egitean, ez");
+const u8 gText_MatchCallKindler_Bernie_Intro2[] = _("ahaztu ura edukitzea.");
+
+const u8 gText_MatchCallCamper_Ethan_Strategy[] = _("Gogor eutsi eta izan ekina!");
+const u8 gText_MatchCallCamper_Ethan_Pokemon[] = _("Edozein POKéMON haziko dut.");
+const u8 gText_MatchCallCamper_Ethan_Intro1[] = _("Basatiak izan dire POKéMONAK");
+const u8 gText_MatchCallCamper_Ethan_Intro2[] = _("indartsuak dira!");
+
+const u8 gText_MatchCallOldCouple_JohnAndJay_Strategy[] = _("Gure maitasunak garaituko zaitu.");
+const u8 gText_MatchCallOldCouple_JohnAndJay_Pokemon[] = _("Aspalditik dauzkagu.");
+const u8 gText_MatchCallOldCouple_JohnAndJay_Intro1[] = _("50 urte ezkonduta, kartsuki");
+const u8 gText_MatchCallOldCouple_JohnAndJay_Intro2[] = _("hazi ditugu POKéMONAK.");
+
+const u8 gText_MatchCallBugManiac_Jeffrey_Strategy[] = _("Oldeka eraso!");
+const u8 gText_MatchCallBugManiac_Jeffrey_Pokemon[] = _("ZOMORRO POKéMONAK itzelak dira.");
+const u8 gText_MatchCallBugManiac_Jeffrey_Intro1[] = _("Egunero joaten naiz basora");
+const u8 gText_MatchCallBugManiac_Jeffrey_Intro2[] = _("ZOMORRO POKéMONAK harrapatzera.");
+
+const u8 gText_MatchCallPsychic_Cameron_Strategy[] = _("Harritu eta nahastu!");
+const u8 gText_MatchCallPsychic_Cameron_Pokemon[] = _("Botere arraroak dituztenak.");
+const u8 gText_MatchCallPsychic_Cameron_Intro1[] = _("Zehatz mehatz ikusi dezaket");
+const u8 gText_MatchCallPsychic_Cameron_Intro2[] = _("zer ari zaren pentsatzen!");
+
+const u8 gText_MatchCallPsychic_Jacki_Strategy[] = _("Borrokatu indar guztiz.");
+const u8 gText_MatchCallPsychic_Jacki_Pokemon[] = _("POKéMON misteriotsuak.");
+const u8 gText_MatchCallPsychic_Jacki_Intro1[] = _("Hitz egin genuenean, ni");
+const u8 gText_MatchCallPsychic_Jacki_Intro2[] = _("telepatikoki ari nintzen.");
+
+const u8 gText_MatchCallGentleman_Walter_Strategy[] = _("Lasaia eta neurtua.");
+const u8 gText_MatchCallGentleman_Walter_Pokemon[] = _("Aparteko POKéMONAK.");
+const u8 gText_MatchCallGentleman_Walter_Intro1[] = _("Egunero te berezi bat");
+const u8 gText_MatchCallGentleman_Walter_Intro2[] = _("hartzen dugu. Inportatua.");
+
+const u8 gText_MatchCallSchoolKid_Karen_Strategy[] = _("Burua erabiltzen dut borrokan.");
+const u8 gText_MatchCallSchoolKid_Karen_Pokemon[] = _("Edozein POKéMON atsegin dut!");
+const u8 gText_MatchCallSchoolKid_Karen_Intro1[] = _("Aitatxok dirua ematen dit");
+const u8 gText_MatchCallSchoolKid_Karen_Intro2[] = _("azterketa ondo egiten badut.");
+
+const u8 gText_MatchCallSchoolKid_Jerry_Strategy[] = _("Nire jakinduria paregabea da!");
+const u8 gText_MatchCallSchoolKid_Jerry_Pokemon[] = _("Azkarrak diren POKéMONAK!");
+const u8 gText_MatchCallSchoolKid_Jerry_Intro1[] = _("Etorkizunean POKéMON");
+const u8 gText_MatchCallSchoolKid_Jerry_Intro2[] = _("ikertzailea izan nahi dut.");
+
+const u8 gText_MatchCallSrAndJr_AnnaAndMeg_Strategy[] = _("Lehenengo hitz egiten dugu.");
+const u8 gText_MatchCallSrAndJr_AnnaAndMeg_Pokemon[] = _("Biok atsegin ditugun POKéMONAK.");
+const u8 gText_MatchCallSrAndJr_AnnaAndMeg_Intro1[] = _("POKéMON ikasle hasiberria");
+const u8 gText_MatchCallSrAndJr_AnnaAndMeg_Intro2[] = _("eta trebatua gara!");
+
+const u8 gText_MatchCallPokefan_Isabel_Strategy[] = _("Saia zaitezte, maiteok!");
+const u8 gText_MatchCallPokefan_Isabel_Pokemon[] = _("Ez dut ezer atsegin edo gorroto.");
+const u8 gText_MatchCallPokefan_Isabel_Intro1[] = _("Afaria erostera joaten naizenean");
+const u8 gText_MatchCallPokefan_Isabel_Intro2[] = _("borrokatu ere egiten dut.");
+
+const u8 gText_MatchCallPokefan_Miguel_Strategy[] = _("Maitasunez borrokatzen dut!");
+const u8 gText_MatchCallPokefan_Miguel_Pokemon[] = _("Maitasunez hazitako POKéMONAK!");
+const u8 gText_MatchCallPokefan_Miguel_Intro1[] = _("Garrantzitsua da zure");
+const u8 gText_MatchCallPokefan_Miguel_Intro2[] = _("POKéMONEKIN konfidantza izatea.");
+
+const u8 gText_MatchCallExpert_Timothy_Strategy[] = _("Zure erasoak aurreikus ditzaket!");
+const u8 gText_MatchCallExpert_Timothy_Pokemon[] = _("BORROKAREN esentzia.");
+const u8 gText_MatchCallExpert_Timothy_Intro1[] = _("Oraindik ez nago prest");
+const u8 gText_MatchCallExpert_Timothy_Intro2[] = _("gazteei irabazten uzteko!");
+
+const u8 gText_MatchCallExpert_Shelby_Strategy[] = _("Eraso defendatu bitartean.");
+const u8 gText_MatchCallExpert_Shelby_Pokemon[] = _("BORROKA mota.");
+const u8 gText_MatchCallExpert_Shelby_Intro1[] = _("Zaharra naizenez, nire");
+const u8 gText_MatchCallExpert_Shelby_Intro2[] = _("bororka estiloa landu dut.");
+
+const u8 gText_MatchCallYoungster_Calvin_Strategy[] = _("Ahal dudana egiten dut.");
+const u8 gText_MatchCallYoungster_Calvin_Pokemon[] = _("Mota desberdinak.");
+const u8 gText_MatchCallYoungster_Calvin_Intro1[] = _("Lanean jarraituko dut GIMNASIOKO");
+const u8 gText_MatchCallYoungster_Calvin_Intro2[] = _("LIDER bati irabazi arte.");
+
+const u8 gText_MatchCallFisherman_Elliot_Strategy[] = _("Pazientziaz borrokatzen dut.");
+const u8 gText_MatchCallFisherman_Elliot_Pokemon[] = _("UR POKéMONAK borrokarako!");
+const u8 gText_MatchCallFisherman_Elliot_Intro1[] = _("Munduan POKéMON erraldoi bat");
+const u8 gText_MatchCallFisherman_Elliot_Intro2[] = _("harrapatu duen bakarra naiz!");
+
+const u8 gText_MatchCallTriathlete_Isaiah_Strategy[] = _("Erabili eguraldia!");
+const u8 gText_MatchCallTriathlete_Isaiah_Pokemon[] = _("Goraipatu UR MOTA!");
+const u8 gText_MatchCallTriathlete_Isaiah_Intro1[] = _("Ez nau edonolako IGERILARI");
+const u8 gText_MatchCallTriathlete_Isaiah_Intro2[] = _("batek garaituko!");
+
+const u8 gText_MatchCallTriathlete_Maria_Strategy[] = _("Abiadura da garrantisuena!");
+const u8 gText_MatchCallTriathlete_Maria_Pokemon[] = _("POKéMON azkarrak erabiltzen ditut.");
+const u8 gText_MatchCallTriathlete_Maria_Intro1[] = _("Maratoia norbere buruaren");
+const u8 gText_MatchCallTriathlete_Maria_Intro2[] = _("aurkako erronka da.");
+
+const u8 gText_MatchCallTriathlete_Abigail_Strategy[] = _("Defentsa erabakigarria da.");
+const u8 gText_MatchCallTriathlete_Abigail_Pokemon[] = _("Nire POKéMONA solidoa da.");
+const u8 gText_MatchCallTriathlete_Abigail_Intro1[] = _("Dieta egiteko hasi nintzen,");
+const u8 gText_MatchCallTriathlete_Abigail_Intro2[] = _("baina azkenean gustatu.");
+
+const u8 gText_MatchCallTriathlete_Dylan_Strategy[] = _("Zuk jo zu ez zaitzaten jo!");
+const u8 gText_MatchCallTriathlete_Dylan_Pokemon[] = _("POKéMON bizi eta azkarrak!");
+const u8 gText_MatchCallTriathlete_Dylan_Intro1[] = _("Korri eta korri eginda,");
+const u8 gText_MatchCallTriathlete_Dylan_Intro2[] = _("haizearekin bat egingo zara.");
+
+const u8 gText_MatchCallTriathlete_Katelyn_Strategy[] = _("Erasoa da garrantzitsuena!");
+const u8 gText_MatchCallTriathlete_Katelyn_Pokemon[] = _("UR POKéMONAK bikainak dira!");
+const u8 gText_MatchCallTriathlete_Katelyn_Intro1[] = _("Egunero 10 kilometro egin");
+const u8 gText_MatchCallTriathlete_Katelyn_Intro2[] = _("behar ditut igerian.");
+
+const u8 gText_MatchCallTriathlete_Benjamin_Strategy[] = _("Bultza eta bultza beti!");
+const u8 gText_MatchCallTriathlete_Benjamin_Pokemon[] = _("ALTZAIRUAREN indarra.");
+const u8 gText_MatchCallTriathlete_Benjamin_Intro1[] = _("Izerditzen baduzu, mantendu");
+const u8 gText_MatchCallTriathlete_Benjamin_Intro2[] = _("zaitez hidratatuta.");
+
+const u8 gText_MatchCallTriathlete_Pablo_Strategy[] = _("Erabili URAREN indarra.");
+const u8 gText_MatchCallTriathlete_Pablo_Pokemon[] = _("UR POKéMON indartsuak.");
+const u8 gText_MatchCallTriathlete_Pablo_Intro1[] = _("POKéMONAK entrenatu, bai,");
+const u8 gText_MatchCallTriathlete_Pablo_Intro2[] = _("baina zu ere bai.");
+
+const u8 gText_MatchCallDragonTamer_Nicolas_Strategy[] = _("POKéMONEN indarra da gakoa!");
+const u8 gText_MatchCallDragonTamer_Nicolas_Pokemon[] = _("Ikusi DRAGOIEN indarra!");
+const u8 gText_MatchCallDragonTamer_Nicolas_Intro1[] = _("Noizbait indartsuena eta");
+const u8 gText_MatchCallDragonTamer_Nicolas_Intro2[] = _("kondairazkoa izango naiz!");
+
+const u8 gText_MatchCallBirdKeeper_Robert_Strategy[] = _("Nire teknika erakutsiko dizut!");
+const u8 gText_MatchCallBirdKeeper_Robert_Pokemon[] = _("TXORI dotore eta indartsuak.");
+const u8 gText_MatchCallBirdKeeper_Robert_Intro1[] = _("Nire TXORI POKéMONAK, bidali");
+const u8 gText_MatchCallBirdKeeper_Robert_Intro2[] = _("nire maitasuna neska horri!");
+
+const u8 gText_MatchCallNinjaBoy_Lao_Strategy[] = _("Pozoinak suntsituko zaitu!");
+const u8 gText_MatchCallNinjaBoy_Lao_Pokemon[] = _("POKéMON pozointsuak.");
+const u8 gText_MatchCallNinjaBoy_Lao_Intro1[] = _("Asko entrenatzen dut");
+const u8 gText_MatchCallNinjaBoy_Lao_Intro2[] = _("ninja bihurtzeko.");
+
+const u8 gText_MatchCallBattleGirl_Cyndy_Strategy[] = _("Lehen kolpea da behinena!");
+const u8 gText_MatchCallBattleGirl_Cyndy_Pokemon[] = _("Azkarrak eta BORROKA motakoak.");
+const u8 gText_MatchCallBattleGirl_Cyndy_Intro1[] = _("Nire POKéMONEK galtzen badute,");
+const u8 gText_MatchCallBattleGirl_Cyndy_Intro2[] = _("nik jarraituko dut borrokan!");
+
+const u8 gText_MatchCallParasolLady_Madeline_Strategy[] = _("Goazen, nire POKéMONAK!");
+const u8 gText_MatchCallParasolLady_Madeline_Pokemon[] = _("Edozer haziko dut.");
+const u8 gText_MatchCallParasolLady_Madeline_Intro1[] = _("Eguzki izpiak ez dira onak");
+const u8 gText_MatchCallParasolLady_Madeline_Intro2[] = _("azalerako. Ondo babestu.");
+
+const u8 gText_MatchCallSwimmer_Jenny_Strategy[] = _("Errukirik ez!");
+const u8 gText_MatchCallSwimmer_Jenny_Pokemon[] = _("UR POKéMON politak.");
+const u8 gText_MatchCallSwimmer_Jenny_Intro1[] = _("Fan gehiegi ditut.");
+const u8 gText_MatchCallSwimmer_Jenny_Intro2[] = _("Telebistan agertu nintzen.");
+
+const u8 gText_MatchCallPicnicker_Diana_Strategy[] = _("Beti pentsatzen ari naiz.");
+const u8 gText_MatchCallPicnicker_Diana_Pokemon[] = _("POKéMON guztiak atsegin ditut.");
+const u8 gText_MatchCallPicnicker_Diana_Intro1[] = _("Zer ote dago horko muino");
+const u8 gText_MatchCallPicnicker_Diana_Intro2[] = _("horren atzean?");
+
+const u8 gText_MatchCallTwins_AmyAndLiv_Strategy[] = _("Batera borrokatzen dugu!");
+const u8 gText_MatchCallTwins_AmyAndLiv_Pokemon[] = _("Batera entrenatzen dugu!");
+const u8 gText_MatchCallTwins_AmyAndLiv_Intro1[] = _("POKéMON berdinak atsegin ditugu,");
+const u8 gText_MatchCallTwins_AmyAndLiv_Intro2[] = _("baina postre desberdinak.");
+
+const u8 gText_MatchCallSailor_Ernest_Strategy[] = _("Indarrez egiten dut dena!");
+const u8 gText_MatchCallSailor_Ernest_Pokemon[] = _("UR eta BORROKA motak.");
+const u8 gText_MatchCallSailor_Ernest_Intro1[] = _("Itsasgizonak zailduak gara!");
+const u8 gText_MatchCallSailor_Ernest_Intro2[] = _("Kexarik bai, ala?");
+
+const u8 gText_MatchCallSailor_Cory_Strategy[] = _("Beti borrokarako prest!");
+const u8 gText_MatchCallSailor_Cory_Pokemon[] = _("UR POKéMONAK ditut gustokoen!");
+const u8 gText_MatchCallSailor_Cory_Intro1[] = _("Indarrez oihu egiteko,");
+const u8 gText_MatchCallSailor_Cory_Intro2[] = _("hartu harnasa sabelarekin!");
+
+const u8 gText_MatchCallCollector_Edwin_Strategy[] = _("Babestu POKéMONAK minetik.");
+const u8 gText_MatchCallCollector_Edwin_Pokemon[] = _("POKéMON arraroak atsegin ditut.");
+const u8 gText_MatchCallCollector_Edwin_Intro1[] = _("Munduko POKéMON arraro guztiak");
+const u8 gText_MatchCallCollector_Edwin_Intro2[] = _("bildu nahi nituzke.");
+
+const u8 gText_MatchCallPkmnBreeder_Lydia_Strategy[] = _("Botereaz baliatzen naiz.");
+const u8 gText_MatchCallPkmnBreeder_Lydia_Pokemon[] = _("POKéMONAK nire umeak dira.");
+const u8 gText_MatchCallPkmnBreeder_Lydia_Intro1[] = _("Jakinduria eta maitasuna behar");
+const u8 gText_MatchCallPkmnBreeder_Lydia_Intro2[] = _("dira POKéMONAK hazteko.");
+
+const u8 gText_MatchCallPkmnBreeder_Isaac_Strategy[] = _("Eraso, beti!");
+const u8 gText_MatchCallPkmnBreeder_Isaac_Pokemon[] = _("Edozer. Nik haziko dut.");
+const u8 gText_MatchCallPkmnBreeder_Isaac_Intro1[] = _("{POKEBLOCK}AK ematen dizkiet");
+const u8 gText_MatchCallPkmnBreeder_Isaac_Intro2[] = _("TXAPELKETAK irabazteko.");
+
+const u8 gText_MatchCallPkmnBreeder_Gabrielle_Strategy[] = _("Arretaz zaintzen ditut POKéMONAK.");
+const u8 gText_MatchCallPkmnBreeder_Gabrielle_Pokemon[] = _("POKéMON dibertigarriak.");
+const u8 gText_MatchCallPkmnBreeder_Gabrielle_Intro1[] = _("Ezagutzen duzun POKéMON oro");
+const u8 gText_MatchCallPkmnBreeder_Gabrielle_Intro2[] = _("errespetuz tratatu.");
+
+const u8 gText_MatchCallPkmnRanger_Catherine_Strategy[] = _("Nire POKéMONENGAN sinisten dut.");
+const u8 gText_MatchCallPkmnRanger_Catherine_Pokemon[] = _("POKéMON indartsuak ditut gustoko.");
+const u8 gText_MatchCallPkmnRanger_Catherine_Intro1[] = _("Nire POKéMONEKIN erreskate lanak");
+const u8 gText_MatchCallPkmnRanger_Catherine_Intro2[] = _("egiteko entrenatzen dut.");
+
+const u8 gText_MatchCallPkmnRanger_Jackson_Strategy[] = _("Oldeka eraso!");
+const u8 gText_MatchCallPkmnRanger_Jackson_Pokemon[] = _("Mota desberdinak erabiltzen ditut.");
+const u8 gText_MatchCallPkmnRanger_Jackson_Intro1[] = _("Natura suntsitzen dutenei");
+const u8 gText_MatchCallPkmnRanger_Jackson_Intro2[] = _("ez zaie barkatu behar!");
+
+const u8 gText_MatchCallLass_Haley_Strategy[] = _("Ikusiko duzu ausardia zer den!");
+const u8 gText_MatchCallLass_Haley_Pokemon[] = _("POKéMON politak ditut gustokoen!");
+const u8 gText_MatchCallLass_Haley_Intro1[] = _("Borrokatu ostean, beti bainatzen");
+const u8 gText_MatchCallLass_Haley_Intro2[] = _("naiz nire POKéMONEKIN.");
+
+const u8 gText_MatchCallBugCatcher_James_Strategy[] = _("Tximista-lako erasoak!");
+const u8 gText_MatchCallBugCatcher_James_Pokemon[] = _("ZOMORRO POKéMONAK dira onenak!");
+const u8 gText_MatchCallBugCatcher_James_Intro1[] = _("ZOMORRO POKéMON bat harrapatzeko");
+const u8 gText_MatchCallBugCatcher_James_Intro2[] = _("goiz esnatu beharra dago.");
+
+const u8 gText_MatchCallHiker_Trent_Strategy[] = _("Indarrez borrokatzen dut.");
+const u8 gText_MatchCallHiker_Trent_Pokemon[] = _("Gorputz gogorreko POKéMONAK.");
+const u8 gText_MatchCallHiker_Trent_Intro1[] = _("Gaurko mendi-buelta hilabetez");
+const u8 gText_MatchCallHiker_Trent_Intro2[] = _("egon naiz prestatzen.");
+
+const u8 gText_MatchCallHiker_Sawyer_Strategy[] = _("Beroa atsegin dut!");
+const u8 gText_MatchCallHiker_Sawyer_Pokemon[] = _("POKéMON beroak!");
+const u8 gText_MatchCallHiker_Sawyer_Intro1[] = _("POKéMONAK bezainbeste atsegin");
+const u8 gText_MatchCallHiker_Sawyer_Intro2[] = _("ditut mendi-bueltak!");
+
+const u8 gText_MatchCallYoungCouple_LoisAndHal_Strategy[] = _("Maite-maite estrategia!");
+const u8 gText_MatchCallYoungCouple_LoisAndHal_Pokemon[] = _("Maite-maite POKéMONAK!");
+const u8 gText_MatchCallYoungCouple_LoisAndHal_Intro1[] = _("Maite-maite gara!");
+const u8 gText_MatchCallYoungCouple_LoisAndHal_Intro2[] = _("Maite-maite betiko!");
+
+const u8 gText_MatchCallPkmnTrainer_Wally_Strategy[] = _("Dena jartzen dugu jokoan.");
+const u8 gText_MatchCallPkmnTrainer_Wally_Pokemon[] = _("Harrapatzen dudan lehen POKéMONA.");
+const u8 gText_MatchCallPkmnTrainer_Wally_Intro1[] = _("POKéMONAK eta ni batera");
+const u8 gText_MatchCallPkmnTrainer_Wally_Intro2[] = _("indartu gara.");
+
+const u8 gText_MatchCallRockinWhiz_Roxanne_Strategy[] = _("ARROKA motako eraso indartsuak.");
+const u8 gText_MatchCallRockinWhiz_Roxanne_Pokemon[] = _("Arrokak bezain gogorrak direnak.");
+const u8 gText_MatchCallRockinWhiz_Roxanne_Intro1[] = _("GIMNASIOKO LIDER batek");
+const u8 gText_MatchCallRockinWhiz_Roxanne_Intro2[] = _("ardura handia du beti.");
+
+const u8 gText_MatchCallTheBigHit_Brawly_Strategy[] = _("Ekintza fisiko zuzena!");
+const u8 gText_MatchCallTheBigHit_Brawly_Pokemon[] = _("BORROKA POKéMONAK dira onenak!");
+const u8 gText_MatchCallTheBigHit_Brawly_Intro1[] = _("Mundua nire zain dago hurrengo");
+const u8 gText_MatchCallTheBigHit_Brawly_Intro2[] = _("indar berria izateko!");
+
+const u8 gText_MatchCallSwellShock_Wattson_Strategy[] = _("Elektrifikatzea aukeratu dut.");
+const u8 gText_MatchCallSwellShock_Wattson_Pokemon[] = _("Elektrizitateak zizta zaitzala!");
+const u8 gText_MatchCallSwellShock_Wattson_Intro1[] = _("Inoiz ez zara errenditu behar");
+const u8 gText_MatchCallSwellShock_Wattson_Intro2[] = _("borroka batean. Ni ere ez.");
+
+const u8 gText_MatchCallPassionBurn_Flannery_Strategy[] = _("Oldartuz borrokatu.");
+const u8 gText_MatchCallPassionBurn_Flannery_Pokemon[] = _("Erre pasioz!");
+const u8 gText_MatchCallPassionBurn_Flannery_Intro1[] = _("Ur-termaletan sendatu");
+const u8 gText_MatchCallPassionBurn_Flannery_Intro2[] = _("eguneko neke guztiak!");
+
+const u8 gText_MatchCallReliableOne_Dad_Strategy[] = _("Erraz egokitzen dut nire estiloa.");
+const u8 gText_MatchCallReliableOne_Dad_Pokemon[] = _("Era orekatuan haziak.");
+const u8 gText_MatchCallReliableOne_Dad_Intro1[] = _("Egunero oinez egiten dut etxetik");
+const u8 gText_MatchCallReliableOne_Dad_Intro2[] = _("honako 30 minutuko bidea.");
+
+const u8 gText_MatchCallSkyTamer_Winona_Strategy[] = _("Abiaduraz baliatzen naiz.");
+const u8 gText_MatchCallSkyTamer_Winona_Pokemon[] = _("Zeruko dantzari dotoreak.");
+const u8 gText_MatchCallSkyTamer_Winona_Intro1[] = _("Azken ametsa naturarekin");
+const u8 gText_MatchCallSkyTamer_Winona_Intro2[] = _("bat bizitzea litzateke.");
+
+const u8 gText_MatchCallMysticDuo_TateAndLiza_Strategy[] = _("Elkarlanean borrokatzen dugu.");
+const u8 gText_MatchCallMysticDuo_TateAndLiza_Pokemon[] = _("Beti lagunkoiak diren POKéMONAK.");
+const u8 gText_MatchCallMysticDuo_TateAndLiza_Intro1[] = _("Aitak askotan ez daki");
+const u8 gText_MatchCallMysticDuo_TateAndLiza_Intro2[] = _("bietan nor den nor!");
+
+const u8 gText_MatchCallDandyCharm_Juan_Strategy[] = _("Uraren indar itzela erabiltzen dut.");
+const u8 gText_MatchCallDandyCharm_Juan_Pokemon[] = _("POKéMON dotoreak!");
+const u8 gText_MatchCallDandyCharm_Juan_Intro1[] = _("Andereño ederrek energiaz");
+const u8 gText_MatchCallDandyCharm_Juan_Intro2[] = _("betetzen naute!");
+
+const u8 gText_MatchCallEliteFour_Sidney_Strategy[] = _("Erasoa defentsaren ordez!");
+const u8 gText_MatchCallEliteFour_Sidney_Pokemon[] = _("Alde ILUNAREN edertasuna");
+const u8 gText_MatchCallEliteFour_Sidney_Intro1[] = _("Bihurria nintzela esaten zidaten,");
+const u8 gText_MatchCallEliteFour_Sidney_Intro2[] = _("orain ELITE LAUKOTEAN nago!");
+
+const u8 gText_MatchCallEliteFour_Phoebe_Strategy[] = _("Nahastu eta harritu.");
+const u8 gText_MatchCallEliteFour_Phoebe_Pokemon[] = _("Ez dago ezer aurrez emanda.");
+const u8 gText_MatchCallEliteFour_Phoebe_Intro1[] = _("Nola egongo ote da nire amona");
+const u8 gText_MatchCallEliteFour_Phoebe_Intro2[] = _("PIRO MENDIAN?");
+
+const u8 gText_MatchCallEliteFour_Glacia_Strategy[] = _("Itemak erabiltzen ditut.");
+const u8 gText_MatchCallEliteFour_Glacia_Pokemon[] = _("Sugar pasioa izotzaren hotzean!");
+const u8 gText_MatchCallEliteFour_Glacia_Intro1[] = _("IZOTZ mota are indartsuagoa da");
+const u8 gText_MatchCallEliteFour_Glacia_Intro2[] = _("lur bero honetan entrenatuta.");
+
+const u8 gText_MatchCallEliteFour_Drake_Strategy[] = _("Abilezia indartsuak erabili.");
+const u8 gText_MatchCallEliteFour_Drake_Pokemon[] = _("DRAGOIEN indar gordina!");
+const u8 gText_MatchCallEliteFour_Drake_Intro1[] = _("Ni salbatu ninduten POKéMONEI");
+const u8 gText_MatchCallEliteFour_Drake_Intro2[] = _("dena ematen diet.");
+
+const u8 gText_MatchCallChampion_Wallace_Strategy[] = _("Duintasuna eta errespetua.");
+const u8 gText_MatchCallChampion_Wallace_Pokemon[] = _("POKéMON dotoreak nahiago ditut.");
+const u8 gText_MatchCallChampion_Wallace_Intro1[] = _("Edertasuna eta adimena");
+const u8 gText_MatchCallChampion_Wallace_Intro2[] = _("irudikatzen ditut.");
 
 const u8 *const gMatchCallFlavorTexts[REMATCH_TABLE_ENTRIES][CHECK_PAGE_ENTRY_COUNT] =
 {
