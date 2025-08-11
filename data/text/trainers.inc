@@ -1256,7 +1256,7 @@ Route111_Text_HeidiDefeat:
 	.string "Ene! Zu bai zu gaiztoa!$"
 
 Route111_Text_HeidiPostBattle:
-	.string "Harea ekaitzean borrokatzen baduzu,\n"
+	.string "Harea-ekaitzean borrokatzen baduzu,\n"
 	.string "zaindu zure POKéMONAREN BPAK.\p"
 	.string "Ahuldu egin daitezke ez badituzu\n"
 	.string "ondo zaintzen!$"
@@ -1433,7 +1433,7 @@ Route111_Text_CeliaDefeat:
 	.string "Benetan ez nuela etorri behar!$"
 
 Route111_Text_CeliaPostBattle:
-	.string "Horrelako harea ekaitzarekin ezin da\n"
+	.string "Horrelako harea-ekaitzarekin ezin da\n"
 	.string "piknik bat egin nahiz eta BETAURREKO\l"
 	.string "AISLANTEAK jantzita eduki…$"
 
@@ -1702,1283 +1702,1283 @@ Route113_Text_LungDefeat:
 	.string "Amaitu da jada?$"
 
 Route113_Text_LungPostBattle:
-	.string "You know what's crummy about hiding?\n"
-	.string "It's lonely if no one comes along.$"
+	.string "Badakizu zer den ezkutatzearen okerrena?\n"
+	.string "Inor ez badator oso bakartia dela.$"
 
 Route113_Text_ToriIntro:
-	.string "TORI: Both of us, we collect ashes.\n"
-	.string "We battle POKéMON, too.$"
+	.string "ELENE: Gu biok errauts bilduma egiten dugu.\n"
+	.string "POKéMON borrokak ere egiten ditugu.$"
 
 Route113_Text_ToriDefeat:
-	.string "TORI: We lost… It's boring, so I'm going\n"
-	.string "to get some more ashes.$"
+	.string "ELENE: Galdu egin dugu… Aspergarria da,\n"
+	.string "errauts gehiagoren bila noa.$"
 
 Route113_Text_ToriPostBattle:
-	.string "TORI: How much ash do we have?\n"
-	.string "Enough for a WHITE FLUTE, I hope.$"
+	.string "ELENE: Zenbat errauts dugu?\n"
+	.string "TXIRULA ZURI batentzat adina, espero dut.$"
 
 Route113_Text_ToriNotEnoughMons:
-	.string "TORI: We want to battle 2-on-2.\n"
-	.string "If we didn't, we would lose!$"
+	.string "ELENE: Bi biren aurka borrokatzen dugu.\n"
+	.string "Ez bagenu hala egingo, galduko genuke!$"
 
 Route113_Text_TiaIntro:
-	.string "TIA: Both of us, we collect ashes.\n"
-	.string "We battle POKéMON, too.$"
+	.string "ANE: Gu biok errauts bilduma egiten dugu.\n"
+	.string "POKéMON borrokak ere egiten ditugu.$"
 
 Route113_Text_TiaDefeat:
-	.string "TIA: We couldn't win… It's boring,\n"
-	.string "so I'm getting some more ashes.$"
+	.string "ANE: Ez dugu irabazi… Aspergarria da,\n"
+	.string "errauts gehiagoren bila noa.$"
 
 Route113_Text_TiaPostBattle:
-	.string "TIA: We have a lot of ashes!\n"
-	.string "I think enough for a WHITE FLUTE!$"
+	.string "ANE: Errauts pila bat dugu! Uste dut\n"
+	.string "nahikoa badugula TXIRULA ZURI batentzat!$"
 
 Route113_Text_TiaNotEnoughMons:
-	.string "TIA: We want to battle 2-on-2.\n"
-	.string "If we don't, we won't win!$"
+	.string "ANE: Bi biren aurka borrokatzen dugu.\n"
+	.string "Ez bagenu hala egingo, galduko genuke!$"
 
 Route113_Text_CobyIntro:
-	.string "Pfft, with these wings I can\n"
-	.string "flick you away!$"
+	.string "Pfft, hego hauekin urrutira bidali\n"
+	.string "zaitzaket, erraz!$"
 
 Route113_Text_CobyDefeat:
-	.string "A… What?$"
+	.string "A… Zer?$"
 
 Route113_Text_CobyPostBattle:
-	.string "I don't know what to say when I get\n"
-	.string "beaten so easily…$"
+	.string "Horren erraz irabazten didatenean ez\n"
+	.string "dakit zer esan ere…$"
 
 Route113_Text_SophieIntro:
-	.string "The warmth here is making me drowsy.\n"
-	.string "Battle with me so I can stay awake.$"
+	.string "Hemengo beroak logura ematen dit.\n"
+	.string "Borrokatu nirekin esna manten nadin.$"
 
 Route113_Text_SophieDefeat:
-	.string "This is a dream.\n"
-	.string "I'm sure of it…$"
+	.string "Hau amets bat da.\n"
+	.string "Ziur nago…$"
 
 Route113_Text_SophiePostBattle:
-	.string "Losing burns me up…\n"
-	.string "I'm just going to sleep right here!\l"
+	.string "Galtzean sutan jartzen naiz…\n"
+	.string "Hementxe bertan egingo dut lo!\l"
 	.string "Zzz!$"
 
 Route113_Text_LawrenceIntro:
-	.string "Were you maybe in the middle\n"
-	.string "of gathering volcanic ashes?$"
+	.string "Errauts bolkanikoak biltzen\n"
+	.string "ari zinen beharbada?$"
 
 Route113_Text_LawrenceDefeat:
-	.string "Ehehe.\n"
-	.string "We got beaten cleanly.$"
+	.string "Kar-kar.\n"
+	.string "Garbi irabazi digute.$"
 
 Route113_Text_LawrencePostBattle:
-	.string "I ought to hide under the ashes, too.$"
+	.string "Errauts azpian ezkutatu behar nuke.$"
 
 Route113_Text_WyattIntro:
-	.string "Y-you want to battle with me?\n"
-	.string "Even though I just caught my POKéMON?$"
+	.string "Ni-nire aurka borrokatu nahi duzu?\n"
+	.string "Nahiz eta orain harrapatu dudan nire POKéMONA?$"
 
 Route113_Text_WyattDefeat:
-	.string "Y-you're all happy to win?\n"
-	.string "Even though it's only me?$"
+	.string "Po-pozik al zaude irabazi duzulako?\n"
+	.string "Nahiz eta nire aurka izan den?$"
 
 Route113_Text_WyattPostBattle:
-	.string "Oh, so now you want to say a word to\n"
-	.string "the loser?\p"
-	.string "Aren't you just the coolest?\n"
-	.string "Humph!$"
+	.string "Gainera orain galtzailearekin hitz\n"
+	.string "egin nahi duzu?\p"
+	.string "Ene, onena zara!\n"
+	.string "Bai!$"
 
 Route114_Text_LennyIntro:
 	.string "Yodelayhihoo!\p"
 	.string "… …\p"
-	.string "You're supposed to shout\n"
-	.string "“yodelayhihoo” since it doesn't\l"
-	.string "echo here!$"
+	.string "Zuk ere “yodelayhihoo”\n"
+	.string "esan behar duzu, hemen\l"
+	.string "oihartzunik ez dago eta!$"
 
 Route114_Text_LennyDefeat:
 	.string "Yodelayhihoo!$"
 
 Route114_Text_LennyPostBattle:
-	.string "When I was a wee tyke, I believed there\n"
-	.string "was someone copying me and shouting\l"
-	.string "back, “Yodelayhihoo.”$"
+	.string "Txiki-txikia nintzenean, uste nuen\n"
+	.string "norbait ari zela ni kopiatu eta\l"
+	.string "bueltan “Yodelayhihoo” oihukatzen.$"
 
 Route114_Text_LucasIntro:
-	.string "If you're not prepared, you shouldn't\n"
-	.string "be up in the mountains!$"
+	.string "Ez bazaude prest, ez zenuke hemen\n"
+	.string "mendian egon behar!$"
 
 Route114_Text_LucasDefeat:
-	.string "The mountains are unforgiving…$"
+	.string "Mendiek ez dute barkatzen…$"
 
 Route114_Text_LucasPostBattle:
-	.string "In the winter, mountains turn deadly\n"
-	.string "with blizzards and avalanches.$"
+	.string "Neguan mendiak hilgarriak bihurtzen\n"
+	.string "dira elur-ekaitz eta elur-jausiekin.$"
 
 Route114_Text_ShaneIntro:
-	.string "Camping's fun! You can fish, roast\n"
-	.string "marshmallows, and tell spooky stories!\p"
-	.string "But the best of all are the POKéMON\n"
-	.string "battles!$"
+	.string "Kanpina dibertigarria da! Arrantzan\n"
+	.string "egin, suaren inguruan bildu eta ipuin\p"
+	.string "beldurgarriak knota ditzakezu! Baina\n"
+	.string "onena POKéMON borrokak dira!$"
 
 Route114_Text_ShaneDefeat:
-	.string "Way too strong!$"
+	.string "Indartsuegia!$"
 
 Route114_Text_ShanePostBattle:
-	.string "I think it's great that I can go\n"
-	.string "camping with my POKéMON.$"
+	.string "Bikaina da nire POKéMONEKIN\n"
+	.string "kanpinera joatea.$"
 
 Route114_Text_NancyIntro:
-	.string "I need to exercise after a meal.\n"
-	.string "Let's have a match!$"
+	.string "Jan ostean ariketa egin behar dut.\n"
+	.string "Borroka dezagun!$"
 
 Route114_Text_NancyDefeat:
-	.string "Oh, no!$"
+	.string "Ai, ene!$"
 
 Route114_Text_NancyPostBattle:
-	.string "I just had a tasty meal.\n"
-	.string "I'm getting drowsy…$"
+	.string "Otordu goxo bat jan berri nago.\n"
+	.string "Logura sartzen ari zait…$"
 
 Route114_Text_SteveIntro:
 	.string "Ufufufufufu…\n"
-	.string "Want to battle against my POKéMON?$"
+	.string "Nire POKéMONEN aurka borrokatu nahi?$"
 
 Route114_Text_SteveDefeat:
-	.string "M-My POKéMON…$"
+	.string "Ni-nire POKéMONAK…$"
 
 Route114_Text_StevePostBattle:
-	.string "A big body that's all lumpy and hard,\n"
-	.string "enormous horns, and vicious fangs…\p"
+	.string "Gorputz handi eta gogorra, adar\n"
+	.string "erraldoiak eta letagin gaiztoak…\p"
 	.string "Ufufufufu…\n"
-	.string "I wish I had a POKéMON like that…$"
+	.string "Halako POKéMON bat izan nahi nuke…$"
 
 Route114_Text_SteveRegister:
-	.string "Don't forget what you've done to me!\n"
-	.string "I'll make it so you can't forget!$"
+	.string "Ez ahaztu zer egin didazun!\n"
+	.string "Gogorarazi egingo dizut!$"
 
 Route114_Text_SteveRematchIntro:
 	.string "Ufufufufufu…\n"
-	.string "Come on, battle my POKéMON…$"
+	.string "Ea bada, borrokatu nire POKéMONEKIN…$"
 
 Route114_Text_SteveRematchDefeat:
-	.string "I feel so lucky getting to see your\n"
-	.string "POKéMON…$"
+	.string "Zorte handia dut zure POKéMONAK\n"
+	.string "ikusteko aukera izanda…$"
 
 Route114_Text_StevePostRematch:
 	.string "Ufufufufufu…\p"
-	.string "When I see POKéMON battling, I get all\n"
-	.string "shivery and shaky…$"
+	.string "POKéMONAK borrokan ikusten ditudanean,\n"
+	.string "dardar batean jartzen naiz…$"
 
 Route114_Text_BernieIntro:
-	.string "If you're lighting a campfire,\n"
-	.string "make sure you have water handy.$"
+	.string "Mendian sua egiten baduzu, beti\n"
+	.string "gogoratu ura eduki behar duzula.$"
 
 Route114_Text_BernieDefeat:
-	.string "Thanks for dousing my fire!$"
+	.string "Eskerrik asko nire sua apaltzeagatik!$"
 
 Route114_Text_BerniePostBattle:
-	.string "You really do have to be careful with\n"
-	.string "any sort of fire in a forest.\p"
-	.string "Don't ever underestimate the power\n"
-	.string "of fire.$"
+	.string "Benetan kontuz ibili behar duzu\n"
+	.string "basoan edozein su egiterakoan.\p"
+	.string "Ez gutxietsi inoiz suaren\n"
+	.string "indarra.$"
 
 Route114_Text_BernieRegister:
-	.string "You set my spirit on fire.\n"
-	.string "Let's register each other!$"
+	.string "Nire espiritua pizten duzu.\n"
+	.string "Erregistratu dezagun elkar!$"
 
 Route114_Text_BernieRematchIntro:
-	.string "Have you learned to keep water handy\n"
-	.string "for campfires?$"
+	.string "Ikasi al duzu beti eskura ura eduki\n"
+	.string "behar duzula mendian sua egiteko?$"
 
 Route114_Text_BernieRematchDefeat:
-	.string "I got hosed down before I could\n"
-	.string "flare up, I guess.$"
+	.string "Ur-mauka batekin busti nauzu nik\n"
+	.string "sua hartu aurretik, alajaina.$"
 
 Route114_Text_BerniePostRematch:
-	.string "You really do have to be careful with\n"
-	.string "any sort of fire in a forest.\p"
-	.string "Don't ever underestimate the power\n"
-	.string "of fire.$"
+	.string "Benetan kontuz ibili behar duzu\n"
+	.string "basoan edozein su egiterakoan.\p"
+	.string "Ez gutxietsi inoiz suaren\n"
+	.string "indarra.$"
 
 Route114_Text_ClaudeIntro:
-	.string "If we were fishing, you wouldn't stand\n"
-	.string "a chance against me.\l"
-	.string "So, bring on your POKéMON!$"
+	.string "Arrantzan bagina, ez zenuke nire\n"
+	.string "aurka aukerarik izango.\l"
+	.string "Beno, atera zure POKéMONAK!$"
 
 Route114_Text_ClaudeDefeat:
-	.string "If we were fishing, I would've won…$"
+	.string "Arrantzan bagina, irabazi egingo nukeen…$"
 
 Route114_Text_ClaudePostBattle:
-	.string "I think I'll try my luck at landing\n"
-	.string "a big one at METEOR FALLS.\p"
-	.string "There has to be something in there.\n"
-	.string "I just know it.$"
+	.string "Uste dut hurrengoan METEORO UR-JAUZIAN\n"
+	.string "saiatuko naizela.\p"
+	.string "Zerbait egon behar da hor.\n"
+	.string "Ziur nago.$"
 
 Route114_Text_NolanIntro:
-	.string "I like to fish. But I also like to\n"
-	.string "battle!\p"
-	.string "If anyone challenges me, I'm there,\n"
-	.string "even if I'm fishing.$"
+	.string "Atsegin dut arrantzatzea, baina baita\n"
+	.string "borroka ere!\p"
+	.string "Norbaitek erronka botzatzen badit, beti\n"
+	.string "esaten diot baietz, arrantzan egonda ere.$"
 
 Route114_Text_NolanDefeat:
-	.string "I like to battle, but that doesn't\n"
-	.string "mean I'm good at it…$"
+	.string "Atsegin dut borrokatzea, baina horrek\n"
+	.string "ez du esan nahi ona naizenik…$"
 
 Route114_Text_NolanPostBattle:
-	.string "This time I'll do it!\p"
-	.string "I always think that, so I can't walk\n"
-	.string "away from fishing or POKéMON.$"
+	.string "Oraingoan lortuko dut!\p"
+	.string "Beti pentsatzen dut hala, arrantzan\n"
+	.string "edo POKéMON bila jarraitzeko.$"
 
 Route114_Text_TyraIntro:
-	.string "TYRA: Well, sure.\n"
-	.string "I'm in the mood for it.\l"
-	.string "I'll teach you a little about POKéMON.$"
+	.string "TYRA: Beno, noski.\n"
+	.string "Badut gogoa, egia esanda.\l"
+	.string "POKéMONEN inguruan erakutsiko dizut.$"
 
 Route114_Text_TyraDefeat:
-	.string "TYRA: What an amazing battle style!$"
+	.string "TYRA: A zer nolako borrokarako estiloa!$"
 
 Route114_Text_TyraPostBattle:
-	.string "TYRA: I was teaching my junior IVY\n"
-	.string "about POKéMON.$"
+	.string "TYRA: Nire ikasle IVYRI POKéMONEN\n"
+	.string "inguruan erakusten ari nintzen.$"
 
 Route114_Text_TyraNotEnoughMons:
-	.string "TYRA: Giggle…\n"
-	.string "If you want to battle with us, just one\l"
-	.string "POKéMON isn't enough!$"
+	.string "TYRA: Kar-kar…\n"
+	.string "Gure aurka borrokatzekotan, POKéMON\l"
+	.string "bakarra ez da nahikoa!$"
 
 Route114_Text_IvyIntro:
-	.string "IVY: Who taught you about POKéMON?$"
+	.string "IVY: Nork erakutsi dizu POKéMONEN gainean?$"
 
 Route114_Text_IvyDefeat:
-	.string "IVY: What an amazing battle style!$"
+	.string "IVY: A zer nolako borrokarako estiloa!$"
 
 Route114_Text_IvyPostBattle:
-	.string "IVY: I started training POKéMON\n"
-	.string "because TYRA, my student mentor,\l"
-	.string "taught me!$"
+	.string "IVY: TYRARI esker hasi nintzen POKéMONAK\n"
+	.string "entrenatzen, nire irakasleari esker,\l"
+	.string "berak irakatsi zidan eta!$"
 
 Route114_Text_IvyNotEnoughMons:
-	.string "IVY: Do you only have one POKéMON?\n"
-	.string "I think it must feel lonesome.$"
+	.string "IVY: POKéMON bakarra al duzu?\n"
+	.string "Ez al da pixka bat bakartia hori?$"
 
 Route114_Text_KaiIntro:
-	.string "I landed a big one!\n"
-	.string "A huge one, I tell you!$"
+	.string "Izugarria harrapatu dut!\n"
+	.string "Erraldoia, benetan!$"
 
 Route114_Text_KaiDefeat:
-	.string "What was that about?\n"
-	.string "Did mine lose in size?$"
+	.string "Zer gertatu da?\n"
+	.string "Galdu egin al dut tamainan?$"
 
 Route114_Text_KaiPostBattle:
-	.string "Okay!\n"
-	.string "I'll just fish me a bigger one!$"
+	.string "Ongi!\n"
+	.string "Handiago bat harrapatuko dut orduan!$"
 
 Route114_Text_CharlotteIntro:
-	.string "Me!\n"
-	.string "I'm not just a pretty face!$"
+	.string "Ni!\n"
+	.string "Ez naiz aurpegi polit bat soilik!$"
 
 Route114_Text_CharlotteDefeat:
-	.string "That wasn't cute in the least!$"
+	.string "Hori ez da batere polita izan!$"
 
 Route114_Text_CharlottePostBattle:
-	.string "I don't want a POKéMON that's\n"
-	.string "just cute.\p"
-	.string "I adore cute ones that have a quirk\n"
-	.string "or two!$"
+	.string "Ez dut nahi polita soilik\n"
+	.string "den  POKéMON bat.\p"
+	.string "Berezitasunen bat dutenak\n"
+	.string "gustatzen zaizkit!$"
 
 Route114_Text_AngelinaIntro:
-	.string "Have you made your POKéMON evolve\n"
-	.string "very much?$"
+	.string "Askotan eboluzionatu al dituzu\n"
+	.string "zure POKéMONAK?$"
 
 Route114_Text_AngelinaDefeat:
-	.string "Oh, I see.\n"
-	.string "That's good to know.$"
+	.string "Ados.\n"
+	.string "Ondo dago jakitea.$"
 
 Route114_Text_AngelinaPostBattle:
-	.string "Some POKéMON change so much when\n"
-	.string "they evolve, it's startling!$"
+	.string "POKéMON batzuk izugarri aldatzen\n"
+	.string "dira eboluzionatzean, itzela da!$"
 
 Route115_Text_TimothyIntro:
-	.string "Hm…\n"
-	.string "You seem rather capable…\l"
-	.string "Let me keep you company!$"
+	.string "Aizu…\n"
+	.string "Badirudi abila zarela…\l"
+	.string "Utzi zurekin egoten pixka bat!$"
 
 Route115_Text_TimothyDefeat:
-	.string "You're much stronger than\n"
-	.string "I'd imagined!$"
+	.string "Uste nuena baino indartsuagoa\n"
+	.string "zara, alajaina!$"
 
 Route115_Text_TimothyPostBattle:
-	.string "There is no such thing as a born genius.\n"
-	.string "It all depends on effort!\l"
-	.string "That is what I believe…$"
+	.string "Inor ez da genioa jaiotzez.\n"
+	.string "Saiatzea da behinena!\l"
+	.string "Hala uste dut nik behintzat…$"
 
 Route115_Text_TimothyRegister:
-	.string "Hmm… A loss this thorough has been\n"
-	.string "a distant memory.\p"
-	.string "If you would allow it, I wish for\n"
-	.string "another opportunity to do battle.$"
+	.string "Hmm… Aspaldian ez zaidala horrelako\n"
+	.string "porrot bat gertatu.\p"
+	.string "Axola ez badizu, berriro ere borrokatu\n"
+	.string "nahi nuke zurekin.$"
 
 Route115_Text_TimothyRematchIntro:
-	.string "Hm… As always, your agility speaks\n"
-	.string "for itself.\l"
-	.string "Come, keep me company!$"
+	.string "Hm… Beti bezala, zure azkartasuna\n"
+	.string "agerikoa da.\l"
+	.string "Etorri, egon nirekin apur bat!$"
 
 Route115_Text_TimothyRematchDefeat:
-	.string "As strong as ever!$"
+	.string "Beti bezain indartsua zara!$"
 
 Route115_Text_TimothyPostRematch:
-	.string "All it takes is effort!\p"
-	.string "I lost because I haven't put in enough\n"
-	.string "effort!$"
+	.string "Saiatzea da behinena!\p"
+	.string "Ez naizelako nahikoa saiatu\n"
+	.string "galdu dut!$"
 
 Route115_Text_KoichiIntro:
-	.string "You!\p"
-	.string "My MACHOP!\p"
-	.string "Demand a battle!$"
+	.string "Zu!\p"
+	.string "Nire MACHOP!\p"
+	.string "Borroka nahi du!$"
 
 Route115_Text_KoichiDefeat:
-	.string "Ouch, ouch, ouch!$"
+	.string "Autx, autx, autx!$"
 
 Route115_Text_KoichiPostBattle:
-	.string "My MACHOP crew!\p"
-	.string "So long as they seek power, I will\n"
-	.string "grow strong with them!$"
+	.string "Nire MACHOP taldea!\p"
+	.string "Indar bila dabiltzan artean, ni ere\n"
+	.string "beraiekin indartuko naiz!$"
 
 Route115_Text_NobIntro:
-	.string "My strongest skill is busting bricks\n"
-	.string "with my forehead!$"
+	.string "Nire abilezia harrigarriena buruarekin\n"
+	.string "adreiluak puskatzea da!$"
 
 Route115_Text_NobDefeat:
-	.string "Ugwaaaah!\n"
-	.string "My head is busted!$"
+	.string "Aiiiii!\n"
+	.string "Burua hautsi dut!$"
 
 Route115_Text_NobPostBattle:
-	.string "I've been teaching my POKéMON karate.\p"
-	.string "It looks like they'll get a lot better\n"
-	.string "than me. I'm excited about that.$"
+	.string "Nire POKéMONEI karatea erakutsi diet.\p"
+	.string "Badirudi ni baino hobeak bihurtu direla\n"
+	.string "azkenean. Oso pozik nago horrekin.$"
 
 Route115_Text_NobRegister:
-	.string "You impress me! Give me a rematch\n"
-	.string "after I redo my training!$"
+	.string "Harritu egin nauzu! Egin dezagun errebantxa\n"
+	.string "bat berriz entrenatu ostean!$"
 
 Route115_Text_NobRematchIntro:
-	.string "After you beat me, we trained hard to\n"
-	.string "improve our skills.\l"
-	.string "Come on, give us a rematch!$"
+	.string "Irabazi zenidanean, gogor entrenatu genuen\n"
+	.string "gure abilezia handitzeko.\l"
+	.string "Ea ba, egin dezagun errebantxa bat!$"
 
 Route115_Text_NobRematchDefeat:
-	.string "Ugwaaah!\n"
-	.string "We lost again!$"
+	.string "Aiii!\n"
+	.string "Berriz galdu dugu!$"
 
 Route115_Text_NobPostRematch:
-	.string "My POKéMON will grow stronger!\n"
-	.string "I'll redouble my training!$"
+	.string "Nire POKéMONAK indartu egingo dira!\n"
+	.string "Entrenamendua bikoiztuko dut!$"
 
 Route115_Text_CyndyIntro:
-	.string "This beach is my secret training spot!\n"
-	.string "Don't come butting in!$"
+	.string "Hondartza hau nire entrenatzeko leku\n"
+	.string "sekretua da! Ezin zara edozelan sartu!$"
 
 Route115_Text_CyndyDefeat:
-	.string "I haven't trained enough!$"
+	.string "Ez dut nahikoa entrenatu!$"
 
 Route115_Text_CyndyPostBattle:
-	.string "The sand acts as a cushion to reduce\n"
-	.string "impact and prevent injury.\l"
-	.string "This is the perfect place to train.$"
+	.string "Hondarrak kolpea biguntzen laguntzen\n"
+	.string "du lesioak gutxitzeko.\l"
+	.string "Entrenatzeko leku perfektua da hau.$"
 
 Route115_Text_CyndyRegister:
-	.string "Okay, fine, you're free to come here.\n"
-	.string "In return, I'd like to battle you again.$"
+	.string "Ongi, ados, etorri zaitezke hona.\n"
+	.string "Trukean, berriro borrokatu nahi nuke zurekin.$"
 
 Route115_Text_CyndyRematchIntro:
-	.string "Okay, let's get this battle on!$"
+	.string "Ongi, hasi gaitezen orduan!$"
 
 Route115_Text_CyndyRematchDefeat:
-	.string "I can battle but my POKéMON…$"
+	.string "Ezin dut nire POKéMONEKIN borrokatu…$"
 
 Route115_Text_CyndyPostRematch:
-	.string "Even when I lose, I still get some\n"
-	.string "enjoyment out of it.\l"
-	.string "It must be that I love POKéMON.$"
+	.string "Galtzen dudanean ere, ongi pasatzea\n"
+	.string "lortzen dut beti.\l"
+	.string "POKéMONEKIKO dudan maiatsuna izango da.$"
 
 Route115_Text_HectorIntro:
-	.string "I have a rare POKéMON!\n"
-	.string "Would you like me to show you?$"
+	.string "POKéMON arraro bat dut!\n"
+	.string "Erakutsi diezazuket?$"
 
 Route115_Text_HectorDefeat:
-	.string "You…\n"
-	.string "You want my POKéMON, don't you?$"
+	.string "Zuk…\n"
+	.string "Nire POKéMONA nahi duzu, ez da hala?$"
 
 Route115_Text_HectorPostBattle:
-	.string "I have this rare POKéMON.\n"
-	.string "It's enough to keep me satisfied.$"
+	.string "POKéMON arraro hau lortu dut.\n"
+	.string "Nahikoa da ni pozik egoteko.$"
 
 Route115_Text_KyraIntro:
-	.string "I'll battle while I'm running!\n"
-	.string "Try to keep up with me!$"
+	.string "Korrika nabilen bitartean borrokatuko dut!\n"
+	.string "Saiatu ni jarraitzen!$"
 
 Route115_Text_KyraDefeat:
-	.string "Gasp, gasp…$"
+	.string "Ufff, ufff…$"
 
 Route115_Text_KyraPostBattle:
-	.string "I made the mistake of trying to battle\n"
-	.string "while running!\p"
-	.string "I should take a run to calm down…$"
+	.string "Korrika eta borroka batera egitea\n"
+	.string "akats larria izan da!\p"
+	.string "Lasaitzeko korrika pixka bat egingo dut…$"
 
 Route115_Text_JaidenIntro:
-	.string "Take that!\n"
-	.string "Ultra POKéMON ninja attack!$"
+	.string "Tori hau!\n"
+	.string "POKéMON ninja ultra erasoa!$"
 
 Route115_Text_JaidenDefeat:
-	.string "Waaah!\n"
-	.string "Our strategy failed!$"
+	.string "Buaaaa!\n"
+	.string "Gure estrategiak huts egin du!$"
 
 Route115_Text_JaidenPostBattle:
-	.string "But my POKéMON were ultra,\n"
-	.string "weren't they?$"
+	.string "Baina nire POKéMONAK ultra\n"
+	.string "ziren, ez al da hala?$"
 
 Route115_Text_HeleneIntro:
-	.string "My POKéMON have black belt-level\n"
-	.string "strength!$"
+	.string "Nire POKéMONEK gerriko beltzen\n"
+	.string "mailako indarra dute!$"
 
 Route115_Text_HeleneDefeat:
-	.string "This is too humiliating!$"
+	.string "Hau bai humiliazioa!$"
 
 Route115_Text_HelenePostBattle:
-	.string "I rarely meet anyone who's better\n"
-	.string "than me…\p"
-	.string "I get it now!\n"
-	.string "You're a GYM LEADER, aren't you?$"
+	.string "Gutxitan aurkitzen dut ni baino\n"
+	.string "hobea den inor…\p"
+	.string "Ulertzen dut, bai!\n"
+	.string "GIMNASIOKO LIDERRA zara, ezta?$"
 
 Route115_Text_AlixIntro:
-	.string "Our eyes met!\n"
-	.string "There's no getting away now!$"
+	.string "Begiradak gurutzatu ditugu!\n"
+	.string "Orain ezin duzu ihes egin!$"
 
 Route115_Text_AlixDefeat:
-	.string "Gah!\n"
-	.string "Not bad!$"
+	.string "Ene!\n"
+	.string "Gaizki ez!$"
 
 Route115_Text_AlixPostBattle:
-	.string "Oh, well.\n"
-	.string "I think I will TELEPORT home.$"
+	.string "Oh, beno.\n"
+	.string "Uste dut etxera TELEPORTATUKO naizela.$"
 
 Route115_Text_MarleneIntro:
-	.string "You've disturbed my meditation…\n"
-	.string "You'll be punished for it.$"
+	.string "Meditazioa eragotzi didazu…\n"
+	.string "Garesti ordainduko duzu hori.$"
 
 Route115_Text_MarleneDefeat:
-	.string "You've broken my concentration!$"
+	.string "Kontzentrazioa galarazi didazu!$"
 
 Route115_Text_MarlenePostBattle:
-	.string "I was meditating with my POKéMON.\n"
-	.string "But this place isn't very peaceful…$"
+	.string "Nire POKéMONEKIN meditatzen ari nintzen.\n"
+	.string "Baina leku hau ez da lasaiegia…$"
 
 Route116_Text_ClarkIntro:
-	.string "If the tunnel doesn't go through, then\n"
-	.string "I'll just go over the top.$"
+	.string "Tunelak ez badu zeharkatzen guztia,\n"
+	.string "goitik joango naiz.$"
 
 Route116_Text_ClarkDefeat:
-	.string "Gasp… Gasp…\n"
-	.string "Losing made me tired…$"
+	.string "Ufff… Ufff…\n"
+	.string "Galtzeak nekatu egin nau…$"
 
 Route116_Text_ClarkPostBattle:
-	.string "It's no big deal if there's no tunnel.\n"
-	.string "To a HIKER, mountains are roads!$"
+	.string "Ez du axola tunelik ez badago.\n"
+	.string "MENDIZALEONTZAKO mendiak bide arruntak dira!$"
 
 Route116_Text_JoeyIntro:
-	.string "My POKéMON rule!\n"
-	.string "Check them out!$"
+	.string "Nire POKéMONAK onenak dira!\n"
+	.string "Begira!$"
 
 Route116_Text_JoeyDefeat:
-	.string "Ouch! A scrape!\n"
-	.string "I have to put on a bandage!$"
+	.string "Aiii! Arramazka bat!\n"
+	.string "Benda bat jarri beharko dut!$"
 
 Route116_Text_JoeyPostBattle:
-	.string "Bandages are signs of toughness!\n"
-	.string "I've got another one!$"
+	.string "Bendak gogortasunaren adierazle dira!\n"
+	.string "Beste bat daukat hemen!$"
 
 Route116_Text_JoseIntro:
-	.string "My BUG POKéMON are tough!\n"
-	.string "Let's battle!$"
+	.string "Nire ZOMORRO POKéMONAK indartsuak dira!\n"
+	.string "Borroka dezagun!$"
 
 Route116_Text_JoseDefeat:
-	.string "I lost!\n"
-	.string "I thought I had you!$"
+	.string "Galdu egin dut!\n"
+	.string "Uste nuen irabaziko nuela!$"
 
 Route116_Text_JosePostBattle:
-	.string "BUG POKéMON evolve quickly.\n"
-	.string "So they get strong quickly, too.$"
+	.string "ZOMORRO POKéMONAK azkar eboluzionatzen\n"
+	.string "dira. Azkar indartzen dira, beraz.$"
 
 Route116_Text_JaniceIntro:
-	.string "Let me teach you how strong my\n"
-	.string "adorable POKéMON is!$"
+	.string "Utzi erakusten nire POKéMON polita\n"
+	.string "zeinen indartsua den!$"
 
 Route116_Text_JaniceDefeat:
-	.string "You're a notch above me…$"
+	.string "Ni baino apur bat hobea zara…$"
 
 Route116_Text_JanicePostBattle:
-	.string "POKéMON that possess cuteness and\n"
-	.string "power, that's ideal, I think.$"
+	.string "POKéMON polit eta indartsuak, horiek\n"
+	.string "dira egokienak, nire iritziz.$"
 
 Route116_Text_JerryIntro:
-	.string "We learn all sorts of things at the\n"
-	.string "TRAINER'S SCHOOL.\p"
-	.string "I want to test things out for real!$"
+	.string "ENTRENATZAILE ESKOLAN era askotariko\n"
+	.string "kontuak ikasten ditugu.\p"
+	.string "Orain ikasitakoa probatu nahi dut!$"
 
 Route116_Text_JerryDefeat:
-	.string "I slacked off in school…\n"
-	.string "That's why I lost.$"
+	.string "Piper egin dut eskolan…\n"
+	.string "Horregatik galdu dut.$"
 
 Route116_Text_JerryPostBattle:
-	.string "I'll have to redo some courses at\n"
-	.string "the TRAINER'S SCHOOL.\l"
-	.string "If I don't, ROXANNE will be steamed.$"
+	.string "Irakasgai batzuk berriro egin beharko\n"
+	.string "ditut ENTRENATZAILE ESKOLAN.\l"
+	.string "Bestela HAITZIBER asko haserretuko da.$"
 
 Route116_Text_JerryRegister1:
-	.string "I learned at the TRAINER'S SCHOOL\n"
-	.string "that a POKéNAV can register TRAINERS.\p"
-	.string "I don't really get what that means,\n"
-	.string "so can I just try it?$"
+	.string "ENTRENATZAILE ESKOLAN ikasi dut POKéNAVEAN\n"
+	.string "ENTRENATZAILEAK erregistratu daitezkeela.\p"
+	.string "Ez dut oso ondo ulertzen zer esan nahi\n"
+	.string "duen, utziko zenidake probatzen?$"
 
 Route116_Text_JerryRegister2:
-	.string "I learned at the TRAINER'S SCHOOL\n"
-	.string "that a POKéNAV can register TRAINERS.\p"
-	.string "I don't really get what that means,\n"
-	.string "so can I just try it?$"
+	.string "ENTRENATZAILE ESKOLAN ikasi dut POKéNAVEAN\n"
+	.string "ENTRENATZAILEAK erregistratu daitezkeela.\p"
+	.string "Ez dut oso ondo ulertzen zer esan nahi\n"
+	.string "duen, utziko zenidake probatzen?$"
 
 Route116_Text_JerryRematchIntro:
-	.string "I've been studying seriously at the\n"
-	.string "TRAINER'S SCHOOL.\l"
-	.string "I won't lose like I did last time.$"
+	.string "Oso serio aritu naiz ENTRENATZAILE\n"
+	.string "ESKOLAN ikasten.\l"
+	.string "Ez dut aurrekoan bezala galduko.$"
 
 Route116_Text_JerryRematchDefeat:
-	.string "Hunh?\n"
-	.string "I studied diligently.$"
+	.string "Zer?\n"
+	.string "Asko ikasi dut eta!$"
 
 Route116_Text_JerryPostRematch:
-	.string "I'll have to redo some courses at\n"
-	.string "the TRAINER'S SCHOOL.\l"
-	.string "If I don't, ROXANNE will be steamed.$"
+	.string "Irakasgai batzuk berriro egin beharko\n"
+	.string "ditut ENTRENATZAILE ESKOLAN.\l"
+	.string "Bestela HAITZIBER asko haserretuko da.$"
 
 Route116_Text_KarenIntro:
-	.string "I study at school, and I study on\n"
-	.string "the way home, too!$"
+	.string "Eskolan ikasten dut, baita etxera\n"
+	.string "bidean noanean ere!$"
 
 Route116_Text_KarenDefeat:
-	.string "I'm in shock--I lost?$"
+	.string "Ezin dut sinetsi, galdu egin al dut?$"
 
 Route116_Text_KarenPostBattle:
-	.string "Awww, I'll never become an elegant\n"
-	.string "TRAINER like ROXANNE this way!$"
+	.string "Eneee, inoiz ez naiz HAITZIBER bezain\n"
+	.string "entrenatzaile dotorea izango horrela!$"
 
 Route116_Text_KarenRegister1:
-	.string "Oh, wow! Isn't that a POKéNAV?\n"
-	.string "I have one, too! Please register me!$"
+	.string "Ene! Hori ez al da POKéNAV bat?\n"
+	.string "Nik ere badut bat! Erregistratu nazazu, mesedez!$"
 
 Route116_Text_KarenRegister2:
-	.string "Oh, wow! Isn't that a POKéNAV?\n"
-	.string "I have one, too! Please register me!$"
+	.string "Ene! Hori ez al da POKéNAV bat?\n"
+	.string "Nik ere badut bat! Erregistratu nazazu, mesedez!$"
 
 Route116_Text_KarenRematchIntro:
-	.string "I studied a whole lot since I saw you.\n"
-	.string "You must see my achievements!$"
+	.string "Azkenengotik asko ikasi dut.\n"
+	.string "Lortu dudana ikusi behar duzu!$"
 
 Route116_Text_KarenRematchDefeat:
-	.string "I'm in shock.\n"
-	.string "I lost again?$"
+	.string "Ezin dut sinetsi.\n"
+	.string "Berriz galdu al dut?$"
 
 Route116_Text_KarenPostRematch:
-	.string "You've beaten ROXANNE?\n"
-	.string "I can't beat you, then. Not yet.$"
+	.string "HAITZIBERRI irabazi diozu?\n"
+	.string "Orduan nik ezin dizut irabazi. Oraindik ez.$"
 
 Route116_Text_SarahIntro:
-	.string "Just so you know, I've never once been\n"
-	.string "bested by anyone at anything.$"
+	.string "Jakin dezazun, inork ez dit inoiz\n"
+	.string "ezertan irabazi.$"
 
 Route116_Text_SarahDefeat:
-	.string "Oh, my goodness.\n"
-	.string "This is a new experience for me.$"
+	.string "Ai ene jainkoa.\n"
+	.string "Hau berria da niretzat.$"
 
 Route116_Text_SarahPostBattle:
-	.string "My life of luxury affords me all that\n"
-	.string "I could possibly desire.\p"
-	.string "However, when it comes to POKéMON,\n"
-	.string "my wealth has no meaning.$"
+	.string "Nire luxuz betetako bizitzan nahi\n"
+	.string "dudan guztia lor dezaket.\p"
+	.string "POKéMONEN arloan, ordea, nire\n"
+	.string "aberastasunak ez du balio.$"
 
 Route116_Text_DawsonIntro:
-	.string "When you lay your eyes on my POKéMON's\n"
-	.string "gorgeous fur, their beauty will render\l"
-	.string "you helpless!$"
+	.string "Nire POKéMONAREN larrua ederra\n"
+	.string "ikustean, ezingo duzu sinetsi\l"
+	.string "ikusten ari zarena!$"
 
 Route116_Text_DawsonDefeat:
-	.string "Oh, baby, say it isn't so!$"
+	.string "Ai ama, ez esan galdu dudala!$"
 
 Route116_Text_DawsonPostBattle:
-	.string "Oh, no, no, no!\n"
-	.string "You've mussed up my POKéMON's fur!\l"
-	.string "You've ruined my hairdo, too!\l"
-	.string "I'll have to call my stylist now!$"
+	.string "Ai, ez, ez, ez!\n"
+	.string "Nire POKéMONAREN larrua zarpaildu duzu!\l"
+	.string "Nire orrazkera ere hondatu didazu!\l"
+	.string "Ile apaintzaileari deitu beharko diot!$"
 
 Route116_Text_DevanIntro:
-	.string "We'll rock you hard!$"
+	.string "Txikitu egingo zaitugu!$"
 
 Route116_Text_DevanDefeat:
 	.string "Aiyiyi!\n"
-	.string "No contest at all!$"
+	.string "Erraz garaitu gaituzu!$"
 
 Route116_Text_DevanPostBattle:
-	.string "I should try different POKéMON\n"
-	.string "types, that's what I ought to do.$"
+	.string "POKéMON mota desberdinak probatu\n"
+	.string "behar nituzke, dudarik gabe.$"
 
 Route116_Text_JohnsonIntro:
-	.string "It's a dead end up here.\n"
-	.string "I'm bored, so can we battle?$"
+	.string "Bidea hemen amaitzen da.\n"
+	.string "Aspertuta nago, borrokatuko al dugu?$"
 
 Route116_Text_JohnsonDefeat:
-	.string "That was fun even though I lost.$"
+	.string "Nahiz eta galdu, asko dibertitu naiz.$"
 
 Route116_Text_JohnsonPostBattle:
-	.string "Want to stay here and keep\n"
-	.string "me company?$"
+	.string "Nahi duzu hemen geratu\n"
+	.string "nirekin?$"
 
 Route117_Text_IsaacIntro:
-	.string "Listen, could I get you to battle\n"
-	.string "the POKéMON I'm raising?$"
+	.string "Entzun, borrokatu nahi duzu hazten\n"
+	.string "ari naizen POKéMONEN aurka?$"
 
 Route117_Text_IsaacDefeat:
-	.string "You've raised yours superbly…$"
+	.string "Izugarri ondo hazi dituzu zureak…$"
 
 Route117_Text_IsaacPostBattle:
-	.string "POKéMON isn't all about power.\p"
-	.string "Polishing a unique aspect of one's\n"
-	.string "character is another way of enjoying\l"
-	.string "POKéMON.$"
+	.string "POKéMONEN boterea ez da garrantzitsuena.\p"
+	.string "Norberaren zati espezifiko bat\n"
+	.string "lantzea POKéMONEKIN gozatzeko beste\l"
+	.string "era bat da.$"
 
 Route117_Text_IsaacRegister:
-	.string "I'm going to redouble my training.\n"
-	.string "Would you come look in on us?$"
+	.string "Nire entrenamendua bikoiztuko dut.\n"
+	.string "Nahi duzu ikustera etorri?$"
 
 Route117_Text_IsaacRematchIntro:
-	.string "The POKéMON I've been raising are\n"
-	.string "looking good, just like before.$"
+	.string "Hazten ari naizen POKéMONAK sasoi\n"
+	.string "bikainean daude, lehen bezala.$"
 
 Route117_Text_IsaacRematchDefeat:
-	.string "You know how to raise them properly.\n"
-	.string "You might have DAY CARE skills…$"
+	.string "Zuk badakizu zureak nola hazi.\n"
+	.string "ZAINDEGI batean lan egiteko eskua duzu…$"
 
 Route117_Text_IsaacPostRematch:
-	.string "Your POKéMON are growing good!\n"
-	.string "You should enter them in CONTESTS.$"
+	.string "Zure POKéMONAK izugarri ondo hazten ari dira!\n"
+	.string "TXAPELKETETAN izena eman behar zenuke.$"
 
 Route117_Text_LydiaIntro:
-	.string "Please, allow me to evaluate if you\n"
-	.string "have raised your POKéMON properly.$"
+	.string "Mesedez, utzi ikusten ea zure\n"
+	.string "POKéMONAK ondo hazi dituzun.$"
 
 Route117_Text_LydiaDefeat:
-	.string "Yes, they are growing properly.$"
+	.string "Bai, ederki ari dira hazten.$"
 
 Route117_Text_LydiaPostBattle:
-	.string "Try raising POKéMON with more\n"
-	.string "attention to their character traits.$"
+	.string "Saiatu POKéMONAK beraien\n"
+	.string "izaeraren arabera hazten.$"
 
 Route117_Text_LydiaRegister:
-	.string "I'm glad I met a superb TRAINER in you.\n"
-	.string "I hope to see you again.$"
+	.string "Pozten naiz zu lako ENTRENATZAILE bikaina\n"
+	.string "ezagututa. Ikusiko dugu elkar berriz.$"
 
 Route117_Text_LydiaRematchIntro:
-	.string "Allow me to reevaluate if you have\n"
-	.string "raised your POKéMON properly.$"
+	.string "Mesedez, utzi berriro ikusten ea zure\n"
+	.string "POKéMONAK ondo hazi dituzun.$"
 
 Route117_Text_LydiaRematchDefeat:
-	.string "They are growing admirably.$"
+	.string "Bikainki ari dira hazten, bai.$"
 
 Route117_Text_LydiaPostRematch:
-	.string "POKéMON seem to like different kinds\n"
-	.string "of {POKEBLOCK}S, depending on their nature.$"
+	.string "POKéMONEI mota desberdinetako {POKEBLOCK}AK\n"
+	.string "gustatzen zaizkie, izaeraren arabera.$"
 
 Route117_Text_DylanIntro:
-	.string "I'm in the middle of a triathlon, but,\n"
-	.string "whatever, let's have a battle!$"
+	.string "Triatloi bat egiten ari naiz, baina,\n"
+	.string "berdin da, borroka dezagun!$"
 
 Route117_Text_DylanDefeat:
-	.string "I ran out of energy!$"
+	.string "Energiarik gabe geratu naiz!$"
 
 Route117_Text_DylanPostBattle:
-	.string "I may have blown it…\p"
-	.string "I might have dropped to last during\n"
-	.string "that battle…$"
+	.string "Uste dut kakaztu egin dudala…\p"
+	.string "Borrokaren erruz azken postuan nagoela\n"
+	.string "esango nuke…$"
 
 Route117_Text_DylanRegister:
-	.string "POKéMON have to be strong, too?\n"
-	.string "I'd like you to train me!$"
+	.string "POKéMONAK ere indartsuak izan behar dira?\n"
+	.string "Entrenatu nazazu ni, mesedez!$"
 
 Route117_Text_DylanRematchIntro:
-	.string "I'm smack in the middle of a triathlon,\n"
-	.string "but I'm comfortably ahead.\l"
-	.string "Let's make this a quick battle!$"
+	.string "Triatloi bat egiten ari naiz, baina\n"
+	.string "oso erraz ari naiz irabazten.\l"
+	.string "Borroka azkar bat egin dezagun!$"
 
 Route117_Text_DylanRematchDefeat:
-	.string "I ran out of energy again!$"
+	.string "Energiarik gabe geratu naiz berriz!$"
 
 Route117_Text_DylanPostRematch:
-	.string "I was tops in swimming and cycling,\n"
-	.string "but I'm not quite that confident with\l"
-	.string "POKéMON yet.$"
+	.string "Oso ona naiz igerian eta bizikletan,\n"
+	.string "baina POKéMONEKIN borrokan oraindik\l"
+	.string "badut zer ikasi.$"
 
 Route117_Text_MariaIntro:
-	.string "I do my triathlon training with POKéMON,\n"
-	.string "so I'm pretty confident about my speed.$"
+	.string "POKéMONEKIN entrenatzen naiz triatloirako,\n"
+	.string "beraz, konfidantza dut gure abiaduran.$"
 
 Route117_Text_MariaDefeat:
-	.string "I need to get more practices in,\n"
-	.string "I guess.$"
+	.string "Gehiago praktikatu beharko dugu,\n"
+	.string "dirudienez.$"
 
 Route117_Text_MariaPostBattle:
-	.string "Training is meaningful only if you\n"
-	.string "keep it up regularly.\p"
-	.string "Okay! I'll resume my training!\n"
-	.string "Tomorrow!$"
+	.string "Entrenatzen baduzu, garrantzitsua da\n"
+	.string "erregularki egitea.\p"
+	.string "Ongi! Entrenatzen jarraituko dut!\n"
+	.string "Bihar, ordea!$"
 
 Route117_Text_MariaRegister:
-	.string "You appear to be training properly…\n"
-	.string "If you'd like, I'll battle you later!$"
+	.string "Ondo ari zarela entrenatzen dirudiu…\n"
+	.string "Nahi baduzu, borrokatuko dugu geroago!$"
 
 Route117_Text_MariaRematchIntro:
-	.string "Are you keeping up with your training?\n"
-	.string "I sure am!\l"
-	.string "Let me show you the evidence!$"
+	.string "Ari al zara entrenatzen?\n"
+	.string "Ni bai!\l"
+	.string "Ikusiko duzu!$"
 
 Route117_Text_MariaRematchDefeat:
-	.string "I need to get more practices in,\n"
-	.string "I guess.$"
+	.string "Gehiago praktikatu beharko dugu,\n"
+	.string "dirudienez.$"
 
 Route117_Text_MariaPostRematch:
-	.string "I'll resume training tomorrow.\n"
-	.string "Let's battle again sometime!$"
+	.string "Bihar jarraituko dut entrenatzen.\n"
+	.string "Beste batean borrokatu dezagun!$"
 
 Route117_Text_DerekIntro:
-	.string "Once a BUG CATCHER!\n"
-	.string "And now a BUG MANIAC!\p"
-	.string "But my love for POKéMON remains\n"
-	.string "unchanged!$"
+	.string "Lehen ZOMORRO ZALEA!\n"
+	.string "Orain ZOMORRO MANIAKOA!\p"
+	.string "Baina POKéMONEKIKO dudan maitasuna\n"
+	.string "ez da inoiz aldatuko!$"
 
 Route117_Text_DerekDefeat:
-	.string "My ineptitude also remains\n"
-	.string "unchanged…$"
+	.string "Nire ezgaitasuna ere ez da\n"
+	.string "inoiz aldatuko…$"
 
 Route117_Text_DerekPostBattle:
-	.string "All I did was follow my heart, and now\n"
-	.string "they call me a BUG MANIAC…\p"
-	.string "Still, I am an expert on BUG POKéMON,\n"
-	.string "so it's only natural that they call me\l"
-	.string "a BUG MANIAC.$"
+	.string "Nire bihotzari jarraitu nion soilik,\n"
+	.string "orain ZOMORRO MANIAKOA deitzen didate…\p"
+	.string "Hala ere aditua naiz ZOMORRO POKéMONETAN.\n"
+	.string "Normala da, beraz, ZOMORRO MANIAKO\l"
+	.string "deitzea.$"
 
 Route117_Text_AnnaIntro:
-	.string "ANNA: I'm with my pretty junior student\n"
-	.string "partner. I have to do good!$"
+	.string "IHINTZA: Nire ikaskide gaztearekin nago\n"
+	.string "orain. Ondo aritu behar dut!$"
 
 Route117_Text_AnnaDefeat:
-	.string "ANNA: I'm with my pretty junior student\n"
-	.string "partner! Let me win!$"
+	.string "IHINTZA: Nire ikaskide gaztearekin nago\n"
+	.string "orain. Utzi irabazten!$"
 
 Route117_Text_AnnaPostBattle:
-	.string "ANNA: Your POKéMON have some good\n"
-	.string "combinations.\p"
-	.string "I'd say you're second only to us!$"
+	.string "IHINTZA: Zure POKéMONEK konbinazio\n"
+	.string "itzelak dituzte.\p"
+	.string "Ia-ia gu baino hobea zara!$"
 
 Route117_Text_AnnaAndMegRegister:
-	.string "ANNA: We can't take this lying down!\n"
-	.string "You will come back, won't you?$"
+	.string "IHINTZA: Ezin dugu hau horrela utzi!\n"
+	.string "Bueltatuko zara, ezta?$"
 
 Route117_Text_AnnaNotEnoughMons:
-	.string "ANNA: If you want to battle us,\n"
-	.string "bring two POKéMON with you.$"
+	.string "IHINTZA: Gure aurka borrokatzekotan,\n"
+	.string "ekarri bi POKéMON, gutxienez.$"
 
 Route117_Text_MegIntro:
-	.string "MEG: I'm going to tag up with my super\n"
-	.string "senior student partner and beat you!$"
+	.string "MAITE: Nire ikaskide nagusiarekin\n"
+	.string "batera egurra emango dizut!$"
 
 Route117_Text_MegDefeat:
-	.string "MEG: Oh, no!\n"
-	.string "I'm sorry, ANNA! I let you down…$"
+	.string "MAITE: Ai, ez!\n"
+	.string "Barkatu, IHINTZA! Ez dut itxura eman…$"
 
 Route117_Text_MegPostBattle:
-	.string "MEG: I dragged ANNA down…\n"
-	.string "If I didn't, she would have won!$"
+	.string "MAITE: IHINTZAK galdu egin du nire erruz…\n"
+	.string "Itxura eman banu, irabazi egingo zuen!$"
 
 Route117_Text_MegNotEnoughMons:
-	.string "MEG: Do you only have one POKéMON?\n"
-	.string "We can't battle with you, then.\p"
-	.string "We want to have a 2-on-2 battle.$"
+	.string "MAITE: POKéMON bakarra al duzu?\n"
+	.string "Ezin dugu zure aurka borrokatu, orduan.\p"
+	.string "2 2ren aurka soilik egiten dugu borroka.$"
 
 Route117_Text_AnnaRematchIntro:
-	.string "ANNA: I can't keep losing in front of\n"
-	.string "my junior partner, right?$"
+	.string "IHINTZA: Ezin dut nire ikaskide gaztearen\n"
+	.string "alboan beti galdu, ezta?$"
 
 Route117_Text_AnnaRematchDefeat:
-	.string "ANNA: I couldn't get into the groove.$"
+	.string "IHINTZA: Ez dut erritmoa ondo harrapatu.$"
 
 Route117_Text_AnnaPostRematch:
-	.string "ANNA: Your POKéMON have some good\n"
-	.string "combinations.\p"
-	.string "I'd say you're second only to us!$"
+	.string "IHINTZA: Zure POKéMONEK konbinazio\n"
+	.string "itzelak dituzte.\p"
+	.string "Ia-ia gu baino hobea zara!$"
 
 Route117_Text_AnnaRematchNotEnoughMons:
-	.string "ANNA: If you want to battle us,\n"
-	.string "bring two POKéMON with you.$"
+	.string "IHINTZA: Gure aurka borrokatzekotan,\n"
+	.string "ekarri bi POKéMON, gutxienez.$"
 
 Route117_Text_MegRematchIntro:
-	.string "MEG: I'm going to tag up with my\n"
-	.string "senior partner and win this time!$"
+	.string "MAITE: Nire ikaskide nagusiarekin\n"
+	.string "batera irabaziko dizut orain!$"
 
 Route117_Text_MegRematchDefeat:
-	.string "MEG: Too strong!$"
+	.string "MAITE: Indartsuegia zara!$"
 
 Route117_Text_MegPostRematch:
-	.string "MEG: I battled together with my\n"
-	.string "senior partner, but we lost…\p"
-	.string "That's so discouraging…$"
+	.string "MAITE: Nire ikaskide nagusiarekin\n"
+	.string "batera ere galdu egin dut…\p"
+	.string "Bai etsigarria…$"
 
 Route117_Text_MegRematchNotEnoughMons:
-	.string "MEG: Do you only have one POKéMON?\n"
-	.string "We can't battle with you, then.\p"
-	.string "We want to have a 2-on-2 battle.$"
+	.string "MAITE: POKéMON bakarra al duzu?\n"
+	.string "Ezin dugu zure aurka borrokatu, orduan.\p"
+	.string "2 2ren aurka soilik egiten dugu borroka.$"
 
 Route117_Text_MelinaIntro:
-	.string "Isn't it nice? To battle while looking\n"
-	.string "at pretty flowers?$"
+	.string "Ez al da ederra? Lore politen artean\n"
+	.string "borroka egitea?$"
 
 Route117_Text_MelinaDefeat:
-	.string "Oh, that's quite impressive!$"
+	.string "Ene, harrigarria izan da hori!$"
 
 Route117_Text_MelinaPostBattle:
-	.string "It feels wonderful to go for a jog\n"
-	.string "while looking at flowers.$"
+	.string "Bikaina da korrika egitea lore\n"
+	.string "ederrei begira zauden bitartean.$"
 
 Route117_Text_BrandiIntro:
-	.string "Let me demonstrate the power\n"
-	.string "hidden within a PSYCHIC POKéMON!$"
+	.string "Utzi nire POKéMON PSIKIKOEK\n"
+	.string "duten indar ezkutua erakustean!$"
 
 Route117_Text_BrandiDefeat:
-	.string "Astonishing!$"
+	.string "Sinestezina!$"
 
 Route117_Text_BrandiPostBattle:
-	.string "PSYCHIC POKéMON are complex.\n"
-	.string "You should try catching some.$"
+	.string "POKéMON PSIKIKOAK konplexuak dira.\n"
+	.string "Baten bat harrapatu behar zenuke.$"
 
 Route117_Text_AishaIntro:
-	.string "Concentrate on getting the win.\n"
-	.string "That's how I battle!$"
+	.string "Garaipenean kontzentratuz.\n"
+	.string "Hala egiten dut borrokan!$"
 
 Route117_Text_AishaDefeat:
-	.string "I don't waste any time being angry\n"
-	.string "over a loss--I would rather train.$"
+	.string "Ez dut denborarik galtzen irabazten ez\n"
+	.string "dudanean haserretuz, hobe da entrenatzea.$"
 
 Route117_Text_AishaPostBattle:
-	.string "I think that if you worry about losing,\n"
-	.string "you're more likely to lose.$"
+	.string "Uste dut, galtzeak kezkatzen bazaitu,\n"
+	.string "errazago galduko duzula.$"
 
 Route118_Text_RoseIntro:
-	.string "The aroma of flowers has a magical\n"
-	.string "power. It cleanses us body and soul.$"
+	.string "Loreen lurrinak indar magikoa du.\n"
+	.string "Gorputza eta arima garbitzen dizkit.$"
 
 Route118_Text_RoseDefeat:
-	.string "Oh, dear me.\n"
-	.string "I seem to have lost.$"
+	.string "Ai, ene.\n"
+	.string "Galdu egin dut, eta.$"
 
 Route118_Text_RosePostBattle:
-	.string "Flowers, POKéMON…\n"
-	.string "I love whatever smells nice.\p"
-	.string "Stinky things…\n"
-	.string "I'll pass.$"
+	.string "Loreak, POKéMONAK…\n"
+	.string "Lurrin goxoa duen edozer gustatzen zait.\p"
+	.string "Gauza kirastunak…\n"
+	.string "Ez, mila esker.$"
 
 Route118_Text_RoseRegister:
-	.string "Sniff… That odor--it's a POKéNAV!\n"
-	.string "We must register each other!$"
+	.string "Zintz… usain hori, POKéNAV bat da eta!\n"
+	.string "Elkar erregistratu behar dugu!$"
 
 Route118_Text_RoseRematchIntro:
-	.string "Were you drawn here by the sweet\n"
-	.string "aroma?$"
+	.string "Lurrin gozoak ekarri al zaitu\n"
+	.string "hona?$"
 
 Route118_Text_RoseRematchDefeat:
-	.string "The power of aroma…\n"
-	.string "It didn't seem to do much.$"
+	.string "Lurrinaren indarrak…\n"
+	.string "Ez du ezer egin.$"
 
 Route118_Text_RosePostRematch:
-	.string "If you use a sweet aroma properly,\n"
-	.string "POKéMON will be attracted by it.$"
+	.string "Lurrin gozoak ondo erabilita,\n"
+	.string "POKéMONAK hurbilduko zaizkizu.$"
 
 Route118_Text_PerryIntro:
-	.string "BIRD POKéMON that FLY elegantly in\n"
-	.string "the sky… They're the best!$"
+	.string "Zeruan HEGAN egiten duten TXORI\n"
+	.string "POKéMONAK… Onenak dira!$"
 
 Route118_Text_PerryDefeat:
-	.string "Urgh…\n"
-	.string "I crashed…$"
+	.string "Ene…\n"
+	.string "A zer kolpea…$"
 
 Route118_Text_PerryPostBattle:
-	.string "You've got great POKéMON.\n"
-	.string "I'll have to train mine better.$"
+	.string "POKéMON bikainak dituzu.\n"
+	.string "Hobe entrenatu beharko ditut nireak.$"
 
 Route118_Text_ChesterIntro:
-	.string "Take flight!\n"
-	.string "My BIRD POKéMON!$"
+	.string "Egin hegan!\n"
+	.string "Nire TXORI POKéMONAK!$"
 
 Route118_Text_ChesterDefeat:
-	.string "They did take flight…$"
+	.string "Hegan egin dute, bai…$"
 
 Route118_Text_ChesterPostBattle:
-	.string "If they'd get stronger, they'd be able\n"
-	.string "to fly more freely…$"
+	.string "Indartsuagoak balira, libreago\n"
+	.string "egingo lukete hegan…$"
 
 Route118_Text_BarnyIntro:
-	.string "I'm a FISHERMAN, but also a TRAINER.\n"
-	.string "I'm raising the POKéMON I caught.$"
+	.string "ARRANTZALEA naiz, baita ENTRENATZAILEA ere.\n"
+	.string "Harrapatu ditudan POKéMONAK hazten ditut.$"
 
 Route118_Text_BarnyDefeat:
-	.string "I thought I was doing okay in my\n"
-	.string "training…$"
+	.string "uste nuen ondo ari nintzela\n"
+	.string "entrenatzen…$"
 
 Route118_Text_BarnyPostBattle:
-	.string "I couldn't win by training POKéMON\n"
-	.string "while I fished…\p"
-	.string "Was I doing things in half measures?$"
+	.string "Ezin izan ditut arrantzan ari nintzen\n"
+	.string "bitartean POKéMONAK entrenatu…\p"
+	.string "Erdizka ari ote nintzen gauzak egiten?$"
 
 Route118_Text_WadeIntro:
-	.string "For FISHERMEN, equipment is the key.\p"
-	.string "But for TRAINERS, the key ingredients\n"
-	.string "are POKéMON and heart, of course!$"
+	.string "ARRANTZALEONTZAT, tresneria da behinena.\p"
+	.string "ENTRENATZAILEENTZAT, ordea, garrantzitsuena\n"
+	.string "POKéMONAK eta bihotza dira!$"
 
 Route118_Text_WadeDefeat:
-	.string "I was beaten in heart?$"
+	.string "Bihotzez irabazi al didate?$"
 
 Route118_Text_WadePostBattle:
-	.string "Come to think of it, fishing is a battle\n"
-	.string "between a FISHERMAN and a POKéMON.$"
+	.string "Ondo pentsatuz gero, arrantza borroka bat da\n"
+	.string "ARRANTZALE baten eta POKéMON baten artean.$"
 
 Route118_Text_DaltonIntro:
-	.string "Let my melody rock your soul!$"
+	.string "Utzi nire melodiak harrapa zaitzan!$"
 
 Route118_Text_DaltonDefeat:
 	.string "La-lalala…$"
 
 Route118_Text_DaltonPostBattle:
-	.string "An electric guitar doesn't always\n"
-	.string "have to be noisy…\p"
-	.string "It can be strummed to squeeze out\n"
-	.string "this heart-stirring melody…$"
+	.string "Gitarra elektriko batek ez du zertan\n"
+	.string "zarata atera…\p"
+	.string "Bihotza uzkurtuko dizun melodiak\n"
+	.string "jo daitezke, ondo erabiliz…$"
 
 Route118_Text_DaltonRegister:
-	.string "When I compose better melodies,\n"
-	.string "you have to come listen, okay?$"
+	.string "Melodia hobeak egiten ditudanean,\n"
+	.string "etorri entzutera, ados?$"
 
 Route118_Text_DaltonRematchIntro:
-	.string "A melody from my POKéMON and me…\n"
-	.string "Let us deliver it to your soul.$"
+	.string "Nire POKéMONEK eta nik egindako melodia…\n"
+	.string "Arimara iritsiko zaizu.$"
 
 Route118_Text_DaltonRematchDefeat:
 	.string "La-lalala…$"
 
 Route118_Text_DaltonPostRematch:
-	.string "When I play, my emotions should reach\n"
-	.string "you through my electric guitar…$"
+	.string "Jotzen dudanean, nire emozioak gitarra\n"
+	.string "elektrikoak adierazten ditu…$"
 
 Route118_Text_DeandreIntro:
-	.string "Go, go, go!\n"
-	.string "POKéMON 1, 2, and 3!$"
+	.string "Aurrera, aurrera, aurrera!\n"
+	.string "POKéMON 1, 2, eta 3!$"
 
 Route118_Text_DeandreDefeat:
-	.string "Come in, POKéMON! Are you okay?\n"
-	.string "POKéMON 1, 2, and 3?!$"
+	.string "Ea ba, POKéMONAK! Ondo al zaudete?\n"
+	.string "POKéMON 1, 2, eta 3?!$"
 
 Route118_Text_DeandrePostBattle:
-	.string "Isn't it cool that I have a POKéMON\n"
-	.string "battle team?\p"
-	.string "You can copy me--I don't mind!$"
+	.string "Ez al da itzela borrokarako\n"
+	.string "POKéMON taldea izatea?\p"
+	.string "Kopiatu, lasai. Ez zait axola!$"
 
 Route119_Text_BrentIntro:
-	.string "We're the MIMIC CIRCLE!\n"
-	.string "We MIMIC what you do!$"
+	.string "ZIRKULU MIMETIKOA gara!\n"
+	.string "Egiten duzuna MIMETIZATZEN DUGU!$"
 
 Route119_Text_BrentDefeat:
-	.string "Whoopsie!\n"
-	.string "I lost!$"
+	.string "Ene, bada!\n"
+	.string "Galdu egin dut!$"
 
 Route119_Text_BrentPostBattle:
-	.string "What's so good about mimicry?\p"
+	.string "Zer den mimetizatzearen onena?\p"
 	.string "Fufufu…\n"
-	.string "You'll never understand…$"
+	.string "Ez zenuke ulertuko…$"
 
 Route119_Text_DonaldIntro:
-	.string "So, we finally meet!\n"
-	.string "My BUG POKéMON will keep you company!$"
+	.string "Azkenean, ezagutu zaitut!\n"
+	.string "Nire ZOMORRO POKéMONEK lagun egingo dizute!$"
 
 Route119_Text_DonaldDefeat:
-	.string "I wish we'd never met…$"
+	.string "Hobe elkar ezagutu izan ez bagenu…$"
 
 Route119_Text_DonaldPostBattle:
-	.string "I want to MIMIC you some more.\n"
-	.string "Can you hurry up and move?$"
+	.string "Gehiago MIMETIZATU nahi zaitut.\n"
+	.string "Azkar ibili eta mugitu zaitezke?$"
 
 Route119_Text_TaylorIntro:
-	.string "If you step forward, we step forward.\p"
-	.string "If you turn right, we turn, too…$"
+	.string "Pausu bat aurrera ematen baduzu, guk ere bai.\p"
+	.string "Ekuinera buelta emanda, guk ere berdin…$"
 
 Route119_Text_TaylorDefeat:
-	.string "But if you win, I lose…$"
+	.string "Baina irabazten baduzu, guk galdu…$"
 
 Route119_Text_TaylorPostBattle:
-	.string "I can't MIMIC you winning the match.\n"
-	.string "That's just impossible…\l"
-	.string "It's burning me up…$"
+	.string "Ezin dut zure garaipena MIMETIZATU.\n"
+	.string "Ezinezkoa da…\l"
+	.string "A zer nolako amorrua…$"
 
 Route119_Text_DougIntro:
-	.string "Yep, you've finally caught me!\n"
-	.string "Or were you trying to avoid me?$"
+	.string "Bai, harraptu nauzu, azkenean!\n"
+	.string "Edo ni saihesten ari zinen?$"
 
 Route119_Text_DougDefeat:
-	.string "Whoop, that was a great match!$"
+	.string "Uau, a zer nolako borroka!$"
 
 Route119_Text_DougPostBattle:
-	.string "We're the MIMIC CIRCLE!\n"
-	.string "I hope you enjoyed our performance.$"
+	.string "ZIRKULU MIMETIKOA gara!\n"
+	.string "Gure antzezpena gustatu zaizulakoan.$"
 
 Route119_Text_GregIntro:
-	.string "You don't know who I am, do you?\p"
-	.string "But, I also don't know you.\n"
-	.string "So, we'll battle!$"
+	.string "Ez dakizu nor naizen, ez da hala?\p"
+	.string "Nik ere ez dakit zu nor zaren.\n"
+	.string "Borroka dezagun, beraz!$"
 
 Route119_Text_GregDefeat:
-	.string "You're pretty strong!$"
+	.string "Indartsua zara, gero!$"
 
 Route119_Text_GregPostBattle:
-	.string "Until you go away somewhere, we'll\n"
-	.string "keep on mimicking your every move.$"
+	.string "Hemendik joaten zaren arte, zure\n"
+	.string "mugimendu guztiak MIMETIZATUKO ditugu.$"
 
 Route119_Text_KentIntro:
-	.string "The MIMIC CIRCLE was formed by people\n"
-	.string "who like to MIMIC.\p"
-	.string "A battle starts the instant we meet!$"
+	.string "ZIRKULU MIMETIKOA osatzen dutenek\n"
+	.string "atsegin dute MIMETIZATZEA.\p"
+	.string "Borrokatu egiten dugu elkartu bezain lasten!$"
 
 Route119_Text_KentDefeat:
-	.string "I give up!$"
+	.string "Errenditu egin naiz!$"
 
 Route119_Text_KentPostBattle:
-	.string "Won't you join our MIMIC CIRCLE?$"
+	.string "Nahi duzu ZIRKULU MIMETIKOAN parte hartu?$"
 
 Route119_Text_JacksonIntro:
-	.string "Who has the knowledge and\n"
-	.string "the technique for survival?\p"
-	.string "POKéMON RANGERS, that's who!$"
+	.string "Zeinek dauka biziraupenerako\n"
+	.string "sena eta teknika?\p"
+	.string "POKéMON RANGERREN, noski!$"
 
 Route119_Text_JacksonDefeat:
-	.string "I didn't have enough POKéMON\n"
-	.string "know-how…$"
+	.string "Ez dakit horrenbeste POKéMONEN\n"
+	.string "inguruan…$"
 
 Route119_Text_JacksonPostBattle:
-	.string "To break away from civilization and\n"
-	.string "awaken the wild spirit within!\p"
-	.string "That's our vision.$"
+	.string "Zibilizazioari ihes egin eta barneko\n"
+	.string "espiritu basatia piztea!\p"
+	.string "Hori da gure helburua.$"
 
 Route119_Text_JacksonRegister:
-	.string "I hope you'll give me a rematch without\n"
-	.string "mocking my lack of knowledge.$"
+	.string "Espero dut errebantxa bat egingo dugula\n"
+	.string "nire jakinduria faltari barre egin gabe.$"
 
 Route119_Text_JacksonRematchIntro:
-	.string "I'm going to regain my wild spirit by\n"
-	.string "being together with POKéMON.$"
+	.string "Nire espiritu basatia berpiztuko du\n"
+	.string "POKéMONEKIN batera egonda.$"
 
 Route119_Text_JacksonRematchDefeat:
-	.string "You've remained strong!$"
+	.string "Indartsua zara oraindik!$"
 
 Route119_Text_JacksonPostRematch:
-	.string "Believe in your POKéMON.\n"
-	.string "Believe in yourself.\p"
-	.string "The road will reveal itself to you.$"
+	.string "Sinestu zure POKéMONETAN.\n"
+	.string "Sinestu zure buruan.\p"
+	.string "Aurrean agertuko zaizu bidea.$"
 
 Route119_Text_CatherineIntro:
-	.string "Oh? Look at you.\p"
-	.string "For someone on an adventure,\n"
-	.string "you're traveling awfully light.$"
+	.string "Zer? Zu bai bitxia.\p"
+	.string "Abenturazalea izateko,\n"
+	.string "ez duzu gauza asko aldean.$"
 
 Route119_Text_CatherineDefeat:
-	.string "Accidents happen when you're not\n"
-	.string "prepared!$"
+	.string "Istripuak prest ez zaudenean\n"
+	.string "jazotzen dira!$"
 
 Route119_Text_CatherinePostBattle:
-	.string "You're traveling light but you have\n"
-	.string "everything you need.\p"
-	.string "You're on top of things mentally and\n"
-	.string "physically, too.$"
+	.string "Ez duzu gauza asko aldean, baina\n"
+	.string "bai behar duzun guztia.\p"
+	.string "Fisikoki eta mentalki kontrolpean\n"
+	.string "duzu dena.$"
 
 Route119_Text_CatherineRegister:
-	.string "Do you have a POKéNAV?\n"
-	.string "It's a must-have tool for any TRAINER.\p"
-	.string "Oh, you do have one!\n"
-	.string "Let's register each other, then!$"
+	.string "POKéNAVIK ba al duzu?\n"
+	.string "ENTRENATZAILE guztiek behar dute bat.\p"
+	.string "Bai, baduzu bat eta!\n"
+	.string "Erregistratu dezagun elkar, orduan!$"
 
 Route119_Text_CatherineRematchIntro:
-	.string "How's your journey with POKéMON\n"
-	.string "going?$"
+	.string "Zer moduz doa zure POKéMONEKIN\n"
+	.string "egiten ari zaren bidaia?$"
 
 Route119_Text_CatherineRematchDefeat:
-	.string "I'm still missing something…$"
+	.string "Zeozer falta zait oraindik…$"
 
 Route119_Text_CatherinePostRematch:
-	.string "In the same way that you, as a TRAINER,\n"
-	.string "rely on your POKéMON, your POKéMON\l"
-	.string "rely on you.$"
+	.string "Zuk, ENTRENATZAILE bezala, zure\n"
+	.string "POKéMONAK behar dituzun legez, zure\l"
+	.string "POKéMONEK zu behar zaituzte.$"
 
 Route119_Text_HughIntro:
-	.string "The vast sky holds untold promise!\p"
-	.string "Nothing can compare to the sheer\n"
-	.string "exhilaration of flight!$"
+	.string "Zeru amaigabea promesaz betea dago!\p"
+	.string "Ezer ez da hegan egitea bezain\n"
+	.string "zirraragarria!$"
 
 Route119_Text_HughDefeat:
-	.string "Down and out!$"
+	.string "Bota egin naute!$"
 
 Route119_Text_HughPostBattle:
-	.string "My BIRD POKéMON made my dreams of\n"
-	.string "flying come true!$"
+	.string "Nire TXORI POKéMONEI esker, hegan\n"
+	.string "egiteko nuen ametsa bete da!$"
 
 Route119_Text_PhilIntro:
-	.string "I'll show you the true potential of me\n"
-	.string "and my BIRD POKéMON!$"
+	.string "Nire eta nire TXORI POKéMONEN\n"
+	.string "indarra erakutsiko dizut!$"
 
 Route119_Text_PhilDefeat:
-	.string "We lacked potential…$"
+	.string "Indarra falta zaigu…$"
 
 Route119_Text_PhilPostBattle:
-	.string "Ever since I was a little kid, I always\n"
-	.string "admired BIRD POKéMON…$"
+	.string "Umea nintzenetik, beti miretsi izan\n"
+	.string "ditut TXORI POKéMONAK…$"
 
 Route119_Text_YasuIntro:
-	.string "To lurk in shadows, and live in\n"
-	.string "darkness… That is my destiny.\p"
-	.string "I emerge to challenge you!$"
+	.string "Itzaletan bizi eta ilunpetik\n"
+	.string "agertzea… Hori da nire patua.\p"
+	.string "Erronka botatzeko atera naiz!$"
 
 Route119_Text_YasuDefeat:
-	.string "I admit defeat!$"
+	.string "Porrota onartzen dut!$"
 
 Route119_Text_YasuPostBattle:
-	.string "Those defeated in battle withdraw\n"
-	.string "quietly back into the shadows.\l"
-	.string "That, too, is destiny…$"
+	.string "Borrokan galdu dutenak isilik\n"
+	.string "bueltatzen dira itzaletara.\l"
+	.string "Hori ere patua da…$"
 
 Route119_Text_TakashiIntro:
-	.string "If you're not on your guard,\n"
-	.string "you're in for some pain!$"
+	.string "Ez bazaude defentsarako adi,\n"
+	.string "mina hartuko duzu!$"
 
 Route119_Text_TakashiDefeat:
-	.string "You're surprisingly good!$"
+	.string "Izugarri ona zara, alajaina!$"
 
 Route119_Text_TakashiPostBattle:
-	.string "My surprise attack ended in\n"
-	.string "failure…$"
+	.string "Nire sorpresa erasoak porrota\n"
+	.string "eragin dit…$"
 
 Route119_Text_HideoIntro:
-	.string "To hide a tree, use a forest!$"
+	.string "Zuhaitza ezkutatzeko, basoa erabili!$"
 
 Route119_Text_HideoDefeat:
-	.string "I bow to your superiority.$"
+	.string "Zure indarraren aurrean makurtzen naiz.$"
 
 Route119_Text_HideoPostBattle:
-	.string "To hide a tree, use a forest!\n"
-	.string "To hide a POKéMON, use a POKéMON!\p"
-	.string "There is no deep, hidden meaning\n"
-	.string "to that.$"
+	.string "Zuhaitza ezkutatzeko, basoa erabili!\n"
+	.string "POKéMONA ezkutatzeko, POKéMONA erabili!\p"
+	.string "Ez, ez dauka esanahi sakonik esan\n"
+	.string "berri dudanak.$"
 
 Route119_Text_ChrisIntro:
-	.string "You spoke to me…\n"
-	.string "So you want to challenge me!\p"
-	.string "Sure! I'll try out the POKéMON I caught\n"
-	.string "while SURFING!$"
+	.string "Hitz egin didazu…\n"
+	.string "Erronka bota nahi didazu, orduan!\p"
+	.string "Ongi! SURFA egiten ari nintzen bitartean\n"
+	.string "harrapatutako POKéMONAK erabiliko ditut!$"
 
 Route119_Text_ChrisDefeat:
-	.string "I don't have a clue about what it\n"
-	.string "takes to win.$"
+	.string "Ez dakit zer egin behar den\n"
+	.string "irabazteko, benetan.$"
 
 Route119_Text_ChrisPostBattle:
-	.string "Go for a SURF on my POKéMON…\p"
-	.string "Then fish off its back…\p"
-	.string "It's an indescribably luxuriant moment!$"
+	.string "Nire POKéMONEN gainean SURFA egitea…\p"
+	.string "Eta ondoren arrantza bere bizkarretik…\p"
+	.string "Momentu deskribaezina, zinez!$"
 
 Route119_Text_FabianIntro:
-	.string "Hit me with a power chord!\n"
-	.string "Victory is mine!\l"
-	.string "It's our time to shine, whoa, yeah!$"
+	.string "Jo ezazu akorde bat!\n"
+	.string "garaipena nirea da!\l"
+	.string "Iritsi da dirdira egiteko momentua, bai!$"
 
 Route119_Text_FabianDefeat:
-	.string "You showed me who's the boss!\n"
-	.string "We'll have to take the loss, oh, no!$"
+	.string "Erakutsi didazu nor den nagusia!\n"
+	.string "Onartu egin behar galdu dugun guztia!$"
 
 Route119_Text_FabianPostBattle:
-	.string "Hit me with another power chord!\n"
-	.string "Leave me alone!\l"
-	.string "Your win you have to atone!$"
+	.string "Jo ezazu beste akorde bat!\n"
+	.string "Utzi nazazu bakarrik!\l"
+	.string "Hemen geldituko naiz isilik!$"
 
 Route119_Text_DaytonIntro:
-	.string "Hohoho!\n"
-	.string "I like kid TRAINERS!\l"
-	.string "Let's have a good one!$"
+	.string "Kar-kar-kar!\n"
+	.string "Atsegin ditut ENTRENATZAILE gazteak!\l"
+	.string "Borroka dezagun!$"
 
 Route119_Text_DaytonDefeat:
-	.string "You're pretty amazing!\n"
-	.string "Hohoho!$"
+	.string "Oso ona zara!\n"
+	.string "Kar-kar-kar!$"
 
 Route119_Text_DaytonPostBattle:
-	.string "Hohoho!\n"
-	.string "I'll try emulating the pep of kid\l"
-	.string "TRAINERS like you!$"
+	.string "Kar-kar-kar!\n"
+	.string "Zu bezalako ENTRENATZAILE gazteen\l"
+	.string "indarra imitatzen saiatuko naiz!$"
 
 Route119_Text_RachelIntro:
-	.string "Wherever and whenever I may be,\n"
-	.string "I always have my parasol in hand.$"
+	.string "Edonon eta edonoiz, beti dut\n"
+	.string "guardasola eskuan.$"
 
 Route119_Text_RachelDefeat:
-	.string "Oh, but…\n"
-	.string "That's not fair.$"
+	.string "Ene, baina…\n"
+	.string "Hori ez da justua.$"
 
 Route119_Text_RachelPostBattle:
-	.string "You're asking if my parasol is heavy?\n"
-	.string "Your BAG is filled with more junk than\l"
-	.string "I ever carry around.$"
+	.string "Nire guardasola astuna dela diozu?\n"
+	.string "Ezertarako erabiliko ez nituzkeen\l"
+	.string "gauzaz betea duzu POLTSA eta.$"
 
 Route120_Text_ColinIntro:
-	.string "Do you have any moves that can strike\n"
-	.string "a flying POKéMON?$"
+	.string "Baduzu POKéMON hegalariak jo\n"
+	.string "ditzakeen POKéMONIK?$"
 
 Route120_Text_ColinDefeat:
-	.string "You soared above me!$"
+	.string "Ni baino hobea zara!$"
 
 Route120_Text_ColinPostBattle:
-	.string "The move FLY is convenient,\n"
-	.string "don't you think?\p"
-	.string "While the POKéMON is flying,\n"
-	.string "almost no moves can strike it.$"
+	.string "HEGALDI erasoa itzela da,\n"
+	.string "ez al zaizu iruditzen?\p"
+	.string "POKéMONA hegan dagoenean,\n"
+	.string "ezin du ia ezerk jo.$"
 
 Route120_Text_RobertIntro:
-	.string "My POKéMON is strong!\n"
-	.string "How about yours?$"
+	.string "Nire POKéMONA indartsua da!\n"
+	.string "Eta zurea?$"
 
 Route120_Text_RobertDefeat:
-	.string "Your POKéMON were stronger…$"
+	.string "Zure POKéMONAK indartsuagoak dira…$"
 
 Route120_Text_RobertPostBattle:
-	.string "A POKéMON that grows steadily is one\n"
-	.string "you can count on.$"
+	.string "Etengabe hazten den POKéMONA\n"
+	.string "benetan da fidagarria.$"
 
 Route120_Text_RobertRegister:
-	.string "You can be counted on to get better.\n"
-	.string "I'd like to register you in my POKéNAV!$"
+	.string "Uste dut zu ere etengabe haziko zarela.\n"
+	.string "Nire POKéNAVEAN erregistratuko zaitut!$"
 
 Route120_Text_RobertRematchIntro:
-	.string "A POKéMON that grows steadily is one\n"
-	.string "you can count on.$"
+	.string "Etengabe hazten den POKéMONA\n"
+	.string "benetan da fidagarria.$"
 
 Route120_Text_RobertRematchDefeat:
-	.string "Your POKéMON are seriously strong.$"
+	.string "Zure POKéMONAK zinez dira indartsuak.$"
 
 Route120_Text_RobertPostRematch:
-	.string "My POKéMON are growing stronger.\n"
-	.string "I have to grow stronger, too.$"
+	.string "Nire POKéMONAK gero eta indartsuagoak dira.\n"
+	.string "Ni ere indartu egin beharko naiz.$"
 
 Route120_Text_LorenzoIntro:
 	.string "I'll check your POKéMON and see if\n"
