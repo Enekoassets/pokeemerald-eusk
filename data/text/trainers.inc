@@ -2981,372 +2981,372 @@ Route120_Text_RobertPostRematch:
 	.string "Ni ere indartu egin beharko naiz.$"
 
 Route120_Text_LorenzoIntro:
-	.string "I'll check your POKéMON and see if\n"
-	.string "they're fit for the outdoors.$"
+	.string "Zure POKéMONAK aztertuko ditut eta ikusi\n"
+	.string "ea egokiak diren kanpoan ibiltzeko.$"
 
 Route120_Text_LorenzoDefeat:
-	.string "With POKéMON that strong, you're in\n"
-	.string "no danger of needing rescue!$"
+	.string "Horrelako POKéMON indartsuekin, ziur\n"
+	.string "ez duzula inork erreskatatzerik behar!$"
 
 Route120_Text_LorenzoPostBattle:
-	.string "To travel wherever your heart desires\n"
-	.string "with POKéMON…\l"
-	.string "That's the joy of being a TRAINER.$"
+	.string "Zure bihotzak agintzen dizun lekura\n"
+	.string "bidaiatzea POKéMONEKIN…\l"
+	.string "Hori da ENTRENATZAILEA izatearen onena.$"
 
 Route120_Text_JennaIntro:
-	.string "How's your physical fitness?\n"
-	.string "If you're not fit, you could have a\l"
-	.string "rough time in critical situations.$"
+	.string "Sasoian al zaude?\n"
+	.string "Ez bada hala, agian gaizki ibiliko\l"
+	.string "zara muturreko egoeretan.$"
 
 Route120_Text_JennaDefeat:
-	.string "I'm totally fit, but…$"
+	.string "Ni sasoian nago, baina…$"
 
 Route120_Text_JennaPostBattle:
-	.string "Fitness training is in my routine.\n"
-	.string "I always run with my POKéMON.$"
+	.string "Entrenatzea nire errutina da.\n"
+	.string "Nire POKéMONEKIN egiten dut korrika.$"
 
 Route120_Text_JeffreyIntro:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "Want to battle?$"
+	.string "Borrokatu nahi?$"
 
 Route120_Text_JeffreyDefeat:
-	.string "Lost it…$"
+	.string "Galdu egin dut…$"
 
 Route120_Text_JeffreyPostBattle:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "I'll try harder…$"
+	.string "Gehiago saiatuko naiz…$"
 
 Route120_Text_JeffreyRegister:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "Do you have a POKéNAV…?$"
+	.string "Ba al duzu POKéNAVIK…?$"
 
 Route120_Text_JeffreyRematchIntro:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "Want to battle again?$"
+	.string "Berriz borrokatu nahi?$"
 
 Route120_Text_JeffreyRematchDefeat:
 	.string "… … … … … …\n"
-	.string "I lost again…$"
+	.string "Berriz galdu dut…$"
 
 Route120_Text_JeffreyPostRematch:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
-	.string "I'll try harder…\l"
-	.string "For my precious BUG POKéMON…$"
+	.string "Gehiago saiatuko naiz…\l"
+	.string "Nire ZOMORRO POKéMONENGATIK…$"
 
 Route120_Text_JenniferIntro:
-	.string "POKéMON have many special abilities.\n"
-	.string "If you want to become a first-class\l"
-	.string "TRAINER, learn about them.$"
+	.string "POKéMONEK hainbat abilezia berezi dituzte.\n"
+	.string "Lehen mailako ENTRENATZAILEA izateko,\l"
+	.string "horien inguruan ikasi behar duzu.$"
 
 Route120_Text_JenniferDefeat:
-	.string "You're obviously thinking.$"
+	.string "Argi dago pentsatzen ari zarela.$"
 
 Route120_Text_JenniferPostBattle:
-	.string "The special abilities of POKéMON\n"
-	.string "will make battle styles change.$"
+	.string "POKéMONEN abilezia bereziek\n"
+	.string "borroka estiloa aldatzen dute.$"
 
 Route120_Text_ChipIntro:
-	.string "Who might you be?\p"
-	.string "Are you perhaps searching for ancient\n"
-	.string "ruins that are rumored to possibly\l"
-	.string "exist according to legend?$"
+	.string "Zein ote zara?\p"
+	.string "Agian kondaira zaharrek aipatzen\n"
+	.string "duten antzinako hondakin horien\l"
+	.string "bila zabiltza?$"
 
 Route120_Text_ChipDefeat:
-	.string "What a disgraceful setback…$"
+	.string "A zer atzerapauso lotsagarria…$"
 
 Route120_Text_ChipPostBattle:
-	.string "That giant rock… I would like to\n"
-	.string "believe it may indeed contain ancient\l"
-	.string "ruins. But I see no entrance.$"
+	.string "Arroka erraldoi hori… Benetan pentsatu\n"
+	.string "nahi nuke antzinako hondakinak dituela.\l"
+	.string "Baina ez dut sarrerarik ikusten.$"
 
 Route120_Text_ClarissaIntro:
-	.string "Why am I carrying this parasol?\p"
-	.string "I'll tell you if you can win against me.$"
+	.string "Zergatik ote dut guardasol hau?\p"
+	.string "Irabazten badidazu esango dizut.$"
 
 Route120_Text_ClarissaDefeat:
-	.string "A parasol can't ward off POKéMON\n"
-	.string "attacks…$"
+	.string "Guardasol batek ez du POKéMONEN\n"
+	.string "erasoak babesteko balio…$"
 
 Route120_Text_ClarissaPostBattle:
-	.string "I don't think strong sunlight is good\n"
-	.string "for my POKéMON.\l"
-	.string "So I shield them with my parasol.$"
+	.string "Uste dut eguzki gogor hau ez dela\n"
+	.string "ona nire POKéMONENTZAT. Horregatik\l"
+	.string "babesten ditut guardasolarekin.$"
 
 Route120_Text_AngelicaIntro:
-	.string "Me, POKéMON, and my parasol…\p"
-	.string "If any one of them is missing,\n"
-	.string "the picture of beauty will be ruined.$"
+	.string "Ni, POKéMONAK, eta nire guardasola…\p"
+	.string "Horietatik zeozer falta bada,\n"
+	.string "argazkia ez da horren ederra.$"
 
 Route120_Text_AngelicaDefeat:
-	.string "You've completely ruined my beauty…$"
+	.string "Nire edertasuna guztiz hondatu duzu…$"
 
 Route120_Text_AngelicaPostBattle:
-	.string "A parasol wouldn't suit you at all.\p"
-	.string "Why, something like this would only\n"
-	.string "get in your way.$"
+	.string "Guardasola ez litzaieke denei ondo\p"
+	.string "geratuko. Askorentzat estorbua besterik\n"
+	.string "ez litzateke izango.$"
 
 Route120_Text_KeigoIntro:
-	.string "I will adopt the movements of POKéMON\n"
-	.string "and create new ninja techniques.$"
+	.string "POKéMONEN erasoak erabili eta ninja\n"
+	.string "teknika berriak sortuko ditut.$"
 
 Route120_Text_KeigoDefeat:
-	.string "The creation of new ninja techniques\n"
-	.string "is but a distant dream…$"
+	.string "Ninja teknika berriak sortzea\n"
+	.string "amets urrun bat da…$"
 
 Route120_Text_KeigoPostBattle:
-	.string "Perhaps I ought to apprentice under\n"
-	.string "a ninja sensei.$"
+	.string "Agian ninja sensei bat behar dut\n"
+	.string "irakasle bezala.$"
 
 Route120_Text_RileyIntro:
-	.string "We ninja conceal ourselves under our\n"
-	.string "camouflage cloaks.\l"
-	.string "I bet you didn't know where I was!$"
+	.string "Ninjok gure kamuflaje kapak erabiltzen\n"
+	.string "ditugu ezkutatzeko.\l"
+	.string "Ziur nago ez zenekiela non nengoen ere!$"
 
 Route120_Text_RileyDefeat:
-	.string "I lost!\n"
-	.string "I should camouflage my shame!$"
+	.string "Galdu egin dut!\n"
+	.string "Nire lotsa kamuflatu beharko dut!$"
 
 Route120_Text_RileyPostBattle:
-	.string "Our camouflage cloaks are all\n"
-	.string "handmade.$"
+	.string "Gure kamuflaje kapak eskuz eginda\n"
+	.string "daude denak.$"
 
 Route120_Text_CallieIntro:
-	.string "If you don't pay attention,\n"
-	.string "you could get hurt!$"
+	.string "Arreta jartzen ez baduzu,\n"
+	.string "min hartu dezakezu!$"
 
 Route120_Text_CallieDefeat:
-	.string "Ouch!\n"
-	.string "I was the one to get hurt.$"
+	.string "Autx!\n"
+	.string "Azkenean nik hartu dut mina.$"
 
 Route120_Text_CalliePostBattle:
-	.string "I wonder… Should I evolve my POKéMON?\n"
-	.string "They're cute the way they are, though.$"
+	.string "Ez dakit… Eboluzionatu behar ote nituzke\n"
+	.string "nire POKéMONAK? Dauden gisan politak dira.$"
 
 Route120_Text_LeonelIntro:
-	.string "Your party POKéMON…\n"
-	.string "Do you have different types?$"
+	.string "Zure POKéMON taldean…\n"
+	.string "Mota desberdinak al dituzu?$"
 
 Route120_Text_LeonelDefeat:
-	.string "I've seen your policy in action!$"
+	.string "Ikusi dut zure borrokarako modua martxan!$"
 
 Route120_Text_LeonelPostBattle:
-	.string "I think it's awesome you're so strong\n"
-	.string "battling with your favorite POKéMON.$"
+	.string "Bikaina da zure POKéMON gustokoenekin\n"
+	.string "horren indartsua izatea, zu bezala.$"
 
 Route121_Text_VanessaIntro:
-	.string "Will you play with my delightfully\n"
-	.string "pretty POKéMON?$"
+	.string "Jolastuko duzu nire POKéMON ikaragarri\n"
+	.string "politekin?$"
 
 Route121_Text_VanessaDefeat:
-	.string "This isn't what I meant!$"
+	.string "Ez nuen hori esan nahi!$"
 
 Route121_Text_VanessaPostBattle:
-	.string "I'm going to a CONTEST in LILYCOVE.\p"
-	.string "My POKéMON should have no problem\n"
-	.string "sweeping the MASTER CLASS.$"
+	.string "UR-LILIKO TXAPELKETA batera noa.\p"
+	.string "Nire POKéMONEK ez lukete arazorik izan\n"
+	.string "behar MAISU MAILAN lehiatzeko.$"
 
 Route121_Text_WalterIntro:
-	.string "With my POKéMON, I have traveled\n"
-	.string "to the world's four corners.\p"
-	.string "You might say I have some confidence\n"
-	.string "in my abilities.$"
+	.string "Nire POKéMONEKIN munduko txoko\n"
+	.string "guztietara joan naiz.\p"
+	.string "Esan daiteke badudala konfidantza\n"
+	.string "nire abilezietan.$"
 
 Route121_Text_WalterDefeat:
-	.string "Ah, well played.$"
+	.string "Bai, ondo jokatuta.$"
 
 Route121_Text_WalterPostBattle:
-	.string "I would like to circle the globe once\n"
-	.string "again with my POKéMON.$"
+	.string "Munduari bira eman nahi nioke beste\n"
+	.string "behin nire POKéMONEKIN.$"
 
 Route121_Text_WalterRegister:
-	.string "Your POKéMON prowess is remarkable.\n"
-	.string "Allow me to register you as a memento.$"
+	.string "Zure POKéMONEN balentria izugarria da.\n"
+	.string "Utzi oroigarri bezala erregistratzen.$"
 
 Route121_Text_WalterRematchIntro:
-	.string "With my POKéMON, I have traveled\n"
-	.string "to the world's four corners.\p"
-	.string "You might say I have some confidence\n"
-	.string "in my abilities.$"
+	.string "Nire POKéMONEKIN munduko txoko\n"
+	.string "guztietara joan naiz.\p"
+	.string "Esan daiteke badudala konfidantza\n"
+	.string "nire abilezietan.$"
 
 Route121_Text_WalterRematchDefeat:
-	.string "Ah, well played.$"
+	.string "Bai, ondo jokatuta.$"
 
 Route121_Text_WalterPostRematch:
-	.string "Your POKéMON and you…\p"
-	.string "Your prowess together will be\n"
-	.string "considered strong, even overseas.$"
+	.string "Zure POKéMONAK eta zu…\p"
+	.string "Zuen balentriak leku guztietan ezagutuko\n"
+	.string "dira, baita itsasoaren beste aldean ere.$"
 
 Route121_Text_TammyIntro:
-	.string "There are powers beyond our\n"
-	.string "understanding in the world…$"
+	.string "Ulertzen ez ditugun indarrak\n"
+	.string "daude mundu honetan…$"
 
 Route121_Text_TammyDefeat:
-	.string "I have lost…$"
+	.string "Galdu egin dut…$"
 
 Route121_Text_TammyPostBattle:
-	.string "MT. PYRE…\n"
-	.string "There is a mysterious power\l"
-	.string "at work there…$"
+	.string "PIRO MENDIA…\n"
+	.string "Ziru nago botere misteriotsu bat\l"
+	.string "dagoela bertan…$"
 
 Route121_Text_KateIntro:
-	.string "KATE: Together, we're fearless!\n"
-	.string "We'll demonstrate how tough we are!$"
+	.string "IRATI: Elkarrekin beldurgaitzak gara!\n"
+	.string "Gure indarra erakutsiko dizugu!$"
 
 Route121_Text_KateDefeat:
-	.string "KATE: I blew it in front of my junior\n"
-	.string "student partner…$"
+	.string "IRATI: Nire ikaskide gaztearen aurrean\n"
+	.string "eskas aritu naiz…$"
 
 Route121_Text_KatePostBattle:
-	.string "KATE: When someone's relying on me,\n"
-	.string "I get this urge to look cool in front\l"
-	.string "of them…$"
+	.string "IRATI: Norbaitek nigan konfidantza jarri\n"
+	.string "badu, beraien aurrean ondo geratzeko\l"
+	.string "behar izugarria daukat…$"
 
 Route121_Text_KateNotEnoughMons:
-	.string "KATE: If you've only got one POKéMON,\n"
-	.string "we can't battle with you.\p"
-	.string "That would be bullying.$"
+	.string "IRATI: POKéMON bakarra baldin baduzu,\n"
+	.string "ezin dugu zurekin borrokatu.\p"
+	.string "Bullyinga litzateke hori.$"
 
 Route121_Text_JoyIntro:
-	.string "JOY: Together, we're fearless!\n"
-	.string "We'll demonstrate how tough we are!$"
+	.string "ZORIONE: Elkarrekin beldurgaitzak gara!\n"
+	.string "Gure indarra erakutsiko dizugu!$"
 
 Route121_Text_JoyDefeat:
-	.string "JOY: Please forgive me, KATE!$"
+	.string "ZORIONE: Barkatu mesedez, IRATI!$"
 
 Route121_Text_JoyPostBattle:
-	.string "JOY: Ehehe, I'll have to train with KATE,\n"
-	.string "my senior student partner, again.$"
+	.string "ZORIONE: Ehehe, IRATIREKIN, nire ikaskide\n"
+	.string "nagusiarekin, entrenatu beharko dut berriz.$"
 
 Route121_Text_JoyNotEnoughMons:
-	.string "JOY: You need at least two POKéMON\n"
-	.string "if you're going to challenge us!$"
+	.string "ZORIONE: Gutxienez bi POKéMON behar\n"
+	.string "dituzu guri erronka botatzeko!$"
 
 Route121_Text_JessicaIntro:
-	.string "Stop! Have a good look at my precious\n"
-	.string "POKéMON!$"
+	.string "Geldi! Begiratu ondo nire POKéMON\n"
+	.string "maitagarria!$"
 
 Route121_Text_JessicaDefeat:
-	.string "Oh, how dare you!\n"
-	.string "Don't take it so seriously!$"
+	.string "Aizu, nola ausartzen zara!\n"
+	.string "Ez ibili horren serio!$"
 
 Route121_Text_JessicaPostBattle:
-	.string "Maybe I'll go catch more POKéMON at\n"
-	.string "the SAFARI.$"
+	.string "Agian POKéMON gehiago harrapatzera\n"
+	.string "joango naiz SAFARIRA.$"
 
 Route121_Text_JessicaRegister:
-	.string "I took it easy on you this time!\n"
-	.string "It won't be that way the next time!$"
+	.string "Oraingoan ez naiz indar osoz aritu!\n"
+	.string "Hurrengoan ez da hala izango!$"
 
 Route121_Text_JessicaRematchIntro:
-	.string "My precious POKéMON grew!\n"
-	.string "Have a good look!$"
+	.string "Nire POKéMON ederrak hazi egin dira!\n"
+	.string "Begiratu ondo!$"
 
 Route121_Text_JessicaRematchDefeat:
-	.string "Oh, how dare you!\n"
-	.string "You still won't take it easy!$"
+	.string "Aizu, nola ausartzen zara!\n"
+	.string "Beti indar osoz aritzen zara!$"
 
 Route121_Text_JessicaPostRematch:
-	.string "Maybe I'll go catch more POKéMON at\n"
-	.string "the SAFARI.$"
+	.string "Agian POKéMON gehiago harrapatzera\n"
+	.string "joango naiz SAFARIRA.$"
 
 Route121_Text_CristinIntro:
-	.string "I have this routine.\n"
-	.string "Defeat five TRAINERS a day.\l"
-	.string "Guess what? You're number five!$"
+	.string "Nire errutina kontatuko dizut.\n"
+	.string "Bost ENTRENATZAILE garaitu egunero.\l"
+	.string "Badakizu zer? Zu zara bostgarrena!$"
 
 Route121_Text_CristinDefeat:
-	.string "No!\n"
-	.string "You're horrid!$"
+	.string "Ez!\n"
+	.string "Izugarria zara!$"
 
 Route121_Text_CristinPostBattle:
-	.string "I didn't expect to lose this easily…\n"
-	.string "I'll win next time!$"
+	.string "Ez nuen uste horren erraz irabaziko\n"
+	.string "zenidanik… Hurrengoan irabaziko dut!$"
 
 Route121_Text_CristinRegister:
-	.string "That was total humiliation!\n"
-	.string "I won't forget you…\l"
-	.string "Hand over your POKéNAV!$"
+	.string "A zer nolako humiliazioa!\n"
+	.string "Ez zaitut ahaztuko…\l"
+	.string "Ekarri zure POKéNAVA hona!$"
 
 Route121_Text_CristinRematchIntro:
-	.string "I have this new routine.\n"
-	.string "Defeat ten TRAINERS a day.\l"
-	.string "Guess what? You're number ten!$"
+	.string "Errutina berria daukat.\n"
+	.string "Hamar ENTRENATZAILE garaitu egunero.\l"
+	.string "Badakizu zer? Zu zara hamargarrena!$"
 
 Route121_Text_CristinRematchDefeat:
-	.string "Wait! That's nasty!\n"
-	.string "I demand a rematch!$"
+	.string "Itxaron! Hori zatarra izan da!\n"
+	.string "Errebantxa nahi dut!$"
 
 Route121_Text_CristinPostRematch:
-	.string "An opponent I just can't beat…\n"
-	.string "Snivel…\l"
-	.string "I can't believe this is happening…$"
+	.string "Garaitu ezin dudan etsaia zara…\n"
+	.string "ZIntz…\l"
+	.string "Ezin dut sinetsi…$"
 
 Route121_Text_CaleIntro:
-	.string "Can't you see that I have all this\n"
-	.string "stuff with me?\p"
-	.string "Despite that, you still insist that\n"
-	.string "we battle?$"
+	.string "Ez al duzu ikusten zenbat gauza\n"
+	.string "dudan aldean?\p"
+	.string "Hala ere, nire aurka borrokatu nahi\n"
+	.string "al duzu?$"
 
 Route121_Text_CaleDefeat:
-	.string "Of course I lost!\n"
-	.string "I'm holding stuff in both hands!$"
+	.string "Noski galdu dudala!\n"
+	.string "Bi eskuak beteta ditut eta!$"
 
 Route121_Text_CalePostBattle:
-	.string "I bought too much stuff at\n"
-	.string "the LILYCOVE DEPT. STORE.\p"
-	.string "It's up the road from here.\n"
-	.string "I wish I had a BAG like yours.$"
+	.string "Gauza gehiegi erosi dut UR-LILIKO\n"
+	.string "zentro komertzialean.\p"
+	.string "Hemendik gora dago. Zurea bezalako\n"
+	.string "POLTSA bat izan nahi nuke.$"
 
 Route121_Text_MylesIntro:
-	.string "There's nothing I love more than\n"
-	.string "checking out other people's POKéMON!$"
+	.string "Ez dago besteen POKéMONEI begiratzea\n"
+	.string "baino gehiago gustatzen zaidanik!$"
 
 Route121_Text_MylesDefeat:
-	.string "Super awesome!$"
+	.string "Itzela!$"
 
 Route121_Text_MylesPostBattle:
-	.string "They're great, your POKéMON!\n"
-	.string "How do you raise them?$"
+	.string "Itzelak dira zure POKéMONAK!\n"
+	.string "Nola hazten dituzu?$"
 
 Route121_Text_PatIntro:
-	.string "I want everybody to see the POKéMON\n"
-	.string "I've raised!$"
+	.string "Mundu guztiak hazi ditudan POKéMONAK\n"
+	.string "ikustea nahi dut!$"
 
 Route121_Text_PatDefeat:
-	.string "Wow!\n"
-	.string "Spectacular!$"
+	.string "Uau!\n"
+	.string "Sinestezina!$"
 
 Route121_Text_PatPostBattle:
-	.string "I raise every POKéMON with the same\n"
-	.string "love and care--I don't pick favorites.$"
+	.string "POKéMON guztiak maitasunez zaintzen\n"
+	.string "ditut. Ez daukat gustokoenik.$"
 
 Route121_Text_MarcelIntro:
-	.string "My POKéMON have never tasted defeat!\n"
-	.string "On their next win, I'm entering them\l"
-	.string "in CONTESTS.$"
+	.string "Nire POKéMONEK ez dute inoiz galdu!\n"
+	.string "Berriz irabazten badute, TXAPELKETA\l"
+	.string "batean sartuko ditut.$"
 
 Route121_Text_MarcelDefeat:
-	.string "Oh, now what happened here?$"
+	.string "Ene, zer gertatu da?$"
 
 Route121_Text_MarcelPostBattle:
-	.string "I may have to train my gang some more\n"
-	.string "before entering any CONTEST.$"
+	.string "Agian gehixeago entrenatu behar dut\n"
+	.string "taldea TXAPELKETAN izena eman aurretik.$"
 
 Route123_Text_WendyIntro:
-	.string "Want to determine how strong you are?\n"
-	.string "I'll be the test!$"
+	.string "Nahi duzu jakin zeinen indartsua zaren?\n"
+	.string "Ni izango naiz azterketa!$"
 
 Route123_Text_WendyDefeat:
-	.string "You passed with flying colors!$"
+	.string "Bikain atera duzu azterketan!$"
 
 Route123_Text_WendyPostBattle:
-	.string "To best even me…\n"
-	.string "Your strength is marvelous!$"
+	.string "Niri ere irabaztea…\n"
+	.string "Zure indarra miragarria da!$"
 
 Route123_Text_BraxtonIntro:
 	.string "You seem to have a big collection\n"
