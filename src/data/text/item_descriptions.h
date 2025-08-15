@@ -3,725 +3,723 @@ static const u8 sDummyDesc[] = _(
 
 // Pokeballs
 static const u8 sMasterBallDesc[] = _(
-    "The best BALL that\n"
-    "catches a POKéMON\n"
-    "without fail.");
+    "BALL onena, ezin du\n"
+    "huts egin POKéMONAK\n"
+    "harrapatzean.");
 
 static const u8 sUltraBallDesc[] = _(
-    "A better BALL with\n"
-    "a higher catch rate\n"
-    "than a GREAT BALL.");
+    "BALL bikaina, SUPER\n"
+    "BALLAK baino errazago\n"
+    "harrapatzen du.");
+
 
 static const u8 sGreatBallDesc[] = _(
-    "A good BALL with a\n"
-    "higher catch rate\n"
-    "than a POKé BALL.");
+    "BALL ona, POKé BALLAK\n"
+    "baino errazago\n"
+    "harrapatzen du.");
 
 static const u8 sPokeBallDesc[] = _(
-    "A tool used for\n"
-    "catching wild\n"
-    "POKéMON.");
+    "POKéMON basatiak\n"
+    "harrapatzeko balio\n"
+    "duen tresna.");
 
 static const u8 sSafariBallDesc[] = _(
-    "A special BALL that\n"
-    "is used only in the\n"
-    "SAFARI ZONE.");
+    "BALL berezia, SAFARI\n"
+    "GUNEAN soilik\n"
+    "erabiltzen da.");
 
 static const u8 sNetBallDesc[] = _(
-    "A BALL that works\n"
-    "well on WATER- and\n"
-    "BUG-type POKéMON.");
+    "UR eta ZOMORRO motako\n"
+    "POKéMONEKIN hobeto\n"
+    "dabilen BALLA.");
 
 static const u8 sDiveBallDesc[] = _(
-    "A BALL that works\n"
-    "better on POKéMON\n"
-    "on the ocean floor.");
+    "Ur azpian dauden\n"
+    "POKéMONEKIN hobeto\n"
+    "dabilen BALLA.");
 
 static const u8 sNestBallDesc[] = _(
-    "A BALL that works\n"
-    "better on weaker\n"
-    "POKéMON.");
+    "POKéMON ahulekin\n"
+    "hobeto dabilen\n"
+    "BALLA.");
 
 static const u8 sRepeatBallDesc[] = _(
-    "A BALL that works\n"
-    "better on POKéMON\n"
-    "caught before.");
+    "Aurrez harrapatutako\n"
+    "POKéMONEKIN hobeto\n"
+    "dabilen BALLA.");
 
 static const u8 sTimerBallDesc[] = _(
-    "A BALL that gains\n"
-    "power in battles\n"
-    "taking many turns.");
+    "Txanda askotako\n"
+    "borroketan hobeto\n"
+    "dabilen BALLA.");
 
 static const u8 sLuxuryBallDesc[] = _(
-    "A cozy BALL that\n"
-    "makes POKéMON\n"
-    "more friendly.");
+    "POKéMONAK lagunkoi\n"
+    "bihurtzen dituen\n"
+    "BALL erosoa.");
 
 static const u8 sPremierBallDesc[] = _(
-    "A rare BALL made\n"
-    "in commemoration\n"
-    "of some event.");
+    "Zerbait gogoratzeko\n"
+    "egin zen BALL\n"
+    "berezia.");
 
 // Medicine
 static const u8 sPotionDesc[] = _(
-    "Restores the HP of\n"
-    "a POKéMON by\n"
-    "20 points.");
+    "POKéMONAREN BPak\n"
+    "20 puntu sendatzen\n"
+    "ditu.");
 
 static const u8 sAntidoteDesc[] = _(
-    "Heals a poisoned\n"
-    "POKéMON.");
+    "POKéMON pozoindu\n"
+    "bat sendatzen du.");
 
 static const u8 sBurnHealDesc[] = _(
-    "Heals POKéMON\n"
-    "of a burn.");
+    "Erretako POKéMON\n"
+    "bat sendatzen du.");
 
 static const u8 sIceHealDesc[] = _(
-    "Defrosts a frozen\n"
-    "POKéMON.");
+    "Izoztutako POKéMON\n"
+    "bat urtzen du.");
 
 static const u8 sAwakeningDesc[] = _(
-    "Awakens a sleeping\n"
-    "POKéMON.");
+    "Lokartutako POKéMON\n"
+    "bat esnarazten du.");
 
 static const u8 sParalyzeHealDesc[] = _(
-    "Heals a paralyzed\n"
-    "POKéMON.");
+    "Paralizatutako POKéMON\n"
+    "bat sendatzen du.");
 
 static const u8 sFullRestoreDesc[] = _(
-    "Fully restores the\n"
-    "HP and status of a\n"
-    "POKéMON.");
+    "Guztiz sendatzen ditu\n"
+    "POKéMON baten BPak\n"
+    "eta egoera.");
 
 static const u8 sMaxPotionDesc[] = _(
-    "Fully restores the\n"
-    "HP of a POKéMON.");
+    "Guztiz sendatzen ditu\n"
+    "POKéMON baten BPak.");
 
 static const u8 sHyperPotionDesc[] = _(
-    "Restores the HP of\n"
-    "a POKéMON by\n"
-    "200 points.");
+    "POKéMONAREN BPak\n"
+    "200 puntu sendatzen\n"
+    "ditu.");
 
 static const u8 sSuperPotionDesc[] = _(
-    "Restores the HP of\n"
-    "a POKéMON by\n"
-    "50 points.");
+    "POKéMONAREN BPak\n"
+    "50 puntu sendatzen\n"
+    "ditu.");
 
 static const u8 sFullHealDesc[] = _(
-    "Heals all the\n"
-    "status problems of\n"
-    "one POKéMON.");
+    "POKéMON baten\n"
+    "edozein egoera\n"
+    "sendatzen du.");
 
 static const u8 sReviveDesc[] = _(
-    "Revives a fainted\n"
-    "POKéMON with half\n"
-    "its HP.");
+    "Indargabetutako POKéMON\n"
+    "bat berpizten du BP\n"
+    "erdiekin.");
 
 static const u8 sMaxReviveDesc[] = _(
-    "Revives a fainted\n"
-    "POKéMON with all\n"
-    "its HP.");
+    "Indargabetutako POKéMON\n"
+    "bat berpizten du BP\n"
+    "guztiekin.");
 
 static const u8 sFreshWaterDesc[] = _(
-    "A mineral water\n"
-    "that restores HP\n"
-    "by 50 points.");
+    "BPak 50 puntu\n"
+    "sendatzen dituen\n"
+    "ur minerala.");
 
 static const u8 sSodaPopDesc[] = _(
-    "A fizzy soda drink\n"
-    "that restores HP\n"
-    "by 60 points.");
+    "BPak 60 puntu\n"
+    "sendatzen dituen\n"
+    "edari gasduna.");
 
 static const u8 sLemonadeDesc[] = _(
-    "A very sweet drink\n"
-    "that restores HP\n"
-    "by 80 points.");
+    "BPak 80 puntu\n"
+    "sendatzen dituen\n"
+    "edari oso gozoa.");
 
 static const u8 sMoomooMilkDesc[] = _(
-    "A nutritious milk\n"
-    "that restores HP\n"
-    "by 100 points.");
+    "BPak 100 puntu\n"
+    "sendatzen dituen\n"
+    "esne elikagarria.");
 
 static const u8 sEnergyPowderDesc[] = _(
-    "A bitter powder\n"
-    "that restores HP\n"
-    "by 50 points.");
+    "BPak 50 puntu\n"
+    "sendatzen dituen\n"
+    "hauts mikatza.");
 
 static const u8 sEnergyRootDesc[] = _(
-    "A bitter root\n"
-    "that restores HP\n"
-    "by 200 points.");
+    "BPak 200 puntu\n"
+    "sendatzen dituen\n"
+    "sustrai mikatza.");
 
 static const u8 sHealPowderDesc[] = _(
-    "A bitter powder\n"
-    "that heals all\n"
-    "status problems.");
+    "Edozein egoera\n"
+    "sendatzen duen\n"
+    "hauts mikatza.");
 
 static const u8 sRevivalHerbDesc[] = _(
-    "A very bitter herb\n"
-    "that revives a\n"
-    "fainted POKéMON.");
+    "Indargabetutako POKéMON\n"
+    "bat berpizten duen\n"
+    "hosto oso garratza.");
 
 static const u8 sEtherDesc[] = _(
-    "Restores the PP\n"
-    "of a selected move\n"
-    "by 10.");
+    "Eraso baten PPak\n"
+    "10 puntu berrezartzen\n"
+    "ditu.");
 
 static const u8 sMaxEtherDesc[] = _(
-    "Fully restores the\n"
-    "PP of a selected\n"
-    "move.");
+    "Eraso baten PPak\n"
+    "guztiz berrezartzen\n"
+    "ditu.");
 
 static const u8 sElixirDesc[] = _(
-    "Restores the PP\n"
-    "of all moves by 10.");
+    "Eraso guztien PPak\n"
+    "10 puntu berrezartzen\n"
+    "ditu.");
 
 static const u8 sMaxElixirDesc[] = _(
-    "Fully restores the\n"
-    "PP of a POKéMON's\n"
-    "moves.");
+    "Eraso guztien PPak\n"
+    "guztiz berrezartzen\n"
+    "ditu.");
 
 static const u8 sLavaCookieDesc[] = _(
-    "A local specialty\n"
-    "that heals all\n"
-    "status problems.");
+    "Edozein egoera\n"
+    "sendatzen duen\n"
+    "bertako espezialitatea.");
 
 static const u8 sBlueFluteDesc[] = _(
-    "A glass flute that\n"
-    "awakens sleeping\n"
-    "POKéMON.");
+    "Lotan dauden POKéMONAK\n"
+    "esnatzen dituen\n"
+    "kristalezko txirula.");
 
 static const u8 sYellowFluteDesc[] = _(
-    "A glass flute that\n"
-    "snaps POKéMON\n"
-    "out of confusion.");
+    "Nahastuta dauden POKéMONAK\n"
+    "sendatzen dituen\n"
+    "kristalezko txirula.");
 
 static const u8 sRedFluteDesc[] = _(
-    "A glass flute that\n"
-    "snaps POKéMON\n"
-    "out of attraction.");
+    "Maiteminduta dauden POKéMONAK\n"
+    "sendatzen dituen\n"
+    "kristalezko txirula.");
 
 static const u8 sBlackFluteDesc[] = _(
-    "A glass flute that\n"
-    "keeps away wild\n"
-    "POKéMON.");
+    "POKéMON basatiak\n"
+    "aldentzen dituen\n"
+    "kristalezko txirula.");
 
 static const u8 sWhiteFluteDesc[] = _(
-    "A glass flute that\n"
-    "lures wild POKéMON.");
+    "POKéMON basatiak\n"
+    "erakartzen dituen\n"
+    "kristalezko txirula.");
 
 static const u8 sBerryJuiceDesc[] = _(
-    "A 100% pure juice\n"
-    "that restores HP\n"
-    "by 20 points.");
+    "BPak 20 puntu\n"
+    "sendatzen dituen\n"
+    "zuku 100% hutsa.");
 
 static const u8 sSacredAshDesc[] = _(
-    "Fully revives and\n"
-    "restores all\n"
-    "fainted POKéMON.");
+    "Indargabetutako POKéMON\n"
+    "guztiak berpiztu\n"
+    "eta sendatzen ditu.");
 
 // Collectibles
 static const u8 sShoalSaltDesc[] = _(
-    "Salt obtained from\n"
-    "deep inside the\n"
-    "SHOAL CAVE.");
+    "BANKU KOBAZULOAREN\n"
+    "muinean lortutako\n"
+    "gatza.");
 
 static const u8 sShoalShellDesc[] = _(
-    "A seashell found\n"
-    "deep inside the\n"
-    "SHOAL CAVE.");
+    "BANKU KOBAZULOAREN\n"
+    "muinean lortutako\n"
+    "maskorra.");
 
 static const u8 sRedShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "Antzinako item\n"
+    "baten zatia. Merke\n"
+    "saldu daiteke.");
 
 static const u8 sBlueShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "Antzinako item\n"
+    "baten zatia. Merke\n"
+    "saldu daiteke.");
 
 static const u8 sYellowShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "Antzinako item\n"
+    "baten zatia. Merke\n"
+    "saldu daiteke.");
 
 static const u8 sGreenShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "Antzinako item\n"
+    "baten zatia. Merke\n"
+    "saldu daiteke.");
 
 // Vitamins
 static const u8 sHPUpDesc[] = _(
-    "Raises the base HP\n"
-    "of one POKéMON.");
+    "POKéMON baten oinarri\n"
+    "BPak igotzen ditu.");
 
 static const u8 sProteinDesc[] = _(
-    "Raises the base\n"
-    "ATTACK stat of one\n"
-    "POKéMON.");
+    "POKéMON baten oinarri\n"
+    "ERASO estatistika\n"
+    "igotzen du.");
 
 static const u8 sIronDesc[] = _(
-    "Raises the base\n"
-    "DEFENSE stat of\n"
-    "one POKéMON.");
+    "POKéMON baten oinarri\n"
+    "DEFENTSA estatistika\n"
+    "igotzen du.");
 
 static const u8 sCarbosDesc[] = _(
-    "Raises the base\n"
-    "SPEED stat of one\n"
-    "POKéMON.");
+    "POKéMON baten oinarri\n"
+    "ABIADURA estatistika\n"
+    "igotzen du.");
 
 static const u8 sCalciumDesc[] = _(
-    "Raises the base\n"
-    "SP. ATK stat of one\n"
-    "POKéMON.");
+    "POKéMON baten oinarri\n"
+    "ER. BER. estatistika\n"
+    "igotzen du.");
 
 static const u8 sRareCandyDesc[] = _(
-    "Raises the level\n"
-    "of a POKéMON by\n"
-    "one.");
+    "POKéMON bati maila\n"
+    "bat igotzen dio.");
 
 static const u8 sPPUpDesc[] = _(
-    "Raises the maximum\n"
-    "PP of a selected\n"
-    "move.");
+    "Eraso baten\n"
+    "gehienezko PPak\n"
+    "igotzen ditu.");
 
 static const u8 sZincDesc[] = _(
-    "Raises the base\n"
-    "SP. DEF stat of one\n"
-    "POKéMON.");
+    "POKéMON baten oinarri\n"
+    "DEF. BER. estatistika\n"
+    "igotzen du.");
 
 static const u8 sPPMaxDesc[] = _(
-    "Raises the PP of a\n"
-    "move to its maximum\n"
-    "points.");
+    "Eraso baten gehienezko\n"
+    "PPak guztiz igotzen\n"
+    "ditu.");
 
 // Battle items
 static const u8 sGuardSpecDesc[] = _(
-    "Prevents stat\n"
-    "reduction when\n"
-    "used in battle.");
+    "Borrokan, estatistikak\n"
+    "gutxitzea ekiditen du\n");
 
 static const u8 sDireHitDesc[] = _(
-    "Raises the\n"
-    "critical-hit ratio\n"
-    "during one battle.");
+    "Borrokan kolpe\n"
+    "kritikoak emateko\n"
+    "aukera igotzen du.");
 
 static const u8 sXAttackDesc[] = _(
-    "Raises the stat\n"
-    "ATTACK during one\n"
-    "battle.");
+    "Borrokan ERASO\n"
+    "estatistika igotzen\n"
+    "du, behin.");
 
 static const u8 sXDefendDesc[] = _(
-    "Raises the stat\n"
-    "DEFENSE during one\n"
-    "battle.");
+    "Borrokan DEFENTSA\n"
+    "estatistika igotzen\n"
+    "du, behin.");
 
 static const u8 sXSpeedDesc[] = _(
-    "Raises the stat\n"
-    "SPEED during one\n"
-    "battle.");
+    "Borrokan ABIADURA\n"
+    "estatistika igotzen\n"
+    "du, behin.");
 
 static const u8 sXAccuracyDesc[] = _(
-    "Raises accuracy\n"
-    "of attack moves\n"
-    "during one battle.");
+    "Erasoen zehaztasuna\n"
+    "igotzen du borroka\n"
+    "batean.");
 
 static const u8 sXSpecialDesc[] = _(
-    "Raises the stat\n"
-    "SP. ATK during one\n"
-    "battle.");
+    "Borrokan ER. BER.\n"
+    "estatistika igotzen\n"
+    "du, behin.");
 
 static const u8 sPokeDollDesc[] = _(
-    "Use to flee from\n"
-    "any battle with\n"
-    "a wild POKéMON.");
+    "POKéMON basatien\n"
+    "aurkako borroketatik\n"
+    "ihes egiteko balio du.");
 
 static const u8 sFluffyTailDesc[] = _(
-    "Use to flee from\n"
-    "any battle with\n"
-    "a wild POKéMON.");
+    "POKéMON basatien\n"
+    "aurkako borroketatik\n"
+    "ihes egiteko balio du.");
 
 // Field items
 static const u8 sSuperRepelDesc[] = _(
-    "Repels weak wild\n"
-    "POKéMON for 200\n"
-    "steps.");
+    "POKéMON basatiak\n"
+    "uxatzen ditu\n"
+    "200 pausotan.\n");
 
 static const u8 sMaxRepelDesc[] = _(
-    "Repels weak wild\n"
-    "POKéMON for 250\n"
-    "steps.");
+    "POKéMON basatiak\n"
+    "uxatzen ditu\n"
+    "250 pausotan.\n");
 
 static const u8 sEscapeRopeDesc[] = _(
-    "Use to escape\n"
-    "instantly from a\n"
-    "cave or a dungeon.");
+    "Kobazulo edo ziega\n"
+    "batetik ihes egiteko\n"
+    "balio du.");
 
 static const u8 sRepelDesc[] = _(
-    "Repels weak wild\n"
-    "POKéMON for 100\n"
-    "steps.");
+    "POKéMON basatiak\n"
+    "uxatzen ditu\n"
+    "100 pausotan.\n");
 
 // Evolution stones
 static const u8 sSunStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "POKéMON jakin batzuk\n"
+    "eboluzionarazten\n"
+    "ditu.");
 
 static const u8 sMoonStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "POKéMON jakin batzuk\n"
+    "eboluzionarazten\n"
+    "ditu.");
 
 static const u8 sFireStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "POKéMON jakin batzuk\n"
+    "eboluzionarazten\n"
+    "ditu.");
 
 static const u8 sThunderStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "POKéMON jakin batzuk\n"
+    "eboluzionarazten\n"
+    "ditu.");
 
 static const u8 sWaterStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "POKéMON jakin batzuk\n"
+    "eboluzionarazten\n"
+    "ditu.");
 
 static const u8 sLeafStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "POKéMON jakin batzuk\n"
+    "eboluzionarazten\n"
+    "ditu.");
 
 // Valuable items
 static const u8 sTinyMushroomDesc[] = _(
-    "A plain mushroom\n"
-    "that would sell\n"
-    "at a cheap price.");
+    "Merke saldu\n"
+    "daitekeen perretxiko\n"
+    "arrunta.");
 
 static const u8 sBigMushroomDesc[] = _(
-    "A rare mushroom\n"
-    "that would sell at a\n"
-    "high price.");
+    "Garesti saldu\n"
+    "daitekeen perretxiko\n"
+    "berezia.");
 
 static const u8 sPearlDesc[] = _(
-    "A pretty pearl\n"
-    "that would sell at a\n"
-    "cheap price.");
+    "Merke saldu\n"
+    "daitekeen perla\n"
+    "ederra.");
 
 static const u8 sBigPearlDesc[] = _(
-    "A lovely large pearl\n"
-    "that would sell at a\n"
-    "high price.");
+    "Garesti saldu\n"
+    "daitekeen perla\n"
+    "handi ikusgarria.");
 
 static const u8 sStardustDesc[] = _(
-    "Beautiful red sand.\n"
-    "Can be sold at a\n"
-    "high price.");
+    "Harea gorri ederra.\n"
+    "Garesti saldu\n"
+    "daiteke.");
 
 static const u8 sStarPieceDesc[] = _(
-    "A red gem shard.\n"
-    "It would sell for a\n"
-    "very high price.");
+    "Harribitxi gorri\n"
+    "zatia. Oso garesti saldu\n"
+    "daiteke.");
 
 static const u8 sNuggetDesc[] = _(
-    "A nugget of pure\n"
-    "gold. Can be sold at\n"
-    "a high price.");
+    "Urre puruzko pipita.\n"
+    "Garesti saldu\n"
+    "daiteke.");
 
 static const u8 sHeartScaleDesc[] = _(
-    "A lovely scale.\n"
-    "It is coveted by\n"
-    "collectors.");
+    "Ezkata miragarria.\n"
+    "Bildumagileen artean\n"
+    "preziatua da.");
 
 // Mail
 static const u8 sOrangeMailDesc[] = _(
-    "A ZIGZAGOON-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "ZIGZAGOON baten irudia\n"
+    "duen GUTUNA. POKéMON\n"
+    "batek eduki dezake.");
 
 static const u8 sHarborMailDesc[] = _(
-    "A WINGULL-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "WINGULL baten irudia\n"
+    "duen GUTUNA. POKéMON\n"
+    "batek eduki dezake.");
 
 static const u8 sGlitterMailDesc[] = _(
-    "A PIKACHU-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "PIKACHU baten irudia\n"
+    "duen GUTUNA. POKéMON\n"
+    "batek eduki dezake.");
 
 static const u8 sMechMailDesc[] = _(
-    "A MAGNEMITE-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "MAGNEMITE baten irudia\n"
+    "duen GUTUNA. POKéMON\n"
+    "batek eduki dezake.");
 
 static const u8 sWoodMailDesc[] = _(
-    "A SLAKOTH-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "SLAKOTH baten irudia\n"
+    "duen GUTUNA. POKéMON\n"
+    "batek eduki dezake.");
 
 static const u8 sWaveMailDesc[] = _(
-    "A WAILMER-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "WAILMER baten irudia\n"
+    "duen GUTUNA. POKéMON\n"
+    "batek eduki dezake.");
 
 static const u8 sBeadMailDesc[] = _(
-    "MAIL featuring a\n"
-    "sketch of the\n"
-    "holding POKéMON.");
+    "Daraman POKéMONAREN irudia\n"
+    "irudia duen GUTUNA.");
 
 static const u8 sShadowMailDesc[] = _(
-    "A DUSKULL-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "DUSKULL baten irudia\n"
+    "duen GUTUNA. POKéMON\n"
+    "batek eduki dezake.");
 
 static const u8 sTropicMailDesc[] = _(
-    "A BELLOSSOM-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "BELLOSSOM baten irudia\n"
+    "duen GUTUNA. POKéMON\n"
+    "batek eduki dezake.");
 
 static const u8 sDreamMailDesc[] = _(
-    "MAIL featuring a\n"
-    "sketch of the\n"
-    "holding POKéMON.");
+    "Daraman POKéMONAREN irudia\n"
+    "irudia duen GUTUNA.");
 
 static const u8 sFabMailDesc[] = _(
-    "A gorgeous-print\n"
-    "MAIL to be held\n"
-    "by a POKéMON.");
+    "Irudi ederra duen\n"
+    "GUTUNA. POKéMON\n"
+    "batek eduki dezake.");
 
 static const u8 sRetroMailDesc[] = _(
-    "MAIL featuring the\n"
-    "drawings of three\n"
-    "POKéMON.");
+    "Hiru POKéMONEN irudiak\n"
+    "dituen gutuna\n");
 
 // Berries
 static const u8 sCheriBerryDesc[] = _(
-    "A hold item that\n"
-    "heals paralysis\n"
-    "in battle.");
+    "Edukitzeko itema,\n"
+    "borrokan paralisia\n"
+    "sendatzen du.");
 
 static const u8 sChestoBerryDesc[] = _(
-    "A hold item that\n"
-    "awakens POKéMON\n"
-    "in battle.");
+    "Edukitzeko itema,\n"
+    "lo dagoen POKéMONA\n"
+    "esarazten du.");
 
 static const u8 sPechaBerryDesc[] = _(
-    "A hold item that\n"
-    "heals poisoning\n"
-    "in battle.");
+    "Edukitzeko itema,\n"
+    "borrokan pozointzea\n"
+    "sendatzen du.");
 
 static const u8 sRawstBerryDesc[] = _(
-    "A hold item that\n"
-    "heals a burn in\n"
-    "battle.");
+    "Edukitzeko itema,\n"
+    "borrokan erredura\n"
+    "sendatzen du.");
 
 static const u8 sAspearBerryDesc[] = _(
-    "A hold item that\n"
-    "defrosts POKéMON\n"
-    "in battle.");
+    "Edukitzeko itema,\n"
+    "izoztuta dagoen\n"
+    "POKéMONA urtzen du.");
 
 static const u8 sLeppaBerryDesc[] = _(
-    "A hold item that\n"
-    "restores 10 PP in\n"
-    "battle.");
+    "Edukitzeko itema,\n"
+    "borrokan 10 PP\n"
+    "sendatzen ditu.");
 
 static const u8 sOranBerryDesc[] = _(
-    "A hold item that\n"
-    "restores 10 HP in\n"
-    "battle.");
+    "Edukitzeko itema,\n"
+    "borrokan 10 BP\n"
+    "sendatzen ditu.");
 
 static const u8 sPersimBerryDesc[] = _(
-    "A hold item that\n"
-    "heals confusion\n"
-    "in battle.");
+    "Edukitzeko itema,\n"
+    "borrokan nahastea\n"
+    "sendatzen du.");
 
 static const u8 sLumBerryDesc[] = _(
-    "A hold item that\n"
-    "heals any status\n"
-    "problem in battle.");
+    "Edukitzeko itema,\n"
+    "borrokan edozein\n"
+    "edoera sendatzen du.");
 
 static const u8 sSitrusBerryDesc[] = _(
-    "A hold item that\n"
-    "restores 30 HP in\n"
-    "battle.");
+    "Edukitzeko itema,\n"
+    "borrokan 30 BP\n"
+    "sendatzen ditu.");
 
 static const u8 sFigyBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Edukitzeko itema, BPak\n"
+    "sendatzen ditu, baina\n"
+    "nahastu egin dezake.");
 
 static const u8 sWikiBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Edukitzeko itema, BPak\n"
+    "sendatzen ditu, baina\n"
+    "nahastu egin dezake.");
 
 static const u8 sMagoBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Edukitzeko itema, BPak\n"
+    "sendatzen ditu, baina\n"
+    "nahastu egin dezake.");
 
 static const u8 sAguavBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Edukitzeko itema, BPak\n"
+    "sendatzen ditu, baina\n"
+    "nahastu egin dezake.");
 
 static const u8 sIapapaBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "Edukitzeko itema, BPak\n"
+    "sendatzen ditu, baina\n"
+    "nahastu egin dezake.");
 
 static const u8 sRazzBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow RAZZ.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "MUGURRAK hazteko.");
 
 static const u8 sBlukBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow BLUK.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "MASUSAK hazteko.");
 
 static const u8 sNanabBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow NANAB.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "LATANOAK hazteko.");
 
 static const u8 sWepearBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow WEPEAR.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "URADEAK hazteko.");
 
 static const u8 sPinapBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow PINAP.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "PINIAK hazteko.");
 
 static const u8 sPomegBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base HP.");
+    "POKéMONA lagunkoi egiten\n"
+    "du baina oinarri\n"
+    "BPak jaisten ditu.");
 
 static const u8 sKelpsyBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base ATTACK.");
+    "POKéMONA lagunkoi egiten\n"
+    "du baina oinarri\n"
+    "ERASOA jaisten du.");
 
 static const u8 sQualotBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base DEFENSE.");
+    "POKéMONA lagunkoi egiten\n"
+    "du baina oinarri\n"
+    "DEFENTSA jaisten du.");
 
 static const u8 sHondewBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base SP. ATK.");
+    "POKéMONA lagunkoi egiten\n"
+    "du baina oinarri\n"
+    "ER. BER. jaisten du.");
 
 static const u8 sGrepaBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base SP. DEF.");
+    "POKéMONA lagunkoi egiten\n"
+    "du baina oinarri\n"
+    "DEF. BER. jaisten du.");
 
 static const u8 sTamatoBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
-    "base SPEED.");
+    "POKéMONA lagunkoi egiten\n"
+    "du baina oinarri\n"
+    "ABIADURA jaisten du.");
 
 static const u8 sCornnBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow CORNN.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "AROTOAK hazteko.");
 
 static const u8 sMagostBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow MAGOST.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "AOSTANAK hazteko.");
 
 static const u8 sRabutaBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow RABUTA.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "RAUTANAK hazteko.");
 
 static const u8 sNomelBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow NOMEL.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "MOILIAK hazteko.");
 
 static const u8 sSpelonBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow SPELON.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "WIKANOAK hazteko.");
 
 static const u8 sPamtreBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow PAMTRE.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "PLAMONAK hazteko.");
 
 static const u8 sWatmelBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow WATMEL.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "ANGURIAK hazteko.");
 
 static const u8 sDurinBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow DURIN.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "DURINAK hazteko.");
 
 static const u8 sBelueBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow BELUE.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "ABABIAK hazteko.");
 
 static const u8 sLiechiBerryDesc[] = _(
-    "A hold item that\n"
-    "raises ATTACK in\n"
-    "a pinch.");
+    "Edukitzeko itema,\n"
+    "ERASOA igotzen du\n"
+    "pixka bat.");
 
 static const u8 sGanlonBerryDesc[] = _(
-    "A hold item that\n"
-    "raises DEFENSE in\n"
-    "a pinch.");
+    "Edukitzeko itema,\n"
+    "DEFENTSA igotzen du\n"
+    "pixka bat.");
 
 static const u8 sSalacBerryDesc[] = _(
-    "A hold item that\n"
-    "raises SPEED in\n"
-    "a pinch.");
+    "Edukitzeko itema,\n"
+    "ABIADURA igotzen du\n"
+    "pixka bat.");
 
 static const u8 sPetayaBerryDesc[] = _(
-    "A hold item that\n"
-    "raises SP. ATK in\n"
-    "a pinch.");
+    "Edukitzeko itema,\n"
+    "ER. BER. igotzen du\n"
+    "pixka bat.");
 
 static const u8 sApicotBerryDesc[] = _(
-    "A hold item that\n"
-    "raises SP. DEF in\n"
-    "a pinch.");
+    "Edukitzeko itema,\n"
+    "DEF. BER. igotzen du\n"
+    "pixka bat.");
 
 static const u8 sLansatBerryDesc[] = _(
-    "A hold item that\n"
-    "ups the critical-\n"
-    "hit rate in a pinch.");
+    "Edukitzeko itema, kolpe\n"
+    "kritikoen aukera igotzen\n"
+    "du arriskuan dagoenean.");
 
 static const u8 sStarfBerryDesc[] = _(
-    "A hold item that\n"
-    "sharply boosts a\n"
-    "stat in a pinch.");
+    "Edukitzeko itema, estatistika\n"
+    "bat asko igotzen du\n"
+    "arriskuan dagoenean.");
 
 static const u8 sEnigmaBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow a mystery.");
+    "{POKEBLOCK}EN osagaia.\n"
+    "Landatu lur oparoan\n"
+    "misterio bat hazteko.");
 
 // Hold items
 static const u8 sBrightPowderDesc[] = _(
-    "A hold item that\n"
-    "casts a glare to\n"
-    "reduce accuracy.");
+    "Edukitzeko itema,\n"
+    "distira bat botatzen du\n"
+    "zehaztasuna jaisteko.");
 
 static const u8 sWhiteHerbDesc[] = _(
-    "A hold item that\n"
-    "restores any\n"
-    "lowered stat.");
+    "Edukitzeko itema, jaitsi\n"
+    "den edozein estatistika\n"
+    "berrezartzen du.");
 
 static const u8 sMachoBraceDesc[] = _(
     "A hold item that\n"

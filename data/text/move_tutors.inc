@@ -133,7 +133,7 @@ MoveTutor_Text_SleepTalkWhichMon:
 
 MoveTutor_Text_SleepTalkTaught:
 	.string "Nire emazteak txanponekin egiten\n"
-	.string "duen trukua ezin dut egin.\p"
+	.string "duen trikimailua ezin dut egin.\p"
 	.string "Gustatuko litzaidake ondo egitea,\n"
 	.string "nahiz eta SOMNANBULU gisan izan…$"
 
