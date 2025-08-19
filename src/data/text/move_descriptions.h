@@ -250,7 +250,7 @@ static const u8 sAuroraBeamDescription[] = _(
     "ostadar koloreko izpia.");
 
 static const u8 sHyperBeamDescription[] = _(
-    "Indartsua da, baina hurrngo\n"
+    "Indartsua da, baina hurrengo\n"
     "txandan ezin da norbera mugitu.");
 
 static const u8 sPeckDescription[] = _(
@@ -370,1052 +370,1052 @@ static const u8 sToxicDescription[] = _(
     "pozointzen du etsaia.");
 
 static const u8 sConfusionDescription[] = _(
-    "A psychic attack that may\n"
-    "cause confusion.");
+    "Etsaia nahastu dezakeen\n"
+    "eraso psikikoa.");
 
 static const u8 sPsychicDescription[] = _(
-    "A powerful psychic attack\n"
-    "that may lower SP. DEF.");
+    "DEF. BER. jaitsi dezakeen\n"
+    "eraso psikiko indartsua.");
 
 static const u8 sHypnosisDescription[] = _(
-    "A hypnotizing move that\n"
-    "may induce sleep.");
+    "Etsaia lokartu dezakeen\n"
+    "eraso hipnotikoa.");
 
 static const u8 sMeditateDescription[] = _(
-    "Meditates in a peaceful\n"
-    "fashion to raise ATTACK.");
+    "Lasai-lasai meditatzen du\n"
+    "ERASOA igotzeko.");
 
 static const u8 sAgilityDescription[] = _(
-    "Relaxes the body to sharply\n"
-    "boost SPEED.");
+    "Gorputza lasaitzen du\n"
+    "ABIADURA igotzeko.");
 
 static const u8 sQuickAttackDescription[] = _(
-    "An extremely fast attack\n"
-    "that always strikes first.");
+    "Beti lehenengo jotzen duen\n"
+    "eraso izugarri azkarra.");
 
 static const u8 sRageDescription[] = _(
-    "Raises the user's ATTACK\n"
-    "every time it is hit.");
+    "Norberaren ERASOA igotzen\n"
+    "du jotzen duten bakoitzean.");
 
 static const u8 sTeleportDescription[] = _(
-    "A psychic move for fleeing\n"
-    "from battle instantly.");
+    "Borrokatik berehala ihes\n"
+    "egiteko eraso psikikoa.");
 
 static const u8 sNightShadeDescription[] = _(
-    "Inflicts damage identical\n"
-    "to the user's level.");
+    "Norberaren mailaren berdina\n"
+    "den mina egiten du.");
 
 static const u8 sMimicDescription[] = _(
-    "Copies a move used by the\n"
-    "foe during one battle.");
+    "Etsaiak erabili duen erasoa\n"
+    "kopiatzen du borroka batean.");
 
 static const u8 sScreechDescription[] = _(
-    "Emits a screech to sharply\n"
-    "reduce the foe's DEFENSE.");
+    "Kirrinka bat emititzen du\n"
+    "etsaiaren DEFENTSA asko jaisteko.");
 
 static const u8 sDoubleTeamDescription[] = _(
-    "Creates illusory copies to\n"
-    "raise evasiveness.");
+    "Kopia ilusorioak sortzen ditu\n"
+    "norbere saihestea igotzeko.");
 
 static const u8 sRecoverDescription[] = _(
-    "Recovers up to half the\n"
-    "user's maximum HP.");
+    "Norbere gehienezko BPen\n"
+    "erdia sendatzen du.");
 
 static const u8 sHardenDescription[] = _(
-    "Stiffens the body's \n"
-    "muscles to raise DEFENSE.");
+    "Gorputzeko muskuluak gogortzen\n"
+    "ditu DEFENTSA igotzeko.");
 
 static const u8 sMinimizeDescription[] = _(
-    "Minimizes the user's size\n"
-    "to raise evasiveness.");
+    "Norbere tamaina txikitzen du\n"
+    "saihestea igotzeko.");
 
 static const u8 sSmokescreenDescription[] = _(
-    "Lowers the foe's accuracy\n"
-    "using smoke, ink, etc.");
+    "Etsaiaren zehaztasuna jaisten du\n"
+    "kea, tinta eta abar erabiliz.");
 
 static const u8 sConfuseRayDescription[] = _(
-    "A sinister ray that\n"
-    "confuses the foe.");
+    "Etsaia nahasten duen\n"
+    "izpi iluna.");
 
 static const u8 sWithdrawDescription[] = _(
-    "Withdraws the body into its\n"
-    "hard shell to raise DEFENSE.");
+    "Oskol gogor batean sartzen\n"
+    "da DEFENTSA igotzeko.");
 
 static const u8 sDefenseCurlDescription[] = _(
-    "Curls up to conceal weak\n"
-    "spots and raise DEFENSE.");
+    "Kiribildu egiten da puntu ahulak\n"
+    "ezkutatuz DEFENTSA igotzeko.");
 
 static const u8 sBarrierDescription[] = _(
-    "Creates a barrier that\n"
-    "sharply raises DEFENSE.");
+    "DEFENTSA asko igotzen duen\n"
+    "barrera bat ipintzen du.");
 
 static const u8 sLightScreenDescription[] = _(
-    "Creates a wall of light that\n"
-    "lowers SP. ATK damage.");
+    "ER.BER. mina jaisten duen argi\n"
+    "pantaila bat ipintzen du.");
 
 static const u8 sHazeDescription[] = _(
-    "Creates a black haze that\n"
-    "eliminates all stat changes.");
+    "Estatistika aldaketa guztiak\n"
+    "ezabatzen dituen laino beltza.");
 
 static const u8 sReflectDescription[] = _(
-    "Creates a wall of light that\n"
-    "weakens physical attacks.");
+    "Eraso fisikoen mina jaisten duen\n"
+    "argi pantaila bat ipintzen du.");
 
 static const u8 sFocusEnergyDescription[] = _(
-    "Focuses power to raise the\n"
-    "critical-hit ratio.");
+    "Energia enfokatzen du kolpe\n"
+    "kritikoen aukera igotzeko.");
 
 static const u8 sBideDescription[] = _(
-    "Endures attack for 2\n"
-    "turns to retaliate double.");
+    "2 txandatan erasoak jasaten ditu\n"
+    "indar bikoitzez mendekatzeko.");
 
 static const u8 sMetronomeDescription[] = _(
-    "Waggles a finger to use any\n"
-    "POKéMON move at random.");
+    "Hatz bat mugitzen du ausaz\n"
+    "edozein eraso erabiltzeko.");
 
 static const u8 sMirrorMoveDescription[] = _(
-    "Counters the foe's attack\n"
-    "with the same move.");
+    "Etsaiaren eraso berarekin\n"
+    "kontra egiten dio.");
 
 static const u8 sSelfDestructDescription[] = _(
-    "Inflicts severe damage but\n"
-    "makes the user faint.");
+    "Min izugarria egiten du,\n"
+    "baina norbera indargabetuz.");
 
 static const u8 sEggBombDescription[] = _(
-    "An egg is forcibly hurled at\n"
-    "the foe.");
+    "Arrautza bat indarrez\n"
+    "jaurtitzen dio etsaiari.");
 
 static const u8 sLickDescription[] = _(
-    "Licks with a long tongue to\n"
-    "injure. May also paralyze.");
+    "Mihi luzearekin mihazkatzen\n"
+    "du. Paralizatu egin dezake.");
 
 static const u8 sSmogDescription[] = _(
-    "An exhaust-gas attack\n"
-    "that may also poison.");
+    "Pozoindu dezakeen gas\n"
+    "pozointsuko erasoa.");
 
 static const u8 sSludgeDescription[] = _(
-    "Sludge is hurled to inflict\n"
-    "damage. May also poison.");
+    "Hondakinak botatzen ditu min\n"
+    "egiteko. Pozoindu egin dezake.");
 
 static const u8 sBoneClubDescription[] = _(
-    "Clubs the foe with a bone.\n"
-    "May cause flinching.");
+    "Etsaia hezur batekin kolpatzen du.\n"
+    "Atzera eginarazi dezake.");
 
 static const u8 sFireBlastDescription[] = _(
-    "Incinerates everything it\n"
-    "strikes. May cause a burn.");
+    "Ukitzen duen guztia erretzen\n"
+    "du. Erredura sortu dezake.");
 
 static const u8 sWaterfallDescription[] = _(
-    "Charges the foe with speed\n"
-    "to climb waterfalls.");
+    "Azkar oldartzen da\n"
+    "ur-jauziak igotzeko.");
 
 static const u8 sClampDescription[] = _(
-    "Traps and squeezes the\n"
-    "foe for 2 to 5 turns.");
+    "Etsaia harrapatu eta estutzen\n"
+    "du 2 txandatik 5era.");
 
 static const u8 sSwiftDescription[] = _(
-    "Sprays star-shaped rays\n"
-    "that never miss.");
+    "Izar formako izpiak botatzen\n"
+    "ditu, ez dute hutsik egiten.");
 
 static const u8 sSkullBashDescription[] = _(
-    "Tucks in the head, then\n"
-    "attacks on the next turn.");
+    "Burua ezkutatzen du, hurrengo\n"
+    "txandan erasko egiteko.");
 
 static const u8 sSpikeCannonDescription[] = _(
-    "Launches sharp spikes that\n"
-    "strike 2 to 5 times.");
+    "2-5 aldiz jotzen duten iltze\n"
+    "zorrotzak botatzen ditu.");
 
 static const u8 sConstrictDescription[] = _(
-    "Constricts to inflict pain.\n"
-    "May lower SPEED.");
+    "Min ematen du konstrikzioa\n"
+    "erabiliz. ABIADURA jaitsi dezake.");
 
 static const u8 sAmnesiaDescription[] = _(
-    "Forgets about something\n"
-    "and sharply raises SP. DEF.");
+    "Zeozer ahazten du eta asko\n"
+    "igotzen du DEF. BER.");
 
 static const u8 sKinesisDescription[] = _(
-    "Distracts the foe.\n"
-    "May lower accuracy.");
+    "Etsaia distraitzen du.\n"
+    "Zehaztasuna jaitsi dezake.");
 
 static const u8 sSoftBoiledDescription[] = _(
-    "Recovers up to half the\n"
-    "user's maximum HP.");
+    "Norbere gehienezko BPen\n"
+    "erdia sendatzen du.");
 
 static const u8 sHiJumpKickDescription[] = _(
-    "A jumping knee kick. If it\n"
-    "misses, the user is hurt.");
+    "Salto belaunkada indartsua. Huts\n"
+    "egin eta norbera mindu dezake.");
 
 static const u8 sGlareDescription[] = _(
-    "Intimidates and frightens\n"
-    "the foe into paralysis.");
+    "Etsaia beldurtzen du\n"
+    "paralizatu arte.");
 
 static const u8 sDreamEaterDescription[] = _(
-    "Takes one half the damage\n"
-    "inflicted on a sleeping foe.");
+    "Lotan dagoen etsaiari egindako\n"
+    "minaren erdia jaten du.");
 
 static const u8 sPoisonGasDescription[] = _(
-    "Envelops the foe in a toxic\n"
-    "gas that may poison.");
+    "Etsaia pozoindu dezakeen gas\n"
+    "toxiko batean biltzen du.");
 
 static const u8 sBarrageDescription[] = _(
-    "Hurls round objects at the\n"
-    "foe 2 to 5 times.");
+    "Objektuak botatzen dizkio\n"
+    "etsaiari, 2-5 aldiz.");
 
 static const u8 sLeechLifeDescription[] = _(
-    "An attack that steals half\n"
-    "the damage inflicted.");
+    "Egindako minaren erdia\n"
+    "lapurtzen duen erasoa.");
 
 static const u8 sLovelyKissDescription[] = _(
-    "Demands a kiss with a scary\n"
-    "face that induces sleep.");
+    "Musu bat eskatzen du aurpegi\n"
+    "beldurgarriarekin, etsaia lokartuz.");
 
 static const u8 sSkyAttackDescription[] = _(
-    "Searches out weak spots,\n"
-    "then strikes the next turn.");
+    "Puntu ahulaki bilatzen ditu,\n"
+    "hurrengo txandan jotzeko.");
 
 static const u8 sTransformDescription[] = _(
-    "Alters the user's cells to\n"
-    "become a copy of the foe.");
+    "Norbere zelulak aldatzen ditu\n"
+    "etsaiaren kopia bihurtzeko.");
 
 static const u8 sBubbleDescription[] = _(
-    "An attack using bubbles.\n"
-    "May lower the foe's SPEED.");
+    "Burbuilak botatzen ditu.\n"
+    "Etsaiaren ABIADURA jaitsi dezake.");
 
 static const u8 sDizzyPunchDescription[] = _(
-    "A rhythmic punch that may\n"
-    "confuse the foe.");
+    "Etsaia nahastu dezakeen\n"
+    "ukabilkada erritmikoa.");
 
 static const u8 sSporeDescription[] = _(
-    "Scatters a cloud of spores\n"
-    "that always induce sleep.");
+    "Beti loa eragiten duten\n"
+    "espora hodei bat botatzen du.");
 
 static const u8 sFlashDescription[] = _(
-    "Looses a powerful blast of\n"
-    "light that cuts accuracy.");
+    "Zehaztasuna jaisten duen\n"
+    "argi indartsua botatzen du.");
 
 static const u8 sPsywaveDescription[] = _(
-    "Attacks with a psychic\n"
-    "wave of varying intensity.");
+    "Intentsitate aldakorreko\n"
+    "uhin psikikoa botatzen du.");
 
 static const u8 sSplashDescription[] = _(
-    "It's just a splash...\n"
-    "Has no effect whatsoever.");
+    "Zipriztin bat besterik ez...\n"
+    "Ez du inolako efekturik.");
 
 static const u8 sAcidArmorDescription[] = _(
-    "Liquifies the user's body\n"
-    "to sharply raise DEFENSE.");
+    "Norbere gorputza likidoz estaliz\n"
+    "asko igotzen du DEFENTSA.");
 
 static const u8 sCrabhammerDescription[] = _(
-    "Hammers with a pincer. Has a\n"
-    "high critical-hit ratio.");
+    "Pintza batekin egindako mailukada.\n"
+    "Kolpe kritikoa izateko aukera altua.");
 
 static const u8 sExplosionDescription[] = _(
-    "Inflicts severe damage but\n"
-    "makes the user faint.");
+    "Min izugarria egiten du,\n"
+    "baina norbera indargabetuz.");
 
 static const u8 sFurySwipesDescription[] = _(
-    "Rakes the foe with sharp\n"
-    "claws, etc., 2 to 5 times.");
+    "Etsaia kolpatzen du 2-5 aldiz\n"
+    "atzapar zorrotzekin.");
 
 static const u8 sBonemerangDescription[] = _(
-    "Throws a bone boomerang\n"
-    "that strikes twice.");
+    "Bi aldiz jotzen duen hezurrezko\n"
+    "bumeran bat botatzen du.");
 
 static const u8 sRestDescription[] = _(
-    "The user sleeps for 2 turns,\n"
-    "restoring HP and status.");
+    "2 txandaz egiten du lo,\n"
+    "BPak eta egoera sendatuz.");
 
 static const u8 sRockSlideDescription[] = _(
-    "Large boulders are hurled.\n"
-    "May cause flinching.");
+    "Harri handiak botatzen dute.\n"
+    "Atzera eragin dezake.");
 
 static const u8 sHyperFangDescription[] = _(
-    "Attacks with sharp fangs.\n"
-    "May cause flinching.");
+    "Letagin zorrotzekin erasotzen\n"
+    "du. Atzera eragin dezake.");
 
 static const u8 sSharpenDescription[] = _(
-    "Reduces the polygon count\n"
-    "and raises ATTACK.");
+    "Poligonoak gutxitzen ditu\n"
+    "eta ERASOA Igo.");
 
 static const u8 sConversionDescription[] = _(
-    "Changes the user's type\n"
-    "into a known move's type.");
+    "Norbere mota aldatzen du\n"
+    "eraso ezagun baten berera.");
 
 static const u8 sTriAttackDescription[] = _(
-    "Fires three types of beams\n"
-    "at the same time.");
+    "Hiru motatako izpiak botatzen\n"
+    "ditu aldi berean.");
 
 static const u8 sSuperFangDescription[] = _(
-    "Attacks with sharp fangs\n"
-    "and cuts half the foe's HP.");
+    "Etsaiaren BPak erdira jaisten\n"
+    "ditu letaginkada zorrotz batekin.");
 
 static const u8 sSlashDescription[] = _(
-    "Slashes with claws, etc. Has\n"
-    "a high critical-hit ratio.");
+    "Atzaparrekin mozten du. Kolpe\n"
+    "kritikoa izateko aukera altua.");
 
 static const u8 sSubstituteDescription[] = _(
-    "Creates a decoy using 1/4\n"
-    "of the user's maximum HP.");
+    "Gehienezo BPen 1/4 erabiliz\n"
+    "ordezko panpin bat sortzen du.");
 
 static const u8 sStruggleDescription[] = _(
-    "Used only if all PP are gone.\n"
-    "Also hurts the user a little.");
+    "PP guztiak agortzean erabilia.\n"
+    "Erabiltzailea ere mintzen du.");
 
 static const u8 sSketchDescription[] = _(
-    "Copies the foe's last move\n"
-    "permanently.");
+    "Etsaiaren azekn erasoa\n"
+    "kopiatzen du betirako.");
 
 static const u8 sTripleKickDescription[] = _(
-    "Kicks the foe 3 times in a\n"
-    "row with rising intensity.");
+    "3 aldiz ostikoz jotzen du\n"
+    "etsaia, gero eta indartsuago.");
 
 static const u8 sThiefDescription[] = _(
-    "While attacking, it may\n"
-    "steal the foe's held item.");
+    "Erasotzen ari den bitartean,\n"
+    "etsaiaren itema lapurtu dezake.");
 
 static const u8 sSpiderWebDescription[] = _(
-    "Ensnares the foe to stop it\n"
-    "from fleeing or switching.");
+    "Etsaia harrapatzen du, ezin\n"
+    "dezan ihes egin edo aldatu.");
 
 static const u8 sMindReaderDescription[] = _(
-    "Senses the foe's action to\n"
-    "ensure the next move's hit.");
+    "Etsaiaren mugimendua aurreikusten\n"
+    "du, hurrengo erasoak ez huts egiteko.");
 
 static const u8 sNightmareDescription[] = _(
-    "Inflicts 1/4 damage on a\n"
-    "sleeping foe every turn.");
+    "1/4 mina egiten du, txandako,\n"
+    "etsaia lotan abadgo.");
 
 static const u8 sFlameWheelDescription[] = _(
-    "A fiery charge attack that\n"
-    "may inflict a burn.");
+    "Etsaia erre dezakeen suzko\n"
+    "erasoa.");
 
 static const u8 sSnoreDescription[] = _(
-    "A loud attack that can be\n"
-    "used only while asleep.");
+    "Lotan soilik erabili\n"
+    "daitekeen zarata ozena.");
 
 static const u8 sCurseDescription[] = _(
-    "A move that functions\n"
-    "differently for GHOSTS.");
+    "MAMU motakoentzat desberdin\n"
+    "funtzionatzen duen erasoa.");
 
 static const u8 sFlailDescription[] = _(
-    "Inflicts more damage when\n"
-    "the user's HP is down.");
+    "Min gehiago ematen du\n"
+    "norbere BPak baxuak badira.");
 
 static const u8 sConversion2Description[] = _(
-    "Makes the user resistant\n"
-    "to the last attack's type.");
+    "Erabiltzailea etsaiaren azken\n"
+    "erasoaren motara iraunkortzen du.");
 
 static const u8 sAeroblastDescription[] = _(
-    "Launches a vacuumed blast.\n"
-    "High critical-hit ratio.");
+    "Huts-leherketa botatzen du.\n"
+    "Kolpe kritikoa izateko aukera altua.");
 
 static const u8 sCottonSporeDescription[] = _(
-    "Spores cling to the foe,\n"
-    "sharply reducing SPEED.");
+    "Etsaiari esporak itsatsiz,\n"
+    "ABIADURA asok jaisten dio.");
 
 static const u8 sReversalDescription[] = _(
-    "Inflicts more damage when\n"
-    "the user's HP is down.");
+    "Min gehiago ematen du\n"
+    "norbere BPak baxuak badira.");
 
 static const u8 sSpiteDescription[] = _(
-    "Spitefully cuts the PP\n"
-    "of the foe's last move.");
+    "Herraz, etsaiak erabilitako azken\n"
+    "erasoaren PPak gutxitzen ditu.");
 
 static const u8 sPowderSnowDescription[] = _(
-    "Blasts the foe with a snowy\n"
-    "gust. May cause freezing.");
+    "Etsaiari haize bolada izoztua\n"
+    "botatzen dio. Izoztu egin dezake.");
 
 static const u8 sProtectDescription[] = _(
-    "Evades attack, but may fail\n"
-    "if used in succession.");
+    "Erasotik babesten da, baina huts\n"
+    "egin dezake jarraian erabilita.");
 
 static const u8 sMachPunchDescription[] = _(
-    "A punch is thrown at wicked\n"
-    "speed to strike first.");
+    "Abiadura izugarrizko ukabilkada\n"
+    "jotzen du, lehenengo jotzeko.");
 
 static const u8 sScaryFaceDescription[] = _(
-    "Frightens with a scary face\n"
-    "to sharply reduce SPEED.");
+    "Aurpegi beldurgarriz izutzen du\n"
+    "etsaia ABIADURA asko jaisteko.");
 
 static const u8 sFaintAttackDescription[] = _(
-    "Draws the foe close, then\n"
-    "strikes without fail.");
+    "Etsaia asko hurbiltzen du, gero\n"
+    "hutsik egin gabe kolpatuz.");
 
 static const u8 sSweetKissDescription[] = _(
-    "Demands a kiss with a cute\n"
-    "look. May cause confusion.");
+    "Musu bat eskatzen du aurpegi\n"
+    "politarekin, etsaia nahastu dezake.");
 
 static const u8 sBellyDrumDescription[] = _(
-    "Maximizes ATTACK while\n"
-    "sacrificing HP.");
+    "ERASOA guztiz igotzen du,\n"
+    "BPak sakrifikatuz.");
 
 static const u8 sSludgeBombDescription[] = _(
-    "Sludge is hurled to inflict\n"
-    "damage. May also poison.");
+    "Lokatza botatzen du min\n"
+    "emateko. Pozoindu egin dezake.");
 
 static const u8 sMudSlapDescription[] = _(
-    "Hurls mud in the foe's face\n"
-    "to reduce its accuracy.");
+    "Lokatza botatzen du etsaiaren\n"
+    "aurpegira, zehaztasuna jaisteko.");
 
 static const u8 sOctazookaDescription[] = _(
-    "Fires a lump of ink to\n"
-    "damage and cut accuracy.");
+    "Tinta bola bat botatzen du, min\n"
+    "eman eta zehaztasuna jaisteko.");
 
 static const u8 sSpikesDescription[] = _(
-    "Sets spikes that hurt a \n"
-    "foe switching in.");
+    "Arantzak zabaltzen ditu,\n"
+    "sartzen direnei min emateko.");
 
 static const u8 sZapCannonDescription[] = _(
-    "Powerful and sure to cause\n"
-    "paralysis, but inaccurate.");
+    "Indartsua eta paralisia eragiten\n"
+    "du, baina zehaztasun gutxikoa.");
 
 static const u8 sForesightDescription[] = _(
-    "Negates the foe's efforts\n"
-    "to heighten evasiveness.");
+    "Ez dio uzten etsaiari\n"
+    "saihestea igotzen.");
 
 static const u8 sDestinyBondDescription[] = _(
-    "If the user faints, the foe\n"
-    "is also made to faint.");
+    "Erabiltzailea indargabetzen\n"
+    "bada, etsaia ere bai.");
 
 static const u8 sPerishSongDescription[] = _(
-    "Any POKéMON hearing this\n"
-    "song faints in 3 turns.");
+    "Kanta hau entzuten duten POKéMONAK\n"
+    "3 txandatan indargabetzen dira.");
 
 static const u8 sIcyWindDescription[] = _(
-    "A chilling attack that\n"
-    "lowers the foe's SPEED.");
+    "Etsaiaren ABIADURA jaisten\n"
+    "duen haize izoztua.");
 
 static const u8 sDetectDescription[] = _(
-    "Evades attack, but may fail\n"
-    "if used in succession.");
+    "Erasotik babesten da, baina huts\n"
+    "egin dezake jarraian erabilita.");
 
 static const u8 sBoneRushDescription[] = _(
-    "Strikes the foe with a bone\n"
-    "in hand 2 to 5 times.");
+    "Hezur batekin kolpatzen du\n"
+    "etsaia, 2-5 aldiz.");
 
 static const u8 sLockOnDescription[] = _(
-    "Locks on to the foe to\n"
-    "ensure the next move hits.");
+    "Etsaia finkatzen du, hurrengo\n"
+    "erasoak bai ala bai jotzeko.");
 
 static const u8 sOutrageDescription[] = _(
-    "A rampage of 2 to 3 turns\n"
-    "that confuses the user.");
+    "2-3 txandako sarraskia,\n"
+    "norbera nahasten du.");
 
 static const u8 sSandstormDescription[] = _(
-    "Causes a sandstorm that\n"
-    "rages for several turns.");
+    "Harea-ekaitza sortzen du\n"
+    "hainbat txandatarako.");
 
 static const u8 sGigaDrainDescription[] = _(
-    "An attack that steals half\n"
-    "the damage inflicted.");
+    "Egindako minaren erdia\n"
+    "xurgatzen duen erasoa.");
 
 static const u8 sEndureDescription[] = _(
-    "Endures any attack for\n"
-    "1 turn, leaving at least 1HP.");
+    "Edozein eraso jasaten du txanda\n"
+    "batean, gutxienez BP 1 utziz.");
 
 static const u8 sCharmDescription[] = _(
-    "Charms the foe and sharply\n"
-    "reduces its ATTACK.");
+    "Etsaia liluratzen du eta\n"
+    "asko jasiten dio ERASOA.");
 
 static const u8 sRolloutDescription[] = _(
-    "An attack lasting 5 turns\n"
-    "with rising intensity.");
+    "5 txandako erasoa, gero eta\n"
+    "indar handiagoa du.");
 
 static const u8 sFalseSwipeDescription[] = _(
-    "An attack that leaves the\n"
-    "foe with at least 1 HP.");
+    "Etsaia gutxienez BP 1ekin\n"
+    "uzten duen erasoa.");
 
 static const u8 sSwaggerDescription[] = _(
-    "Confuses the foe, but also\n"
-    "sharply raises ATTACK.");
+    "Etsaia nahasten du, baina\n"
+    "asko igotzen dio ERASOA.");
 
 static const u8 sMilkDrinkDescription[] = _(
-    "Recovers up to half the\n"
-    "user's maximum HP.");
+    "Norbere gehienezko BPen\n"
+    "erdia sendatzen du.");
 
 static const u8 sSparkDescription[] = _(
-    "An electrified tackle that\n"
-    "may paralyze the foe.");
+    "Etsaia paralizatu dezakeen\n"
+    "oldarketa elektrikoa.");
 
 static const u8 sFuryCutterDescription[] = _(
-    "An attack that intensifies\n"
-    "on each successive hit.");
+    "Jarraian erabilita indarra\n"
+    "hartzen duen ebakia.");
 
 static const u8 sSteelWingDescription[] = _(
-    "Strikes the foe with hard\n"
-    "wings spread wide.");
+    "Zabaldutako hego gogorrekin\n"
+    "jotzen du etsaia.");
 
 static const u8 sMeanLookDescription[] = _(
-    "Fixes the foe with a mean\n"
-    "look that prevents escape.");
+    "Etsaiari begizkoa bota eta\n"
+    "ez dio ihes egiten uzten.");
 
 static const u8 sAttractDescription[] = _(
-    "Makes the opposite gender\n"
-    "less likely to attack.");
+    "Aurkakoko generokoek\n"
+    "gutxiagotan erasotzen dute.");
 
 static const u8 sSleepTalkDescription[] = _(
-    "Uses an available move\n"
-    "randomly while asleep.");
+    "Eraso erabilgarri bat egiten\n"
+    "du ausaz, lotan dagoenean.");
 
 static const u8 sHealBellDescription[] = _(
-    "Chimes soothingly to heal\n"
-    "all status abnormalities.");
+    "Kanpai bat kolpatzen du\n"
+    "egoera guztiak sendatzeko.");
 
 static const u8 sReturnDescription[] = _(
-    "An attack that increases\n"
-    "in power with friendship.");
+    "Laguntasunarekin arabera\n"
+    "gehiago indartzen den erasoa.");
 
 static const u8 sPresentDescription[] = _(
-    "A gift in the form of a\n"
-    "bomb. May restore HP.");
+    "Bonba formako oparia.\n"
+    "BPak sendatu ditzake.");
 
 static const u8 sFrustrationDescription[] = _(
-    "An attack that is stronger\n"
-    "if the TRAINER is disliked.");
+    "ENTRENATZAILEA ez badu atsegin\n"
+    "indar handiagoa du erasoak.");
 
 static const u8 sSafeguardDescription[] = _(
-    "A mystical force prevents\n"
-    "all status problems.");
+    "Egoera guztiak sendatzen\n"
+    "dituen indar mistikoa.");
 
 static const u8 sPainSplitDescription[] = _(
-    "Adds the user and foe's HP,\n"
-    "then shares them equally.");
+    "Norbere eta etsaiaren BPak\n"
+    "batu, eta berdin banatzen ditu.");
 
 static const u8 sSacredFireDescription[] = _(
-    "A mystical fire attack that\n"
-    "may inflict a burn.");
+    "Erredura eragin dezakeen\n"
+    "su mistikozko erasoa.");
 
 static const u8 sMagnitudeDescription[] = _(
-    "A ground-shaking attack\n"
-    "of random intensity.");
+    "Ausazko indarra duen\n"
+    "lur astindua.");
 
 static const u8 sDynamicPunchDescription[] = _(
-    "Powerful and sure to cause\n"
-    "confusion, but inaccurate.");
+    "Indartsua eta nahastea eragiten\n"
+    "du, baina zehaztasun gutxikoa.");
 
 static const u8 sMegahornDescription[] = _(
-    "A brutal ramming attack\n"
-    "using out-thrust horns.");
+    "Adar zorrotzak erabiltzen\n"
+    "dituen oldarraldi bortitza.");
 
 static const u8 sDragonBreathDescription[] = _(
-    "Strikes the foe with an\n"
-    "incredible blast of breath.");
+    "Hats indartsuz etsaia\n"
+    "jotzen duen leherketa.");
 
 static const u8 sBatonPassDescription[] = _(
-    "Switches out the user while\n"
-    "keeping effects in play.");
+    "Norbera aldatzen du,\n"
+    "efektuak mantenduz.");
 
 static const u8 sEncoreDescription[] = _(
-    "Makes the foe repeat its\n"
-    "last move over 2 to 6 turns.");
+    "Etsaiari bere azken erasoa\n"
+    "errepikarazten dio 2-6 txandatan.");
 
 static const u8 sPursuitDescription[] = _(
-    "Inflicts bad damage if used\n"
-    "on a foe switching out.");
+    "Min handia egiten dio\n"
+    "aldatzen ari den etsaiari.");
 
 static const u8 sRapidSpinDescription[] = _(
-    "Spins the body at high\n"
-    "speed to strike the foe.");
+    "Azkar biratzen du gorputza\n"
+    "etsaia kolpatzeko.");
 
 static const u8 sSweetScentDescription[] = _(
-    "Allures the foe to reduce\n"
-    "evasiveness.");
+    "Etsaia liluratzen du\n"
+    "saihestea igotzeko.");
 
 static const u8 sIronTailDescription[] = _(
-    "Attacks with a rock-hard\n"
-    "tail. May lower DEFENSE.");
+    "Buztan gogorrarekin kolpatzen\n"
+    "du etsaia. DEFENTSA jaitsi dezake.");
 
 static const u8 sMetalClawDescription[] = _(
-    "A claw attack that may\n"
-    "raise the user's ATTACK.");
+    "Norbere ERASOA igo\n"
+    "dezakeen atzapar erasoa.");
 
 static const u8 sVitalThrowDescription[] = _(
-    "Makes the user's move last,\n"
-    "but it never misses.");
+    "Azken lekuan erasotzen du,\n"
+    "baina ez du inoiz huts egiten.");
 
 static const u8 sMorningSunDescription[] = _(
-    "Restores HP. The amount\n"
-    "varies with the weather.");
+    "BPak sendatzen ditu. Kantitatea\n"
+    "eguraldiaren araberakoa da.");
 
 static const u8 sSynthesisDescription[] = _(
-    "Restores HP. The amount\n"
-    "varies with the weather.");
+    "BPak sendatzen ditu. Kantitatea\n"
+    "eguraldiaren araberakoa da.");
 
 static const u8 sMoonlightDescription[] = _(
-    "Restores HP. The amount\n"
-    "varies with the weather.");
+    "BPak sendatzen ditu. Kantitatea\n"
+    "eguraldiaren araberakoa da.");
 
 static const u8 sHiddenPowerDescription[] = _(
-    "The effectiveness varies\n"
-    "with the user.");
+    "Eraginkortasuna norbere\n"
+    "arabera aldatzen da.");
 
 static const u8 sCrossChopDescription[] = _(
-    "A double-chopping attack.\n"
-    "High critical-hit ratio.");
+    "Esku kolpe bikoitza. Kolpe\n"
+    "kritikoa izateko aukrea altua.");
 
 static const u8 sTwisterDescription[] = _(
-    "Whips up a vicious twister\n"
-    "to tear at the foe.");
+    "Etsaiari zikloi indartsua\n"
+    "jaurtitzen dio.");
 
 static const u8 sRainDanceDescription[] = _(
-    "Boosts the power of WATER-\n"
-    "type moves for 5 turns.");
+    "UR motako erasoak indartzen\n"
+    "ditu 5 txandatan.");
 
 static const u8 sSunnyDayDescription[] = _(
-    "Boosts the power of FIRE-\n"
-    "type moves for 5 turns.");
+    "SU motako erasoak indartzen\n"
+    "ditu 5 txandatan.");
 
 static const u8 sCrunchDescription[] = _(
-    "Crunches with sharp fangs.\n"
-    "May lower SP. DEF.");
+    "Letagin zorrotzekin birrintzen\n"
+    "du. DEF. BER. jaitsi dezake.");
 
 static const u8 sMirrorCoatDescription[] = _(
-    "Counters the foe's special\n"
-    "attack at double the power.");
+    "Kolpe bereziak mendekatzen\n"
+    "ditu, indar bikoitzarekin.");
 
 static const u8 sPsychUpDescription[] = _(
-    "Copies the foe's effect(s)\n"
-    "and gives to the user.");
+    "Etsaiaren efektuak kopiatu\n"
+    "eta norbaerak jasotzen ditu.");
 
 static const u8 sExtremeSpeedDescription[] = _(
-    "An extremely fast and\n"
-    "powerful attack.");
+    "Eraso izugarri azkar\n"
+    "eta indartsua.");
 
 static const u8 sAncientPowerDescription[] = _(
-    "An attack that may raise\n"
-    "all stats.");
+    "Estatistika guztiak igo\n"
+    "ditzakeen erasoa.");
 
 static const u8 sShadowBallDescription[] = _(
-    "Hurls a black blob that may\n"
-    "lower the foe's SP. DEF.");
+    "Etsaiaren DEF. BER. jaitsi\n"
+    "dezakeen bola iluna.");
 
 static const u8 sFutureSightDescription[] = _(
-    "Heightens inner power to\n"
-    "strike 2 turns later.");
+    "Barne indarra handitzen du\n"
+    "2 txanda eta gero erasotzeko.");
 
 static const u8 sRockSmashDescription[] = _(
-    "A rock-crushing attack\n"
-    "that may lower DEFENSE.");
+    "DEFENTSA jaitsi dezakeen\n"
+    "eraso harri-birrintzailea.");
 
 static const u8 sWhirlpoolDescription[] = _(
-    "Traps and hurts the foe in\n"
-    "a whirlpool for 2 to 5 turns.");
+    "Etsaia ur zurrunbilo batean\n"
+    "harrapatzen du 2-5 txandatan.");
 
 static const u8 sBeatUpDescription[] = _(
-    "Summons party POKéMON to\n"
-    "join in the attack.");
+    "Taldeko POKéMONEI deitzen\n"
+    "die erasora batzeko.");
 
 static const u8 sFakeOutDescription[] = _(
-    "A 1st-turn, 1st-strike move\n"
-    "that causes flinching.");
+    "Lehen txandan erabilita, atzera\n"
+    "eragiten duen lehentasun erasoa.");
 
 static const u8 sUproarDescription[] = _(
-    "Causes an uproar for 2 to 5\n"
-    "turns and prevents sleep.");
+    "Zalaparta sortzen du 2-5\n"
+    "txandatan, loa ekidinez.");
 
 static const u8 sStockpileDescription[] = _(
-    "Charges up power for up to\n"
-    "3 turns.");
+    "Indarra kargatzen du, 3\n"
+    "txandara arte.");
 
 static const u8 sSpitUpDescription[] = _(
-    "Releases stockpiled power\n"
-    "(the more the better).");
+    "Kargatutako indarra jaurtitzen\n"
+    "du (gehiago bada, hobe).");
 
 static const u8 sSwallowDescription[] = _(
-    "Absorbs stockpiled power\n"
-    "and restores HP.");
+    "Kargatutako indarra xurgatu\n"
+    "eta BPak sendatzen ditu.");
 
 static const u8 sHeatWaveDescription[] = _(
-    "Exhales a hot breath on the\n"
-    "foe. May inflict a burn.");
+    "Haize beroa botatzen dio\n"
+    "etsaiari. Erre egin dezake.");
 
 static const u8 sHailDescription[] = _(
-    "Summons a hailstorm that\n"
-    "strikes every turn.");
+    "Txandaro min egiten duen\n"
+    "kazkabarra sortzen du.");
 
 static const u8 sTormentDescription[] = _(
-    "Torments the foe and stops\n"
-    "successive use of a move.");
+    "Etsaia aztoratzen du, eraso\n"
+    "bera jarraian ez erabiltzeko.");
 
 static const u8 sFlatterDescription[] = _(
-    "Confuses the foe, but\n"
-    "raises its SP. ATK.");
+    "Etsaia nahasten du baina\n"
+    "bere ER. BER. igotzen du");
 
 static const u8 sWillOWispDescription[] = _(
-    "Inflicts a burn on the foe\n"
-    "with intense fire.");
+    "Etsaia erretzen du\n"
+    "su biziarekin.");
 
 static const u8 sMementoDescription[] = _(
-    "The user faints and lowers\n"
-    "the foe's abilities.");
+    "Norbera indargabetuz, etsaiaren\n"
+    "bi erasoak asko jaisten ditu.");
 
 static const u8 sFacadeDescription[] = _(
-    "Boosts ATTACK when burned,\n"
-    "paralyzed, or poisoned.");
+    "Indar handiagoa du erreta,\n"
+    "paralizatuta edo pozoinduta.");
 
 static const u8 sFocusPunchDescription[] = _(
-    "A powerful loyalty attack.\n"
-    "The user flinches if hit.");
+    "Leialtasun eraso indartsua. Atzera\n"
+    "egin dezakezu, besteak jo ezkero.");
 
 static const u8 sSmellingSaltDescription[] = _(
-    "Powerful against paralyzed\n"
-    "foes, but also heals them.");
+    "Paralizatuta daudenen aurka\n"
+    "indartsua, baina sendatzailea.");
 
 static const u8 sFollowMeDescription[] = _(
-    "Draws attention to make\n"
-    "foes attack only the user.");
+    "Atentzioa ematen du, etsaiek\n"
+    "norberari soilik erasotzeko.");
 
 static const u8 sNaturePowerDescription[] = _(
-    "The type of attack varies\n"
-    "depending on the location.");
+    "Lekuaren arabera erasoaren\n"
+    "mota aldatu egiten da.");
 
 static const u8 sChargeDescription[] = _(
-    "Charges power to boost the\n"
-    "electric move used next.");
+    "Hurrengo eraso elektrikoa\n"
+    "indartzeko energia karga.");
 
 static const u8 sTauntDescription[] = _(
-    "Taunts the foe into only\n"
-    "using attack moves.");
+    "Iseka egiten dio etsaiari, eraso\n"
+    "zuzenak soilik erabiltzeko.");
 
 static const u8 sHelpingHandDescription[] = _(
-    "Boosts the power of the\n"
-    "recipient's moves.");
+    "Jasotzen duenaren erasoak\n"
+    "indartzen ditu.");
 
 static const u8 sTrickDescription[] = _(
-    "Tricks the foe into trading\n"
-    "held items.");
+    "Trikimailu batekin, etsaiaren\n"
+    "eta norbere itemak trukatzen ditu.");
 
 static const u8 sRolePlayDescription[] = _(
-    "Mimics the target and\n"
-    "copies its special ability.");
+    "Helburua imitatu eta bere\n"
+    "abilezia kopiatzen du.");
 
 static const u8 sWishDescription[] = _(
-    "A wish that restores HP.\n"
-    "It takes time to work.");
+    "BPak sendatzen dituen guraria.\n"
+    "Txanda bat behar du.");
 
 static const u8 sAssistDescription[] = _(
-    "Attacks randomly with one\n"
-    "of the partner's moves.");
+    "Kidearen eraso bat ausaz\n"
+    "aukeratu eta erabiltzen du.");
 
 static const u8 sIngrainDescription[] = _(
-    "Lays roots that restore HP.\n"
-    "The user can't switch out.");
+    "BPak sendatzeko sustraiak.\n"
+    "Norbera ezin da aldatu gero.");
 
 static const u8 sSuperpowerDescription[] = _(
-    "Boosts strength sharply,\n"
-    "but lowers abilities.");
+    "Indar handiko erasoa, ERASOA\n"
+    "eta DEFENTSA jaisten ditu.");
 
 static const u8 sMagicCoatDescription[] = _(
-    "Reflects special effects\n"
-    "back to the attacker.");
+    "Efektu bereziak erasotzaileari\n"
+    "bueltan botatzen dizkio.");
 
 static const u8 sRecycleDescription[] = _(
-    "Recycles a used item for\n"
-    "one more use.");
+    "Erabilitako itema birziklatzen\n"
+    "du berriz erabiltzeko.");
 
 static const u8 sRevengeDescription[] = _(
-    "An attack that gains power\n"
-    "if injured by the foe.");
+    "Etsaiak mina eman badu\n"
+    "indartzen den erasoa.");
 
 static const u8 sBrickBreakDescription[] = _(
-    "Destroys barriers such as\n"
-    "REFLECT and causes damage.");
+    "ISLADA bezalako barrerak\n"
+    "hautsi eta min ematen du.");
 
 static const u8 sYawnDescription[] = _(
-    "Lulls the foe into yawning,\n"
-    "then sleeping next turn.");
+    "Aharrausi eginarazten du,\n"
+    "hurrengo txandan lokartzeko.");
 
 static const u8 sKnockOffDescription[] = _(
-    "Knocks down the foe's held\n"
-    "item to prevent its use.");
+    "Etsaiaren itema botatzen du,\n"
+    "ezin erabili ahal izateko.");
 
 static const u8 sEndeavorDescription[] = _(
-    "Gains power if the user's HP\n"
-    "is lower than the foe's HP.");
+    "Indar handiagoa du norbere BPak\n"
+    "etsaiarenak baino baxuagoak badira.");
 
 static const u8 sEruptionDescription[] = _(
-    "The higher the user's HP,\n"
-    "the more damage caused.");
+    "Norberak zenbat eta BP gehiago,\n"
+    "orduan eta min handiagoa.");
 
 static const u8 sSkillSwapDescription[] = _(
-    "The user swaps special\n"
-    "abilities with the target.");
+    "Helburuarekin abileziak\n"
+    "trukatzen ditu.");
 
 static const u8 sImprisonDescription[] = _(
-    "Prevents foes from using\n"
-    "moves known by the user.");
+    "Norberak dakizkien erasoak\n"
+    "etsaiak erabiltzea ekiditen du.");
 
 static const u8 sRefreshDescription[] = _(
-    "Heals poisoning, paralysis,\n"
-    "or a burn.");
+    "Pozoina, paralisia edo\n"
+    "erredura sendatzen ditu.");
 
 static const u8 sGrudgeDescription[] = _(
-    "If the user faints, deletes\n"
-    "all PP of foe's last move.");
+    "Norbera indargabetu ezkero, etsaiaren\n"
+    "erasoaren PP guztiak kentzen ditu.");
 
 static const u8 sSnatchDescription[] = _(
-    "Steals the effects of the\n"
-    "move the target uses next.");
+    "Helburuak erabiliko duen erasoaren\n"
+    "efektuak lapurtzen ditu.");
 
 static const u8 sSecretPowerDescription[] = _(
-    "An attack with effects\n"
-    "that vary by location.");
+    "Lekuaren arabera efektu\n"
+    "aldakorrak dituen erasoa.");
 
 static const u8 sDiveDescription[] = _(
-    "Dives underwater the first\n"
-    "turn and strikes next turn.");
+    "Lehen txandan urperatzen\n"
+    "da, hurrengoan erasotzeko.");
 
 static const u8 sArmThrustDescription[] = _(
-    "Straight-arm punches that\n"
-    "strike the foe 2 to 5 times.");
+    "Ukabilkada zuzenak jotzen\n"
+    "ditu, 2-5 aldiz.");
 
 static const u8 sCamouflageDescription[] = _(
-    "Alters the POKéMON's type\n"
-    "depending on the location.");
+    "POKéMONAREN mota aldatzen\n"
+    "du lekuaren arabera.");
 
 static const u8 sTailGlowDescription[] = _(
-    "Flashes a light that sharply\n"
-    "raises SP. ATK.");
+    "ER. BER. asko igotzen duen\n"
+    "argi distiratsua igortzen du.");
 
 static const u8 sLusterPurgeDescription[] = _(
-    "Attacks with a burst of\n"
-    "light. May lower SP. DEF.");
+    "Argi izpi batekin erasotzen du.\n"
+    "SP. DEF. BER. jaitsi dezake.");
 
 static const u8 sMistBallDescription[] = _(
-    "Attacks with a flurry of\n"
-    "down. May lower SP. ATK.");
+    "Lanbro bola batekin erasotzen\n"
+    "du. ER. BER. jaitsi dezake.");
 
 static const u8 sFeatherDanceDescription[] = _(
-    "Envelops the foe with down\n"
-    "to sharply reduce ATTACK.");
+    "ERASOA asko jaisteko etsaia\n"
+    "lumekin biltzen du.");
 
 static const u8 sTeeterDanceDescription[] = _(
-    "Confuses all POKéMON on\n"
-    "the scene.");
+    "Borrokan dauden POKéMON\n"
+    "guztiak nahasten ditu.");
 
 static const u8 sBlazeKickDescription[] = _(
-    "A kick with a high critical-\n"
-    "hit ratio. May cause a burn.");
+    "Kolpe kritikoa izateko aukera\n"
+    "altuko ostikada. Erre egin dezake.");
 
 static const u8 sMudSportDescription[] = _(
-    "Covers the user in mud to\n"
-    "raise electrical resistance.");
+    "Lokatzetan murgiltzen da\n"
+    "erresistentzia elektrikoa igotzeko.");
 
 static const u8 sIceBallDescription[] = _(
-    "A 5-turn attack that gains\n"
-    "power on successive hits.");
+    "5 txandako erasoa, indarra\n"
+    "hartzen du aldi bakoitzean.");
 
 static const u8 sNeedleArmDescription[] = _(
-    "Attacks with thorny arms.\n"
-    "May cause flinching.");
+    "Beso arantzadunekin erasotzen du.\n"
+    "Atzera eragin dezake.");
 
 static const u8 sSlackOffDescription[] = _(
-    "Slacks off and restores\n"
-    "half the maximum HP.");
+    "Alferkerian arituz, gehienezko\n"
+    "BPen erdia sendatzen du.");
 
 static const u8 sHyperVoiceDescription[] = _(
-    "A loud attack that uses\n"
-    "sound waves to injure.");
+    "Soinu uhinak erabiltzen\n"
+    "dituen eraso ozena.");
 
 static const u8 sPoisonFangDescription[] = _(
-    "A sharp-fanged attack.\n"
-    "May badly poison the foe.");
+    "Letagin zorrotzekin erasotzen du.\n"
+    "Etsaia larri pozoindu dezake.");
 
 static const u8 sCrushClawDescription[] = _(
-    "Tears at the foe with sharp\n"
-    "claws. May lower DEFENSE.");
+    "Atzapar zorrotzekin erasotzen\n"
+    "du. DEFENTSA jaitsi dezake.");
 
 static const u8 sBlastBurnDescription[] = _(
-    "Powerful, but leaves the\n"
-    "user immobile the next turn.");
+    "Indartsua, baina mugitu ezinik\n"
+    "uzten du bat hurrengo txandan.");
 
 static const u8 sHydroCannonDescription[] = _(
-    "Powerful, but leaves the\n"
-    "user immobile the next turn.");
+    "Indartsua, baina mugitu ezinik\n"
+    "uzten du bat hurrengo txandan.");
 
 static const u8 sMeteorMashDescription[] = _(
-    "Fires a meteor-like punch.\n"
-    "May raise ATTACK.");
+    "Meteoro lako ukabilkada.\n"
+    "ERASOA igo dezake.");
 
 static const u8 sAstonishDescription[] = _(
-    "An attack that may shock\n"
-    "the foe into flinching.");
+    "Etsaia harrituz, atzera\n"
+    "eginarazi diezaioke.");
 
 static const u8 sWeatherBallDescription[] = _(
-    "The move's type and power\n"
-    "change with the weather.");
+    "Mota eta indarra eguraldiaren\n"
+    "arabera aldatzen da.");
 
 static const u8 sAromatherapyDescription[] = _(
-    "Heals all status problems\n"
-    "with a soothing scent.");
+    "Lurrin gozoarekin egoera\n"
+    "guztiak sendatzen ditu.");
 
 static const u8 sFakeTearsDescription[] = _(
-    "Feigns crying to sharply\n"
-    "lower the foe's SP. DEF.");
+    "Negar faltsuarekin etsaiaren\n"
+    "SP. DEF. BER. jaisten du");
 
 static const u8 sAirCutterDescription[] = _(
-    "Hacks with razorlike wind.\n"
-    "High critical-hit ratio.");
+    "Haize zorrotza botatzen du.\n"
+    "Kolpe kritikoa izateko aukera altua.");
 
 static const u8 sOverheatDescription[] = _(
-    "Allows a full-power attack,\n"
-    "but sharply lowers SP. ATK.");
+    "Indar osoz erasotzen du, baina\n"
+    "asko jaisten du ER. BER.");
 
 static const u8 sOdorSleuthDescription[] = _(
-    "Negates the foe's efforts\n"
-    "to heighten evasiveness.");
+    "Ez dio etsaiari uzten\n"
+    "saihestea igotzen.");
 
 static const u8 sRockTombDescription[] = _(
-    "Stops the foe from moving\n"
-    "with rocks and cuts SPEED.");
+    "Ez dio uzten etsaiari mugitzen\n"
+    "arrokekin, ABIADURA jaitsiz.");
 
 static const u8 sSilverWindDescription[] = _(
-    "A powdery attack that may\n"
-    "raise abilities.");
+    "Estatistika guztiak igo\n"
+    "ditzakeen hauts erasoa.");
 
 static const u8 sMetalSoundDescription[] = _(
-    "Emits a horrible screech\n"
-    "that sharply lowers SP. DEF.");
+    "DEF. BER: asko jaisten duen\n"
+    "karranka desatsegina.");
 
 static const u8 sGrassWhistleDescription[] = _(
-    "Lulls the foe into sleep\n"
-    "with a pleasant melody.");
+    "Etsaia lokartzen du\n"
+    "melodia eder batekin.");
 
 static const u8 sTickleDescription[] = _(
-    "Makes the foe laugh to\n"
-    "lower ATTACK and DEFENSE.");
+    "Etsaiari barre eginaraziz\n"
+    "ERASOA eta DEFENTSA jaisten ditu.");
 
 static const u8 sCosmicPowerDescription[] = _(
-    "Raises DEFENSE and SP. DEF\n"
-    "with a mystic power.");
+    "DEFENTSA eta DEF. BER. igotzen\n"
+    "ditu botere mistiko batekin.");
 
 static const u8 sWaterSpoutDescription[] = _(
-    "Inflicts more damage if the\n"
-    "user's HP is high.");
+    "Norberak zenbat eta BP gehiago,\n"
+    "orduan eta min handiagoa.");
 
 static const u8 sSignalBeamDescription[] = _(
-    "A strange beam attack that\n"
-    "may confuse the foe.");
+    "Etsaia nahastu dezakeen\n"
+    "izpi bitxia.");
 
 static const u8 sShadowPunchDescription[] = _(
-    "An unavoidable punch that\n"
-    "is thrown from shadows.");
+    "Itzaletatik jaurtizen den\n"
+    "ukabilkada saihesgaitza.");
 
 static const u8 sExtrasensoryDescription[] = _(
-    "Attacks with a peculiar\n"
-    "power. May cause flinching.");
+    "Botere arrarodun erasoa.\n"
+    "Atzera eginarazi dezake.");
 
 static const u8 sSkyUppercutDescription[] = _(
-    "An uppercut thrown as if\n"
-    "leaping into the sky.");
+    "Zeruraka ematen den\n"
+    "gantxo bortitza.");
 
 static const u8 sSandTombDescription[] = _(
-    "Traps and hurts the foe in\n"
-    "quicksand for 2 to 5 turns.");
+    "Etsaia ur harea mugikorretan\n"
+    "harrapatzen du 2-5 txandatan.");
 
 static const u8 sSheerColdDescription[] = _(
-    "A chilling attack that\n"
-    "causes fainting if it hits.");
+    "Jotzekotan etsaia indargabetzen\n"
+    "duen eraso izoztua.");
 
 static const u8 sMuddyWaterDescription[] = _(
-    "Attacks with muddy water.\n"
-    "May lower accuracy.");
+    "Ur lokaztuarekin erasotzen du.\n"
+    "Zehaztasuna jaitsi dezake.");
 
 static const u8 sBulletSeedDescription[] = _(
-    "Shoots 2 to 5 seeds in a row\n"
-    "to strike the foe.");
+    "Haziekin jotzen du\n"
+    "etsaia, 2-5 aldiz.");
 
 static const u8 sAerialAceDescription[] = _(
-    "An extremely speedy and\n"
-    "unavoidable attack.");
+    "Eraso oso azkar eta\n"
+    "saihesgaitza.");
 
 static const u8 sIcicleSpearDescription[] = _(
-    "Attacks the foe by firing\n"
-    "2 to 5 icicles in a row.");
+    "Izotz burruntziak jaurtizen\n"
+    "dizkio etsaiari, 2-5 aldiz.");
 
 static const u8 sIronDefenseDescription[] = _(
-    "Hardens the body's surface\n"
-    "to sharply raise DEFENSE.");
+    "gorputz azala gogortzen du\n"
+    "DEFENTSA asko igotzeko.");
 
 static const u8 sBlockDescription[] = _(
-    "Blocks the foe's way to\n"
-    "prevent escape.");
+    "Etsaiaren aurrean jartzen\n"
+    "da, ez dezan ihes egin.");
 
 static const u8 sHowlDescription[] = _(
-    "Howls to raise the spirit\n"
-    "and boosts ATTACK.");
+    "Ulu egiten du indarra hartu\n"
+    "eta ERASOA igotzeko.");
 
 static const u8 sDragonClawDescription[] = _(
-    "Slashes the foe with sharp\n"
-    "claws.");
+    "Atzapar zorrotzekin kolpatzen\n"
+    "du etsaia.");
 
 static const u8 sFrenzyPlantDescription[] = _(
-    "Powerful, but leaves the\n"
-    "user immobile the next turn.");
+    "Indartsua, baina mugitu ezinik\n"
+    "uzten du bat hurrengo txandan.");º
 
 static const u8 sBulkUpDescription[] = _(
-    "Bulks up the body to boost\n"
-    "both ATTACK and DEFENSE.");
+    "Gorputza indartzen du\n"
+    "ERASOA eta DEFENTSA igotzeko.");
 
 static const u8 sBounceDescription[] = _(
-    "Bounces up, then down the\n"
-    "next turn. May paralyze.");
+    "Botea ematen du, hurrengo txandan\n"
+    "jotzeko. Garalizatu egin dezake.");
 
 static const u8 sMudShotDescription[] = _(
-    "Hurls mud at the foe and\n"
-    "reduces SPEED.");
+    "Lokatza botatzen dio etsaiari\n"
+    "ABIADURA jaisteko.");
 
 static const u8 sPoisonTailDescription[] = _(
-    "Has a high critical-hit\n"
-    "ratio. May also poison.");
+    "Kolpe kritikoa izateko aukera altua.\n"
+    "Pozoindu egin dezake..");
 
 static const u8 sCovetDescription[] = _(
-    "Cutely begs to obtain an\n"
-    "item held by the foe.");
+    "Era jatorrean eskatzen dio\n"
+    "itema etsaiari.");
 
 static const u8 sVoltTackleDescription[] = _(
-    "A life-risking tackle that\n"
-    "slightly hurts the user.");
+    "Norberari ere min egiten\n"
+    "dion oldarketa arriskutsua.");
 
 static const u8 sMagicalLeafDescription[] = _(
-    "Attacks with a strange leaf\n"
-    "that cannot be evaded.");
+    "Saihestu ezin diren orri\n"
+    "magikoekin egiten du eraso.");
 
 static const u8 sWaterSportDescription[] = _(
-    "The user becomes soaked to\n"
-    "raise resistance to fire.");
+    "Blai egiten du erabiltzailea\n"
+    "suari eraginkortasuna jaisteko.");
 
 static const u8 sCalmMindDescription[] = _(
-    "Raises SP. ATK and SP. DEF\n"
-    "by focusing the mind.");
+    "ER. BER. eta DEF. BER. igotzen\n"
+    "ditu adimena bideratuz.");
 
 static const u8 sLeafBladeDescription[] = _(
-    "Slashes with a sharp leaf.\n"
-    "High critical-hit ratio.");
+    "Orri zorrotz batekin ebakitzen du.\n"
+    "Kolpe kritikoa izateko aukera altua.");
 
 static const u8 sDragonDanceDescription[] = _(
-    "A mystical dance that ups\n"
-    "ATTACK and SPEED.");
+    "ERASOA eta ABIADURA igotzen\n"
+    "dituen dantza mistikoa.");
 
 static const u8 sRockBlastDescription[] = _(
-    "Hurls boulders at the foe\n"
-    "2 to 5 times in a row.");
+    "Harriak botatzen dizkio\n"
+    "etsaiari, 2-5 aldiz.");
 
 static const u8 sShockWaveDescription[] = _(
-    "A fast and unavoidable\n"
-    "electric attack.");
+    "Eraso elektriko azkar\n"
+    "eta saihestezina.");
 
 static const u8 sWaterPulseDescription[] = _(
-    "Attacks with ultrasonic\n"
-    "waves. May confuse the foe.");
+    "Uhin ultrasonikoekin erasotzen\n"
+    "du. Etsaia nahastu dezake.");
 
 static const u8 sDoomDesireDescription[] = _(
-    "Summons strong sunlight to\n"
-    "attack 2 turns later.");
+    "Eguzki izpiak sortzen ditu\n"
+    "2 txanda geroago erasotzeko.");
 
 static const u8 sPsychoBoostDescription[] = _(
-    "Allows a full-power attack,\n"
-    "but sharply lowers SP. ATK.");
+    "Indar guztiz erasotzen du,\n"
+    "baina asko jaisten du ER. BER..");
 
 // MOVE_NONE is ignored in this table. Make sure to always subtract 1 before getting the right pointer.
 const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =
