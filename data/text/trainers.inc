@@ -81,78 +81,78 @@ Route103_Text_DaisyPostBattle:
 	.string "da lurrinak erabiliz.$"
 
 Route103_Text_AmyIntro:
-	.string "AMY: AMY naiz.\n"
-	.string "Hau nire ahizpa txikia da, LIV.\l"
+	.string "AMAIA: AMAIA naiz.\n"
+	.string "Hau nire ahizpa txikia da, LIBE.\l"
 	.string "Batera egiten dugu borroka!$"
 
 Route103_Text_AmyDefeated:
-	.string "AMY: Ene bada, galdu egin dugu.$"
+	.string "AMAIA: Ene bada, galdu egin dugu.$"
 
 Route103_Text_AmyPostBattle:
-	.string "AMY: Mila gauza eduki behar\n"
+	.string "AMAIA: Mila gauza eduki behar\n"
 	.string "dituzu buruan bi ENTRENATZAILEREN\l"
 	.string "kontra borrokatzerakoan.$"
 
 Route103_Text_AmyNotEnoughPokemon:
-	.string "AMY: Ene, POKéMON bakarra daukazu\n"
+	.string "AMAIA: Ene, POKéMON bakarra daukazu\n"
 	.string "aldean orain.\l"
 	.string "Horrela ezin duzu gurekin borrokatu.$"
 
 Route103_Text_LivIntro:
-	.string "LIV: Biok batera borrokatzen\n"
+	.string "LIBE: Biok batera borrokatzen\n"
 	.string "dugu, taldean.$"
 
 Route103_Text_LivDefeated:
-	.string "LIV: Ene, galdu egin dugu, ahizpa…$"
+	.string "LIBE: Ene, galdu egin dugu, ahizpa…$"
 
 Route103_Text_LivPostBattle:
-	.string "LIV: Bikain egiten dugu lan batera,\n"
+	.string "LIBE: Bikain egiten dugu lan batera,\n"
 	.string "nik eta nire ahizpak…\p"
 	.string "Baina hala ere galdu egin dugu…$"
 
 Route103_Text_AmyLivRegister:
-	.string "LIV: Berez, askoz hobeak gara…\n"
+	.string "LIBE: Berez, askoz hobeak gara…\n"
 	.string "Benetan! Ikusiko duzu hurrengoan!$"
 
 Route103_Text_LivNotEnoughPokemon:
-	.string "LIV: Gure aurka borrokatzekotan,\n"
+	.string "LIBE: Gure aurka borrokatzekotan,\n"
 	.string "bi POKéMON behar dituzu!\l"
 	.string "Beztela ez da bidezko borroka izango!$"
 
 Route103_Text_AmyRematchIntro:
-	.string "AMY: AMY naiz.\n"
+	.string "AMAIA: AMY naiz.\n"
 	.string "Hau nire ahizpa txikia da, LIV.\l"
 	.string "Batera egiten dugu borroka!$"
 
 Route103_Text_AmyRematchDefeated:
-	.string "AMY: O, buuu!\n"
+	.string "AMAIA: O, buuu!\n"
 	.string "Ezin izan dugu irabazi…$"
 
 Route103_Text_AmyRematchPostBattle:
-	.string "AMY: Mila gauza eduki behar\n"
+	.string "AMAIA: Mila gauza eduki behar\n"
 	.string "dituzu buruan bi ENTRENATZAILEREN\l"
 	.string "kontra borrokatzerakoan.$"
 
 Route103_Text_AmyRematchNotEnoughPokemon:
-	.string "AMY: Ene, POKéMON bakarra daukazu\n"
+	.string "AMAIA: Ene, POKéMON bakarra daukazu\n"
 	.string "aldean orain.\l"
 	.string "Horrela ezin duzu gurekin borrokatu.$"
 
 Route103_Text_LivRematchIntro:
-	.string "LIV: Biok batera borrokatzen\n"
+	.string "LIBE: Biok batera borrokatzen\n"
 	.string "dugu, taldean.$"
 
 Route103_Text_LivRematchDefeated:
-	.string "LIV: Ene, berriz galdu dugu…\n"
+	.string "LIBE: Ene, berriz galdu dugu…\n"
 	.string "Ahizpa…$"
 
 Route103_Text_LivRematchPostBattle:
-	.string "LIV: Bikain egiten dugu lan batera,\n"
+	.string "LIBE: Bikain egiten dugu lan batera,\n"
 	.string "nik eta nire ahizpak…\p"
 	.string "Zergatik galdu dugu, orduan?$"
 
 Route103_Text_LivRematchNotEnoughPokemon:
-	.string "LIV: Gure aurka borrokatzekotan,\n"
+	.string "LIBE: Gure aurka borrokatzekotan,\n"
 	.string "bi POKéMON behar dituzu!\l"
 	.string "Beztela ez da bidezko borroka izango!$"
 
