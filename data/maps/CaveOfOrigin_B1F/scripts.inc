@@ -3,7 +3,7 @@
 CaveOfOrigin_B1F_MapScripts::
 	.byte 0
 
-CaveOfOrigin_B1F_EventScript_Wallace::
+CaveOfOrigin_B1F_EventScript_UREDER::
 	lock
 	faceplayer
 	msgbox CaveOfOrigin_B1F_Text_WallaceStory, MSGBOX_DEFAULT
@@ -62,59 +62,59 @@ CaveOfOrigin_B1F_EventScript_AtSkyPillar::
 	end
 
 CaveOfOrigin_B1F_Text_WallaceStory:
-	.string "Ah, so you are {PLAYER}{KUN}?\n"
-	.string "I've heard tales of your exploits.\p"
-	.string "My name is WALLACE.\p"
-	.string "I was once the GYM LEADER of\n"
-	.string "SOOTOPOLIS, but something came up.\p"
-	.string "So now, I've entrusted my mentor JUAN\n"
-	.string "with the GYM's operation.\p"
+	.string "Zu zara beraz {PLAYER}{KUN}?\n"
+	.string "Ezagun ditut zure abenturak.\p"
+	.string "Nire izena UREDER da.\p"
+	.string "ARREZIPOLISEKO GIMNASIOKO LIDERRA\n"
+	.string "nintzen, baina zerbait gertatu zen.\p"
+	.string "Orain, nire irakasle XALANT\n"
+	.string "geratu da GIMNASIOA zaintzen.\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "GROUDON and KYOGRE, the two POKéMON\n"
-	.string "wreaking havoc here, are considered\l"
-	.string "to be super-ancient POKéMON.\p"
-	.string "But there aren't just two super-\n"
-	.string "ancient POKéMON.\p"
-	.string "There is one more somewhere.\p"
-	.string "Somewhere, there is a super-\n"
-	.string "ancient POKéMON named RAYQUAZA.\p"
-	.string "It's said that it was RAYQUAZA that\n"
-	.string "becalmed the two combatants in\l"
-	.string "the distant past.\p"
-	.string "But even I have no clue as to\n"
-	.string "RAYQUAZA's whereabouts…$"
+	.string "GROUDON eta KYOGRE, sarraskia sortzen\n"
+	.string "ari diren bi POKéMONAK, antzina-\l"
+	.string "antzinako POKéMONAK dira.\p"
+	.string "Baina ez daude bi antzinako\n"
+	.string "POKéMON soilik.\p"
+	.string "Beste bat dago hor nonbait.\p"
+	.string "Lekuren batean, oso antzinako\n"
+	.string "POKéMON bat dago, RAYQUAZA.\p"
+	.string "Elezaharrak dio RAYQUAZA izan\n"
+	.string "zela borrokan dauden biak lasaitu\l"
+	.string "zituena, aspaldian.\p"
+	.string "Baina RAYQUAZA non dagoen, hori\n"
+	.string "nik ere ez dakit…$"
 
 CaveOfOrigin_B1F_Text_WhereIsRayquaza:
-	.string "WALLACE: {PLAYER}{KUN}, do you perhaps\n"
-	.string "know where RAYQUAZA is now?\p"
-	.string "If you do, please tell me.$"
+	.string "UREDER: {PLAYER}{KUN}, ba al dakizu\n"
+	.string "non dagoen orain RAYQUAZA?\p"
+	.string "Hala bada, esan, mesedez.$"
 
 CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin:
-	.string "WALLACE: The CAVE OF ORIGIN?\p"
-	.string "But that's right here!\n"
-	.string "I need you to do better than that!\p"
-	.string "Please, I need you to think about\n"
-	.string "where RAYQUAZA might be right now.$"
+	.string "UREDER: HASIERA KOBAZULOAN?\p"
+	.string "Hementxe bertan dago eta!\n"
+	.string "Hori baino gehiago behar dut!\p"
+	.string "Mesedez, pentsatu ondo non egon\n"
+	.string "daiteken RAYQUAZA oraintxe bertan.$"
 
 CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat:
-	.string "WALLACE: MT. PYRE?\p"
-	.string "But when I met the old lady there\n"
-	.string "earlier, she made no mention of it.\p"
-	.string "I very much doubt that the old lady\n"
-	.string "would try to hide something from me…\p"
-	.string "{PLAYER}{KUN}, could you think about this\n"
-	.string "more carefully for me?$"
+	.string "UREDER: PIRO MENDIAN?\p"
+	.string "Baina horko emakume helduarekin hitz\n"
+	.string "egin dudanean, ez du halakorik aipatu.\p"
+	.string "Ez dut uste emakumean ezer ezkutatuko\n"
+	.string "lidakeenik, zinez…\p"
+	.string "{PLAYER}{KUN}, pentsa dezakezu kontuz\n"
+	.string "non egon daitekeen?$"
 
 CaveOfOrigin_B1F_Text_CantYouRememberSomehow:
-	.string "WALLACE: Huh? You don't remember?\n"
-	.string "Hmm… That's a problem…\p"
-	.string "Can't you remember somehow?$"
+	.string "UREDER: Zer? Ez zarela gogoratzen?\n"
+	.string "Hmm… Hori arazo latza da…\p"
+	.string "Ezin duzu inolaz ere gogoratu?$"
 
 CaveOfOrigin_B1F_Text_WellHeadToSkyPillar:
-	.string "WALLACE: The SKY PILLAR?\p"
-	.string "That's it!\n"
-	.string "It must be the SKY PILLAR!\p"
-	.string "{PLAYER}{KUN}, there's not a moment to lose!\n"
-	.string "We'll head to the SKY PILLAR right away!$"
+	.string "UREDER: ZERUAREN ZUTABEAN?\p"
+	.string "Hori da!\n"
+	.string "ZERUAREN ZUTABEAN egongo da, ziur!\p"
+	.string "{PLAYER}{KUN}, ez dezagun denbora gal!\n"
+	.string "ZERUAREN ZUTABERA joango gara oraintxe!$"
 
