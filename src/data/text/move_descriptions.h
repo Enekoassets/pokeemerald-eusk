@@ -450,8 +450,8 @@ static const u8 sBarrierDescription[] = _(
     "barrera bat ipintzen du.");
 
 static const u8 sLightScreenDescription[] = _(
-    "ER.BER. mina jaisten duen argi\n"
-    "pantaila bat ipintzen du.");
+    "ER.BER.en mina jaisten duen\n"
+    "argi pantaila bat ipintzen du.");
 
 static const u8 sHazeDescription[] = _(
     "Estatistika aldaketa guztiak\n"
@@ -726,7 +726,7 @@ static const u8 sPowderSnowDescription[] = _(
     "botatzen dio. Izoztu egin dezake.");
 
 static const u8 sProtectDescription[] = _(
-    "Erasotik babesten da, baina huts\n"
+    "Mina ezeztatzen du, baina huts\n"
     "egin dezake jarraian erabilita.");
 
 static const u8 sMachPunchDescription[] = _(
@@ -786,7 +786,7 @@ static const u8 sIcyWindDescription[] = _(
     "duen haize izoztua.");
 
 static const u8 sDetectDescription[] = _(
-    "Erasotik babesten da, baina huts\n"
+    "Mina ezeztatzen du, baina huts\n"
     "egin dezake jarraian erabilita.");
 
 static const u8 sBoneRushDescription[] = _(
