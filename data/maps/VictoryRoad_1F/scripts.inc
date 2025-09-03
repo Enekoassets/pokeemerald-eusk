@@ -121,100 +121,101 @@ VictoryRoad_1F_EventScript_Katelynn::
 	end
 
 VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
-	.string "WALLY: Hi! {PLAYER}!\p"
-	.string "I bet you're surprised to see me here!\p"
-	.string "I made it all the way here, and it's\n"
-	.string "all thanks to you!\p"
-	.string "{PLAYER}, losing to you that time\n"
-	.string "made me stronger!\p"
-	.string "But I'm not going to lose anymore!\p"
-	.string "I'm going to win! For the POKéMON who\n"
-	.string "gave me courage and strength!\p"
-	.string "Okay… Here I come!$"
+	.string "EKAITZ: Kaixo! {PLAYER}!\p"
+	.string "Harritu egingo zinen ni hemen ikusita!\p"
+	.string "Honaino iritsi naiz, eta guztia zuri\n"
+	.string "esker izan da!\p"
+	.string "{PLAYER}, zure aurka galdu izanak\n"
+	.string "asko indartu nau!\p"
+	.string "Baina ez dut gehiago galduko!\p"
+	.string "Irabazi egingo dut! Niri indarra eta\n"
+	.string "adorea eman zidaten POKéMONENGATIK!\p"
+	.string "Ongi… Has gaitezen!$"
 
 VictoryRoad_1F_Text_WallyEntranceDefeat:
-	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.string "Uau!\n"
+	.string "{PLAYER}, indartsua zara, gero!$"
 
 VictoryRoad_1F_Text_WallyPostEntranceBattle:
-	.string "WALLY: I couldn't beat you today,\n"
-	.string "{PLAYER}, but one of these days, I'll\l"
-	.string "catch up to you!$"
+	.string "EKAITZ: Gaur ez dizut irabazi,\n"
+	.string "{PLAYER}, baina egunen batean,\l"
+	.string "harrapatu egingo zaitut!$"
 
 VictoryRoad_1F_Text_WallyIntro:
-	.string "WALLY: Hi! {PLAYER}!\p"
-	.string "I've gotten stronger since that last\n"
-	.string "time! I wanted to show you, {PLAYER}!\p"
-	.string "Okay… Here I come!$"
+	.string "EKAITZ: Kaixo! {PLAYER}!\p"
+	.string "Azkenengotik indartu egin naiz!\n"
+	.string "Erakutsi egin nahi nizuke, {PLAYER}!\p"
+	.string "Ongi… Has gaitezen!$"
 
 VictoryRoad_1F_Text_WallyDefeat:
-	.string "Wow!\n"
-	.string "{PLAYER}, you are strong, after all!$"
+	.string "Uau!\n"
+	.string "{PLAYER}, indartsua zara, gero!$"
+
 
 VictoryRoad_1F_Text_WallyPostBattle:
-	.string "WALLY: I couldn't beat you this time,\n"
-	.string "too… But one of these days, {PLAYER},\l"
-	.string "I'm going to catch up to you…\p"
-	.string "And challenge the POKéMON LEAGUE!$"
+	.string "EKAITZ: Gaur ez dizut irabazi,\n"
+	.string "{PLAYER}, baina egunen batean,\l"
+	.string "harrapatu egingo zaitut…\p"
+	.string "Eta POKéMON LIGARA aurkeztuko naiz!$"
 
 VictoryRoad_1F_Text_EdgarIntro:
-	.string "I've made it this far a couple times,\n"
-	.string "but the last stretch is so long…$"
+	.string "Pare bat aldiz iritsi naiz honaino,\n"
+	.string "baina azken txanpa oso gogorra da…$"
 
 VictoryRoad_1F_Text_EdgarDefeat:
-	.string "My dream ends here again…$"
+	.string "Hemen bukatzen da nire ametsa berriro…$"
 
 VictoryRoad_1F_Text_EdgarPostBattle:
-	.string "You've made it this far. Keep the\n"
-	.string "momentum going and become the\l"
-	.string "CHAMPION! If anyone can, it's you!$"
+	.string "Honaino iritsi zara. Segi horrela\n"
+	.string "eta bilakatu zaitez TXAPELDUN!\l"
+	.string "Norbait gai bada, zu zara!$"
 
 VictoryRoad_1F_Text_AlbertIntro:
-	.string "I didn't come all this way to lose now.\n"
-	.string "That possibility doesn't exist!$"
+	.string "Ez naiz honaino iritsi orain galtzeko.\n"
+	.string "Hori guztiz ezinezkoa da!$"
 
 VictoryRoad_1F_Text_AlbertDefeat:
-	.string "Impossible…\n"
-	.string "I lost?$"
+	.string "Ezinezkoa…\n"
+	.string "Galdu egin al dut?$"
 
 VictoryRoad_1F_Text_AlbertPostBattle:
-	.string "I lost here…\p"
-	.string "That means I lack the qualifications\n"
-	.string "to become the CHAMPION…$"
+	.string "Galdu egin dut…\p"
+	.string "Horrek esan nahi du ez daukadala\n"
+	.string "TXAPELDUN izateko behar dena…$"
 
 VictoryRoad_1F_Text_HopeIntro:
-	.string "This seemingly infinite and harsh road\n"
-	.string "lives up to its name of VICTORY.$"
+	.string "Bide gogor eta itxuraz amaitezin honek\n"
+	.string "zeozerrengatik du GARAIPEN izenean.$"
 
 VictoryRoad_1F_Text_HopeDefeat:
-	.string "Your battle style is fantastic…$"
+	.string "Zure borroka estiloa izugarria da…$"
 
 VictoryRoad_1F_Text_HopePostBattle:
-	.string "You seem to have the potential for\n"
-	.string "becoming the CHAMPION.$"
+	.string "TXAPELDUN bihurtzeko behar\n"
+	.string "dena duzula dirudi.$"
 
 VictoryRoad_1F_Text_QuincyIntro:
-	.string "What is the VICTORY ROAD?\n"
-	.string "I'll tell you if you win!$"
+	.string "Zer da GARAIPENAREN BIDEA?\n"
+	.string "Esango dizut irabazten baduzu!$"
 
 VictoryRoad_1F_Text_QuincyDefeat:
-	.string "Okay!\n"
-	.string "Well done!$"
+	.string "Ongi!\n"
+	.string "Ondo jokatuta!$"
 
 VictoryRoad_1F_Text_QuincyPostBattle:
-	.string "Getting through here safely--that's\n"
-	.string "the final test for any TRAINER aiming\l"
-	.string "to become the POKéMON CHAMPION.\p"
-	.string "That's why it's called the VICTORY\n"
-	.string "ROAD.$"
+	.string "Hemendik seguru igarotzea; hori da\n"
+	.string "POKéMON TXAPELDUNA izan nahi duen\l"
+	.string "edozein ENTRENATZAILEREN azken erronka.\p"
+	.string "Horregatik du izena GARAIPENAREN\n"
+	.string "BIDEA.$"
 
 VictoryRoad_1F_Text_KatelynnIntro:
-	.string "I have nothing to say to anyone\n"
-	.string "that's come this far. Come on!$"
+	.string "Ez daukat ezer esateko honaino\n"
+	.string "iritsi den norbaiti. Aurrera!$"
 
 VictoryRoad_1F_Text_KatelynnDefeat:
-	.string "This is a disgrace…$"
+	.string "A zer ezbeharra…$"
 
 VictoryRoad_1F_Text_KatelynnPostBattle:
-	.string "Humph, go right on ahead.\n"
-	.string "See if I care.$"
+	.string "Pf, aurrera, segi bada.\n"
+	.string "Ez zait axola.$"

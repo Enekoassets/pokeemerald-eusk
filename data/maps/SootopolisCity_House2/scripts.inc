@@ -19,16 +19,16 @@ SootopolisCity_House2_EventScript_DontKnowAboutOrbs::
 	return
 
 SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
-	.string "MT. PYRE…\p"
-	.string "At its peak are two orbs placed side\n"
-	.string "by side. Did you know?$"
+	.string "PIRO MENDIA…\p"
+	.string "Tontorrean bi orbe daude, bata\n"
+	.string "bestearen ondoan jarrita. Bazenekien?$"
 
 SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
-	.string "Yes, two orbs side by side…\p"
-	.string "The sight of them together…\n"
-	.string "It is somehow soothing…$"
+	.string "Bai, bi orbe elkarren ondoan…\p"
+	.string "Biak batera ikustea…\n"
+	.string "Lasaigarria da, nolabait…$"
 
 SootopolisCity_House2_Text_OughtToVisitAndSee:
-	.string "Is that so?\n"
-	.string "Perhaps you ought to visit and see…$"
+	.string "Hala al da?\n"
+	.string "Agian bisitatu eta ikusi behar zenuke…$"
 

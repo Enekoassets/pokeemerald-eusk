@@ -130,7 +130,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_101",
-      "name": "101. ERRUTA",
+      "name": "ERRUTA: 101",
       "x": 4,
       "y": 10,
       "width": 1,
@@ -138,7 +138,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_102",
-      "name": "102. ERRUTA",
+      "name": "ERRUTA: 102",
       "x": 2,
       "y": 9,
       "width": 2,
@@ -146,7 +146,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_103",
-      "name": "103. ERRUTA",
+      "name": "ERRUTA: 103",
       "x": 4,
       "y": 8,
       "width": 4,
@@ -154,7 +154,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_104",
-      "name": "104. ERRUTA",
+      "name": "ERRUTA: 104",
       "x": 0,
       "y": 7,
       "width": 1,
@@ -162,7 +162,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_105",
-      "name": "105. ERRUTA",
+      "name": "ERRUTA: 105",
       "x": 0,
       "y": 10,
       "width": 1,
@@ -170,7 +170,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_106",
-      "name": "106. ERRUTA",
+      "name": "ERRUTA: 106",
       "x": 0,
       "y": 13,
       "width": 2,
@@ -178,7 +178,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_107",
-      "name": "107. ERRUTA",
+      "name": "ERRUTA: 107",
       "x": 3,
       "y": 14,
       "width": 3,
@@ -186,7 +186,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_108",
-      "name": "108. ERRUTA",
+      "name": "ERRUTA: 108",
       "x": 6,
       "y": 14,
       "width": 2,
@@ -194,7 +194,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_109",
-      "name": "109. ERRUTA",
+      "name": "ERRUTA: 109",
       "x": 8,
       "y": 12,
       "width": 1,
@@ -202,7 +202,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_110",
-      "name": "110. ERRUTA",
+      "name": "ERRUTA: 110",
       "x": 8,
       "y": 7,
       "width": 1,
@@ -210,7 +210,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_111",
-      "name": "111. ERRUTA",
+      "name": "ERRUTA: 111",
       "x": 8,
       "y": 0,
       "width": 1,
@@ -218,7 +218,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_112",
-      "name": "112. ERRUTA",
+      "name": "ERRUTA: 112",
       "x": 6,
       "y": 3,
       "width": 2,
@@ -226,7 +226,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_113",
-      "name": "113. ERRUTA",
+      "name": "ERRUTA: 113",
       "x": 4,
       "y": 0,
       "width": 4,
@@ -234,7 +234,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_114",
-      "name": "114. ERRUTA",
+      "name": "ERRUTA: 114",
       "x": 1,
       "y": 0,
       "width": 2,
@@ -242,7 +242,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_115",
-      "name": "115. ERRUTA",
+      "name": "ERRUTA: 115",
       "x": 0,
       "y": 2,
       "width": 1,
@@ -250,7 +250,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_116",
-      "name": "116. ERRUTA",
+      "name": "ERRUTA: 116",
       "x": 1,
       "y": 5,
       "width": 4,
@@ -258,7 +258,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_117",
-      "name": "117. ERRUTA",
+      "name": "ERRUTA: 117",
       "x": 5,
       "y": 6,
       "width": 3,
@@ -266,7 +266,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_118",
-      "name": "118. ERRUTA",
+      "name": "ERRUTA: 118",
       "x": 10,
       "y": 6,
       "width": 2,
@@ -274,7 +274,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_119",
-      "name": "119. ERRUTA",
+      "name": "ERRUTA: 119",
       "x": 11,
       "y": 0,
       "width": 1,
@@ -282,7 +282,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_120",
-      "name": "120. ERRUTA",
+      "name": "ERRUTA: 120",
       "x": 13,
       "y": 0,
       "width": 1,
@@ -290,7 +290,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_121",
-      "name": "121. ERRUTA",
+      "name": "ERRUTA: 121",
       "x": 14,
       "y": 3,
       "width": 4,
@@ -298,7 +298,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_122",
-      "name": "122. ERRUTA",
+      "name": "ERRUTA: 122",
       "x": 16,
       "y": 4,
       "width": 1,
@@ -306,7 +306,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_123",
-      "name": "123. ERRUTA",
+      "name": "ERRUTA: 123",
       "x": 12,
       "y": 6,
       "width": 5,
@@ -314,7 +314,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_124",
-      "name": "124. ERRUTA",
+      "name": "ERRUTA: 124",
       "x": 20,
       "y": 3,
       "width": 4,
@@ -322,7 +322,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_125",
-      "name": "125. ERRUTA",
+      "name": "ERRUTA: 125",
       "x": 24,
       "y": 3,
       "width": 2,
@@ -330,7 +330,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_126",
-      "name": "126. ERRUTA",
+      "name": "ERRUTA: 126",
       "x": 20,
       "y": 6,
       "width": 3,
@@ -338,7 +338,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_127",
-      "name": "127. ERRUTA",
+      "name": "ERRUTA: 127",
       "x": 23,
       "y": 6,
       "width": 3,
@@ -346,7 +346,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_128",
-      "name": "128. ERRUTA",
+      "name": "ERRUTA: 128",
       "x": 23,
       "y": 9,
       "width": 4,
@@ -354,7 +354,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_129",
-      "name": "129. ERRUTA",
+      "name": "ERRUTA: 129",
       "x": 24,
       "y": 10,
       "width": 2,
@@ -362,7 +362,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_130",
-      "name": "130. ERRUTA",
+      "name": "ERRUTA: 130",
       "x": 21,
       "y": 10,
       "width": 3,
@@ -370,7 +370,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_131",
-      "name": "131. ERRUTA",
+      "name": "ERRUTA: 131",
       "x": 18,
       "y": 10,
       "width": 3,
@@ -378,7 +378,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_132",
-      "name": "132. ERRUTA",
+      "name": "ERRUTA: 132",
       "x": 15,
       "y": 10,
       "width": 2,
@@ -386,7 +386,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_133",
-      "name": "133. ERRUTA",
+      "name": "ERRUTA: 133",
       "x": 12,
       "y": 10,
       "width": 3,
@@ -394,7 +394,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_134",
-      "name": "134. ERRUTA",
+      "name": "ERRUTA: 134",
       "x": 9,
       "y": 10,
       "width": 3,
@@ -795,7 +795,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_4_POKECENTER",
-      "name": "4. ERRUTA",
+      "name": "ERRUTA: 4",
       "name_clone": true,
       "x": 0,
       "y": 0,
@@ -804,7 +804,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_10_POKECENTER",
-      "name": "10. ERRUTA",
+      "name": "ERRUTA: 10",
       "name_clone": true,
       "x": 0,
       "y": 0,
@@ -813,7 +813,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_1",
-      "name": "1. ERRUTA",
+      "name": "ERRUTA: 1",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -821,7 +821,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_2",
-      "name": "2. ERRUTA",
+      "name": "ERRUTA: 2",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -829,7 +829,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_3",
-      "name": "3. ERRUTA",
+      "name": "ERRUTA: 3",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -837,7 +837,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_4",
-      "name": "4. ERRUTA",
+      "name": "ERRUTA: 4",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -845,7 +845,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_5",
-      "name": "5. ERRUTA",
+      "name": "ERRUTA: 5",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -853,7 +853,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_6",
-      "name": "6. ERRUTA",
+      "name": "ERRUTA: 6",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -861,7 +861,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_7",
-      "name": "7. ERRUTA",
+      "name": "ERRUTA: 7",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -869,7 +869,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_8",
-      "name": "8. ERRUTA",
+      "name": "ERRUTA: 8",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -877,7 +877,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_9",
-      "name": "9. ERRUTA",
+      "name": "ERRUTA: 9",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -885,7 +885,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_10",
-      "name": "10. ERRUTA",
+      "name": "ERRUTA: 10",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -893,7 +893,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_11",
-      "name": "11. ERRUTA",
+      "name": "ERRUTA: 11",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -901,7 +901,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_12",
-      "name": "12. ERRUTA",
+      "name": "ERRUTA: 12",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -909,7 +909,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_13",
-      "name": "13. ERRUTA",
+      "name": "ERRUTA: 13",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -917,7 +917,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_14",
-      "name": "14. ERRUTA",
+      "name": "ERRUTA: 14",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -925,7 +925,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_15",
-      "name": "15. ERRUTA",
+      "name": "ERRUTA: 15",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -933,7 +933,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_16",
-      "name": "16. ERRUTA",
+      "name": "ERRUTA: 16",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -941,7 +941,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_17",
-      "name": "17. ERRUTA",
+      "name": "ERRUTA: 17",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -949,7 +949,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_18",
-      "name": "18. ERRUTA",
+      "name": "ERRUTA: 18",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -957,7 +957,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_19",
-      "name": "19. ERRUTA",
+      "name": "ERRUTA: 19",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -965,7 +965,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_20",
-      "name": "20. ERRUTA",
+      "name": "ERRUTA: 20",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -973,7 +973,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_21",
-      "name": "21. ERRUTA",
+      "name": "ERRUTA: 21",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -981,7 +981,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_22",
-      "name": "22. ERRUTA",
+      "name": "ERRUTA: 22",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -989,7 +989,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_23",
-      "name": "23. ERRUTA",
+      "name": "ERRUTA: 23",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -997,7 +997,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_24",
-      "name": "24. ERRUTA",
+      "name": "ERRUTA: 24",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -1005,7 +1005,7 @@
     },
     {
       "map_section": "MAPSEC_ROUTE_25",
-      "name": "25. ERRUTA",
+      "name": "ERRUTA: 25",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -1248,7 +1248,7 @@
     },
     {
       "map_section": "MAPSEC_SEVII_ISLE_6",
-      "name": "6. ZAZPII IRLA",
+      "name": "ZAZPII IRLA: 6",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -1256,7 +1256,7 @@
     },
     {
       "map_section": "MAPSEC_SEVII_ISLE_7",
-      "name": "7. ZAZPII IRLA",
+      "name": "ZAZPII IRLA: 7",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -1264,7 +1264,7 @@
     },
     {
       "map_section": "MAPSEC_SEVII_ISLE_8",
-      "name": "8. ZAZPII IRLA",
+      "name": "ZAZPII IRLA: 8",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -1272,7 +1272,7 @@
     },
     {
       "map_section": "MAPSEC_SEVII_ISLE_9",
-      "name": "9. ZAZPII IRLA",
+      "name": "ZAZPII IRLA: 9",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -1376,7 +1376,7 @@
     },
     {
       "map_section": "MAPSEC_SEVII_ISLE_22",
-      "name": "22. ZAZPII IRLA",
+      "name": "ZAZPII IRLA: 22",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -1384,7 +1384,7 @@
     },
     {
       "map_section": "MAPSEC_SEVII_ISLE_23",
-      "name": "23. ZAZPII IRLA",
+      "name": "ZAZPII IRLA: 23",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -1392,7 +1392,7 @@
     },
     {
       "map_section": "MAPSEC_SEVII_ISLE_24",
-      "name": "24. ZAZPII IRLA",
+      "name": "ZAZPII IRLA: 24",
       "x": 0,
       "y": 0,
       "width": 1,

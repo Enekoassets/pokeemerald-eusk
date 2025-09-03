@@ -3,7 +3,7 @@
 CaveOfOrigin_B1F_MapScripts::
 	.byte 0
 
-CaveOfOrigin_B1F_EventScript_UREDER::
+CaveOfOrigin_B1F_EventScript_Wallace::
 	lock
 	faceplayer
 	msgbox CaveOfOrigin_B1F_Text_WallaceStory, MSGBOX_DEFAULT

@@ -54,33 +54,33 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	end
 
 AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-	.string "When we go out to sea, we SAILORS\n"
-	.string "always bring our POKéMON.\l"
-	.string "How about a quick battle?$"
+	.string "Itsasora goazenean, MARINELOK\n"
+	.string "beti ekartzen ditugu POKéMONAK.\l"
+	.string "Borrokatuko al dugu?$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
-	.string "Whoops, I'm sunk!$"
+	.string "Ups, hondoratu egin naiz!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-	.string "The ship's bottom has sunk into the\n"
-	.string "depths.\p"
-	.string "If a POKéMON knew how to go underwater,\n"
-	.string "we might make some progress…$"
+	.string "Ontziaren beheko aldea itsas\n"
+	.string "hondora erori zen.\p"
+	.string "POKéMON batek ur azpira joan ahal\n"
+	.string "balu, agian zerbait lortuko genuke…$"
 
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
-	.string "Yay!\n"
-	.string "It's a ship!$"
+	.string "Bai!\n"
+	.string "Itsasontzi bat da!$"
 
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“STORAGE” is painted on the door.$"
+	.string "Atea itxita dago.\p"
+	.string "“BILTEGIA” jartzen du bertan.$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "{PLAYER} inserted and turned the\n"
-	.string "STORAGE KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.string "{PLAYER}(e)k BILTEGIKO GILTZA\n"
+	.string "sarrailan sartu eta buelta eman dio.\p"
+	.string "GILTZA azkar trabatu da,\n"
+	.string "baina atea ireki egin da.$"
 
 AbandonedShip_Text_TheDoorIsOpen:
-	.string "The door is open.$"
+	.string "Atea irekita dago.$"
 

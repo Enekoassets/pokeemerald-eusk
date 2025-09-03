@@ -1321,7 +1321,7 @@ gTVHoennTreasureInvestigatorsText02::
 	.string "aztertzea! Irakurri egingo dizuet.\p"
 	.string "…IKERTZAILE agurgarriak,\n"
 	.string "ondo zaudetela espero dut.\p"
-	.string "Duela gutxi {STR_VAR_2} ikusi nuen ferrian.\p"
+	.string "Duela gutxi {STR_VAR_2} ikusi nuen ferryan.\p"
 	.string "ENTRENATZAILEAK {STR_VAR_1} itema\n"
 	.string "aurkitu zuen. A zer inbidia.\p"
 	.string "…Beno, ondo egina, {STR_VAR_2}!\p"

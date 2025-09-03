@@ -63,113 +63,113 @@ SSTidalRooms_EventScript_Naomi::
 	end
 
 SSTidalRooms_Text_TakeRestOnBed:
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.string "Ohe bat da…\n"
+	.string "Har dezagun atseden.$"
 
 SSTidalRooms_Text_ColtonIntro:
-	.string "I often sail to LILYCOVE CITY.\p"
-	.string "I enjoy attending CONTESTS,\n"
-	.string "you see.$"
+	.string "Askotan joaten naiz UR-LILI HIRIRA.\p"
+	.string "TXAPELKETETARA joatea oso atsegin\n"
+	.string "dut, bazenekien?$"
 
 SSTidalRooms_Text_ColtonDefeat:
-	.string "That was an enjoyable match!$"
+	.string "Hori bai borroka dibertigarria!$"
 
 SSTidalRooms_Text_ColtonPostBattle:
-	.string "I get so excited imagining what kinds\n"
-	.string "of POKéMON I'll get to see in the next\l"
-	.string "CONTEST. The anticipation of it thrills!$"
+	.string "Pozik jartzen naiz hurrengo TXAPELKETAN\n"
+	.string "zein POKéMON egongo diren imajinatzen.\l"
+	.string "Imajinatze horrek zirrara sortzen dit!$"
 
 SSTidalRooms_Text_MicahIntro:
-	.string "Are your friends strong?$"
+	.string "Indartsuak al dira zure lagunak?$"
 
 SSTidalRooms_Text_MicahDefeat:
-	.string "Your friends are, indeed, strong.$"
+	.string "Indartsuak dira, alajaina.$"
 
 SSTidalRooms_Text_MicahPostBattle:
-	.string "Friends need not be human.\n"
-	.string "For me, POKéMON are treasured friends!$"
+	.string "Lagunek ez dute zertan gizakiak izan.\n"
+	.string "Niretzat, POKéMONAK lagun bikainak dira!$"
 
 SSTidalRooms_Text_ThomasIntro:
-	.string "Child…\n"
-	.string "Did you knock on the door?$"
+	.string "Gazte…\n"
+	.string "Atea jo al duzu?$"
 
 SSTidalRooms_Text_ThomasDefeat:
-	.string "A loss is to be accepted without haste\n"
-	.string "or panic.$"
+	.string "Porrota onartu egin behar da,\n"
+	.string "izurik eta urduritasunik gabe.$"
 
 SSTidalRooms_Text_ThomasPostBattle:
-	.string "To be never ruffled in any situation is\n"
-	.string "the GENTLEMAN's code of conduct.$"
+	.string "Inoiz ere ez haserretzea JAUN baten\n"
+	.string "portaeraren parte da.$"
 
 SSTidalRooms_Text_JedIntro:
-	.string "JED: I feel a little shy about this, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.string "EDGAR: Lotsa apur bat ematen dit honek, baina…\n"
+	.string "gure maitasun indarra erakutsiko dizugu!$"
 
 SSTidalRooms_Text_JedDefeat:
-	.string "JED: Sigh…$"
+	.string "EDGAR: Ene…$"
 
 SSTidalRooms_Text_JedPostBattle:
-	.string "JED: It's the first time that our lovey-\n"
-	.string "dovey power couldn't prevail!\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "EDGAR: Lehen aldia da gure maitasun\n"
+	.string "indarrak norbait garaitu ez duena!\l"
+	.string "ENTRENATZAILE bikaina izango zara!$"
 
 SSTidalRooms_Text_JedNotEnoughMons:
-	.string "JED: You only have one POKéMON?\n"
-	.string "Isn't that just too lonesome?$"
+	.string "EDGAR: POKéMON bakarra al duzu?\n"
+	.string "Ez al da bakartia hori?$"
 
 SSTidalRooms_Text_LeaIntro:
-	.string "LEA: I feel a little silly, but…\n"
-	.string "We'll show you our lovey-dovey power!$"
+	.string "LEA: Lotsa apur bat ematen dit honek, baina…\n"
+	.string "gure maitasun indarra erakutsiko dizugu!$"
 
 SSTidalRooms_Text_LeaDefeat:
-	.string "LEA: Oh, boo!$"
+	.string "LEA: Ai, ez!$"
 
 SSTidalRooms_Text_LeaPostBattle:
-	.string "LEA: I can't believe it!\n"
-	.string "Our lovey-dovey power failed…\l"
-	.string "You must be an awesome TRAINER!$"
+	.string "LEA: Ezin dut sinetsi!\n"
+	.string "Gure maitasun indarrak porrot egin du…\l"
+	.string "ENTRENATZAILE bikaina izango zara!$"
 
 SSTidalRooms_Text_LeaNotEnoughMons:
-	.string "LEA: I wanted to battle…\n"
-	.string "But you don't even have two POKéMON…$"
+	.string "LEA: Borrokatu nahi nuen…\n"
+	.string "Baina ez dituzu bi POKéMON ere…$"
 
 SSTidalRooms_Text_GarretIntro:
-	.string "Ah, you've come just in time.\p"
-	.string "I'm bored, you see.\n"
-	.string "You may entertain me.$"
+	.string "Ei, une egokian iritsi zara.\p"
+	.string "Aspertuta nago.\n"
+	.string "Zuk entretenituko nauzu.$"
 
 SSTidalRooms_Text_GarretDefeat:
-	.string "…That will do.$"
+	.string "…Hori nahikoa izan da.$"
 
 SSTidalRooms_Text_GarretPostBattle:
-	.string "Perhaps I shall get Father to acquire\n"
-	.string "a yacht for me.\l"
-	.string "A yacht for me and POKéMON!$"
+	.string "Agian Aitari niretzako yate bat\n"
+	.string "erosteko eskatuko diot.\l"
+	.string "Ni eta nire POKéMONENTZAKO yatea!$"
 
 SSTidalRooms_Text_NaomiIntro:
-	.string "Oh, you're such an adorable TRAINER.\n"
-	.string "Would you like to have tea?\l"
-	.string "Or would you rather battle?$"
+	.string "Zu bai zu ENTRENATZAILE maitagarria.\n"
+	.string "Terik nahi al duzu?\l"
+	.string "Edo nahiago duzu borrokatu?$"
 
 SSTidalRooms_Text_NaomiDefeat:
-	.string "I see.\n"
-	.string "You're the active sort.$"
+	.string "Ikusten dut, bai.\n"
+	.string "Aktiboa zara, gero.$"
 
 SSTidalRooms_Text_NaomiPostBattle:
-	.string "A world cruise on a luxury liner has its\n"
-	.string "charms, I must say…\p"
-	.string "But, I will admit there is an appealing\n"
-	.string "side to touring HOENN by ferry.$"
+	.string "Luxuzko gurutzaontzi batean bidaiatzea\n"
+	.string "ederra da, dudarik gabe…\p"
+	.string "Baina, esango nuke HOENN ferrian\n"
+	.string "ikusteak bere xarma duela.$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:
-	.string "Uh… Hi! I… I'm not acting suspicious!\n"
-	.string "Uh… You can have this! For free!\p"
-	.string "It… Honestly, I didn't SNATCH it from\n"
-	.string "someone! I'd never do such a thing!\l"
-	.string "It's clean! You can use it!$"
+	.string "Em… Kaixo! Ni… Ez nabil azpikeriatan!\n"
+	.string "Em… Tori hau, zuretzat! Doan!\p"
+	.string "Nik… Egia esan ez diot inori LAPURTU!\n"
+	.string "Ez nuke inolaz ere hori egingo!\l"
+	.string "Benetan! Erabili dezakezu!$"
 
 SSTidalRooms_Text_ExplainSnatch:
-	.string "SNATCH steals the beneficial effects\n"
-	.string "of certain moves before they can be\l"
-	.string "used by a foe or ally.$"
+	.string "LAPURRETAK eraso batzuen efektu\n"
+	.string "positiboak lapurtzen ditu, kide edo\l"
+	.string "etsai batek erabili aurretik.$"
 

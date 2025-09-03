@@ -46,27 +46,27 @@ SootopolisCity_PokemonCenter_1F_EventScript_WomanNoLegendaries::
 	end
 
 SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
-	.string "WALLACE is rumored to be the toughest\n"
-	.string "TRAINER in the whole HOENN region.\p"
-	.string "This town's GYM is led by the TRAINER\n"
-	.string "who taught WALLACE.\p"
-	.string "But the ELITE FOUR… They're said to be\n"
-	.string "even stronger than WALLACE's mentor.\p"
-	.string "How strong could they be?$"
+	.string "UREDER HOENN eskualde osoko\n"
+	.string "ENTRENATZAILE indartsuena da.\p"
+	.string "Herri honetako GIMNASIOAN UREDERREN\n"
+	.string "irakaslea izan zena da LIDERRA.\p"
+	.string "Baina ELITE LAUKOTEA… UREDERREN\n"
+	.string "irakaslea bera baino indartsuagoa da.\p"
+	.string "Norainokoa izango ote da haien indarra?$"
 
 SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
-	.string "Everyone in town has taken refuge\n"
-	.string "and won't come out of their homes.\p"
-	.string "Even I would rather not venture\n"
-	.string "outside.$"
+	.string "Mundu guztia beren etxeetan sartu\n"
+	.string "da eta ez direla aterako dirudi.\p"
+	.string "Nik ere nahiago nuke ez kanpora\n"
+	.string "atera.$"
 
 SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
-	.string "Whenever, wherever, and whatever\n"
-	.string "happens, I will always be friends with\l"
-	.string "POKéMON.\p"
-	.string "Because it's fun to be with POKéMON!$"
+	.string "Edonoiz, edonon eta edozer\n"
+	.string "gertatuta ere, beti izango naiz\l"
+	.string "POKéMONEN laguna.\p"
+	.string "POKéMONEKIN egotea bikaina delako!$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:
-	.string "Aren't POKéMON our friends?\p"
-	.string "Why are they going wild this way?$"
+	.string "Ez al dira POKéMONAK gure lagunak?\p"
+	.string "Zergatik ari dira basati jokatzen?$"
 

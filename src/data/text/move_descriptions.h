@@ -1351,7 +1351,7 @@ static const u8 sDragonClawDescription[] = _(
 
 static const u8 sFrenzyPlantDescription[] = _(
     "Indartsua, baina mugitu ezinik\n"
-    "uzten du bat hurrengo txandan.");º
+    "uzten du bat hurrengo txandan.");
 
 static const u8 sBulkUpDescription[] = _(
     "Gorputza indartzen du\n"

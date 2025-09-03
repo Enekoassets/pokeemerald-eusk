@@ -290,164 +290,164 @@ TrainerHill_Entrance_Pokemart_Expanded:
 	pokemartlistend
 
 TrainerHill_Entrance_Text_StillGettingReady:
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS.\p"
-	.string "Unfortunately, we're still getting\n"
-	.string "things ready. Please come back later!$"
+	.string "Hau ERRONKA MUINOA da, hainbat\n"
+	.string "ENTRENATZAILEREKIN borrokan gozatzeko\l"
+	.string "leku paregabea.\p"
+	.string "Hala ere, oraindik guztia prestatzen\n"
+	.string "ari gara. Itzuli beranduago!$"
 
 TrainerHill_Entrance_Text_WelcomeToTrainerHill:
-	.string "Welcome!\p"
-	.string "This is the TRAINER HILL where\n"
-	.string "you may enjoy tag battles with many\l"
-	.string "TRAINERS!$"
+	.string "Ongi etorri!\p"
+	.string "Hau ERRONKA MUINOA da, hainbat\n"
+	.string "ENTRENATZAILEREKIN borrokan gozatzeko\l"
+	.string "leku paregabea!$"
 
 TrainerHill_Entrance_Text_SaveGameBeforeEnter:
-	.string "Is this your first visit here?\p"
-	.string "Before you enter, please save\n"
-	.string "your game.$"
+	.string "Zure lehenengo aldia al da?\p"
+	.string "Sartu aurretik, gorde partida,\n"
+	.string "mesedez.$"
 
 TrainerHill_Entrance_Text_TrainersUpToFloorX:
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "Up to floor no. {STR_VAR_1}.$"
+	.string "Ikus dezagun…\n"
+	.string "Orain dauden ENTRENATZAILEAK…\p"
+	.string "{STR_VAR_1}. solairuraino daude.$"
 
 TrainerHill_Entrance_Text_TrainersInEveryRoom:
-	.string "Let's see…\n"
-	.string "The TRAINERS here now are…\p"
-	.string "There appear to be TRAINERS gathered\n"
-	.string "in every room.$"
+	.string "Ikus dezagun…\n"
+	.string "Orain dauden ENTRENATZAILEAK…\p"
+	.string "Badirudi gela guztietan zehar\n"
+	.string "daudela ENTRENATZAILEAK.$"
 
 TrainerHill_Entrance_Text_LikeToChallengeTrainers:
-	.string "Would you like to challenge the\n"
-	.string "waiting TRAINERS?$"
+	.string "Nahi duzu itxaroten ari diren\n"
+	.string "ENTRENATZAILEEI erronka bota?$"
 
 TrainerHill_Entrance_Text_TimeProgessGetSetGo:
-	.string "I will time your progress.\n"
-	.string "Best of luck!\p"
-	.string "On your marks…\p"
-	.string "Get set…\p"
-	.string "Go!$"
+	.string "Zure denbora neurtuko dut.\n"
+	.string "Zorte on!\p"
+	.string "Adi…\p"
+	.string "Prest…\p"
+	.string "Aurrera!$"
 
 TrainerHill_Entrance_Text_PleaseVisitUsAgain:
-	.string "Please do visit us again!$"
+	.string "Etorri berriro, mesedez!$"
 
 TrainerHill_Entrance_Text_TooBadTremendousEffort:
-	.string "That was too bad.\p"
-	.string "I think you put in a tremendous\n"
-	.string "effort in your battling.\p"
-	.string "Please come back and try again!$"
+	.string "Pena izan da hori.\p"
+	.string "Izugarrizko esfortzua egin\n"
+	.string "duzu borrokan.\p"
+	.string "Etorri eta saiatu berriro, mesedez!$"
 
 TrainerHill_Entrance_Text_HopeYouGiveItYourBest:
-	.string "I hope you give it your best.$"
+	.string "Indar guztiz arituko zarela espero dut.$"
 
 TrainerHill_Entrance_Text_MovedReceptionHereForSwitch:
-	.string "When the TRAINERS switch places,\n"
-	.string "the movement can be hectic.\p"
-	.string "To avoid the stampede, we moved\n"
-	.string "the reception counter here.\p"
-	.string "I'm sorry for the inconvenience.$"
+	.string "ENTRENATZAILEAK lekuz aldatzen direnean,\n"
+	.string "mugimendua eromena izan daiteke.\p"
+	.string "Zapalduak ez izateko, harrera\n"
+	.string "gunea hona mugitu genuen.\p"
+	.string "Barkatu eragozpenak.$"
 
 TrainerHill_Entrance_Text_ThankYouForPlaying:
-	.string "Thank you for playing!$"
+	.string "Eskerrik asko jolasteagatik!$"
 
 TrainerHill_Entrance_Text_ExplainTrainerHill:
-	.string "Here at the TRAINER HILL, we conduct\n"
-	.string "an event called the Time Attack.\p"
-	.string "It is a race that measures how long\n"
-	.string "you take to reach our owner on\l"
-	.string "the rooftop from this counter.\p"
-	.string "The fastest times are posted on\n"
-	.string "the Time Board--try competing with\l"
-	.string "your friends.\p"
-	.string "In TRAINER battles along the way,\n"
-	.string "neither Exp. Points nor money will\l"
-	.string "be awarded.$"
+	.string "ERRONKA MUINPAN, Denbora Erasoa\n"
+	.string "deituriko ekitaldi bat egiten dugu.\p"
+	.string "Hemengo jaberaino iristen zenbat\n"
+	.string "denbora behar duzun neurtzen dugu,\l"
+	.string "hemendik hasi eta teilaturaino.\p"
+	.string "Denbora onenak Denbora Taulan\n"
+	.string "daude. Saiatu zure lagunekin\l"
+	.string "norgehiagokan egiten.\p"
+	.string "Bideko ENTRENATZAILE borroketan,\n"
+	.string "ez da esperientzia edo dirurik\l"
+	.string "lortzen.$"
 
 @ Unused
 TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon:
-	.string "Oh, I'm sorry, but you appear to have\n"
-	.string "only one POKéMON with you.\p"
-	.string "You will need at least two POKéMON\n"
-	.string "to enter this event.$"
+	.string "Ene, barkatu, baina badirudi POKéMON\n"
+	.string "bakarra daukazula taldean.\p"
+	.string "Gutxienez bi POKéMON behar\n"
+	.string "dituzu hemen parte hartzeko.$"
 
 TrainerHill_Roof_Text_YouFinallyCameBravo:
-	.string "Hm! Hm!\p"
-	.string "You finally came!\n"
-	.string "Yes, you have arrived!\p"
-	.string "Wait! Don't say it!\n"
-	.string "I know why you came all the way\l"
-	.string "here by yourself!\p"
-	.string "You wanted to see me, the owner\n"
-	.string "of the TRAINER HILL, because…\p"
-	.string "You want to form a tag team with me!\n"
-	.string "Wa-hoo!\p"
-	.string "…Uh?\n"
-	.string "That's not it?\p"
-	.string "Anyway, I watched you on your way up.\n"
-	.string "Marvelous battling! Bravo, indeed!$"
+	.string "Bai! Bai!\p"
+	.string "Azkenean etorri zara!\n"
+	.string "Bai, iritsi zara!\p"
+	.string "Itxaron! Ez esan ezer!\n"
+	.string "Badakit bide osoa bakarrik egin\l"
+	.string "duzula honaino!\p"
+	.string "Ni ikusi nahi ninduzun,\n"
+	.string "ERRONKA MUINOAREN jabea…\p"
+	.string "Nirekin taldea egiteko!\n"
+	.string "Jai jauna!\p"
+	.string "…Zer?\n"
+	.string "Ezetz diozu?\p"
+	.string "Berdin da, goraino iristen ikusi zaitut.\n"
+	.string "Borroka itzelak! Zorionak, aizu!$"
 
 TrainerHill_Roof_Text_HaveTheMostMarvelousGift:
-	.string "For a marvelous someone like you,\n"
-	.string "I have the most marvelous gift!$"
+	.string "Zu bezalako pertsona itzelak,\n"
+	.string "opari itzela merezi du!$"
 
 TrainerHill_Roof_Text_FullUpBeBackLaterForThis:
-	.string "Oh, no, full up with things!\n"
-	.string "You'll be back later for this!$"
+	.string "Ai ene, beteta zaude eta!\n"
+	.string "Itzuli gero honen bila!$"
 
 TrainerHill_Roof_Text_GotHereMarvelouslyQuickly:
-	.string "Oh, hold on here! Did you possibly get\n"
-	.string "here marvelously quickly?\p"
-	.string "How splendid! You needn't have\n"
-	.string "hurried so to see me!\p"
-	.string "That is so delightful. I'll have the Time\n"
-	.string "Board at the reception updated!$"
+	.string "Ei, itxaron! Nola iritsi zara hona\n"
+	.string "horren azkar, baina?\p"
+	.string "Sinesgaitza! Ez zenuen presarik\n"
+	.string "izan behar ni ikustera etortzeko!\p"
+	.string "Zirraragarria da. Harrera guneko\n"
+	.string "Denbora Taula eguneratuko dut!$"
 
 TrainerHill_Roof_Text_YouWerentVeryQuick:
-	.string "But, oh…\n"
-	.string "You weren't very quick getting here.$"
+	.string "Baina, beno…\n"
+	.string "Ez zara oso azkarra izan hona iristen.$"
 
 TrainerHill_Roof_Text_ArriveZippierNextTime:
-	.string "Perhaps it would please me more if you\n"
-	.string "arrived zippier next time.\p"
-	.string "Then, I should be pleased to form\n"
-	.string "a tag team with you!\p"
-	.string "Until we meet again, amigo!$"
+	.string "Agian hurrengoan azkarrago etorriko\n"
+	.string "bazina hobe litzateke.\p"
+	.string "Orduan, zurekin taldea egiteko\n"
+	.string "prest egongo nintzateke!\p"
+	.string "Ordura arte, lagun!$"
 
 @ Unused
 TrainerHill_Roof_Text_BuiltTrainerHillToFindPartner:
-	.string "I had the TRAINER HILL built for but\n"
-	.string "one reason and one only!\p"
-	.string "To find the most suitable partner\n"
-	.string "with whom I may form a tag team!$"
+	.string "ERRONKA MUINOA eraikitzeko arrazoi\n"
+	.string "bat eta bakarra nuen!\p"
+	.string "Talde bat osatzeko bikote\n"
+	.string "egokiena aurkitzea!$"
 
 TrainerHill_Entrance_Text_ChallengeTime:
-	.string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} sec.$"
+	.string "{STR_VAR_1} min. {STR_VAR_2}.{STR_VAR_3} seg.$"
 
 TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
-	.string "Who knows what sort of TRAINERS\n"
-	.string "and POKéMON combos are ahead?\p"
-	.string "All I know is that I'll knock aside\n"
-	.string "anyone that stands in my way!$"
+	.string "Nork jakin zein ENTRENATZAILE\n"
+	.string "eta POKéMON konbo dauden aurretik?\p"
+	.string "Nik dakidana da nire bidean dagoen\n"
+	.string "edonor garaituko dudala!$"
 
 TrainerHill_Entrance_Text_CantWaitToTestTheWaters:
-	.string "I heard tough TRAINERS come to this\n"
-	.string "TRAINER HILL from all over.\p"
-	.string "I can't wait to test the waters!\p"
-	.string "I'll knock aside anyone that stands\n"
-	.string "in my way!$"
+	.string "Entzun dut ENTRENATZAILE indartsuak\n"
+	.string "etorri ohi direla ERRONKA MUINORA.\p"
+	.string "Ezin dut itxaron haien aurka egiteko!\p"
+	.string "Nire bidean jartzen den\n"
+	.string "edonor garaituko dut!$"
 
 TrainerHill_Entrance_Text_FriendsTryingToReachTimeBoardTop:
-	.string "Do you see the Time Board over there?\p"
-	.string "My friends and I are trying to see who\n"
-	.string "can reach the top in the least time.$"
+	.string "Ikusten al duzu horko Denbora Taula?\p"
+	.string "Nire lagunak eta ni gora lehenago\n"
+	.string "nor iritsiko norgehiagokan ari gara.$"
 
 TrainerHill_Entrance_Text_DoYouKnowWhenTheyOpen:
-	.string "Do you know when they're opening\n"
-	.string "this place up?\p"
-	.string "I'm waiting here to be the first\n"
-	.string "challenger ever!$"
+	.string "Badakizu noiz ireki behar duten\n"
+	.string "leku hau?\p"
+	.string "Hemen itxaroten ari naiz, lehenengo\n"
+	.string "parte hartzailea izateko!$"
 
 TrainerHill_Elevator_Text_ReturnToReception:
-	.string "Would you like to return to\n"
-	.string "the reception counter?$"
+	.string "Nahi duzu harrera gunera\n"
+	.string "itzuli?$"

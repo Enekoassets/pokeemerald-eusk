@@ -63,41 +63,41 @@ VerdanturfTown_FriendshipRatersHouse_EventScript_Pikachu::
 	end
 
 VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
-	.string "Let me see your POKéMON.\n"
-	.string "I'll check to see how much it likes you.\p"
-	.string "Oh.\n"
-	.string "Your POKéMON…$"
+	.string "Utzi zure POKéMONAK ikusten.\n"
+	.string "Zenbat atsegin zaituen aztertuko dut.\p"
+	.string "Ene.\n"
+	.string "Zure POKéMONAK…$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
-	.string "It adores you.\n"
-	.string "It can't possibly love you any more.\l"
-	.string "I even feel happy seeing it.$"
+	.string "Izugarri maite zaitu.\n"
+	.string "Ezin zaitu gehiago maite.\l"
+	.string "Pozik jarri naiz bera ikusita soilik.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy:
-	.string "It seems to be very happy.\n"
-	.string "It obviously likes you a whole lot.$"
+	.string "Oso pozik dirudi.\n"
+	.string "Oso atsegin zaitu, dudarik gabe.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_LikesYouQuiteALot:
-	.string "It likes you quite a lot.\n"
-	.string "It seems to want to be babied a little.$"
+	.string "Nahikoa maite zaitu.\n"
+	.string "Haurtxo bat bezala zaintzea nahi du.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_GettingUsedToYou:
-	.string "It's getting used to you.\n"
-	.string "It seems to believe in you.$"
+	.string "Zugana ohitzen ari dela dio.\n"
+	.string "Zugan sinisten duela dirudi.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_NotUsedToYou:
-	.string "It's not very used to you yet.\n"
-	.string "It neither loves nor hates you.$"
+	.string "Ez dagoela zugana oso ohituta dio.\n"
+	.string "Ez zaitu ez maite ez gorroto.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryWary:
-	.string "It's very wary.\n"
-	.string "It has scary viciousness in its eyes.\l"
-	.string "It doesn't like you much at all.$"
+	.string "Kontuz ibiltzeko ohitura du.\n"
+	.string "Gaiztakeria beldugarria du begietan.\l"
+	.string "Ez zaitu oso gogoko.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou:
-	.string "This is a little hard for me to say…\p"
-	.string "Your POKéMON simply detests you.\n"
-	.string "Doesn't that make you uncomfortable?$"
+	.string "Hau ez da esateko erraza…\p"
+	.string "Zure POKéMONAK gorroto zaitu.\n"
+	.string "Ez al zaitu horrek deseroso sentiarazten?$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_Pikachu:
 	.string "PIKACHU: Pika pika!$"

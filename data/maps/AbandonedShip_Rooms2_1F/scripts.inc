@@ -50,100 +50,100 @@ AbandonedShip_Rooms2_1F_EventScript_Garrison::
 	end
 
 AbandonedShip_Rooms2_1F_Text_DanIntro:
-	.string "DAN: While searching for treasures,\n"
-	.string "we discovered a TRAINER!$"
+	.string "DANEL: Altxor bila ari eta\n"
+	.string "ENTRENATZAILE bat aurkitu!$"
 
 AbandonedShip_Rooms2_1F_Text_DanDefeat:
-	.string "DAN: We couldn't win even though\n"
-	.string "we worked together…$"
+	.string "DANEL: Batera lan eginda ere ezin\n"
+	.string "izan dugu irabazi…$"
 
 AbandonedShip_Rooms2_1F_Text_DanPostBattle:
-	.string "DAN: We can't find any treasures…\n"
-	.string "I wonder if someone got them already?$"
+	.string "DANEL: Ezin dugu altxorrik aurkitu…\n"
+	.string "Beste norbait etorri ote da lehenago?$"
 
 AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
-	.string "DAN: You don't even have two POKéMON.\n"
-	.string "You can't expect to beat us like that.$"
+	.string "DANEL: Ez dituzu bi POKéMON ere.\n"
+	.string "Horrela ezin diguzu erronka bota.$"
 
 AbandonedShip_Rooms2_1F_Text_KiraIntro:
-	.string "KIRA: Oh?\n"
-	.string "We were searching for treasures.\l"
-	.string "But we discovered a TRAINER instead!$"
+	.string "KIRA: Nola?\n"
+	.string "Altxor bila ari gara. Baina\l"
+	.string "ENTRENATZAILE bat aurkitu dugu!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraDefeat:
-	.string "KIRA: Ooh, so strong!$"
+	.string "KIRA: Uau, zeinen indartsua!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraPostBattle:
-	.string "KIRA: Where could the treasures be?\p"
-	.string "I've already decided what I'm buying\n"
-	.string "when we find the treasures!$"
+	.string "KIRA: Non ote daude altxorrak?\p"
+	.string "Jada erabaki dut zer erosiko dudan\n"
+	.string "altxorra aurkitzen dugunean!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons:
-	.string "KIRA: Oh, you don't have two POKéMON?\n"
-	.string "We'll have to battle some other time!$"
+	.string "KIRA: Zer, ez al dituzu bi POKéMON?\n"
+	.string "Beste batean borrokatu beharko dugu!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRegister:
-	.string "KIRA: Oh, you make me so angry!\n"
-	.string "I'm going to register you for that!$"
+	.string "KIRA: Oso haserre jarri nauzu!\n"
+	.string "Erregistratu egingo zaitut horregatik!$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchIntro:
-	.string "DAN: We've been searching for\n"
-	.string "treasures all this time.\p"
-	.string "Our POKéMON have grown stronger, too.\n"
-	.string "Let us show you, okay?$"
+	.string "DANEL: Altxor bila aritu\n"
+	.string "gara orain arte.\p"
+	.string "Gure POKéMONAK ere indartu egin dira.\n"
+	.string "Erakutsi egingo dizkizugu, bai?$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchDefeat:
-	.string "DAN: You're strong, as usual!$"
+	.string "DANEL: Beti bezain indartsu!$"
 
 AbandonedShip_Rooms2_1F_Text_DanPostRematch:
-	.string "DAN: We can't find any treasures,\n"
-	.string "we lose at POKéMON…\p"
-	.string "I want to go home… But if I say that,\n"
-	.string "she gets all angry with me…$"
+	.string "DANEL: Ez dugu altxorrik aurkitu,\n"
+	.string "POKéMON borrokan ere galdu…\p"
+	.string "Etxera joan nahi dut… Baina esaten\n"
+	.string "badiot, haserretu egiten zait…$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons:
-	.string "DAN: You don't even have two POKéMON.\n"
-	.string "You can't expect to beat us like that.$"
+	.string "DANEL: Ez dituzu bi POKéMON ere.\n"
+	.string "Horrela ezin diguzu erronka bota.$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchIntro:
-	.string "KIRA: Oh? We meet again!\p"
-	.string "Just like us, you still haven't given up\n"
-	.string "searching for treasures, have you?\p"
-	.string "Want to make it so the loser has\n"
-	.string "to give up searching?$"
+	.string "KIRA: Zer? Berriro etorri zara!\p"
+	.string "Gu bezalaq, zu ere altxor bila ari\n"
+	.string "zara oraindik, ez da hala?\p"
+	.string "Zer iruditzen galtzaileak altxor\n"
+	.string "bila aritzeari utzi behar badio?$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat:
-	.string "KIRA: Oh, we lost again…$"
+	.string "KIRA: Ene, berriz galdu dugu…$"
 
 AbandonedShip_Rooms2_1F_Text_KiraPostRematch:
-	.string "KIRA: We're not leaving until we raise\n"
-	.string "our POKéMON some more and we find\l"
-	.string "the treasures here!$"
+	.string "KIRA: Ez gara hemendik joango gure\n"
+	.string "POKéMONAK gehiago hazi eta hemengo\l"
+	.string "altxorrak aurkitu arte!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons:
-	.string "KIRA: Oh, you don't have two POKéMON?\n"
-	.string "We'll have to battle some other time!$"
+	.string "KIRA: Zer, ez al dituzu bi POKéMON?\n"
+	.string "Beste batean borrokatu beharko dugu!$"
 
 AbandonedShip_Rooms2_1F_Text_JaniIntro:
-	.string "I'm not good at swimming,\n"
-	.string "but I am good at battles!$"
+	.string "Ez naiz ona igerian,\n"
+	.string "baina bai borrokan!$"
 
 AbandonedShip_Rooms2_1F_Text_JaniDefeat:
-	.string "Oops.\n"
-	.string "That didn't go very well.$"
+	.string "Ups.\n"
+	.string "Ez da uste bezala atera hori.$"
 
 AbandonedShip_Rooms2_1F_Text_JaniPostBattle:
-	.string "Walking around barefoot in this ship\n"
-	.string "is kind of gross.$"
+	.string "Itsasontzi honetan oinutsik\n"
+	.string "ibiltzea nazkagarria da.$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonIntro:
-	.string "Strength and compassion…\n"
-	.string "Those are a TRAINER's treasures!$"
+	.string "Indarra eta errukia… Horiek dira\n"
+	.string "ENTRENATZAILE baten altxorrak!$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonDefeat:
-	.string "Ah, there is something about you\n"
-	.string "that sparkles.$"
+	.string "Bai, zugan dagoen zerbaitek\n"
+	.string "distira egiten du.$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonPostBattle:
-	.string "In a cabin somewhere on board,\n"
-	.string "I saw something sparkle.$"
+	.string "Ontziko gelaren batean, zerbait\n"
+	.string "distiratsua ikusi nuen.$"

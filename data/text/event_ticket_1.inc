@@ -1,12 +1,12 @@
 EventTicket_Text_ShowOldSeaMap:
-	.string "PORTUONDOra doan ferria…\p"
+	.string "PORTUONDOra doan ferrya…\p"
 	.string "Barkatu?\n"
 	.string "Mapako toki honetara joan al gaitezke?\p"
 	.string "Badakit nork lagundu diezazukeen.\n"
 	.string "Itxaron, mesedez.$"
 
 EventTicket_Text_ThatPass:
-	.string "PORTUONDOra doan ferria…\p"
+	.string "PORTUONDOra doan ferrya…\p"
 	.string "Nola?\n"
 	.string "TXARTEL hori…$"
 

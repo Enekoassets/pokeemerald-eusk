@@ -667,19 +667,19 @@ Route107_Text_BethPostBattle:
 	.string "zarela. Ni ere saiatuko naiz!$"
 
 Route107_Text_LisaIntro:
-	.string "MIREN: Neba-arreba gisan botako\n"
+	.string "LENA: Neba-arreba gisan botako\n"
 	.string "dizugu erronka!$"
 
 Route107_Text_LisaDefeated:
-	.string "MIREN: Bikain.\n"
+	.string "LENA: Bikain.\n"
 	.string "Zu beste maila batean zaude.$"
 
 Route107_Text_LisaPostBattle:
-	.string "MIREN: Ba al duzu lagunik haiekin\n"
+	.string "LENA: Ba al duzu lagunik haiekin\n"
 	.string "hondartzara joateko?$"
 
 Route107_Text_LisaNotEnoughPokemon:
-	.string "MIREN: Gure aurka borrokatzekotan\n"
+	.string "LENA: Gure aurka borrokatzekotan\n"
 	.string "POKéMON gehiago ekarri.$"
 
 Route107_Text_RayIntro:
@@ -2471,73 +2471,73 @@ Route117_Text_DerekPostBattle:
 	.string "deitzea.$"
 
 Route117_Text_AnnaIntro:
-	.string "IHINTZA: Nire ikaskide gaztearekin nago\n"
+	.string "ARAN: Nire ikaskide gaztearekin nago\n"
 	.string "orain. Ondo aritu behar dut!$"
 
 Route117_Text_AnnaDefeat:
-	.string "IHINTZA: Nire ikaskide gaztearekin nago\n"
+	.string "ARAN: Nire ikaskide gaztearekin nago\n"
 	.string "orain. Utzi irabazten!$"
 
 Route117_Text_AnnaPostBattle:
-	.string "IHINTZA: Zure POKéMONEK konbinazio\n"
+	.string "ARAN: Zure POKéMONEK konbinazio\n"
 	.string "itzelak dituzte.\p"
 	.string "Ia-ia gu baino hobea zara!$"
 
 Route117_Text_AnnaAndMegRegister:
-	.string "IHINTZA: Ezin dugu hau horrela utzi!\n"
+	.string "ARAN: Ezin dugu hau horrela utzi!\n"
 	.string "Bueltatuko zara, ezta?$"
 
 Route117_Text_AnnaNotEnoughMons:
-	.string "IHINTZA: Gure aurka borrokatzekotan,\n"
+	.string "ARAN: Gure aurka borrokatzekotan,\n"
 	.string "ekarri bi POKéMON, gutxienez.$"
 
 Route117_Text_MegIntro:
-	.string "MAITE: Nire ikaskide nagusiarekin\n"
+	.string "MIREN: Nire ikaskide nagusiarekin\n"
 	.string "batera egurra emango dizut!$"
 
 Route117_Text_MegDefeat:
-	.string "MAITE: Ai, ez!\n"
-	.string "Barkatu, IHINTZA! Ez dut itxura eman…$"
+	.string "MIREN: Ai, ez!\n"
+	.string "Barkatu, ARAN! Ez dut itxura eman…$"
 
 Route117_Text_MegPostBattle:
-	.string "MAITE: IHINTZAK galdu egin du nire erruz…\n"
+	.string "MIREN: ARANEK galdu egin du nire erruz…\n"
 	.string "Itxura eman banu, irabazi egingo zuen!$"
 
 Route117_Text_MegNotEnoughMons:
-	.string "MAITE: POKéMON bakarra al duzu?\n"
+	.string "MIREN: POKéMON bakarra al duzu?\n"
 	.string "Ezin dugu zure aurka borrokatu, orduan.\p"
 	.string "2 2ren aurka soilik egiten dugu borroka.$"
 
 Route117_Text_AnnaRematchIntro:
-	.string "IHINTZA: Ezin dut nire ikaskide gaztearen\n"
+	.string "ARAN: Ezin dut nire ikaskide gaztearen\n"
 	.string "alboan beti galdu, ezta?$"
 
 Route117_Text_AnnaRematchDefeat:
-	.string "IHINTZA: Ez dut erritmoa ondo harrapatu.$"
+	.string "ARAN: Ez dut erritmoa ondo harrapatu.$"
 
 Route117_Text_AnnaPostRematch:
-	.string "IHINTZA: Zure POKéMONEK konbinazio\n"
+	.string "ARAN: Zure POKéMONEK konbinazio\n"
 	.string "itzelak dituzte.\p"
 	.string "Ia-ia gu baino hobea zara!$"
 
 Route117_Text_AnnaRematchNotEnoughMons:
-	.string "IHINTZA: Gure aurka borrokatzekotan,\n"
+	.string "ARAN: Gure aurka borrokatzekotan,\n"
 	.string "ekarri bi POKéMON, gutxienez.$"
 
 Route117_Text_MegRematchIntro:
-	.string "MAITE: Nire ikaskide nagusiarekin\n"
+	.string "MIREN: Nire ikaskide nagusiarekin\n"
 	.string "batera irabaziko dizut orain!$"
 
 Route117_Text_MegRematchDefeat:
-	.string "MAITE: Indartsuegia zara!$"
+	.string "MIREN: Indartsuegia zara!$"
 
 Route117_Text_MegPostRematch:
-	.string "MAITE: Nire ikaskide nagusiarekin\n"
+	.string "MIREN: Nire ikaskide nagusiarekin\n"
 	.string "batera ere galdu egin dut…\p"
 	.string "Bai etsigarria…$"
 
 Route117_Text_MegRematchNotEnoughMons:
-	.string "MAITE: POKéMON bakarra al duzu?\n"
+	.string "MIREN: POKéMON bakarra al duzu?\n"
 	.string "Ezin dugu zure aurka borrokatu, orduan.\p"
 	.string "2 2ren aurka soilik egiten dugu borroka.$"
 
@@ -3212,18 +3212,18 @@ Route121_Text_KateNotEnoughMons:
 	.string "Bullyinga litzateke hori.$"
 
 Route121_Text_JoyIntro:
-	.string "ZORIONE: Elkarrekin beldurgaitzak gara!\n"
+	.string "ALI: Elkarrekin beldurgaitzak gara!\n"
 	.string "Gure indarra erakutsiko dizugu!$"
 
 Route121_Text_JoyDefeat:
-	.string "ZORIONE: Barkatu mesedez, IRATI!$"
+	.string "ALI: Barkatu mesedez, IRATI!$"
 
 Route121_Text_JoyPostBattle:
-	.string "ZORIONE: Ehehe, IRATIREKIN, nire ikaskide\n"
+	.string "ALI: Ehehe, IRATIREKIN, nire ikaskide\n"
 	.string "nagusiarekin, entrenatu beharko dut berriz.$"
 
 Route121_Text_JoyNotEnoughMons:
-	.string "ZORIONE: Gutxienez bi POKéMON behar\n"
+	.string "ALI: Gutxienez bi POKéMON behar\n"
 	.string "dituzu guri erronka botatzeko!$"
 
 Route121_Text_JessicaIntro:
@@ -3632,7 +3632,7 @@ Route124_Text_JennyPostBattle:
 	.string "izaera duela dirudi.$"
 
 Route124_Text_JennyRegister:
-	.string Kapritxo bat besterik ez da, baina\n"
+	.string "Kapritxo bat besterik ez da, baina\n"
 	.string "agian erregistratuko nauzu POKéNAVEAN.$"
 
 Route124_Text_JennyRematchIntro:

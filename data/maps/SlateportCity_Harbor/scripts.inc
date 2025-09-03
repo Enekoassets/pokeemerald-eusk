@@ -387,160 +387,160 @@ SlateportCity_Harbor_EventScript_TradedScanner::
 	end
 
 SlateportCity_Harbor_Text_FerryServiceUnavailable:
-	.string "I beg your pardon?\n"
-	.string "You're looking for a ship?\p"
-	.string "I'm sorry, the ferry service isn't\n"
-	.string "available at present…$"
+	.string "Barkatu?\n"
+	.string "Itsasontzi baten bila al zabiltza?\p"
+	.string "Sentitzen dut, baina ferry\n"
+	.string "zerbitzua ezin da orain erabili…$"
 
 SlateportCity_Harbor_Text_MayISeeYourTicket:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "Kaixo, ferryarengatik al zaude hemen?\n"
+	.string "Ikusi dezaket zure TICKETA?$"
 
 SlateportCity_Harbor_Text_YouMustHaveTicket:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.string "{PLAYER}(e)k ez dauka TIKETIK…\p"
+	.string "Benetan sentitzen dut.\p"
+	.string "Ferryra igotzeko TIKETA behar\n"
+	.string "duzu derrigor.$"
 
 SlateportCity_Harbor_Text_FlashedTicketWhereTo:
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.string "{PLAYER}(e)k TIKETA erakutsi du.\p"
+	.string "Bikain! Erabili dezakezu ferrya!\p"
+	.string "Eta nora joan nahi zenuke?$"
 
 SlateportCity_Harbor_Text_SailAnotherTime:
-	.string "Please sail with us another time!$"
+	.string "Nabigatu gurekin nahi duzunean!$"
 
 SlateportCity_Harbor_Text_LilycoveItIs:
-	.string "LILYCOVE CITY it is, then!$"
+	.string "UR-LILI HIRIRA, beraz!$"
 
 SlateportCity_Harbor_Text_BattleFrontierItIs:
-	.string "BATTLE FRONTIER it is, then!$"
+	.string "BORROKA FRONTERA, beraz!$"
 
 SlateportCity_Harbor_Text_PleaseBoardFerry:
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.string "Mesedez, igo ferryra eta itxaron\n"
+	.string "abiatu arte.$"
 
 SlateportCity_Harbor_Text_WhereWouldYouLikeToGo:
-	.string "Then, where would you like to go?$"
+	.string "Orduan, nora joan nahi zenuke?$"
 
 SlateportCity_Harbor_Text_LoveToGoDeepUnderwaterSomeday:
-	.string "A journey to the bottom of the sea…\n"
-	.string "I wonder what it'd be like?\p"
-	.string "I'd love to go deep underwater like\n"
-	.string "that someday.$"
+	.string "Bidaia bat itsas hondora…\n"
+	.string "Nolakoa izango ote litzateke?\p"
+	.string "Gustatuko litzaidake noizbait\n"
+	.string "halako bidaia bat egitea.$"
 
 SlateportCity_Harbor_Text_AbnormalWeather:
-	.string "For a ship to sail safely, we need to\n"
-	.string "know about the weather!\p"
-	.string "Speaking of weather, I heard something\n"
-	.string "from a guy at the WEATHER INSTITUTE.\p"
-	.string "He was saying abnormal weather has\n"
-	.string "been reported all over the place!\p"
-	.string "You should visit the WEATHER INSTITUTE\n"
-	.string "and ask around!$"
+	.string "Ontzia era seguruan ibili dadin,\n"
+	.string "ondo ezagutu behar dugu eguraldia!\p"
+	.string "Eguraldiaz ari garela, entzun EGURALDI\n"
+	.string "INSTITUTUKO tipo batek esan zidana.\p"
+	.string "Leku askotan eguraldi arraroak\n"
+	.string "izaten ari direla esan zuen!\p"
+	.string "EGURALDI INSTITUTURA joan behar zenuke,\n"
+	.string "zer gertatzen ari den galdetzeko!$"
 
 SlateportCity_Harbor_Text_SubTooSmallForMe:
-	.string "I wanted to go with CAPT. STERN on\n"
-	.string "the ocean floor exploration.\p"
-	.string "But the sub's too small for me.\p"
-	.string "If I squeezed in, there wouldn't be\n"
-	.string "any room for the CAPTAIN…$"
+	.string "Ozeanoaren hondora joan nahi\n"
+	.string "dut ABABOR KAPITAINAREKIN.\p"
+	.string "Baina ontzia txikiegia da niretzat.\p"
+	.string "Bultzaka sartuko banintz, ez litzateke\n"
+	.string "lekurik egongo KAPITAINARENTZAT…$"
 
 SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum:
-	.string "CAPT. STERN: Those thugs…\p"
-	.string "They're the same lot who tried to rob\n"
-	.string "the DEVON GOODS at the MUSEUM.$"
+	.string "ABABOR KAPT.: Jendaila hori…\p"
+	.string "MUSEOAN DEVON PIEZAK lapurtzen\n"
+	.string "saiatu ziren horiek dira.$"
 
 SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove:
-	.string "ARCHIE: Oh?\n"
-	.string "Not you again…\p"
-	.string "You are tenacious to track us here,\n"
-	.string "that much I will give you.\p"
-	.string "But now…\n"
-	.string "No one can stop us! No one!\p"
-	.string "Or, will you follow us back to our\n"
-	.string "HIDEOUT in LILYCOVE CITY?\p"
-	.string "Fwahahahaha…$"
+	.string "AKILES: Zer?\n"
+	.string "Zu berriro…\p"
+	.string "Adorea izan duzu guri honaino\n"
+	.string "jarraitzeko, esan beharra dut.\p"
+	.string "Baina orain…\n"
+	.string "Inork ez gaitu geldituko! Inork ez!\p"
+	.string "Edo, UR-LILIN daukagun EZKUTALEKURAINO\n"
+	.string "jarraituko al diguzu?\p"
+	.string "Kar-kar-kar…$"
 
 SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine:
-	.string "CAPT. STERN: Why…\p"
-	.string "Why would TEAM AQUA steal my\n"
-	.string "SUBMARINE EXPLORER 1?\p"
-	.string "They can't be after the slumbering\n"
-	.string "POKéMON at the bottom of the sea…\p"
-	.string "But even if I were to chase them,\n"
-	.string "I don't stand a chance against them…$"
+	.string "ABABOR KAPT.: Zergatik…\p"
+	.string "Zergatik lapurtu du AQUA TALDEAK\n"
+	.string "nire 1. URPEKO ESPLORATZAILEA?\p"
+	.string "Ez al dira itsas hondoan lo dauden\n"
+	.string "POKéMONEN bila arituko…\p"
+	.string "Baina beraien atzetik joango banintz\n"
+	.string "ere, ez nuke ezer egiteko aukerarik…$"
 
 SlateportCity_Harbor_Text_TeamAquaLeftNeedDive:
-	.string "CAPT. STERN: Oh, {PLAYER}{KUN}…\p"
-	.string "Okay… So TEAM AQUA left before you\n"
-	.string "could stop them…\p"
-	.string "Oh, no, don't blame yourself.\n"
-	.string "You're not responsible for this.\p"
-	.string "Trying to catch a submarine…\n"
-	.string "It's impossible for most people.\p"
-	.string "You would need a POKéMON that knows\n"
-	.string "how to DIVE…\p"
-	.string "Perhaps if you went out to\n"
-	.string "MOSSDEEP CITY…\p"
-	.string "A lot of divers live out there, so\n"
-	.string "someone might teach you…$"
+	.string "ABABOR KAPT.: Aizu, {PLAYER}{KUN}…\p"
+	.string "Ea… AQUA TALDEAK ihes egin du zuk\n"
+	.string "gelditzeko aukera izan aurretik…\p"
+	.string "Ene, ez, ez da zure errua.\n"
+	.string "Ez duzu honen erantzunkizunik.\p"
+	.string "Urpeko bat harrapatzea…\n"
+	.string "Ezinezkoa da jende gehienarentzat.\p"
+	.string "URPERATZEN dakien POKéMON\n"
+	.string "bat beharko zenuke…\p"
+	.string "Agian GOROLDI HIRIRA joango\n"
+	.string "bazina…\p"
+	.string "Urpekari asko bizi dira bertan,\n"
+	.string "agian erakutsiko dizute…$"
 
 SlateportCity_Harbor_Text_NeedDiveToCatchSub:
-	.string "CAPT. STERN: Trying to catch a\n"
-	.string "submarine… It's impossible.\p"
-	.string "You would need a POKéMON that knows\n"
-	.string "how to DIVE…\p"
-	.string "Perhaps if you went out to\n"
-	.string "MOSSDEEP CITY…\p"
-	.string "A lot of divers live out there, so\n"
-	.string "someone might teach you…$"
+	.string "ABABOR KAPT.: Urpeko bat harrapatzen\n"
+	.string "saiatzea… Ezinezkoa da.\p"
+	.string "URPERATZEN dakien POKéMON\n"
+	.string "bat beharko zenuke…\p"
+	.string "Agian GOROLDI HIRIRA joango\n"
+	.string "bazina…\p"
+	.string "Urpekari asko bizi dira bertan,\n"
+	.string "agian erakutsiko dizute…$"
 
 SlateportCity_Harbor_Text_WontBeLongBeforeWeFinishFerry:
-	.string "CAPT. STERN: Oh, yes.\n"
-	.string "MR. BRINEY came to our SHIPYARD.\p"
-	.string "It won't be long now before we finish\n"
-	.string "making the ferry!$"
+	.string "ABABOR KAPT.: Ah, bai.\n"
+	.string "SARDINZAR JN. etorri zen ONTZIDIRA.\p"
+	.string "Laister lortuko dugu ferrya\n"
+	.string "amaitzea!$"
 
 SlateportCity_Harbor_Text_FinishedMakingFerry:
-	.string "CAPT. STERN: {PLAYER}{KUN}!\p"
-	.string "We finally finished making the ferry\n"
-	.string "S.S. TIDAL!\p"
-	.string "We couldn't have done it without\n"
-	.string "your friend MR. BRINEY.\p"
-	.string "Please go for a short cruise on it!$"
+	.string "ABABOR KAPT.: {PLAYER}{KUN}!\p"
+	.string "Azkenean lortu dugu MAREA\n"
+	.string "ITSASONTZIA amaitzea!\p"
+	.string "Ez genuen lortuko zure lagun\n"
+	.string "SARDINZAR JAUNAREN laguntzarik gabe.\p"
+	.string "Egin bidaia labur bat bertan, mesedez!$"
 
 SlateportCity_Harbor_Text_WouldYouTradeScanner:
-	.string "CAPT. STERN: Oh?\n"
-	.string "{PLAYER}{KUN}, that item you have…\p"
-	.string "That's a SCANNER! That would sure\n"
-	.string "help us on our explorations.\p"
-	.string "{PLAYER}{KUN}, would you trade your\n"
-	.string "SCANNER for something?\p"
-	.string "Like, say, a DEEPSEATOOTH or\n"
-	.string "a DEEPSEASCALE that I have?$"
+	.string "ABABOR KAPT.: Nola?\n"
+	.string "{PLAYER}{KUN}, item hori…\p"
+	.string "ESKANER bat da! Asko lagunduko\n"
+	.string "liguke gure esplorazioetan.\p"
+	.string "{PLAYER}{KUN}, aldatuko zenidake\n"
+	.string "zure ESKANERRA zerbaiten truke?\p"
+	.string "Adibidez, ITSASLETAGIN edo\n"
+	.string "ITSASEZKATA baten truke?$"
 
 SlateportCity_Harbor_Text_IfYouWantToTradeLetMeKnow:
-	.string "CAPT. STERN: Are you certain?\n"
-	.string "It's useless to you, {PLAYER}{KUN}…\p"
-	.string "Well, okay, then. If you want to trade\n"
-	.string "your SCANNER, let me know.$"
+	.string "ABABOR KAPT.: Ziur al zaude?\n"
+	.string "Zuk ez duzu behar, {PLAYER}{KUN}…\p"
+	.string "Beno, ongi, orduan. Inoiz zure ESKANERRA\n"
+	.string "trukatu nahi baduzu, abisatu.$"
 
 SlateportCity_Harbor_Text_TradeForDeepSeaTooth:
-	.string "CAPT. STERN: So you'll trade it for\n"
-	.string "my DEEPSEATOOTH?$"
+	.string "ABABOR KAPT.: Orduan nire\n"
+	.string "ITSASLETAGINAREN truke nahi duzu?$"
 
 SlateportCity_Harbor_Text_TradeForDeepSeaScale:
-	.string "CAPT. STERN: So you'll trade it for\n"
-	.string "my DEEPSEASCALE?$"
+	.string "ABABOR KAPT.: Orduan nire\n"
+	.string "ITSASEZKATAREN truke nahi duzu?$"
 
 SlateportCity_Harbor_Text_WhichOneDoYouWant:
-	.string "CAPT. STERN: Which one do you want?$"
+	.string "ABABOR KAPT.: Zein nahi duzu?$"
 
 SlateportCity_Harbor_Text_HandedScannerToStern:
-	.string "{PLAYER} handed the SCANNER to\n"
-	.string "CAPT. STERN.$"
+	.string "{PLAYER}(e)k ESKANERRA eman dio\n"
+	.string "ABABOR KAPITAINARI.$"
 
 SlateportCity_Harbor_Text_ThisWillHelpResearch:
-	.string "CAPT. STERN: Thanks, {PLAYER}{KUN}!\n"
-	.string "This will help our research a lot!$"
+	.string "ABABOR KAPT.: Eskerrik asko, {PLAYER}{KUN}!\n"
+	.string "Asko lagunduko digu gure ikerketetan!$"

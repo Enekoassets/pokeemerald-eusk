@@ -494,146 +494,146 @@ BattleFrontier_BattleArenaBattleRoom_Movement_GretaWalkBackToCenter:
 	step_end
 
 BattleFrontier_BattleArenaBattleRoom_Text_PlayerStepForward:
-	.string "REFEREE: TRAINER {PLAYER}!\n"
-	.string "Step forward, please!$"
+	.string "EPAILEA: {PLAYER} ENTRENATZAILEA!\n"
+	.string "Pausu bat aurrera, mesedez!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_OpponentStepForward:
-	.string "REFEREE: TRAINER {STR_VAR_1}!\n"
-	.string "Step forward, please!$"
+	.string "EPAILEA: {STR_VAR_1} ENTRENATZAILEA!\n"
+	.string "Pausu bat aurrera, mesedez!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin:
-	.string "REFEREE: Set KO Tourney!\n"
-	.string "Begin!$"
+	.string "EPAILEA: KO Txapelketa!\n"
+	.string "Hasi!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer:
-	.string "REFEREE: The winner is {PLAYER}!$"
+	.string "EPAILEA: Irabazlea {PLAYER} da!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent:
-	.string "REFEREE: The winner is {STR_VAR_1}!$"
+	.string "EPAILEA: Irabazlea {STR_VAR_1} da!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored:
-	.string "Your POKéMON will be restored to\n"
-	.string "full health.$"
+	.string "Zure POKéMONAK guztiz\n"
+	.string "sendatuko ditugu.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "Next up, your second opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Hurrengoa, zure bigarren aurkaria!\n"
+	.string "Aurrera egiteko prest?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "Next up, your third opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Hurrengoa, zure hirugarren aurkaria!\n"
+	.string "Aurrera egiteko prest?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor4thOpponent:
-	.string "Next up, your fourth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Hurrengoa, zure laugarren aurkaria!\n"
+	.string "Aurrera egiteko prest?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor5thOpponent:
-	.string "Next up, your fifth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Hurrengoa, zure bostgarren aurkaria!\n"
+	.string "Aurrera egiteko prest?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor6thOpponent:
-	.string "Next up, your sixth opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Hurrengoa, zure seigarren aurkaria!\n"
+	.string "Aurrera egiteko prest?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Next up, your seventh opponent!\n"
-	.string "Are you ready to move on?$"
+	.string "Hurrengoa, zure zazpigarren aurkaria!\n"
+	.string "Aurrera egiteko prest?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown:
-	.string "Would you like to save the game and\n"
-	.string "shut down now?$"
+	.string "Partida gorde eta irten\n"
+	.string "nahi al duzu?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Set KO Tourney challenge?$"
+	.string "KO Txapelketatik irten eta\n"
+	.string "erretiratu nahi al duzu?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
-	.string "I am saving your game data.\n"
-	.string "Please wait.$"
+	.string "Zure partida gordetzen ari naiz.\n"
+	.string "Itxaron, mesedez.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RecordLastBattle:
-	.string "Would you like to record your last\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "Nahi al duzu azken borroka zure\n"
+	.string "FRONTE PASEAN grabatu?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_NowFaceTycoon:
-	.string "My dear challenger!\p"
-	.string "Your skill level is truly astounding!\p"
-	.string "We now would like you to face our\n"
-	.string "leader, the ARENA TYCOON!$"
+	.string "Partaide maitea!\p"
+	.string "Izugarrizko abilezia daukazu!\p"
+	.string "Orain, gure liderraren aurka borroka\n"
+	.string "egin behar duzu, ARENAKO LIDERRA!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon:
-	.string "A battle with the ARENA TYCOON!\n"
-	.string "Are you prepared?$"
+	.string "ARENAKO LIDERRAREN aurkako borroka!\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta:
-	.string "REFEREE: The ARENA TYCOON!\n"
-	.string "Make way for GRETA!$"
+	.string "EPAILEA: ARENAKO LIDERRA!\n"
+	.string "Egin leku GRETARI!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger:
-	.string "GRETA: Hey!\n"
-	.string "Howdy!\p"
-	.string "…Wait, are you the challenger?$"
+	.string "GRETA: Ei!\n"
+	.string "Aupa!\p"
+	.string "…Itxaron, zu al zara partaidea?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IsThatRight:
-	.string "Is that right? Hmm…\n"
+	.string "Benetan? Hmm…\n"
 	.string "Hmhm…$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy:
-	.string "I don't know how to say it, but…\n"
-	.string "To put it bluntly, you look pretty weak.\l"
-	.string "Are you sure you're up for me?\p"
+	.string "Ez dakit nola esan, baina…\n"
+	.string "Nahiko ahula dirudizu, egia esanda.\l"
+	.string "Ziru zaude nire aurka egin dezakezula?\p"
 	.string "Hmm…\p"
-	.string "Well, all right!\n"
-	.string "We'll take things easy to start with!$"
+	.string "Beno, ados!\n"
+	.string "Erraz arituko gara hasieran!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle:
-	.string "Okay! Let's see you ignite my passion\n"
-	.string "for battle!$"
+	.string "Ongi! Ea nire borrokarako pasioa\n"
+	.string "pizteko gai zaren!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
-	.string "GRETA: Ow, wait a second!\n"
-	.string "You are tough after all!\p"
-	.string "I like you!\n"
-	.string "Let's see your FRONTIER PASS.$"
+	.string "GRETA: Aizu, itxaron segundu bat!\n"
+	.string "Indartsua zara gero!\p"
+	.string "Gustuko zaitut!\n"
+	.string "Ikus dezagun zure FRONTE PASEA.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
-	.string "The Guts Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Ausardia Sinboloa grabatu da\n"
+	.string "FRONTE PASEAN!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
 	.string "Hmm…\p"
-	.string "It's going to be fun the next time!\n"
-	.string "I'm looking forward to it!$"
+	.string "Hurrengoan are dibertigarriagoa\n"
+	.string "izango da! Ea noiz itzultzen zaren!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain:
-	.string "GRETA: Hey! Howdy!\n"
-	.string "You finally won your way up to me!\p"
-	.string "I was getting worried waiting for you!\n"
-	.string "I was really looking forward to seeing\l"
-	.string "you again!$"
+	.string "GRETA: Ei! Aupa!\n"
+	.string "Iritsi zara niganaino azkenean!\p"
+	.string "Kezkatuta egon naiz zuri itxaroten!\n"
+	.string "Zu berriro ikusteko gogo\l"
+	.string "izugarria neukan!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady:
 	.string "… … …\n"
-	.string "So, are you ready?$"
+	.string "Zer, prest al zaude?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
-	.string "I won't allow a halfhearted effort!\n"
-	.string "Be ready for a thrashing!$"
+	.string "Indar guztiekin borrokatu beharko\n"
+	.string "duzu! Prestatu jipoi ederrerako!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
-	.string "Come on, REFEREE!\n"
-	.string "Let's get this started!$"
+	.string "Ea ba, EPAILE!\n"
+	.string "Has gaitezen, bada!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway:
-	.string "GRETA: Gaaah! Blown away!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "GRETA: Uauu! Sinestezina!\n"
+	.string "Ikus dezagun zure FRONTE PASEA!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
-	.string "The Guts Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Ausardia Sinboloak urre koloreko\n"
+	.string "distira egiten du orain!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IfWeBattleAgainWontLose:
 	.string "Arrrgh!\n"
-	.string "This is so infuriating!\p"
-	.string "If we ever battle again, I won't lose!\n"
-	.string "Don't you forget it! Bye-bye!$"
+	.string "A zer nolako amorrua!\p"
+	.string "Berriz borrokatzen badugu, ez dut\n"
+	.string "galduko! Ez ahaztu! Aio-aio!$"

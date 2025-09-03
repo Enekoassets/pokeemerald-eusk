@@ -272,47 +272,47 @@ BattleFrontier_BattleDomePreBattleRoom_Movement_PlayerEnterDoor:
 	step_end
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound1:
-	.string "Your 1st-round match is next.\n"
-	.string "Are you ready?$"
+	.string "Zure 1.txandako borroka da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound2:
-	.string "Your 2nd-round match is next.\n"
-	.string "Are you ready?$"
+	.string "Zure 2.txandako borroka da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForSemifinals:
-	.string "Your semifinal match is next.\n"
-	.string "Are you ready?$"
+	.string "Zure semifinaleko borroka da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals:
-	.string "Your final match is next.\n"
-	.string "Are you ready?$"
+	.string "Zure finaleko borroka da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons:
-	.string "Please choose the two POKéMON\n"
-	.string "that are to appear in battle.$"
+	.string "Mesedez, aukeratu borrokan\n"
+	.string "agertuko diren bi POKéMONAK.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please.$"
+	.string "Hemendik, mesedez.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth:
-	.string "Thank you for competing!\p"
-	.string "I'll restore your POKéMON to\n"
-	.string "full health.$"
+	.string "Eskerrik asko parte hartzeagatik!\p"
+	.string "Zure POKéMONAK guztiz sendatuko\n"
+	.string "ditut orain.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round1Complete:
-	.string "All 1st-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "1. txandako borroka guztiak\n"
+	.string "egin dira.\p"
+	.string "Talde hauek jarraituko dute aurrera!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round2Complete:
-	.string "All 2nd-round matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "2. txandako borroka guztiak\n"
+	.string "egin dira.\p"
+	.string "Talde hauek jarraituko dute aurrera!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SemifinalsComplete:
-	.string "All semifinal matches have been\n"
-	.string "completed.\p"
-	.string "These are the teams that advanced!$"
+	.string "Semifinaleko borroka guztiak\n"
+	.string "egin dira.\p"
+	.string "Talde hauek jarraituko dute aurrera!$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForRound2:
@@ -336,58 +336,58 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals:
 	.string "Are you ready?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer:
-	.string "{PLAYER}'s next opponent\n"
-	.string "is this TRAINER.$"
+	.string "{PLAYER}(r)en hurrengo aurkaria\n"
+	.string "ENTRENATZAILE hau da.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1:
-	.string "The tournament is in the 1st round.$"
+	.string "Txapelketa 1. txandan dago.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound2:
-	.string "The tournament is in the 2nd round.$"
+	.string "Txapelketa 2. txandan dago.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInSemifinals:
-	.string "The tournament is in the semifinals.$"
+	.string "Txapelketa semifinalean dago.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInFinals:
-	.string "The tournament is up to the final.$"
+	.string "Txapelketa finalean dago.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "Gorde eta partidatik atera\n"
+	.string "nahi al duzu?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Tournament challenge?$"
+	.string "Nahi al duzu Borroka\n"
+	.string "Txapelketatik erretiratu?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Zure datuak gordetzen ari naiz.\n"
+	.string "Itxaron, mesedez.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch:
-	.string "Should I record your last match\n"
-	.string "on your FRONTIER PASS?$"
+	.string "Gordeko al dut zure azken\n"
+	.string "borroka FRONTE PASEAN?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "Zorionak finaleko borrokara\n"
+	.string "iristeagatik.\p"
+	.string "Azken borrokan, TUCKER, DOMOKO\n"
+	.string "LIDERRAREN aurka borrokatuko duzu.\p"
+	.string "Prest al zaude?$"
 
 @ Identical to ReadyForTuckerSilver
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "For the final match, you will challenge\n"
-	.string "the DOME ACE TUCKER.\p"
-	.string "Are you ready?$"
+	.string "Zorionak finaleko borrokara\n"
+	.string "iristeagatik.\p"
+	.string "Azken borrokan, TUCKER, DOMOKO\n"
+	.string "LIDERRAREN aurka borrokatuko duzu.\p"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.string "TUCKERREN aurkako zure azken borroka\n"
+	.string "da hurrengoa. Prest al zaude?$"
 
 @ Identical again
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGoldShort:
-	.string "Your final battle against TUCKER is\n"
-	.string "next. Are you ready?$"
+	.string "TUCKERREN aurkako zure azken borroka\n"
+	.string "da hurrengoa. Prest al zaude?$"
 

@@ -52,132 +52,132 @@ SootopolisCity_Gym_B1F_EventScript_Daphne::
 	end
 
 SootopolisCity_Gym_B1F_Text_AndreaIntro:
-	.string "I'll show you the sublime techniques\n"
-	.string "I learned from our LEADER JUAN!$"
+	.string "XALANT LIDERRAK erakutsi zizkidan\n"
+	.string "teknikak erakutsiko dizkizut!$"
 
 SootopolisCity_Gym_B1F_Text_AndreaDefeat:
-	.string "Please forgive me, JUAN…$"
+	.string "Mesedez, barkatu, XALANT…$"
 
 SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
-	.string "Watch what happens if you crack all\n"
-	.string "the floor tiles.$"
+	.string "Ikusi zer gertatzen den lurreko\n"
+	.string "teila guztiak apurtzen badituzu.$"
 
 SootopolisCity_Gym_B1F_Text_CrissyIntro:
-	.string "You came all the way here, but you won't\n"
-	.string "get to see JUAN.\p"
-	.string "Not if you lose to me, you won't!$"
+	.string "Honaino iritsi zara, baina ez duzu\n"
+	.string "XALANT ikusiko.\p"
+	.string "Nire aurka galtzen baduzu ez, behintzat!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyDefeat:
-	.string "You're strong!\n"
-	.string "I was fooled by your cute looks!$"
+	.string "Indartsua zara!\n"
+	.string "ZUre itxura ederrak engainatu nau!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyPostBattle:
-	.string "You might be good enough to avoid\n"
-	.string "being wiped out in one hit by JUAN.$"
+	.string "Agian nahikoa ona zara XALANTEK\n"
+	.string "kolpe bakarrean ez txikitzeko.$"
 
 SootopolisCity_Gym_B1F_Text_DaphneIntro:
-	.string "The sight of JUAN conducting\n"
-	.string "a battle…\p"
-	.string "The very beauty of it compelled me to\n"
-	.string "become a TRAINER.$"
+	.string "XALANT borroka batean\n"
+	.string "bete-betean ikustea…\p"
+	.string "Horren edertasunak berak eragin zidan\n"
+	.string "ENTRENATZAILE izateko grina.$"
 
 SootopolisCity_Gym_B1F_Text_DaphneDefeat:
-	.string "You battled with more beauty than\n"
-	.string "I could muster…$"
+	.string "Jasan dezakedana baino edertasun\n"
+	.string "gehiagorekin borrokatu duzu…$"
 
 SootopolisCity_Gym_B1F_Text_DaphnePostBattle:
-	.string "The grace you bring to battle is\n"
-	.string "fabulous.\p"
-	.string "Oh… I'm so fortunate to have found\n"
-	.string "POKéMON.$"
+	.string "Borrokan daukazun grazia\n"
+	.string "aparta da.\p"
+	.string "Oh… Zeinen zorte onekoa naizen\n"
+	.string "POKéMONAK ezagutu ditudalako.$"
 
 SootopolisCity_Gym_B1F_Text_ConnieIntro:
-	.string "I should teach you how harsh battles\n"
-	.string "can be.$"
+	.string "Borrokak zeinen latzak izan\n"
+	.string "daitezkeen erakutsiko dizut.$"
 
 SootopolisCity_Gym_B1F_Text_ConnieDefeat:
-	.string "Oh.\n"
-	.string "You're strong.$"
+	.string "Ene.\n"
+	.string "Indartsua zara, gero.$"
 
 SootopolisCity_Gym_B1F_Text_ConniePostBattle:
-	.string "I'll tell you something good.\p"
-	.string "If you want to reach JUAN, you\n"
-	.string "need to walk on each floor tile once.$"
+	.string "Zerbait ona kontatuko dizut.\p"
+	.string "XALANTENGANAINO iristeko, teila\n"
+	.string "bakoitza behin zapaldu behar duzu.$"
 
 SootopolisCity_Gym_B1F_Text_BridgetIntro:
-	.string "The POKéMON GYM of the highest level\n"
-	.string "in the HOENN region…\p"
-	.string "That's the SOOTOPOLIS GYM.$"
+	.string "HOENN eskualdeko maila\n"
+	.string "goreneko GIMNASIOA…\p"
+	.string "Hori ARREZIPOLISKO GIMNASIOA da.$"
 
 SootopolisCity_Gym_B1F_Text_BridgetDefeat:
-	.string "What a high level you are!$"
+	.string "Izugarrizko maila daukazu!$"
 
 SootopolisCity_Gym_B1F_Text_BridgetPostBattle:
-	.string "Rather than being satisfied by being\n"
-	.string "in a strong GYM, I imagine training in\l"
-	.string "other places will make you stronger.\l"
-	.string "But above all, it looks more fun.$"
+	.string "GIMNASIO indartsu batean eroso egon\n"
+	.string "ordez, esango nuke beste leku batzuetan\l"
+	.string "entrenatzeak indartu egiten zaituela.\l"
+	.string "Baina, batez ere, dibertigarriagoa dirudi.$"
 
 SootopolisCity_Gym_B1F_Text_OliviaIntro:
-	.string "I train my POKéMON together with\n"
-	.string "JUAN.\p"
-	.string "Don't think I'm a pushover.$"
+	.string "XALANTEKIN batera entrenatzen ditut\n"
+	.string "nire POKéMONAK.\p"
+	.string "Ez uste ezgauza naizenik.$"
 
 SootopolisCity_Gym_B1F_Text_OliviaDefeat:
-	.string "I was beaten…$"
+	.string "Garaitu egin naute…$"
 
 SootopolisCity_Gym_B1F_Text_OliviaPostBattle:
-	.string "I think you have potential.\n"
-	.string "Why don't you stay and train with us?$"
+	.string "Potentziala duzula uste dut.\n"
+	.string "Zergatik ez zara entrenatzera geratzen?$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyIntro:
-	.string "A graceful glide across the ice while\n"
-	.string "crossing no lines…\p"
-	.string "A TRAINER putting on that performance\n"
-	.string "would be elegantly beautiful!$"
+	.string "Irristada eder bat izotzetan zehar,\n"
+	.string "marrarik zapaldu gabe…\p"
+	.string "Halako ENTRENATZAILE bat izugarri\n"
+	.string "ederra litzateke!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
-	.string "Well, excuse me?!$"
+	.string "Aizu, barkatu?!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
-	.string "This is really obvious, but how strong\n"
-	.string "you are as a TRAINER has nothing to do\l"
-	.string "with how young or old you are.$"
+	.string "Agerikoa da, baina ENTRENATZAILE gisan\n"
+	.string "duzun indarrak ez dauka inolako\l"
+	.string "zerikusirik zure adinarekin.$"
 
 SootopolisCity_Gym_B1F_Text_BethanyIntro:
-	.string "When I'm with my POKéMON, the time\n"
-	.string "flies by before you can say, “Oops!”$"
+	.string "Nire POKéMONEKIN nagoenean, ez dut\n"
+	.string "“Ups!” esateko denborarik ere!$"
 
 SootopolisCity_Gym_B1F_Text_BethanyDefeat:
-	.string "Oops!$"
+	.string "Ups!$"
 
 SootopolisCity_Gym_B1F_Text_BethanyPostBattle:
-	.string "I wish I could forget about lost causes\n"
-	.string "before I can manage an “Oops!”$"
+	.string "Galdutako kausak ahaztu nahi nituzke\n"
+	.string "“Ups!” bat esan bezain pronto!$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaIntro:
-	.string "I can battle with really rare POKéMON\n"
-	.string "if you'd like.$"
+	.string "Oso POKéMON arraroekin borroka\n"
+	.string "dezaket, nahi baduzu.$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaDefeat:
-	.string "Oh, there now! Did you have a good look\n"
-	.string "at my POKéMON?$"
+	.string "Ei, aizu! Begiratu al dituzu\n"
+	.string "ondo nire POKéMONAK?$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaPostBattle:
-	.string "I came to this GYM because JUAN\n"
-	.string "praised me for my darling POKéMON.\p"
-	.string "Oh, if only I'd met JUAN years ago\n"
-	.string "when I was younger…$"
+	.string "GIMNASIO honetara etorri nintzen\n"
+	.string "XALANTEK nire POKéMON maitea goraipatu\p"
+	.string "zuelako. Gazteagoa nintzenean XALANT\n"
+	.string "ezagutu izan banu…$"
 
 SootopolisCity_Gym_B1F_Text_BriannaIntro:
-	.string "Giggle…\n"
-	.string "Your grim look is so charming.$"
+	.string "Kar-kar…\n"
+	.string "Zure begirada oso xarmanta da.$"
 
 SootopolisCity_Gym_B1F_Text_BriannaDefeat:
-	.string "Oh, dear.\n"
-	.string "I went much too easy on you.$"
+	.string "Ai, ene.\n"
+	.string "Arinegi jokatu dut zure aurka.$"
 
 SootopolisCity_Gym_B1F_Text_BriannaPostBattle:
-	.string "You couldn't lay a finger on JUAN,\n"
-	.string "I'm sure. Giggle…$"
+	.string "Ez duzu XALANT ukitu ere egingo,\n"
+	.string "ziur nago. Kar-kar…$"
 

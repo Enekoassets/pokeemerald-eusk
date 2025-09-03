@@ -1048,7 +1048,7 @@ static const u8 sLetterDesc[] = _(
 static const u8 sEonTicketDesc[] = _(
     "Hegoaldeko irla\n"
     "batera joateko\n"
-    "ferriko tiketa.");
+    "ferryko tiketa.");
 
 static const u8 sRedOrbDesc[] = _(
     "Antzinako boterea\n"
@@ -1500,12 +1500,12 @@ static const u8 sTeachyTVDesc[] = _(
 static const u8 sTriPassDesc[] = _(
     "BAT, BI eta HIRU\n"
     "irlen arteko\n"
-    "ferrirako txartela.");
+    "ferryrako txartela.");
 
 static const u8 sRainbowPassDesc[] = _(
     "KARMIN eta ZAZPIE\n"
     "IRLEN arteko\n"
-    "ferriaren txartela.");
+    "ferryaren txartela.");
 
 static const u8 sTeaDesc[] = _(
     "Emakume heldu\n"

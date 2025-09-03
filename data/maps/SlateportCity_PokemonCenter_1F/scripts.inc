@@ -27,16 +27,16 @@ SlateportCity_PokemonCenter_1F_EventScript_Woman::
 	end
 
 SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
-	.string "Want a tip for battling?\p"
-	.string "I'd say it's raising different kinds\n"
-	.string "of POKéMON in a balanced manner.\p"
-	.string "It's no good to make just one\n"
-	.string "POKéMON strong.\p"
-	.string "If it has a type disadvantage,\n"
-	.string "it might not stand a chance.$"
+	.string "Borrokarako aholku bat nahi?\p"
+	.string "Mota desberdinetako POKéMONAK haztea\n"
+	.string "era orekatuan oso egokia da.\p"
+	.string "Ez da ona POKéMON bakarra soilik\n"
+	.string "etengabe indartzea.\p"
+	.string "Motarengatik desabantailaren bat badu,\n"
+	.string "agian ez du aukerarik izango irabazteko.$"
 
 SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend:
-	.string "I trade POKéMON with my friends.\p"
-	.string "If a traded POKéMON is holding an\n"
-	.string "item, it makes me twice as happy!$"
+	.string "Nire lagunekin POKéMONAK trukatzen ditut.\p"
+	.string "Trukatutako POKéMON batek item bat\n"
+	.string "badakar, are gehiago pozten naiz!$"
 

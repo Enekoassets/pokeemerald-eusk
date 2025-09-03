@@ -926,255 +926,255 @@ BattleFrontier_BattleDomeBattleRoom_Movement_RefereeExit:
 	step_end
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome:
-	.string "{PLAYER} has entered the BATTLE DOME!$"
+	.string "{PLAYER} BORROKA DOMORA sartu da!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer:
 	.string "{STR_VAR_1}\n"
-	.string "match!\p"
-	.string "{PLAYER} versus {STR_VAR_2}!\p"
-	.string "Let the battle begin!$"
+	.string "partida!\p"
+	.string "{PLAYER} {STR_VAR_2}(r)en aurka!\p"
+	.string "Has dadila borroka!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsWinner:
-	.string "{PLAYER} is the winner!\n"
-	.string "Congratulations!$"
+	.string "{PLAYER} da garailea!\n"
+	.string "Zorionak!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner:
-	.string "{STR_VAR_2} is the winner!\n"
-	.string "Congratulations!$"
+	.string "{STR_VAR_2} da garailea!\n"
+	.string "Zorionak!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ:
-	.string "{PLAYER} is the Level 50\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER} da 50. Mailako Borroka\n"
+	.string "Txapelketako garailea!\p"
+	.string "Zorionak!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp:
-	.string "{PLAYER} is the Open Level\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "{PLAYER} da Maila Irekiko Borroka\n"
+	.string "Txapelketako garailea!\p"
+	.string "Zorionak!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
-	.string "What an unbelievable finish!\n"
-	.string "We have a double knockout!\p"
-	.string "In this event, the Battle Tournament\n"
-	.string "rules call for a REFEREE'S decision.\p"
-	.string "Please wait while the judging\n"
-	.string "is under way.$"
+	.string "Hori bai amaiera, hori!\n"
+	.string "KO bikoitza gertatu da!\p"
+	.string "Kasu honetan Borroka Txapelketako arauen\n"
+	.string "arabera EPAILEAK aukeratuko du garailea.\p"
+	.string "Itxaron mesedez, epaia egiten\n"
+	.string "den bitartean.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {STR_VAR_1}!\l"
-	.string "Congratulations!$"
+	.string "EPAILEEK hartu dute\n"
+	.string "erabakia!\p"
+	.string "Eta irabazlea…\n"
+	.string "Ene bada!\l"
+	.string "Irabazlea {STR_VAR_1} da!\l"
+	.string "Zorionak!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is {PLAYER}!\l"
-	.string "Congratulations!$"
+	.string "EPAILEEK hartu dute\n"
+	.string "erabakia!\p"
+	.string "Eta irabazlea…\n"
+	.string "Ene bada!\l"
+	.string "Irabazlea {PLAYER} da!\l"
+	.string "Zorionak!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
-	.string "The bright new hope!\p"
+	.string "Itxaropen berri distiratsua!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RisingStar:
-	.string "The rising star!\p"
+	.string "Gure izar berria!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship:
-	.string "Will this TRAINER race to\n"
-	.string "the championship?\p"
+	.string "Lortuko al du ENTRENATZAILE\n"
+	.string "honek txapelketa irabaztea?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAchieveChampionFirstTry:
-	.string "Can the feat of a championship\n"
-	.string "on the first try be achieved?\p"
+	.string "Lehenengoan txapelketa bat\n"
+	.string "irabaztea posible ote da?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged:
-	.string "Can the loss of the last match\n"
-	.string "be avenged?\p"
+	.string "Hartuko al da azken\n"
+	.string "porrotaren mendekua?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship:
-	.string "The TRAINER is on fire for\n"
-	.string "the first championship try!\p"
+	.string "ENTRENATZAILEA izugarri dabil\n"
+	.string "bere lehen txapelketa saiakeran!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
-	.string "A win here means this TRAINER\n"
-	.string "advances to the final!\p"
+	.string "Orain irabazita, ENTRENATZAILEA\n"
+	.string "finalera pasako da!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue:
-	.string "Will the long-held dream of\n"
-	.string "a championship finally come true?\p"
+	.string "Lortuko al du txapelketa irabazteko\n"
+	.string "bere ametsa betetzea?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion:
-	.string "The invincible champion!\p"
+	.string "Txapeldun garaiezina!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer:
-	.string "Can anyone hope to beat this\n"
-	.string "TRAINER?\p"
+	.string "Irabaziko al dio inork\n"
+	.string "ENTRENATZAILE honi?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer:
-	.string "Do battles exist solely for\n"
-	.string "this TRAINER?\p"
+	.string "ENTRENATZAILE honentzat existitzen\n"
+	.string "ote dira soilik borrokak?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CurrentChampAimingToRetainTitle:
-	.string "The current champion aiming to\n"
-	.string "retain the title!\p"
+	.string "Oraingo txapelduna titulua\n"
+	.string "defendatzeko asmoz dago!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerChampHasReturned:
-	.string "The former champion has returned!\p"
+	.string "Txapeldun ohia itzuli da!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerToughnessReturned:
-	.string "The former toughness has returned!\p"
+	.string "Lehiakide indartsua itzuli da!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillDoExpectedAdvanceToFinals:
-	.string "Will this TRAINER do as expected\n"
-	.string "and advance to the finals?\p"
+	.string "Lortuko al du ENTRENATZAILE honek\n"
+	.string "finaleraino aurrera egitea?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillFormerChampRegainGlory:
-	.string "Will the former champ regain\n"
-	.string "lost glory?\p"
+	.string "Lortuko al du txapeldun ohiak\n"
+	.string "galdutako loria berreskuratzea?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
-	.string "Feel the glow of a true master!$"
+	.string "Ikusi benetako adituaren distira!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
-	.string "And now… The TRAINER standing in\n"
-	.string "{PLAYER}'s record-setting path…\p"
-	.string "Yes! The one and only!\n"
-	.string "The BATTLE DOME COMMISSIONER!\l"
-	.string "Our very own DOME ACE!\l"
-	.string "Make way for TUCKER!$"
+	.string "Eta orain… {PLAYER}(r)en bidean\n"
+	.string "agertu den ENTRENATZAILEA…\p"
+	.string "Bai! Denok ezagutzen dugu!\n"
+	.string "BORROKA DOMOKO NAGUSIA!\l"
+	.string "Gure DOMOKO LIDERRA!\l"
+	.string "Egin bide TUCKERRI!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant:
-	.string "Spectators: TUCKER! TUCKER!\n"
+	.string "Ikusleak: TUCKER! TUCKER!\n"
 	.string "TUCKER! TUCKER! TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
-	.string "TUCKER: Ahahah!\p"
-	.string "Do you hear it? This crowd!\n"
-	.string "They're all itching to see our match!\p"
-	.string "Ahahah!\p"
-	.string "I bet you're twitching all over from\n"
-	.string "the tension of getting to battle me!\p"
-	.string "But don't you worry about a thing!\p"
-	.string "I'm the no. 1 star of the BATTLE DOME!\n"
-	.string "I, TUCKER the DOME ACE, will bathe you\l"
-	.string "in my brilliant glow!$"
+	.string "TUCKER: kar-kar-kar!\p"
+	.string "Entzuten al duzu? Ikusleak!\n"
+	.string "Gure borroka ikusteko irrikan daude!\p"
+	.string "kar-kar-kar!\p"
+	.string "Ziur nire aurka borrokatzeagatik\n"
+	.string "urduritasunez dardarka zaudela!\p"
+	.string "Baina ez zaitez kezkatu!\p"
+	.string "BORROKA DOMOKO izarra naiz ni!\n"
+	.string "Nik, TUCKERREK, DOMOKO LIDERRAK, nire\l"
+	.string "distiran itoko zaitut!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
-	.string "Your strategy!\n"
-	.string "Let's see it!$"
+	.string "Ikus dezagun, beraz!\n"
+	.string "Zure estrategia!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
-	.string "Unbelievable! It's incredible!\n"
-	.string "The victor is {PLAYER}!$"
+	.string "Sinestezina! Izugarria da!\n"
+	.string "{PLAYER} da garailea!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
-	.string "The winner is TUCKER!\n"
-	.string "The DOME ACE has prevailed!\p"
-	.string "Congratulations, TUCKER!$"
+	.string "TUCKER da garailea!\n"
+	.string "DOMOKO LIDERRAK irabazi du!\p"
+	.string "Zorionak, TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass:
-	.string "TUCKER: Rules are rules!\n"
-	.string "Let me see your FRONTIER PASS.$"
+	.string "TUCKER: Arauak arauak dira!\n"
+	.string "Utzi zure FRONTE PASEA ikusten.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol:
-	.string "The Tactics Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Taktika Sinboloa FRONTE PASEAN\n"
+	.string "grabatu da!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime:
 	.string "… … … … … …\p"
-	.string "I sorely underestimated you. I won't\n"
-	.string "make the same mistake next time…$"
+	.string "Gutxietsi egin zaitut. Hurrengoan\n"
+	.string "ez dut akats bera egingo…$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched:
-	.string "Can the win streak be stretched?\n"
-	.string "The confidence is there!$"
+	.string "Posible al da garaipenen segida luzatzea?\n"
+	.string "Konfidantza behintzat hor dago!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
-	.string "Ladies and gentlemen!\n"
-	.string "Boys, girls, and POKéMON!\p"
-	.string "Finally!\n"
-	.string "Finally, the legend has returned!\p"
-	.string "Yes, the name of that legend!\n"
-	.string "Our very own DOME ACE!\l"
-	.string "It's none other than TUCKER!$"
+	.string "Jaun-andreak!\n"
+	.string "Mutiko, neskato eta POKéMONAK!\p"
+	.string "Azkenean!\n"
+	.string "Azkenean, itzuli da mitoa!\p"
+	.string "Bai, hori da mitoaren izena!\n"
+	.string "Gure DOMOKO LIDERRA!\l"
+	.string "TUCKER bera da!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
-	.string "TUCKER: Ah…\n"
-	.string "The pummeling roar of the crowd…\l"
-	.string "Their furnace-like heat of excitement…\l"
-	.string "This is a wonderful place…\p"
-	.string "To the crowd, I am the DOME ACE…\n"
-	.string "I represent their hopes and dreams…\l"
-	.string "I must never fade from their sight…\p"
-	.string "I must burn!\n"
-	.string "Brighter and more brilliant!\l"
-	.string "I must light all that gather here!$"
+	.string "TUCKER: Ene…\n"
+	.string "Ikusleen orro ozena…\l"
+	.string "Labe batena bezalako irrika beroa…\l"
+	.string "Leku ederra da hau…\p"
+	.string "Ikusleentzat DOMOKO LIDERRA naiz…\n"
+	.string "Haien amets eta itxaropenen erakuslea…\l"
+	.string "Ez naiz inoiz haien begietatik ezabatuko…\p"
+	.string "Erre egin behar dut!\n"
+	.string "Indartsuago eta distiratsuago!\l"
+	.string "Hemen bildu garen denak argitu behar ditut!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_UnleashAllPowerIPossess:
-	.string "I will unleash all the power that\n"
-	.string "I possess! Right here and now!$"
+	.string "Nire indar guztia askatuko dut!\n"
+	.string "Oraintxe bertan, hementxe!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed:
-	.string "TUCKER: You're genuinely fantastic!\p"
-	.string "Never before! I haven't ever lost in the\n"
-	.string "times I've had to unleash my power.\p"
-	.string "Yes, quite fantastic!\n"
-	.string "Your FRONTIER PASS, please?$"
+	.string "TUCKER: Benetan izugarria zara!\p"
+	.string "Inoiz ez! Ez dut inoiz galdu nire indar\n"
+	.string "guztia askatu dudanean.\p"
+	.string "Bai, benetan itzela!\n"
+	.string "ZUre FRONTE PASEA, mesedez?$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine:
-	.string "The Tactics Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Taktika Sinboloak urre koloreko\n"
+	.string "distira bat hartu du!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
-	.string "You're strong, but above all,\n"
-	.string "you have a unique charm!\p"
-	.string "In you, I see a definite potential for\n"
-	.string "a superstar like me.\p"
-	.string "I will very much look forward to\n"
-	.string "our next encounter!$"
+	.string "Indartsua zara, baina, batez ere,\n"
+	.string "xarma berezia duzu!\p"
+	.string "Ni bezalako superizar bihurtzeko\n"
+	.string "potentziala daukazu.\p"
+	.string "Berriz ere elkartuko garela espero\n"
+	.string "dut, bai horixe!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2:
 	.string "{PLAYER} is the Level 50\n"
 	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "Zorionak!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp2:
 	.string "{PLAYER} is the Open Level\n"
 	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "Zorionak!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
-	.string "The final match!\p"
-	.string "{PLAYER} versus the DOME ACE, TUCKER!\p"
-	.string "Let the battle begin!$"
+	.string "Azken borroka!\p"
+	.string "{PLAYER} TUCKER DOMOKO LIDERRAREN aurka!\p"
+	.string "Has dadila borroka!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
-	.string "The REFEREES have reached\n"
-	.string "a decision!\p"
-	.string "The winner is…\n"
-	.string "Oh, my goodness!\l"
-	.string "The winner is our very own DOME ACE!\l"
-	.string "It's TUCKER!\p"
-	.string "Congratulations! And thank you!\n"
-	.string "Let's hear it for the DOME ACE, TUCKER!$"
+	.string "EPAILEEK hartu dute\n"
+	.string "erabakia!\p"
+	.string "Eta irabazlea…\n"
+	.string "Ene bada!\l"
+	.string "Irabazlea gure DOMOKO LIDERRA da!\l"
+	.string "It's TUCKERREK irabazi du!\p"
+	.string "Zorionak! Eta eskerrik asko!\n"
+	.string "Egin oihu TUCKER DOMOKO LIDERRARI!$"

@@ -104,99 +104,99 @@ SootopolisCity_LotadAndSeedotHouse_EventScript_LotadSizeRecord::
 	end
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
-	.string "Do you know the POKéMON SEEDOT?\n"
-	.string "It's hardly ever seen in SOOTOPOLIS.\p"
-	.string "Anyway, I love big SEEDOT.\n"
-	.string "The bigger the better.\p"
-	.string "But my younger brother, he says that\n"
-	.string "LOTAD is bigger.\p"
-	.string "That's silly.\n"
-	.string "SEEDOT has to be bigger than that!\p"
-	.string "Huh? Do you have a SEEDOT with you?\n"
-	.string "P-p-please, show me!$"
+	.string "Ezagutzen duzu SEEDOT POKéMONA?\n"
+	.string "Gutxitan ikusten da ARREZIPOLISEN.\p"
+	.string "Beno, nik SEEDOT handiak ditut gustoko.\n"
+	.string "Zenbat eta handiago, orduan eta hobeto.\p"
+	.string "Baina nire anaia gazteak dio LOTAD\n"
+	.string "handiagoa dela.\p"
+	.string "A zer txorakeria.\n"
+	.string "SEEDOT handiagoa izan behar da!\p"
+	.string "Zer? Ba al daukazu SEEDOT bat?\n"
+	.string "M-m-mesedez, erakutsi!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
-	.string "{STR_VAR_2} inches!\n"
-	.string "Oh, my gosh, this is a big one!\p"
-	.string "It might even beat the big LOTAD\n"
-	.string "my younger brother saw!\p"
-	.string "Thanks for showing me.\n"
-	.string "This is my thanks!$"
+	.string "{STR_VAR_2} hazbete!\n"
+	.string "Ene maitea, handia da gero!\p"
+	.string "Nire anaiak ikusi zuen LOTAD\n"
+	.string "hura baino handiagoa, ziur!\p"
+	.string "Eskerrik asko erakusteagatik.\n"
+	.string "Tori hau, esker onez!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1:
-	.string "{PLAYER} received a POTION.$"
+	.string "{PLAYER}(e)k EDABE bat jaso du.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Nola?\n"
+	.string "Zure POLTSA beteta dago.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot:
-	.string "{STR_VAR_2} inches, is it?\p"
-	.string "Hmm… I've seen a bigger SEEDOT\n"
-	.string "than this one.$"
+	.string "{STR_VAR_2} hazbete, ezta?\p"
+	.string "Hmm… Ikusi ditut hau baino\n"
+	.string "SEEDOT handiagoak.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot:
-	.string "Oh, now this is quite something…\n"
-	.string "But it's not a SEEDOT!$"
+	.string "Beno, hau zerbait bada…\n"
+	.string "Baina ez SEEDOT bat!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot:
-	.string "You don't have a big SEEDOT?\n"
-	.string "That's too bad…\p"
-	.string "If you get a big SEEDOT, please\n"
-	.string "come show me.$"
+	.string "Ez daukazu SEEDOT handirik?\n"
+	.string "Pena…\p"
+	.string "SEEDOT handi bat lortzen baduzu,\n"
+	.string "etorri erakustera, mesedez.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory:
-	.string "The biggest SEEDOT in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3}-inch giant!\p"
-	.string "A SEEDOT bigger than a LOTAD\n"
-	.string "always wanted!$"
+	.string "Historiako SEEDOTIK handiena!\n"
+	.string "{STR_VAR_2}(r)en {STR_VAR_3} hazbeteko\p"
+	.string "erraldoia! LOTAD bat baino askoz\n"
+	.string "handiagoa den SEEDOTA!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
-	.string "Do you know the POKéMON LOTAD?\n"
-	.string "It's rarely seen in SOOTOPOLIS.\p"
-	.string "I love, I mean love, big LOTAD!\p"
-	.string "My big brother says that SEEDOT is\n"
-	.string "bigger.\p"
-	.string "But that's wrong! Everyone knows that\n"
-	.string "LOTAD is a lot bigger.\p"
-	.string "Hunh? Do you have a LOTAD?\n"
-	.string "P-p-please show me!$"
+	.string "Ezagutzen duzu LOTAD POKéMONA?\n"
+	.string "Gutxitan ikusten da ARREZIPOLISEN.\p"
+	.string "Izugarri gustoko ditut LOTAD handiak!\p"
+	.string "Nire anaiak dio SEEDOT handiagoa\n"
+	.string "dela ordea.\p"
+	.string "Baina ez da egia! Mundu guztiak daki\n"
+	.string "LOTAD askoz handiagoa dela.\p"
+	.string "Zer? Ba al daukazu LOTAD bat?\n"
+	.string "M-m-mesedez, erakutsi!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
-	.string "{STR_VAR_2} inches!\n"
-	.string "Wow, that is big!\p"
-	.string "It might be even bigger than the huge\n"
-	.string "SEEDOT my big brother saw.\p"
-	.string "Thanks for showing me!\n"
-	.string "This is my thanks!$"
+	.string "{STR_VAR_2} hazbete!\n"
+	.string "Ene, handia da hori!\p"
+	.string "Nire anaiak ikusitako SEEDOT erraldoi\n"
+	.string "hori baino handiagoa da agian.\p"
+	.string "Eskerrik asko erakusteagatik!\n"
+	.string "Tori, nire esker ona adierazteko!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2:
-	.string "{PLAYER} received a POTION.$"
+	.string "{PLAYER}(e)k EDABE bat jaso du.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Nola?\n"
+	.string "Zure POLTSA beteta dago.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
-	.string "{STR_VAR_2} inches?\p"
-	.string "Hmm… I've seen a bigger LOTAD\n"
-	.string "than this one here.$"
+	.string "{STR_VAR_2} hazbete?\p"
+	.string "Hmm… Ikusi ditut hau baino\n"
+	.string "LOTAD handiagoak.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:
-	.string "Well, isn't this something!\n"
-	.string "But it's no LOTAD!$"
+	.string "Beno, hau zerbait bada…\n"
+	.string "Baina ez LOTAD bat!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad:
-	.string "Don't you have a big LOTAD?\n"
-	.string "How disappointing…\p"
-	.string "If you get a big LOTAD, please\n"
-	.string "come show me!$"
+	.string "Ez daukazu LOTAD handirik?\n"
+	.string "A zer pena…\p"
+	.string "LOTAD handi bat lortzen baduzu,\n"
+	.string "erakutsi, mesedez!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory:
-	.string "The biggest LOTAD in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3}-inch colossus!\p"
-	.string "A LOTAD bigger than a SEEDOT\n"
-	.string "always wanted!$"
+	.string "Historiako LOTADIK handiena!\n"
+	.string "{STR_VAR_2}(r)en {STR_VAR_3} hazbeteko\p"
+	.string "kolosoa! SEEDOT bat baino askoz\n"
+	.string "handiagoa den LOTADA!$"
 

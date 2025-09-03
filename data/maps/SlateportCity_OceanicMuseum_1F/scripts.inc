@@ -225,156 +225,156 @@ SlateportCity_OceanicMuseum_1F_Movement_FamiliarGruntExitNorth:
 	step_end
 
 SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter:
-	.string "Welcome to the OCEANIC MUSEUM.\p"
-	.string "The entrance fee is ¥50.\n"
-	.string "Would you like to enter?$"
+	.string "Ongi etorri MUSEO OZEANIKORA.\p"
+	.string "Sarrera 50¥ dira.\n"
+	.string "Sartu nahi al duzu?$"
 
 SlateportCity_OceanicMuseum_1F_Text_PleaseEnjoyYourself:
-	.string "Please enjoy yourself.$"
+	.string "Gozatuko duzula espero dugu.$"
 
 SlateportCity_OceanicMuseum_1F_Text_NotEnoughMoney:
-	.string "Oh? I'm sorry, but you don't seem to\n"
-	.string "have enough money.$"
+	.string "Zer? Barkatu baina badirudi\n"
+	.string "ez duzula nahikoa diru.$"
 
 SlateportCity_OceanicMuseum_1F_Text_CatchUpWithYourGroup:
-	.string "Oh? You're with that group that\n"
-	.string "went in earlier?\p"
-	.string "You're the only one who's late.\n"
-	.string "You'd better go catch up to them!$"
+	.string "Zer? Lehen sartu den talde\n"
+	.string "horretakoa al zara?\p"
+	.string "Berandu datorren bakarra zara.\n"
+	.string "Arin ibili, ea harrapatzen dituzun!$"
 
 SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll:
-	.string "We, TEAM AQUA, exist for the good\n"
-	.string "of all!$"
+	.string "Gu, AQUA TALDEA, guztien ongizatea\n"
+	.string "lortzeko existitzen gara!$"
 
 SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
-	.string "We were told to assemble here,\n"
-	.string "so we did, but…\p"
-	.string "Our BOSS, the linchpin, isn't here.$"
+	.string "Hemen batzeko esan digute,\n"
+	.string "eta hala egin dugu, baina…\p"
+	.string "Gure NAGUSIA ez da iritsi.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WouldStuffHereMakeMeRich:
-	.string "If I ripped off the stuff here,\n"
-	.string "would it make me rich?$"
+	.string "Hemengo gauzak lapurtuko banitu,\n"
+	.string "aberastuko ote nintzateke?$"
 
 SlateportCity_OceanicMuseum_1F_Text_CanLearnForNefariousDeeds:
-	.string "What I learn here, I can put to use on\n"
-	.string "nefarious deeds…$"
+	.string "Hemen ikasten dudana gure ekintza\n"
+	.string "gaiztoetan erabili dezaket…$"
 
 SlateportCity_OceanicMuseum_1F_Text_RustboroBungled:
-	.string "If our goons didn't bungle things\n"
-	.string "in RUSTBORO, we wouldn't be here!$"
+	.string "Gure kdieek ez balute BURDINTZAN guztia\n"
+	.string "pikutara bidali, ez ginateke hemen!$"
 
 SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney:
-	.string "I didn't have ¥50, so it took a long\n"
-	.string "time getting by the receptionist.$"
+	.string "Ez neuzkan 50¥, beraz, asko kostatu\n"
+	.string "zait harreragileak pasatzen uztea.$"
 
 SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling:
-	.string "I want to learn about the sea and\n"
-	.string "use that knowledge for battling.$"
+	.string "Itsasoaren inguruan ikasi nahi dut\n"
+	.string "eta jakinduria hori borrokan erabili.$"
 
 SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
-	.string "I get all giddy and gooey when\n"
-	.string "I see the sea!\p"
-	.string "For me, CAPT. STERN is the number\n"
-	.string "one role model!$"
+	.string "Zorabiatu egiten naiz itsasoa\n"
+	.string "ikusten dudanean!\p"
+	.string "Niretzat ABABOR KAPITAINA\n"
+	.string "benetako eredua da!$"
 
 SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
-	.string "The sea is vast without end, and\n"
-	.string "infinitely deep…\p"
-	.string "There must be many POKéMON that\n"
-	.string "we don't know about.$"
+	.string "Itsasoa amaigabea da eta\n"
+	.string "sakoneran ere infinitua…\p"
+	.string "Ziur ezagutzen ez ditugun\n"
+	.string "POKéMON asko daudela.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "I want a sea POKéMON.\p"
-	.string "I think it would feel cool and nice\n"
-	.string "to hug.$"
+	.string "Itsasoko POKéMON bat nahi dut.\p"
+	.string "Nik uste besarkatzeko fresko\n"
+	.string "eta atsegina dela.$"
 
 SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
-	.string "Aiyeeeh!\n"
-	.string "What are you doing here?\p"
-	.string "Me? I'm the TEAM AQUA member\n"
-	.string "you thumped before, remember?\l"
-	.string "Back in RUSTURF TUNNEL?\p"
-	.string "Here, take this!\n"
-	.string "You have to forgive me!$"
+	.string "Aizuuuuu!\n"
+	.string "Zertan ari zara hemen?\p"
+	.string "Ni? Lehen garaitu duzun AQUA\n"
+	.string "TALDEKO kidea, ez zara gogoratzen?\l"
+	.string "BURDIZELAI TUNELEAN?\p"
+	.string "Aizu, tori hau!\n"
+	.string "Barkatu egin behar didazu!$"
 
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
-	.string "That TM, it suits you more than it\n"
-	.string "does me.\p"
-	.string "Hope I never see you again!\n"
-	.string "Wahahaha!$"
+	.string "MT hori hobe geratzen\n"
+	.string "zaizu zuri niri baino.\p"
+	.string "Espero dut ez zaitudala gehiago ikusiko!\n"
+	.string "Kar-kar-kar!$"
 
 SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis:
-	.string "Awww, come on!\n"
-	.string "You have to take this and let me go!$"
+	.string "Aizu, bai zera!\n"
+	.string "Hau hartu eta joaten utzi behar didazu!$"
 
 SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment:
-	.string "A blue fluid is spiraling inside\n"
-	.string "a glass vessel.\p"
-	.string "“This is an experiment to create a\n"
-	.string "WHIRLPOOL artificially using wind.”$"
+	.string "Kristalezko ontzi baten barruan\n"
+	.string "likido urdin bat ikusi daiteke.\p"
+	.string "“ZURRUNBILO bat haizea erabilita\n"
+	.string "artifizialki sortzeko esperimentua.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment:
-	.string "A red ball is bobbing up and down\n"
-	.string "inside a glass vessel.\p"
-	.string "“This is an experiment simulating a\n"
-	.string "WATERFALL using the ball's buoyancy.”$"
+	.string "Kristalezko ontzi baten barruan\n"
+	.string "bola gorri bat gora eta behera ari da.\p"
+	.string "“UR-JAUZI bat bolaren flotagarritasuna\n"
+	.string "erabilita simulatzeko esperimentua.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay:
-	.string "It's a sample of soil from the ocean\n"
-	.string "floor.\p"
-	.string "“Over many years, the remains of\n"
-	.string "life-forms settle at the bottom of\l"
-	.string "the sea, making sedimentary layers.\p"
-	.string "“By analyzing these layers, the\n"
-	.string "ancient past is revealed.”$"
+	.string "Ozeanoaren hondoko lur\n"
+	.string "lagin bat da.\p"
+	.string "“Urteetan zehar, izaki bizidunen\n"
+	.string "hondakinak itsas-hondoan geratzen\l"
+	.string "dira, sedimentu geruzak eratuz.\p"
+	.string "“Geruza hauek aztertuz, antzinako\n"
+	.string "informazioa lortu daiteke.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
-	.string "It's a sample of beach sand.\p"
-	.string "“Stones from mountains are washed\n"
-	.string "down by rivers where they are\l"
-	.string "chipped and ground down.\p"
-	.string "“They are reduced to grains and end\n"
-	.string "up as sand on beaches.”$"
+	.string "Hondartzako harea lagin bat da.\p"
+	.string "“Mendietako harriak erreketan\n"
+	.string "zehar jaisten dira, azkenean\l"
+	.string "zatitu eta hauts bihurtzeko.\p"
+	.string "“Ale txiki bihurtzen dira azkenean,\n"
+	.string "hondartzeko harea bilakatuz.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
-	.string "“OCEANIC MINIFACT 1\n"
-	.string "Why is seawater blue?\p"
-	.string "“Light is composed of many colors.\p"
-	.string "“When light passes through water,\n"
-	.string "most kinds of light lose color.\p"
-	.string "“However, blue light retains its\n"
-	.string "color, making the sea appear blue.”$"
+	.string "“1. OZEANOAREN DATUA\n"
+	.string "Zergatik da itsasoa urdina?\p"
+	.string "“Argia hainbat kolorek osatuta dago.\p"
+	.string "“Argia uretan zehar igarotzean,\n"
+	.string "argi gehienak kolorea galtzen du.\p"
+	.string "“Hala ere, argi urdinak ez du galtzen\n"
+	.string "galtzen, itsasoa urdin bihurtuz.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
-	.string "“OCEANIC MINIFACT 2\n"
-	.string "Why is the sea salty?\p"
-	.string "“Seawater contains dissolved salt in\n"
-	.string "the form of sodium and chlorine ions.\p"
-	.string "“These ions leech out of rocks\n"
-	.string "and are carried out to sea by rain.\p"
-	.string "“The concentration of dissolved salt\n"
-	.string "makes the sea salty.”$"
+	.string "“2. OZEANOAREN DATUA\n"
+	.string "Zergatik da itsasoa gazia?\p"
+	.string "“Itsasoko urak gatza du, sodio\n"
+	.string "eta kloro ioi forman disolbatuta.\p"
+	.string "“Ioi hauek arroketatik erauzten dira\n"
+	.string "eta euriak itsasora eramaten ditu.\p"
+	.string "“Disolbatutako gatzaren kontzentrazioak\n"
+	.string "bihurtzen du itsasoa gazi.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
-	.string "“OCEANIC MINIFACT 3\n"
-	.string "Which is bigger? The sea or land?\p"
-	.string "“The sea covers about 70% of\n"
-	.string "the planet, and the rest is land.\p"
-	.string "“The sea is therefore more than twice\n"
-	.string "the size of land.”$"
+	.string "“3. OZEANOAREN DATUA\n"
+	.string "Zein da handiagoa? Itsasoa edo lurra?\p"
+	.string "“Itsasoak planetaren %70 estaltzen\n"
+	.string "du, eta gainerakoa lurra da.\p"
+	.string "“Ondorioz, itsasoa lurraren bikoitza\n"
+	.string "baino handiagoa da tamainan.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_FossilDisplay:
-	.string "It's a fossil with wavy ridges on it.\p"
-	.string "“Soil on the ocean floor gets scoured\n"
-	.string "by the tide.\p"
-	.string "“The flowing seawater marks the soil\n"
-	.string "with small ridges and valleys.\p"
-	.string "“If this soil becomes fossilized, it is\n"
-	.string "called a ripple mark.”$"
+	.string "Marka uhindunak dituen fosil bat da.\p"
+	.string "“Itsas hondoko harea ur lasterrek\n"
+	.string "mugitzen dute.\p"
+	.string "“Ur mugikor honek lurra markatzen\n"
+	.string "du haran eta muino ñimiñoekin.\p"
+	.string "“Lur hau fosilizatzen bada,\n"
+	.string "uhin marka deitzen zaio.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_DepthMeasuringMachine:
-	.string "A strange machine is rotating under\n"
-	.string "a glass dome.\p"
-	.string "Maybe it's for measuring the depth\n"
-	.string "of something…$"
+	.string "Makina arraro bat dago biraka\n"
+	.string "kristalezko domo baten pean.\p"
+	.string "Agian zerbaiten sakonera\n"
+	.string "neurtzeko edo balio du…$"
 

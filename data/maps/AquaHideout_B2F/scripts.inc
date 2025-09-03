@@ -90,73 +90,73 @@ AquaHideout_B2F_EventScript_Grunt8::
 	end
 
 AquaHideout_B2F_Text_MattIntro:
-	.string "Hehehe…\p"
-	.string "Got here already, did you?\n"
-	.string "We underestimated you!\p"
-	.string "But this is it!\p"
-	.string "I'm a cut above the GRUNTS you've seen\n"
-	.string "so far.\p"
-	.string "I'm not stalling for time.\n"
-	.string "I'm going to pulverize you!$"
+	.string "Kar-kar-kar…\p"
+	.string "Honaino iritsi zara, e?\n"
+	.string "Gutxietsi egin zaitugu!\p"
+	.string "Baina nahikoa da!\p"
+	.string "Orain arteko ERREKRUTAK baino askoz\n"
+	.string "indartsuagoa naiz ni.\p"
+	.string "Ez naiz denbora irabazten ari.\n"
+	.string "Txikitu egingo zaitut!$"
 
 AquaHideout_B2F_Text_MattDefeat:
-	.string "Hehehe…\n"
-	.string "So, I lost, too…$"
+	.string "Kar-kar-kar…\n"
+	.string "Nik ere galdu…$"
 
 AquaHideout_B2F_Text_OurBossGotThroughHisPreparations:
-	.string "Hehehe!\p"
-	.string "While I was toying with you, our BOSS\n"
-	.string "got through his preparations!$"
+	.string "Kar-kar-kar!\p"
+	.string "Zurekin jolasten ari nintzen bitartean,\n"
+	.string "NAGUSIA guztiz prestatu da!$"
 
 AquaHideout_B2F_Text_MattPostBattle:
-	.string "Hehehe!\p"
-	.string "Our BOSS has already gone on his way to\n"
-	.string "some cave under the sea!\p"
-	.string "If you're going to give chase, you'd\n"
-	.string "better search the big, wide sea beyond\l"
-	.string "LILYCOVE.\p"
-	.string "But will you find it then?\n"
-	.string "Hehehe!$"
+	.string "Kar-kar-kar!\p"
+	.string "NAGUSIA ur azpiko kobazuloren\n"
+	.string "batera bidean dago jada!\p"
+	.string "Bere bila joatekotan, UR-LILI baino\n"
+	.string "urrutiago dagoen itsaso handi zabalean\l"
+	.string "bilatu beharko duzu.\p"
+	.string "Baina aurkituko al duzu garaiz?\n"
+	.string "Kar-kar-kar!$"
 
 AquaHideout_B2F_Text_Grunt4Intro:
-	.string "Wahahah, I grew weary of waiting!\n"
-	.string "You owe me a battle, too!$"
+	.string "Buaaa, nazkatu naiz itxaroten!\n"
+	.string "Borroka bat zor didazu, aizu!$"
 
 AquaHideout_B2F_Text_Grunt4Defeat:
-	.string "Tired of waiting…\n"
-	.string "Lost and dazed…$"
+	.string "Itxaroten nazkatuta…\n"
+	.string "Galdu eta txikituta…$"
 
 AquaHideout_B2F_Text_Grunt4PostBattle:
-	.string "BOSS…\n"
-	.string "Is this good enough?$"
+	.string "NAGUSI…\n"
+	.string "Nahikoa izan ote da hau?$"
 
 AquaHideout_B2F_Text_Grunt6Intro:
-	.string "Warp panels, the HIDEOUT's pride\n"
-	.string "and joy!\p"
-	.string "You're clueless about where you are,\n"
-	.string "aren't you?\p"
-	.string "Fluster and tire out the enemy, then\n"
-	.string "lower the boom! That's our plan!$"
+	.string "Teleportatze panelak, EZKUTALEKUKO\n"
+	.string "tresna harrigarriena dira!\p"
+	.string "Ez dakizu non zauden ere,\n"
+	.string "ez da hala?\p"
+	.string "Etsaia nekatu eta harritu, eta ondoren\n"
+	.string "txikitu! Hori da gure plana!$"
 
 AquaHideout_B2F_Text_Grunt6Defeat:
-	.string "What's wrong with you?\n"
-	.string "You're not tired at all!$"
+	.string "Zer gertatzen zaizu?\n"
+	.string "Ez zaude batere nekatuta!$"
 
 AquaHideout_B2F_Text_Grunt6PostBattle:
-	.string "That reminds me… I can't remember\n"
-	.string "where I put the MASTER BALL.\p"
-	.string "If I fail to guard it, our BOSS will\n"
-	.string "chew me out…$"
+	.string "Honek zera gogorarazi dit… Ez dakit\n"
+	.string "non utzi nuen MASTER BALLA.\p"
+	.string "Ez badut ondo zaintzen, NAGUSIAK\n"
+	.string "txikitu egingo nau…$"
 
 AquaHideout_B2F_Text_Grunt8Intro:
-	.string "When I joined TEAM AQUA, the first\n"
-	.string "thing I had to learn was how these\l"
-	.string "warp panels connected.$"
+	.string "AQUA TALDERA sartu nintzenea, ikasi\n"
+	.string "behar izan nuen lehen gauza panelak\l"
+	.string "nola zeuden konektatuta izan zen.$"
 
 AquaHideout_B2F_Text_Grunt8Defeat:
-	.string "I was too occupied thinking about\n"
-	.string "the warp panels…$"
+	.string "Okupatuegi egon naiz teleportatze\n"
+	.string "panelen gainean…$"
 
 AquaHideout_B2F_Text_Grunt8PostBattle:
-	.string "I'll have to learn about how I can\n"
-	.string "battle more effectively…$"
+	.string "Nola borrokatu hobeto ikasi\n"
+	.string "beharko dut orain…$"

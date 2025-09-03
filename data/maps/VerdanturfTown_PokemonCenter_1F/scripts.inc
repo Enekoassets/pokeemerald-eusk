@@ -27,18 +27,18 @@ VerdanturfTown_PokemonCenter_1F_EventScript_ExpertM::
 	end
 
 VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon:
-	.string "You can't consider yourself a real\n"
-	.string "TRAINER if you don't have faith\l"
-	.string "in your POKéMON.\p"
-	.string "Only those people who can believe\n"
-	.string "in their battling POKéMON can win\l"
-	.string "through to the very end.$"
+	.string "Ezin duzu zure burua benetako\n"
+	.string "ENTRENATZAILETZAT hartu ez baduzu\l"
+	.string "fedea zure POKéMONENGAN.\p"
+	.string "Borrokan bere POKéMONENGAN sinesten\n"
+	.string "duten horiek bakarrik dira gai\l"
+	.string "amaieraraino iristeko.$"
 
 VerdanturfTown_PokemonCenter_1F_Text_VisitForBattleTent:
-	.string "The reason why anyone would visit\n"
-	.string "VERDANTURF…\p"
-	.string "It's the BATTLE TENT. It goes without\n"
-	.string "saying.\p"
-	.string "Or is there somebody here that you\n"
-	.string "came to see?$"
+	.string "BERDEZELAI bisitatzeko arrazoi\n"
+	.string "bakarra…\p"
+	.string "BORROKA DENDA da. Ez dago inolako\n"
+	.string "dudarik.\p"
+	.string "Edo norbait bisitatzera etorri\n"
+	.string "zara hona?$"
 
