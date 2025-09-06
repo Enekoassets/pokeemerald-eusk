@@ -12,25 +12,25 @@ SeafloorCavern_Room4_EventScript_Grunt4::
 	end
 
 SeafloorCavern_Room4_Text_Grunt3Intro:
-	.string "Who are you?\n"
-	.string "Where did you come in from?$"
+	.string "Nor zara?\n"
+	.string "Nondik etorri zara?$"
 
 SeafloorCavern_Room4_Text_Grunt3Defeat:
-	.string "Lost it…$"
+	.string "Galdu egin dut…$"
 
 SeafloorCavern_Room4_Text_Grunt3PostBattle:
-	.string "I can't find the way out!\p"
-	.string "I'm not afraid. Don't get me wrong!$"
+	.string "Ez dakit nondik atera!\p"
+	.string "Ez nago beldurtuta. Ez nahastu!$"
 
 SeafloorCavern_Room4_Text_Grunt4Intro:
-	.string "Who are you?\n"
-	.string "Where do you think you're going?$"
+	.string "Nor zara?\n"
+	.string "Nora zoazela uste duzu?$"
 
 SeafloorCavern_Room4_Text_Grunt4Defeat:
-	.string "I failed to win!$"
+	.string "Ezin izan dut irabazi!$"
 
 SeafloorCavern_Room4_Text_Grunt4PostBattle:
-	.string "My partner forgot the map in that\n"
-	.string "submarine!\p"
-	.string "How's that for being useless?$"
+	.string "Nire kideak urpekoan ahaztu\n"
+	.string "du mapa!\p"
+	.string "Ez du ezertarako balio!$"
 
