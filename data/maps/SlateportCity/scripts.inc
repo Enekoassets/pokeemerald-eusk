@@ -943,435 +943,435 @@ SlateportCity_EventScript_BerryCrushRankingsSign::
 	end
 
 SlateportCity_Text_EnergyGuruSellWhatYouNeed:
-	.string "I'm the ENERGY GURU! I'll go for it and\n"
-	.string "sell you what you need!$"
+	.string "ENERGIA GURUA naiz! Ea ba, behar\n"
+	.string "duzuna salduko dizut!$"
 
 SlateportCity_Text_OhYourPokemon:
-	.string "Oh?\n"
-	.string "Your {STR_VAR_1}…$"
+	.string "Nola?\n"
+	.string "Zure {STR_VAR_1}…$"
 
 SlateportCity_Text_PleaseGiveItThisEffortRibbon:
-	.string "Went for it stupendously!\p"
-	.string "As its reward, please give it this\n"
-	.string "EFFORT RIBBON.$"
+	.string "Izugarri saiatua da!\p"
+	.string "Opari gisan, emaiozu SAIATUENEN\n"
+	.string "ZINTA hau, mesedez.$"
 
 SlateportCity_Text_ReceivedEffortRibbon:
-	.string "{PLAYER} received the EFFORT RIBBON.$"
+	.string "{PLAYER}(e)k SAIATUENEN ZINTA jaso du.$"
 
 SlateportCity_Text_PutEffortRibbonOnMon:
-	.string "{PLAYER} put the EFFORT RIBBON\n"
-	.string "on {STR_VAR_1}.$"
+	.string "{PLAYER}(e)k SAIATUENEN ZINTA\n"
+	.string "{STR_VAR_1}(e)ri jarri dio.$"
 
 SlateportCity_Text_GoForItLittleHarder:
-	.string "You have to go for it a little harder.\p"
-	.string "If you do, I'll give your POKéMON\n"
-	.string "something nice.$"
+	.string "Gehixeago saiatu beharko duzu.\p"
+	.string "Hala egiten baduzu, zure POKéMONARI\n"
+	.string "zerbait bikaina emango diot.$"
 
 SlateportCity_Text_EffortRibbonLooksGoodOnIt:
-	.string "Oh! Your {STR_VAR_1}, that EFFORT\n"
-	.string "RIBBON looks good on it!$"
+	.string "Ene! Zure {STR_VAR_1}, lirain\n"
+	.string "dago SAIATUENEN ZINTA horrekin!$"
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
-	.string "The light of the lighthouse reaches\n"
-	.string "dozens of miles away.\p"
-	.string "I wonder if it doesn't startle POKéMON\n"
-	.string "in the sea.$"
+	.string "Itsasargiaren argiak dozenaka\n"
+	.string "kilometrotako irismena du.\p"
+	.string "Espero dut ez dituela itsasoko\n"
+	.string "POKéMONAK gogaituko.$"
 
 SlateportCity_Text_SeaweedFullOfLife:
-	.string "Ooh, look at this!\p"
-	.string "The seaweed you can get around these\n"
-	.string "parts is fresh and full of life.\p"
-	.string "Why, it looks like it can even rear up\n"
-	.string "and attack!$"
+	.string "Uau, ikusi hau!\p"
+	.string "Hemen inguruan hazten diren algak\n"
+	.string "freskoak eta bizitzaz beteak dira.\p"
+	.string "Badirudi edozein momentutan esnatu\n"
+	.string "eta erasotzeko prest daudela!$"
 
 SlateportCity_Text_HowTownIsBornAndGrows:
-	.string "Where the water is clean, the fruits\n"
-	.string "of bountiful harvest gather.\p"
-	.string "And where people gather, a market\n"
-	.string "soon starts.\p"
-	.string "That is how a town is born and grows.$"
+	.string "Ura garbia den lekuan, jaso daitezkeen\n"
+	.string "fruitu pila bat hazten dira.\p"
+	.string "Eta jendeak fruituak jasotzen baditu,\n"
+	.string "merkatu bat eratu ohi da.\p"
+	.string "Horrela sortu eta hazten da herri bat.$"
 
 SlateportCity_Text_SlateportWonderfulPlace:
-	.string "Shopping where you can breathe the\n"
-	.string "scent of the ocean…\p"
-	.string "SLATEPORT is such a wonderful place!$"
+	.string "Itsasoaren brisa arnastu bitartean\n"
+	.string "erosketak egin ahal izatea…\p"
+	.string "PORTUONDO leku itzela da!$"
 
 SlateportCity_Text_BuyBricksSoDecorWontGetDirty:
-	.string "If you put DOLLS or CUSHIONS on\n"
-	.string "the floor, they'll get dirty.\p"
-	.string "I'm going to buy some BRICKS so my\n"
-	.string "DOLLS and CUSHIONS won't get dirty\l"
-	.string "when I leave them out.$"
+	.string "PANPINAK edo KUXINAK lurrean\n"
+	.string "jarrita, zikindu egiten dira.\p"
+	.string "ADREILU batzuk erosiko dituta,\n"
+	.string "nire PANPINAK eta KUXINAK ez\l"
+	.string "zikintzeko ipintzen ditudanean.$"
 
 SlateportCity_Text_GoingToCompeteInBattleTent:
-	.string "Wroooar! I'm going to compete in\n"
-	.string "the BATTLE TENT, too!\p"
-	.string "But before that, I need to catch\n"
-	.string "some POKéMON!$"
+	.string "Roooar! BORROKA DENDARA joango\n"
+	.string "naiz erronkari aurre egitera!\p"
+	.string "Baina horren aurretik, POKéMON\n"
+	.string "batzuk harrapatu behar ditut!$"
 
 SlateportCity_Text_BushedHikingFromMauville:
-	.string "Whew… I'm just bushed…\p"
-	.string "I hiked over from MAUVILLE CITY.\n"
-	.string "But, boy, this city's huge.\p"
-	.string "If I'd known this, I would've ridden\n"
-	.string "my BIKE here.$"
+	.string "Ufff… Akituta nago…\p"
+	.string "MALBADI HIRITIK nator oinez.\n"
+	.string "Baina, benetan, hiri hau erraldoia da.\p"
+	.string "Jakin izan banu BIZIKLETAZ\n"
+	.string "etorriko nintzen.$"
 
 SlateportCity_Text_EveryoneCallsHimCaptStern:
-	.string "STERN, the fellow who built the\n"
-	.string "MUSEUM, also happens to be the leader\l"
-	.string "of an undersea exploration team.\p"
-	.string "So, everyone calls him CAPT. STERN.$"
+	.string "ABABOR, MUSEOA eraiki zuen gizona,\n"
+	.string "ur azpiko esplorazio talde bateko\l"
+	.string "burua ere bada, dirudienez.\p"
+	.string "Mundu guztiak ABABOR KAPT. deitzen dio.$"
 
 SlateportCity_Text_WhatsLongLineOverThere:
-	.string "What is that over there?\n"
-	.string "That long line…$"
+	.string "Zer da horko hori?\n"
+	.string "Lerro luze hori…$"
 
 SlateportCity_Text_VisitedMuseumOften:
-	.string "When I was a child, I visited\n"
-	.string "the MUSEUM often.\p"
-	.string "I used to dream about the mysteries of\n"
-	.string "the sea after seeing the exhibits.$"
+	.string "Umea nintzenean, askotan\n"
+	.string "joaten nintzen MUSEORA.\p"
+	.string "Itsasoaren misterioen inguruan amesten\n"
+	.string "nuen erakusketak ikusi ostean.$"
 
 SlateportCity_Text_QuitPushing:
-	.string "Hey, there! Quit pushing!\n"
-	.string "This is the line, can't you see?$"
+	.string "Ei, aizu! Ez bultza!\n"
+	.string "Hau da ilara, ez al duzu ikusten?$"
 
 SlateportCity_Text_AquaHasPolicy:
-	.string "TEAM AQUA has a policy of\n"
-	.string "assembling and dispersing at\l"
-	.string "the operation site.$"
+	.string "AQUA TALDEAK bildu eta\n"
+	.string "sakabanatzeko politika du\l"
+	.string "operazio gunean.$"
 
 SlateportCity_Text_BossIsBrilliant:
-	.string "Our BOSS is brilliant.\p"
-	.string "What would he want to do with\n"
-	.string "a MUSEUM now?$"
+	.string "Gure NAGUSIA bikaina da.\p"
+	.string "Zer egin nahi ote du orain\n"
+	.string "MUSEO batean?$"
 
 SlateportCity_Text_WhatsNewSchemeIWonder:
-	.string "What's the new scheme, I wonder?\p"
-	.string "Our BOSS is scary when he's mad, so\n"
-	.string "I'd better not screw things up…$"
+	.string "Zein ote da plan berria?\p"
+	.string "NAGUSIA beldurgarria da haserretzen\n"
+	.string "denean, hobe dut gauzak ondo egin…$"
 
 SlateportCity_Text_ShouldTakeItAll:
-	.string "If there's something we need in\n"
-	.string "the MUSEUM, we should take it all!$"
+	.string "MUSEOAN behar dugun zeozer baldin\n"
+	.string "badago, guztia hartu behar genuke!$"
 
 SlateportCity_Text_DontButtIn:
-	.string "Hey, you there!\n"
-	.string "Don't butt in!$"
+	.string "Ei, ei, aizu!\n"
+	.string "Ez oztopatu!$"
 
 SlateportCity_Text_RemindsMeOfLongLineForGames:
-	.string "A long line, huh?\p"
-	.string "It reminds me of the times I lined up to\n"
-	.string "buy smash-hit games…$"
+	.string "Ilara luzea, ezta?\p"
+	.string "Atera berri ziren jokoak erosten\n"
+	.string "nitueneko garaia oroitarazten dit…$"
 
 SlateportCity_Text_WhyAreWeLiningUp:
-	.string "Why are we even lining up and paying?\n"
-	.string "We should just march in!$"
+	.string "Zergatik ari gara itxaron eta ordaintzen?\n"
+	.string "Sar gaitezen denok, eta kito!$"
 
 SlateportCity_Text_WhatDoYouWant:
-	.string "What?\n"
-	.string "What do you want?$"
+	.string "Zer?\n"
+	.string "Zer nahi duzu?$"
 
 SlateportCity_Text_IllReadSignForYou:
-	.string "You want to read this sign?\n"
-	.string "I'll read it for you!$"
+	.string "Kartela irakurri nahi duzu?\n"
+	.string "Nik irakurriko dizut!$"
 
 SlateportCity_Text_SaysSomethingLikeSeaIsEndless:
-	.string "Let's see…\p"
-	.string "Um… I think it says something like\n"
-	.string "“the life in the sea is endless.”\p"
-	.string "Yup, I'm pretty sure that's what\n"
-	.string "it says.$"
+	.string "Ikus dezagun…\p"
+	.string "Ba… Halako zerbait dio:\n"
+	.string "“itsasoko bizitza amaigabea da.”\p"
+	.string "Bai, horrelako zeozer jartzen du,\n"
+	.string "ziur nago.$"
 
 SlateportCity_Text_ShouldveBroughtMyGameBoy:
-	.string "Grumble…\p"
-	.string "I should've brought my Game Boy\n"
-	.string "Advance so I wouldn't get bored in line…\p"
-	.string "Grumble…$"
+	.string "Kaka…\p"
+	.string "Nire Game Boy Advancea ekarri\n"
+	.string "behar nuen ilaran ez aspertzeko…\p"
+	.string "Kaka…$"
 
 SlateportCity_Text_HotSpringsAfterOperation:
-	.string "When this operation's over, I'll take\n"
-	.string "you to a hot spring spa!\p"
-	.string "That's what our leader said.\n"
-	.string "I can't wait!$"
+	.string "Operazio hau amaitzen denean, ur\n"
+	.string "termal batzuetara eramango zaituztet!\p"
+	.string "Hori esan zigun nagusiak.\n"
+	.string "Irrikan nago!$"
 
 SlateportCity_Text_SeaIsSoWet:
-	.string "The sea is just so vast…\p"
-	.string "Could the sea have been made by\n"
-	.string "the tears shed by POKéMON?$"
+	.string "Itsasoa izugarri zabala da…\p"
+	.string "Ez ote da itsasoa POKéMONEN\n"
+	.string "malkoek osatuta egongo?$"
 
 SlateportCity_Text_SinkOldBoats:
-	.string "Do you know what they do with old\n"
-	.string "ships that become too creaky to sail?\p"
-	.string "They sink them in the sea so they\n"
-	.string "become habitats for POKéMON.$"
+	.string "Badakizu zer egiten duten nabigatzeko\n"
+	.string "zaharregiak diren itsasontziekin?\p"
+	.string "Itsasoan hondoratzen dituzte,\n"
+	.string "POKéMONENTZAKO bizileku bilakatzeko.$"
 
 SlateportCity_Text_BuyTooMuch:
-	.string "Whenever I visit here, I get carried\n"
-	.string "away and buy too much.$"
+	.string "Hona etortzen naizen bakoitzean,\n"
+	.string "gehiagi galtzen dut kontrola.$"
 
 SlateportCity_Text_GetNameRaterToHelpYou:
-	.string "If you want to change your POKéMON's\n"
-	.string "nickname, you'll have to get the NAME\l"
-	.string "RATER to help you.$"
+	.string "Zure POKéMONAREN ezizena aldatu\n"
+	.string "nahi baduzu, eskatu laguntza\l"
+	.string "EZIZENEN INSPEKTOREARI.$"
 
 SlateportCity_Text_CantChangeTradeMonName:
-	.string "Any POKéMON you get in a trade,\n"
-	.string "you can't change its nickname.\p"
-	.string "The original TRAINER's love for that\n"
-	.string "POKéMON is in the nickname.$"
+	.string "Truke batean POKéMON bat jasotzen\n"
+	.string "baduzu, ezin diozu ezizena aldatu.\p"
+	.string "Hasierako ENTRENATZAILEAREN maitasuna\n"
+	.string "POKéMONAREN ezizenean dago eta.$"
 
 SlateportCity_Text_BattleTentBuiltRecently:
-	.string "Recently, a BATTLE TENT was built\n"
-	.string "in SLATEPORT.\p"
-	.string "GYMS are fun, but the BATTLE TENT's\n"
-	.string "awesome in its own way.\p"
-	.string "You should go find tough POKéMON\n"
-	.string "for the BATTLE TENT!$"
+	.string "Duela gutxi, BORROKA DENDA eraiki\n"
+	.string "zuten PORTUONDON.\p"
+	.string "GIMNASIOAK itzelak dira, baina BORROKA\n"
+	.string "DENDA izugarria da, bere eran.\p"
+	.string "POKéMON indartsuak lortu behar\n"
+	.string "zenituzke BORROKA DENDARAKO!$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
-	.string "I was hoping that it was a famous star\n"
-	.string "so I could get an autograph.\p"
-	.string "But who's that being interviewed?\n"
-	.string "Isn't that CAPT. STERN?$"
+	.string "Pertsona famatu bat izatea espero\n"
+	.string "nuen, autografoa eskatzeko.\p"
+	.string "Baina zein ari dira elkarrizketatzen?\n"
+	.string "Ez al da ABABOR KAPITAINA?$"
 
 SlateportCity_Text_InterviewerSoCool:
-	.string "That lady interviewer is so cool\n"
-	.string "and pretty.\p"
-	.string "When I grow up, I'm going to be\n"
-	.string "an international journalist!$"
+	.string "Elkarrizketatzailea oso polita\n"
+	.string "eta itzela da.\p"
+	.string "Handitzen naizenean, kazetari\n"
+	.string "internazionala izango naiz!$"
 
 SlateportCity_Text_SternSaysDiscoveredSomething:
-	.string "CAPT. STERN says they discovered\n"
-	.string "something at the bottom of the sea.\p"
-	.string "I wonder what it is?\n"
-	.string "What could it be?$"
+	.string "Itsas hondoan zerbait aurkitu\n"
+	.string "zutela dio ABABOR KAPITAINAK.\p"
+	.string "Zer izan daiteke?\n"
+	.string "Zer izango ote da?$"
 
 SlateportCity_Text_CaptainComeBackWithBigFish:
-	.string "What's going on here?\p"
-	.string "Did the good CAPTAIN come back with\n"
-	.string "a big fish from the ocean floor?$"
+	.string "Zer gertatzen da hemen?\p"
+	.string "Arrain handiren bat harrapatu ote\n"
+	.string "du KAPITAINAK itsas hondoan?$"
 
 SlateportCity_Text_AmIOnTV:
-	.string "Hey! Are you watching?\n"
-	.string "Am I on TV?$"
+	.string "Ei! Begira al zaude?\n"
+	.string "Telebistan al nago?$"
 
 SlateportCity_Text_CaptainsACelebrity:
-	.string "A TV interview! Here!\n"
-	.string "The CAPTAIN's a celebrity!$"
+	.string "Telebistako elkarrizketa bat! Hemen!\n"
+	.string "KAPITAINA famatua da!$"
 
 SlateportCity_Text_BigSmileForCamera:
-	.string "TY: Okay, CAPT. STERN, a big smile\n"
-	.string "for the camera!$"
+	.string "IKER: Ongi, ABABOR KAPITAINA, egin\n"
+	.string "kamerari irribarre!$"
 
 SlateportCity_Text_MostInvaluableExperience:
-	.string "GABBY: I see, I see. You've had a most\n"
-	.string "invaluable experience…$"
+	.string "AMANE: Ados, ados. Esperientzia\n"
+	.string "paregabea izan duzue, beraz…$"
 
 SlateportCity_Text_SternMoveAheadWithExploration:
-	.string "CAPT. STERN: Yes, indeed. We intend to\n"
-	.string "move ahead with our exploration.$"
+	.string "ABABOR KAPT.: Bai, alajaina. Oraindik\n"
+	.string "esplorazioarekin jarraitzeko asmoa dugu.$"
 
 SlateportCity_Text_GabbyWonderfulThanksForInterview:
-	.string "GABBY: That's wonderful, CAPT. STERN!\n"
-	.string "Thank you for taking the time from\l"
-	.string "your busy schedule to talk to us.\p"
-	.string "We hope we can interview you again\n"
-	.string "with news of more discoveries!$"
+	.string "AMANE: Bikain, ABABOR KAPITAINA!\n"
+	.string "Eskerrik asko denbora tarte hau\l"
+	.string "guri eskaintzeagatik.\p"
+	.string "Ea beste batean elkarrizketatzen\n"
+	.string "zaitugun, aurkikuntza berriak egitean!$"
 
 SlateportCity_Text_SternWhewFirstInterview:
-	.string "CAPT. STERN: Whew…\p"
-	.string "That was my first time to be filmed for\n"
-	.string "TV. That was nerve-wracking.$"
+	.string "ABABOR KAPT.: Ufff…\p"
+	.string "Nire lehen aldia izan da telebistako\n"
+	.string "grabazio batean. A zer urduritasuna.$"
 
 SlateportCity_Text_OhPlayerWeMadeDiscovery:
-	.string "Oh! {PLAYER}{KUN}!\n"
-	.string "You're looking great!\p"
-	.string "We made a huge discovery on our last\n"
-	.string "seafloor exploration.\p"
-	.string "We found an underwater cavern on\n"
-	.string "ROUTE 128.\p"
-	.string "We think it's the habitat of a POKéMON\n"
-	.string "that's said to have been long extinct.$"
+	.string "Ei! {PLAYER}{KUN}!\n"
+	.string "Itxura ona duzu!\p"
+	.string "Aurkikuntza izugarria egin genuen\n"
+	.string "gure azken urpeko esplorazioan.\p"
+	.string "128. ERRUTAN ur azpiko kobazulo\n"
+	.string "bat aurkitu genuan.\p"
+	.string "Uste dugu aspaldian desagertutako\n"
+	.string "POKéMON baten bizilekua dela.$"
 
 SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
 	.string "Fufufu…\n"
-	.string "CAPT. STERN, I presume.\p"
-	.string "We of TEAM AQUA will assume\n"
-	.string "control of your submarine!\p"
-	.string "Your objections are meaningless!\n"
-	.string "We expect your total cooperation!\p"
+	.string "ABABOR KAPITAINA, suposatzen dut.\p"
+	.string "AQUA TALDEAK zure urpekoaren\n"
+	.string "kontrola hartuko dugu!\p"
+	.string "Zure ezezkoak ez du balio!\n"
+	.string "Kooperazio osoa espero dugu!\p"
 	.string "Fufufu…\n"
-	.string "Just watch and learn what TEAM\l"
-	.string "AQUA has planned!$"
+	.string "Ikusi eta ikasi AQUA TALDEAK\l"
+	.string "prestatu duenarekin!$"
 
 SlateportCity_Text_SternWhatWasAllThat:
-	.string "CAPT. STERN: What was that all about?\p"
-	.string "It sounded like someone using\n"
-	.string "a megaphone…\p"
-	.string "Where did it come from?$"
+	.string "ABABOR KAPT.: Zer izan da hori?\p"
+	.string "Badirudi norbait megafono bat\n"
+	.string "erabiltzen ari zela…\p"
+	.string "Nondik etorri da?$"
 
 SlateportCity_Text_FromHarborTryingToTakeSub:
-	.string "It's from the HARBOR!\p"
-	.string "The submarine!\n"
-	.string "They're trying to take it!$"
+	.string "KAI aldean izan da!\p"
+	.string "Urpekoa!\n"
+	.string "Hartzen saiatzen ari dira!$"
 
 SlateportCity_Text_PleaseComeWithMe:
 	.string "{PLAYER}{KUN}!\n"
-	.string "Please, come with me!$"
+	.string "Etorri nirekin, mesedez!$"
 
 SlateportCity_Text_BattleTentSign:
-	.string "BATTLE TENT SLATEPORT SITE\n"
-	.string "“Find it! The ultimate POKéMON!”$"
+	.string "PORTUONDOKO BORROKA DENDA\n"
+	.string "“Aurkitu! Berebiziko POKéMONA!”$"
 
 SlateportCity_Text_SternsShipyardWantedSign:
-	.string "STERN'S SHIPYARD\p"
-	.string "“Wanted: A sailor capable of sailing\n"
-	.string "in all currents.”$"
+	.string "ABABORREN ONTZIDIA\p"
+	.string "“Bila gabiltza: Edozein ur lasterretan\n"
+	.string "nabigatzeko gai den marinela.”$"
 
 SlateportCity_Text_SternsShipyardNearsCompletion:
-	.string "STERN'S SHIPYARD\p"
-	.string "“The ferry S.S. TIDAL nears\n"
-	.string "completion for serving the ports of\l"
-	.string "SLATEPORT and LILYCOVE.”$"
+	.string "ABABORREN ONTZIDIA\p"
+	.string "“MAREA ONTZIA ia-ia prest dago\n"
+	.string "UR-LILI eta PORTUONDO artean\l"
+	.string "zerbitzua ematen hasteko.”$"
 
 SlateportCity_Text_SternsShipyardFerryComplete:
-	.string "STERN'S SHIPYARD\p"
-	.string "“Boarding of the SLATEPORT-LILYCOVE\n"
-	.string "ferry S.S. TIDAL is handled at the\l"
-	.string "HARBOR.”$"
+	.string "ABABORREN ONTZIDIA\p"
+	.string "“UR-LILI eta PORTUONDO arteko MAREA\n"
+	.string "ontzira igotzeko, beharrezkoa da\l"
+	.string "KAIRA joatea.”$"
 
 SlateportCity_Text_PokemonFanClubSign:
-	.string "POKéMON FAN CLUB\n"
-	.string "“Calling all fans of POKéMON!”$"
+	.string "POKéMON FAN KLUBA\n"
+	.string "“POKéMONEN fan guztien etxea!”$"
 
 SlateportCity_Text_OceanicMuseumSign:
-	.string "“The endless sea sustains\n"
-	.string "all life.”\p"
-	.string "OCEANIC MUSEUM$"
+	.string "“Itsaso amaigabea bizitza\n"
+	.string "osoaren euskarria da.”\p"
+	.string "MUSEO OZEANIKOA$"
 
 SlateportCity_Text_CitySign:
-	.string "SLATEPORT CITY\p"
-	.string "“The port where people and POKéMON\n"
-	.string "cross paths.”$"
+	.string "PORTUONDO HIRIA\p"
+	.string "“POKéMONEN eta pertsonen bideak\n"
+	.string "elkartzen diren portua.”$"
 
 SlateportCity_Text_MarketSign:
-	.string "SLATEPORT MARKET\n"
-	.string "“Unique items found nowhere else!”$"
+	.string "PORTUONDOKO MERKATUA\n"
+	.string "“Beste inon aurkituko ez dituzun gauzak!”$"
 
 SlateportCity_Text_HarborFerryUnderConstruction:
-	.string "SLATEPORT HARBOR\p"
-	.string "“The ferry S.S. TIDAL is under\n"
-	.string "construction in the SHIPYARD.\p"
-	.string "“Service is scheduled to begin\n"
-	.string "shortly.”$"
+	.string "PORTUONDOKO KAIA\p"
+	.string "“MAREA ONTZI ferrya eraikitzen\n"
+	.string "ari dira ONTZIDIAN.\p"
+	.string "“Zerbitzua laister jarriko da\n"
+	.string "martxan.”$"
 
 SlateportCity_Text_HarborSign:
-	.string "SLATEPORT HARBOR\p"
-	.string "“Enjoy a delightful cruise on\n"
-	.string "the ferry S.S. TIDAL.”$"
+	.string "PORTUONDOKO KAIA\p"
+	.string "“Gozatu bidaia eder bat\n"
+	.string "MAREA ONTZI ferryan.”$"
 
 SlateportCity_Text_NameRatersHouseSign:
-	.string "NAME RATER'S HOUSE\n"
-	.string "“POKéMON nicknames rated.”$"
+	.string "EZIZENEN INSPEKTOREAREN ETXEA\n"
+	.string "“POKéMONEN ezizenak aztertzen ditugu.”$"
 
 SlateportCity_Text_ExplainBerries:
-	.string "If a wild POKéMON gets hurt, it heals\n"
-	.string "itself by chewing on BERRIES.\p"
-	.string "Did you know that?\p"
-	.string "Somebody saw that and got the idea\n"
-	.string "of making medicine from BERRIES.\p"
-	.string "Did you know that?\p"
-	.string "To turn BERRIES into medicine,\n"
-	.string "they must be crushed into powder.\p"
-	.string "Did you know that?\p"
-	.string "You seem to have an interest\n"
-	.string "in BERRIES!\p"
-	.string "I've got something good for someone\n"
-	.string "like you.$"
+	.string "POKéMON basati batek mina hartzen badu,\n"
+	.string "bere burua sendatzen du BAIAK janda.\p"
+	.string "Ba al zenekien?\p"
+	.string "Norbaitek hori ikusi zuen eta\n"
+	.string "BAIEKIN sendagaiak egiten hasi zen.\p"
+	.string "Ba al zenekien?\p"
+	.string "BAIAK botika bihurtzeko, lehenengo\n"
+	.string "hauts bihurty behar dira.\p"
+	.string "Ba al zenekien?\p"
+	.string "Badirudi BAIAK interesatzen\n"
+	.string "zaizkizula!\p"
+	.string "Zerbait daukat zu bezalako\n"
+	.string "norbaitentzat.$"
 
 SlateportCity_Text_ExplainBerryPowder:
-	.string "I recently had machines installed at\n"
-	.string "POKéMON CENTERS for crushing BERRIES.\p"
-	.string "The BERRY CRUSH machines are at\n"
-	.string "the DIRECT CORNER upstairs.\p"
-	.string "Did you know?\p"
-	.string "Could you make BERRY POWDER for\n"
-	.string "me using those machines?\p"
-	.string "I can make you all sorts of medicine\n"
-	.string "if you bring me lots of BERRY POWDER.$"
+	.string "Duela gutxi BAIAK txikitzeko makinak\n"
+	.string "jarri ditugu POKéMON ZENTROETAN.\p"
+	.string "BAIA TXIKITZAILEAK goiko pisuan\n"
+	.string "daude, ZUZENEKO TXOKOAN.\p"
+	.string "Ba al zenekien?\p"
+	.string "Egingo zenidake BAIA HAUTSA\n"
+	.string "makina hoiek erabilita?\p"
+	.string "Era guztietako sendagaiak egin\n"
+	.string "ditzaket BAIA HAUTSA ekartzen badidazu.$"
 
 SlateportCity_Text_BroughtMeSomeBerryPowder:
-	.string "Have you brought me some\n"
-	.string "BERRY POWDER?$"
+	.string "Ekarri al didazu\n"
+	.string "BAIA HAUTSA?$"
 
 SlateportCity_Text_ExchangeWhatWithIt:
-	.string "What would you like to exchange\n"
-	.string "it with?$"
+	.string "Zer nahiko zenuke aldatu\n"
+	.string "horren truke?$"
 
 SlateportCity_Text_ExchangeBerryPowderForItem:
-	.string "Okay, you want to exchange your\n"
-	.string "BERRY POWDER for one {STR_VAR_1}?$"
+	.string "Ongi, zure BAIA HAUTSA aldatu nahi\n"
+	.string "duzu {STR_VAR_1} baten truke?$"
 
 SlateportCity_Text_DontHaveEnoughBerryPowder:
-	.string "Oh, dear. You don't have enough\n"
-	.string "BERRY POWDER.$"
+	.string "Ai ene. Ez daukazu nahikoa\n"
+	.string "BAIA HAUTS.$"
 
 SlateportCity_Text_FineBerryPowderTradeSomethingElse:
-	.string "This is fine BERRY POWDER.\n"
-	.string "It will make excellent medicine.\p"
-	.string "Would you like to trade more of your\n"
-	.string "BERRY POWDER for something else?$"
+	.string "Hau BAIA HAUTS ona da, bai.\n"
+	.string "Bikaina izango da botikak egiteko.\p"
+	.string "Nahi duzu BAIA HAUTS gehiago\n"
+	.string "trukatu beste zerbaiten truke?$"
 
 SlateportCity_Text_WhenYouGetMoreBringItToMe:
-	.string "Okay! When you get some more\n"
-	.string "BERRY POWDER, bring it to me, please!$"
+	.string "Ongi! BAIA HAUTS gehiago lortzen\n"
+	.string "baduzu, ekarri niri, mesedez!$"
 
 SlateportCity_Text_ComeBackToTradeBerryPowder:
-	.string "Come back if you'd like to trade your\n"
-	.string "BERRY POWDER for some medicine.\p"
-	.string "I'm always running a bazaar here.\p"
-	.string "Did you know?$"
+	.string "Itzuli zure BAIA HAUTSA botika\n"
+	.string "gehiagoren truke trukatu nahi baduzu.\p"
+	.string "Beti dut bazaarra irekita.\p"
+	.string "Ba al zenekien?$"
 
 SlateportCity_Text_YouDroveTeamAquaAway:
-	.string "SCOTT: Huh?\n"
-	.string "I'm sure I met you somewhere before.\p"
-	.string "Have I introduced myself to you?\n"
-	.string "If not, my name's SCOTT.\p"
-	.string "I just saw TEAM AQUA run away from\n"
-	.string "here like they were stung.\p"
-	.string "Let me guess--you drove them away?$"
+	.string "TRIKI: Nola?\n"
+	.string "Ziur nago lehenago nonbait ikusi zaitudala.\p"
+	.string "Zuk ezagutzen al nauzu?\n"
+	.string "Bestela, nire izena TRIKI da.\p"
+	.string "AQUA TALDEA ihes egiten dut oraintxe\n"
+	.string "bertan, zizta egin izan balie bezala.\p"
+	.string "Utzi asmatzen; zuk bidali al dituzu?$"
 
 SlateportCity_Text_MaybeThisTrainer:
-	.string "SCOTT: Hmm…\n"
-	.string "Maybe, just maybe, this TRAINER…$"
+	.string "TRIKI: Hmm…\n"
+	.string "Agian, agian soilik, ENTRENATZAILE hau…$"
 
 SlateportCity_Text_LetsRegisterEachOther:
-	.string "SCOTT: All right! I think you're going\n"
-	.string "to become a good friend.\p"
-	.string "So, let's register each other in our\n"
-	.string "POKéNAVS.\p"
+	.string "TRIKI: Bikain! Esango nuke zu eta\n"
+	.string "ni lagun onak bilakatuko garela.\p"
+	.string "Erregistratu gaitezen elkarren\n"
+	.string "POKéNAVETAN.\p"
 	.string "… … … … … …$"
 
 SlateportCity_Text_RegisteredScott:
-	.string "Registered this SCOTT person\n"
-	.string "in the POKéNAV.$"
+	.string "TRIKI hau zure POKéNAVEAN\n"
+	.string "erregistratu duzu.$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
-	.string "SCOTT: What I'd like to do is tag along\n"
-	.string "with you, but I do want to keep an eye\l"
-	.string "on the talents of other people, too.\p"
-	.string "So, I'll be off to roam other towns\n"
-	.string "a bit more.\p"
-	.string "Be seeing you, {PLAYER}{KUN}!$"
+	.string "TRIKI: Zure jarraipen txiki bat egin\n"
+	.string "nahiko nuke, baina beste batzuen\l"
+	.string "talentua ere jarraitu nahi nuke.\p"
+	.string "Horregatik, beste herri batzuetara\n"
+	.string "joango naiz, jende gehiago ezagutzera.\p"
+	.string "Pozten naiz zu ezagututa, {PLAYER}{KUN}!$"
 
 SlateportCity_Text_TakingBattleTentChallenge:
-	.string "SCOTT: Oh, hey!\n"
-	.string "If it isn't {PLAYER}{KUN}!\p"
-	.string "{PLAYER}{KUN}, let me guess--you're going\n"
-	.string "to take the BATTLE TENT challenge?\p"
-	.string "Yeah! That's a good idea!\n"
-	.string "That's a really great idea!\p"
-	.string "After all, a tough TRAINER is\n"
-	.string "the perfect fit for the BATTLE TENT!\p"
-	.string "Give it your best effort!$"
+	.string "TRIKI: Ei, aizu!\n"
+	.string "{PLAYER}{KUN} da eta!\p"
+	.string "{PLAYER}{KUN}, utzi asmatzen: BORROKA\n"
+	.string "DENDAKO erronkari aurre egitera zatoz?\p"
+	.string "Bai! Ideia bikaina da hori!\n"
+	.string "Benetan da ideia bikaina da!\p"
+	.string "Azken finean, ENTRENATZAILE indartsuak\n"
+	.string "BORROKA DENDARA joan behar dira!\p"
+	.string "Saiatu, ea lortzen duzun!$"
