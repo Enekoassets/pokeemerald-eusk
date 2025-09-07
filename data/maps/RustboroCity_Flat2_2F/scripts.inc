@@ -22,16 +22,16 @@ RustboroCity_Flat2_2F_EventScript_GavePremierBall::
 	end
 
 RustboroCity_Flat2_2F_Text_DevonWasTinyInOldDays:
-	.string "Way back in the old days, DEVON was just\n"
-	.string "a teeny, tiny company.$"
+	.string "Duela urte asko, DEVON enpresa\n"
+	.string "txiki, ñimiñoa zen.$"
 
 RustboroCity_Flat2_2F_Text_MyDaddyMadeThisYouCanHaveIt:
-	.string "My daddy's working at the CORPORATION.\p"
-	.string "My daddy made this!\n"
-	.string "But I can't use it, so you can have it.$"
+	.string "Nire aitatxok KORPORAZIOAN egiten du lan.\p"
+	.string "Nire aitatxok egin du hau!\n"
+	.string "Baina ezin dut erabili, beraz, zuretzat.$"
 
 RustboroCity_Flat2_2F_Text_GoingToWorkAtDevonToo:
-	.string "My daddy's working at the CORPORATION.\p"
-	.string "When I grow up, I'm going to work for\n"
-	.string "DEVON, too.$"
+	.string "Nire aitatxok KORPORAZIOAN egiten du lan.\p"
+	.string "Hazten naizenean DEVONENTZAT\n"
+	.string "egingo dut lan nik ere.$"
 

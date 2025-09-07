@@ -81,66 +81,66 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 	end
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
-	.string "Hello and welcome to the DEVON\n"
-	.string "CORPORATION.\p"
-	.string "We're proud producers of items and\n"
-	.string "medicine that enhance your life.$"
+	.string "Kaixo eta ongi etorri DEVON\n"
+	.string "KORPORAZIORA.\p"
+	.string "Zure bizitza hobetzen duten item\n"
+	.string "eta botikak produzitzen ditugu.$"
 
 RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
-	.string "One of our research staff stupidly\n"
-	.string "got robbed of an important parcel.$"
+	.string "Gure ikerlari bati pakete oso\n"
+	.string "garrantzitsu bat lapurtu diote.$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "Hey, those RUNNING SHOES!\n"
-	.string "They're one of our products!\p"
-	.string "It makes me happy when I see someone\n"
-	.string "using something we made.$"
+	.string "Aizu, KORRIKAKO ZAPATILA horiek!\n"
+	.string "Gure produktuetako bat dira!\p"
+	.string "Pozik jartzen naiz norbait guk\n"
+	.string "egindako zerbaitekin ikusterakoan.$"
 
 RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
-	.string "That stolen parcel…\p"
-	.string "Well, sure it's important, but it's not\n"
-	.string "anything that anyone can use.\p"
-	.string "In my estimation, that robber must not\n"
-	.string "have been very bright.$"
+	.string "Lapurtutako pakete hori…\p"
+	.string "Beno, ziru garrantzitsua dela, baina\n"
+	.string "ez da inork erabili dezaken ezer.\p"
+	.string "Nire ustez, lapur hori ez da\n"
+	.string "bereziki argia.$"
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
-	.string "It sounds like they've recovered\n"
-	.string "the ripped-off DEVON GOODS.$"
+	.string "Badirudi lapurtutako DEVON PIEZAK\n"
+	.string "berreskuratu dituztela.$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
-	.string "I'm sorry, only authorized people\n"
-	.string "are allowed to enter here.$"
+	.string "Barkatu, baimendutako pertsonak\n"
+	.string "soilik sar daitezke hemen.$"
 
 RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:
-	.string "It's beyond stupid.\n"
-	.string "How could we get robbed?$"
+	.string "Benetan da ergelkeria.\n"
+	.string "Nola lapurtu digute?$"
 
 RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere:
-	.string "Hi, there!\n"
-	.string "You're always welcome here!$"
+	.string "Kaixo!\n"
+	.string "Hemen beti zara ongi etorria!$"
 
 RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
-	.string "Samples of rocks and metal are\n"
-	.string "displayed in the glass case.\p"
-	.string "There's a panel with some writing\n"
-	.string "on it…\p"
-	.string "“DEVON CORPORATION got its start as\n"
-	.string "a producer of stones from quarries.\p"
-	.string "“The company also produced iron from\n"
-	.string "filings in the sand.\p"
-	.string "“From that humble start as a producer\n"
-	.string "of raw materials, DEVON developed.\p"
-	.string "“DEVON is now a manufacturer of a wide\n"
-	.string "range of industrial products.”$"
+	.string "Arroka eta metal zatiak daude\n"
+	.string "kristalezko kutxan.\p"
+	.string "Zerbait idatzita dago gainean\n"
+	.string "duen panelean…\p"
+	.string "“DEVON KORPORAZIOA harrobietatik\n"
+	.string "harriak ateraz hasi zen.\p"
+	.string "“Hondarra banatuz burdina ere\n"
+	.string "produzitzen zuen hasieran.\p"
+	.string "“Material gordinak produzituz, hasiera\n"
+	.string "xume horrekin, garatu zen DEVON.\p"
+	.string "“DEVONEK orain produktu industrial\n"
+	.string "eskaintza zabala produzitzen du.”$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
-	.string "Prototypes and test products fill\n"
-	.string "the glass display case.\p"
-	.string "There's a panel with a description…\p"
-	.string "“In addition to industrial products,\n"
-	.string "DEVON now markets sundries and\l"
-	.string "pharmaceuticals for better lifestyles.\p"
-	.string "“Recently, DEVON has begun marketing\n"
-	.string "tools for POKéMON TRAINERS, including\l"
-	.string "POKé BALLS and POKéNAV systems.”$"
+	.string "Kristalezko kutxa prototipoz eta\n"
+	.string "probako produktuz beteta dago.\p"
+	.string "Panel bat dago deskribapen batekin…\p"
+	.string "“Produktu industrialez gain, DEVONEK\n"
+	.string "botikak eta bestelakoak produzitzen\l"
+	.string "ditu pertsonen bizitzak hobetzeko.\p"
+	.string "“Duela gutxi, DEVON ENTRENATZAILEENTZAKO\n"
+	.string "tresnak egiten hasi da, POKé BALLAK\l"
+	.string "eta POKéNAV sistemak, esaterako.”$"
 
