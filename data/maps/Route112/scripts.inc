@@ -110,36 +110,36 @@ Route112_EventScript_Shayla::
 	end
 
 Route112_Text_LeaderGoingToAwakenThing:
-	.string "Hey, man, is our leader really going\n"
-	.string "to awaken that thing?$"
+	.string "Aizu, gure liderrak benetan\n"
+	.string "esnatuko ote du gauza hori?$"
 
 Route112_Text_YeahWeNeedMeteorite:
-	.string "Sounds like it, yeah. But I heard\n"
-	.string "we need a METEORITE to do it.$"
+	.string "Hala dirudi, bai. Baina entzun dut\n"
+	.string "METEORITO bat behar dugula horretarako.$"
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor:
-	.string "Oh, I get it now. That's why the rest\n"
-	.string "of the crew went out to FALLARBOR.$"
+	.string "Noski, ulertzen dut orain. Horregatik\n"
+	.string "joan dira besteak ARREKARARA.$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack:
-	.string "You got it. And until they come back,\n"
-	.string "we're not to let anyone pass, right.$"
+	.string "Hori da. Eta itzultzen diren arte,\n"
+	.string "ezin diogu inori pasatzen utzi.$"
 
 Route112_Text_NotEasyToGetBackToLavaridge:
-	.string "Eh, I'd like to get to MAUVILLE, but if\n"
-	.string "I went down these ledges, it'd be no\l"
-	.string "easy matter to get back to LAVARIDGE.$"
+	.string "Beno, MALBADIRA joan nahi nuke, baina\n"
+	.string "maldan behera jaisten banaiz, ez da\l"
+	.string "erraza izango LABARANERA itzultzea.$"
 
 Route112_Text_MtChimneyCableCarSign:
-	.string "MT. CHIMNEY CABLE CAR\n"
-	.string "“A short walk {UP_ARROW} way!”$"
+	.string "TXIMINIA MENDIKO TELEFERIKOA\n"
+	.string "“Paseo laburra {UP_ARROW} norabidean!”$"
 
 Route112_Text_MtChimneySign:
-	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit,\n"
-	.string "please take the CABLE CAR.”$"
+	.string "TXIMINIA MENDIA\p"
+	.string "“LABARAN HERRIRA edo tontorrera\n"
+	.string "joateko, TELEFERIKOA erabili, mesedez.”$"
 
 Route112_Text_RouteSignLavaridge:
-	.string "ROUTE 112\n"
-	.string "{LEFT_ARROW} LAVARIDGE TOWN$"
+	.string "112. ERRUTA\n"
+	.string "{LEFT_ARROW} LABARAN HERRIA$"
 

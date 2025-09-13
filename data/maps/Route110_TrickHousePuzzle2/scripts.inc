@@ -100,42 +100,42 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 	end
 
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is smart.”\n"
+	.string "{PLAYER}(e)k kode sekretua idatzi\n"
+	.string "du atean.\p"
+	.string "“TRIKIMAISUA azkarra da.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Atea ireki egin da!$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:
-	.string "Which switch closes which hole?$"
+	.string "Zein zulo ixten du zein etengailuk?$"
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
-	.string "After that battle, I'm even more\n"
-	.string "confused!$"
+	.string "Borroka horren ostean, are\n"
+	.string "nahastuago nago!$"
 
 Route110_TrickHousePuzzle2_Text_TedPostBattle:
-	.string "Can I get you to push all the buttons\n"
-	.string "for me?$"
+	.string "Sakatuko zenituzke botoi guztiak\n"
+	.string "nire partez?$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
-	.string "Oh! You're on your second TRICK HOUSE\n"
-	.string "challenge!$"
+	.string "Ei! TRIKIMAILUEN ETXEKO zure\n"
+	.string "bigarren erronkan zaude!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
-	.string "You're good at battling too?$"
+	.string "Borrokan ere ona zara, beraz?$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "The TRICK MASTER rigged all the tricks\n"
-	.string "in this house all by himself.$"
+	.string "TRIKIMAISUAK bakarrik egin ditu\n"
+	.string "etxe honetako trikimailu guztiak.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "I want to make my own GYM one day.\n"
-	.string "So, I'm studying how to set traps.$"
+	.string "Nire GIMNASIO propioa egin nahi dut.\n"
+	.string "Beraz, tranpak nola jarri aztertzen ari naiz.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-	.string "I didn't study battling enough!$"
+	.string "Borrokak aztertu behar nituen gehiago!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "You're strong, aren't you?\n"
-	.string "Maybe even enough to be a GYM LEADER!$"
+	.string "Indartsua zara, ezta?\n"
+	.string "GIMNASIOKO LIDER izateko adina, akaso!$"
 

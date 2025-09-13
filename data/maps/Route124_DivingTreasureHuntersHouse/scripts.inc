@@ -284,55 +284,55 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 	end
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
-	.string "I'm the DIVING TREASURE HUNTER!\p"
-	.string "I'm the awesome dude who makes\n"
-	.string "deep-sea dives to gather treasures\l"
-	.string "resting at the bottom.$"
+	.string "URPEKO ALTXOR EHIZTARIA naiz!\p"
+	.string "Ur azpira espedizioak egiten\n"
+	.string "dituen tipo bikaina naiz, itsas\l"
+	.string "hondoko altxorrak bilatzeko.$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
-	.string "Tell me, have you seen any SHARDS of\n"
-	.string "tools made in ancient times?$"
+	.string "Esan, ikusi al duzu antzinako\n"
+	.string "tresnen ZATIRIK azken aldian?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
-	.string "You haven't got any treasures\n"
-	.string "for me…\p"
-	.string "If you see any SHARDS, like the RED\n"
-	.string "SHARD, you've got to trade it with me!$"
+	.string "Ez duzu altxorrik niretzako\n"
+	.string "beraz…\p"
+	.string "ZATIRIK aurkitzen baduzu, ZATI\n"
+	.string "GORRIA esaterako, trukatu nirekin!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou:
-	.string "Oh, hey! That…\n"
-	.string "That's a SHARD! I'm looking for those!\p"
-	.string "Oh, man, you've got to trade that\n"
-	.string "with me! I'll give you something good!$"
+	.string "Ei, aizu! Hori…\n"
+	.string "ZATI bat da! Horien bila ari naiz!\p"
+	.string "Ai ene, nirekin trukatu behar duzu\n"
+	.string "hori! Zeozer ona emango dizut!$"
 
 Route124_DivingTreasureHuntersHouse_Text_WhatDoYouWantToTrade:
-	.string "What do you want to trade?$"
+	.string "Zer nahi duzu trukatu?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YoullTradeShardForStone:
-	.string "You'll trade your {STR_VAR_1} for\n"
-	.string "my {STR_VAR_2}, then?$"
+	.string "Zure {STR_VAR_1} trukatuko duzu\n"
+	.string "nire {STR_VAR_2}(r)en truke, beraz?$"
 
 Route124_DivingTreasureHuntersHouse_Text_ItsADeal:
-	.string "It's a done deal!\n"
-	.string "Use that wisely!$"
+	.string "Tratua eginda!\n"
+	.string "Erabili hori buruarekin!$"
 
 Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
-	.string "Do you want to trade something else?$"
+	.string "Zeozer gehiago trukatu nahi duzu?$"
 
 Route124_DivingTreasureHuntersHouse_Text_BagFull:
-	.string "Whoops, your BAG's full.\n"
-	.string "Get rid of some items, friend!$"
+	.string "Ups, zure POLTSA beteta dago.\n"
+	.string "Bota item batuzk, lagun!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
-	.string "No? That's a downer.\n"
-	.string "Well, if you change your mind, come back.$"
+	.string "Ez? A zer nolako tristura.\n"
+	.string "Beno, iritzia aldatzekotan, etorri niregana.$"
 
 Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
+	.string "{CLEAR_TO 0x0a}Bila dabilen itema{CLEAR_TO 0x7c}Trukatzeko itema\n"
 	.string "{CLEAR_TO 0x0f}RED SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}FIRE STONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
+	.string "{CLEAR_TO 0x0a}Bila dabilen itema{CLEAR_TO 0x7c}Trukatzeko itema\n"
 	.string "{CLEAR_TO 0x06}YELLOW SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x73}THUNDERSTONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
+	.string "{CLEAR_TO 0x0a}Bila dabilen itema{CLEAR_TO 0x7c}Trukatzeko itema\n"
 	.string "{CLEAR_TO 0x0c}BLUE SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x79}WATER STONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
+	.string "{CLEAR_TO 0x0a}Bila dabilen itema{CLEAR_TO 0x7c}Trukatzeko itema\n"
 	.string "{CLEAR_TO 0x08}GREEN SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}LEAF STONE$"

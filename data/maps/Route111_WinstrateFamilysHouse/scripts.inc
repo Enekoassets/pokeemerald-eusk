@@ -62,46 +62,46 @@ Route111_WinstrateFamilysHouse_EventScript_FaceOriginalDirection::
 	end
 
 Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou:
-	.string "You're the first TRAINER I've seen who\n"
-	.string "deploys POKéMON so masterfully.\p"
-	.string "But, I should tell you--my son is\n"
-	.string "stronger than you.\p"
-	.string "He even took the POKéMON LEAGUE\n"
-	.string "challenge, I'll have you know.$"
+	.string "POKéMONAK halako trebeziaz erabiltzen\n"
+	.string "dituen lehen ENTRENATZAILEA zara.\p"
+	.string "Baina, esan beharra dut: nire semea\n"
+	.string "zu baino indartsuagoa da.\p"
+	.string "POKéMON LIGAKO erronkari aurre\n"
+	.string "egin zion, jakin dezazun.$"
 
 Route111_WinstrateFamilysHouse_Text_LikeYouToHaveMachoBrace:
-	.string "We use this MACHO BRACE to more\n"
-	.string "effectively strengthen our POKéMON\l"
-	.string "in training.\p"
-	.string "Since you've beaten all of us here,\n"
-	.string "I don't know if you need it, but we\l"
-	.string "would like you to have our MACHO BRACE.$"
+	.string "BESOKO SENDO hau erabiltzen dugu\n"
+	.string "gure POKéMONAK efektiboki\l"
+	.string "entrenatzeko.\p"
+	.string "Gu denok garaitu gaituzunez, agian\n"
+	.string "ez duzu behar, baina gure BESOKO\l"
+	.string "SENDOA eman nahi genizuke.$"
 
 Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles:
-	.string "When it comes to POKéMON battles,\n"
-	.string "we tend to be pretty passionate.$"
+	.string "POKéMON borrokez ari garenean,\n"
+	.string "pasio handiz aritzen gara.$"
 
 Route111_WinstrateFamilysHouse_Text_StrongerFamilyMembers:
-	.string "Mommy is stronger than Daddy.\p"
-	.string "I'm stronger than Mommy.\p"
-	.string "And Grandma's stronger than me!\p"
-	.string "But my big brother is even stronger\n"
-	.string "than Grandma.$"
+	.string "Amatxo Aitatxo baino indartsuagoa da.\p"
+	.string "Ni Amatxo baino indartsuagoa naiz.\p"
+	.string "Eta Amona ni baino indartsuagoa!\p"
+	.string "Baina nire anaia nagusia Amona\n"
+	.string "baino are indartsuagoa da.$"
 
 Route111_WinstrateFamilysHouse_Text_GrandsonStrong:
-	.string "There's no question that you're strong.\p"
-	.string "But if you were to battle my grandson,\n"
-	.string "you'd end up crying in frustration.\p"
-	.string "He's much stronger than any TRAINER\n"
-	.string "our family knows.\p"
-	.string "He must be challenging the POKéMON\n"
-	.string "LEAGUE CHAMPION by now.\p"
-	.string "Knowing my grandson, he could be the\n"
-	.string "CHAMPION already!$"
+	.string "Indartsua zara, ez dago dudarik.\p"
+	.string "Baina nire bilobaren aurka egingo bazenu,\n"
+	.string "frustrazioz negar egingo zenuke.\p"
+	.string "Gure familiak ezagutzen duen edozein\n"
+	.string "ENTRENATZAILE baino indartsuagoa da.\p"
+	.string "POKéMON LIGAKO TXAPELDUNAREN aurka\n"
+	.string "aritu beharko litzateke jada.\p"
+	.string "Nire biloba ezagututa, agian bera\n"
+	.string "da TXAPELDUNA jada!$"
 
 Route111_WinstrateFamilysHouse_Text_GrandsonStrongShort:
-	.string "My grandson must be challenging the\n"
-	.string "POKéMON LEAGUE CHAMPION by now.\p"
-	.string "Knowing my grandson, he could be the\n"
-	.string "CHAMPION already!$"
+	.string "Nire biloba POKéMON LIGAKO TXAPELDUNAREN\n"
+	.string "aurka aritu beharko litzateke jada.\p"
+	.string "Nire biloba ezagututa, agian bera\n"
+	.string "da TXAPELDUNA jada!$"
 

@@ -289,67 +289,67 @@ Route103_EventScript_Isabelle::
 	end
 
 Route103_Text_MayRoute103Pokemon:
-	.string "MAY: Let's see… The POKéMON found\n"
-	.string "on ROUTE 103 include…$"
+	.string "MAIA: Ikus dezagun… 103. ERRUTAKO\n"
+	.string "POKéMONEN artean…$"
 
 Route103_Text_MayLetsBattle:
-	.string "Oh, hi, {PLAYER}{KUN}!\p"
-	.string "…Oh, I see, my dad gave you\n"
-	.string "a POKéMON as a gift.\p"
-	.string "Since we're here, let's have a quick\n"
-	.string "battle!\p"
-	.string "I'll give you a taste of what being\n"
-	.string "a TRAINER is like.$"
+	.string "Ei, aupa, {PLAYER}{KUN}!\p"
+	.string "…Ikusten dut, nire aitak\n"
+	.string "POKéMON bat eman dizu opari.\p"
+	.string "Hemen gaudenez, egin dezagun\n"
+	.string "borroka azkar bat!\p"
+	.string "ENTRENATZAILE izatea zer den\n"
+	.string "erakutsiko dizut.$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! That's great!\n"
-	.string "{PLAYER}{KUN}, you're pretty good!$"
+	.string "Uau! Izugarria!\n"
+	.string "{PLAYER}{KUN}, ona zara, gero!$"
 
 Route103_Text_MayTimeToHeadBack:
-	.string "MAY: I think I know why my dad has\n"
-	.string "an eye out for you now.\p"
-	.string "I mean, you just got that POKéMON,\n"
-	.string "but it already likes you.\p"
-	.string "You might be able to befriend any\n"
-	.string "kind of POKéMON easily.\p"
-	.string "Well, it's time to head back to\n"
-	.string "the LAB.$"
+	.string "MAIA: Orain ulertzen dut aitak\n"
+	.string "zergatik egin dizun kasu.\p"
+	.string "Alegia, POKéMON hori lortu berri,\n"
+	.string "eta jada atsegin zaitu.\p"
+	.string "Edozein POKéMONEN laguna egingo\n"
+	.string "zara, erraz, gainera.\p"
+	.string "Beno, LABORATEGIRA itzultzeko\n"
+	.string "garaia da.$"
 
 Route103_Text_BrendanRoute103Pokemon:
-	.string "BRENDAN: Okay, so it's this one and\n"
-	.string "that one that live on ROUTE 103…$"
+	.string "BEÑAT: Ongi, beraz, hau eta hau\n"
+	.string "bizi dira 103. ERRUTAN…$"
 
 Route103_Text_BrendanLetsBattle:
-	.string "Hey, it's {PLAYER}!\p"
-	.string "…Oh, yeah, Dad gave you a POKéMON.\p"
-	.string "Since we're here, how about a little\n"
-	.string "battle?\p"
-	.string "I'll teach you what being a TRAINER's\n"
-	.string "about!$"
+	.string "Ei, {PLAYER} da eta!\p"
+	.string "…Ah, bai, aitak POKéMON bat eman dizu.\p"
+	.string "Hemen gaudenez, egingo al dugu\n"
+	.string "borroka azkar bat?\p"
+	.string "ENTRENATZAILE izatea zer den\n"
+	.string "erakutsiko dizut!$"
 
 Route103_Text_BrendanDefeated:
-	.string "Huh, {PLAYER}, you're not too shabby.$"
+	.string "Aizu, {PLAYER}, ez zara kaskarra, gero.$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "BRENDAN: I think I get it.\n"
-	.string "I think I know why my dad has his eye\l"
-	.string "out for you now.\p"
-	.string "Look, your POKéMON already likes you,\n"
-	.string "even though you just got it.\p"
-	.string "{PLAYER}, I get the feeling that you\n"
-	.string "could befriend any POKéMON with ease.\p"
-	.string "We should head back to the LAB.$"
+	.string "BEÑAT: Uste dut ulertzen dudala.\n"
+	.string "Orain ulertzen dut aitak zergatik\l"
+	.string "egin dizun kasu.\p"
+	.string "Begira, zure POKéMONAK atsegn zaitu,\n"
+	.string "nahiz eta lortu berri duzun.\p"
+	.string "{PLAYER}, esango nuke erraz egingo\n"
+	.string "zinatekeela edozein POKéMONEN laguna.\p"
+	.string "LABORATEGIRA bueltatu behar genuke.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "My POKéMON is staggeringly tired…\n"
-	.string "I should have brought a POTION…$"
+	.string "Nire POKéMONA guztiz akituta dago…\n"
+	.string "EDABE bat ekarri behar nuen…$"
 
 Route103_Text_ShortcutToOldale:
-	.string "If you cross the sea from here,\n"
-	.string "it'll be a shortcut to OLDALE TOWN.\p"
-	.string "Fufufu, that's useful, isn't it?$"
+	.string "Hemendik itsasoa zeharkatuz gero,\n"
+	.string "ESKASETA HERRIRA iritsiko zinateke.\p"
+	.string "Fufufu, erabilgarria, ez da hala?$"
 
 Route103_Text_RouteSign:
-	.string "ROUTE 103\n"
-	.string "{DOWN_ARROW} OLDALE TOWN$"
+	.string "103. ERRUTA\n"
+	.string "{DOWN_ARROW} ESKASETA HERRIA$"
 

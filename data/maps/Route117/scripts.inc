@@ -181,28 +181,28 @@ Route117_EventScript_Aisha::
 	end
 
 Route117_Text_DayCarePokemonHadNewMove:
-	.string "I left my POKéMON at the DAY CARE.\p"
-	.string "When I got it back, it had a new move\n"
-	.string "that I didn't teach it.\l"
-	.string "I was really, really surprised.$"
+	.string "Nire POKéMONAK ZAINDEGIAN utzi ditut.\p"
+	.string "Itzuli zidatenean, erakutsi ez nion\n"
+	.string "eraso bat ikasia zuen.\l"
+	.string "Oso oso harrituta geratu nintzen.$"
 
 Route117_Text_ArentTheseFlowersPretty:
-	.string "What do you think?\n"
-	.string "Aren't these flowers pretty?\p"
-	.string "I planted them all!$"
+	.string "Zer iruditzen zaizu?\n"
+	.string "Ez al dira ederrak lore hauek?\p"
+	.string "Nik landatu ditut guztiak!$"
 
 Route117_Text_AirIsTastyHere:
-	.string "The air is tasty here!$"
+	.string "Airea gozoa da hemen!$"
 
 Route117_Text_RouteSignVerdanturf:
-	.string "ROUTE 117\n"
-	.string "{LEFT_ARROW} VERDANTURF TOWN$"
+	.string "117. ERRUTA\n"
+	.string "{LEFT_ARROW} BERDEZELAI HERRIA$"
 
 Route117_Text_RouteSignMauville:
-	.string "ROUTE 117\n"
-	.string "{RIGHT_ARROW} MAUVILLE CITY$"
+	.string "117. ERRUTA\n"
+	.string "{RIGHT_ARROW} MALBADI HIRIA$"
 
 Route117_Text_DayCareSign:
-	.string "POKéMON DAY CARE\n"
-	.string "“Let us raise your POKéMON.”$"
+	.string "POKéMON ZAINDEGIA\n"
+	.string "“Utziguzu zure POKéMONAK hazten.”$"
 

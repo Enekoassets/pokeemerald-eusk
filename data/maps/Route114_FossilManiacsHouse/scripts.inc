@@ -31,24 +31,24 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "My big brother's the FOSSIL MANIAC…\n"
-	.string "He's a nice guy who loves FOSSILS…\p"
-	.string "He loves digging holes, too…\n"
-	.string "He dug this hole by himself…\p"
-	.string "You can have this, so you can DIG\n"
-	.string "holes just like my big brother…$"
+	.string "Nire anaia nagusia FOSIL MANIAKOA da…\n"
+	.string "FOSILAK maite dituen mutil jatorra da…\p"
+	.string "Zuloak egitea ere atsegin du…\n"
+	.string "Zulo hau berak egin zuen…\p"
+	.string "Hau zuretzat, zuk ere nire anaiak\n"
+	.string "bezala ZULATU ahal izateko…$"
 
 Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
-	.string "If you make a POKéMON DIG inside a\n"
-	.string "cave, you're returned to the entrance…$"
+	.string "POKéMON batek ZULAKETA erabiltzen badu\n"
+	.string "koba batean, hasierara itzuliko zara…$"
 
 Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
-	.string "Rocks in peculiar shapes fill\n"
-	.string "the display case…$"
+	.string "Forma bereziko arrokaz beteta\n"
+	.string "dago erakuslekua…$"
 
 Route114_FossilManiacsHouse_Text_CrammedWithBooks:
-	.string "THE COMPOSITION OF STRATA…\n"
-	.string "HOW RAIN SHAPES THE LAND…\l"
-	.string "STONES, SOIL, AND ROCK…\p"
-	.string "It's crammed with books.$"
+	.string "LURRAZALAREN GERUZAK…\n"
+	.string "NOLA EURIAK LURRA LANTZEN DUEN…\l"
+	.string "HARRIAK, LURRA ETA ARROKAK…\p"
+	.string "Liburuz gainezka dago.$"
 

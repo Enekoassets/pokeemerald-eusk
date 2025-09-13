@@ -177,26 +177,26 @@ Route114_EventScript_Kai::
 	end
 
 Route114_Text_AllMyMonDoesIsRoarTakeThis:
-	.string "All my POKéMON does is ROAR…\n"
-	.string "No one dares to come near me…\p"
-	.string "Sigh… If you would, please take\n"
-	.string "this TM away…$"
+	.string "Nire POKéMONAK ORROA besterik ez\n"
+	.string "du egiten… Inor ez zait hurblitzen…\p"
+	.string "Uff… Mesedez, hartu eta eraman\n"
+	.string "MT hau…$"
 
 Route114_Text_ExplainRoar:
-	.string "TM05 contains ROAR.\n"
-	.string "A ROAR sends POKéMON scurrying.$"
+	.string "MT05ek ORROA du barruan.\n"
+	.string "ORROA batek POKéMONA uxatzen du.$"
 
 Route114_Text_Poochyena:
 	.string "Bow! Bowwow!$"
 
 Route114_Text_MeteorFallsSign:
-	.string "METEOR FALLS\n"
-	.string "RUSTBORO CITY THROUGH HERE$"
+	.string "METEORO UR-JAUZIA\n"
+	.string "BURDINTZA HIRIA HEMENDIK$"
 
 Route114_Text_FossilManiacsHouseSign:
-	.string "FOSSIL MANIAC'S HOUSE\n"
-	.string "“Fossils gratefully accepted!”$"
+	.string "FOSIL MANIAKOAREN ETXEA\n"
+	.string "“Fosilak ongo etorriak!”$"
 
 Route114_Text_LanettesHouse:
-	.string "LANETTE'S HOUSE$"
+	.string "LANETTEREN ETXEA$"
 

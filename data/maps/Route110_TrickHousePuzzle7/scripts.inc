@@ -315,78 +315,78 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 	end
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is huggable.”\n"
+	.string "{PLAYER}(e)k kode sekretua idatzi\n"
+	.string "du atean.\p"
+	.string "“TRIKIMAISUA besarkagarria da.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Atea ireki egin da!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "The TRICK MASTER always vanishes\n"
-	.string "like smoke. How does he do it?$"
+	.string "TRIKIMAISUA kea bezala desagertzen\n"
+	.string "da beti. Nola egiten ote du?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "Aiyeeeh! You're much too strong!\n"
-	.string "How do you do it?$"
+	.string "Aizuuuuu! Indartsuegia zara, baina!\n"
+	.string "Nola egiten duzu?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "I wish I could appear and disappear as\n"
-	.string "if I were smoke, too.$"
+	.string "Kea bezala agertu eta desagertu\n"
+	.string "nahi nuke nik ere.$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "Going around the same spot…\n"
-	.string "It begets ill fortune…$"
+	.string "Leku berean biraka aritzeak…\n"
+	.string "Zorte txarra ematen du…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
-	.string "Defeated!\n"
-	.string "It's a bad sign…$"
+	.string "Porrota!\n"
+	.string "Seinale txarra da…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "I've circled the same spot over ten\n"
-	.string "times now… It's ill fortune…$"
+	.string "Hamar aldiz eman dut bira leku\n"
+	.string "berean… Zorte txarra ematen du…$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-	.string "Whoever wins will get through here\n"
-	.string "first. That's the feeling I get.$"
+	.string "Irabazten duena hemendik pasako da\n"
+	.string "da lehenengo. Hori sentitzen dut.$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
-	.string "Oh!\n"
-	.string "Well, go ahead, then!$"
+	.string "Beno!\n"
+	.string "Pasa zaitez, orduan!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-	.string "You're solving all the puzzles in the\n"
-	.string "TRICK HOUSE. That's the feeling I get.$"
+	.string "TRIKIMAILU ETXEKO puzle guztiak argitzen\n"
+	.string "ari zara. Hori sentitzen dut.$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-	.string "Nufufufu, here at last!\n"
-	.string "Let's get right with it!$"
+	.string "Ufufuf, hementxe, azkenean!\n"
+	.string "Has gaitezen, beraz!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "You're so casual about winning!$"
+	.string "Ez zaizu irabaztea axola ere!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
-	.string "Humph! I'm not upset!\n"
-	.string "Not me!$"
+	.string "Pufff! Ez nago minduta!\n"
+	.string "Ni ez naiz mintzen!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "I ever so closely watched you coming!$"
+	.string "Aurretik ikusi zaitut etortzen!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "This outcome I didn't see coming…$"
+	.string "Emaitza ez dut aurretik ikusi…$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
-	.string "Well, anyway, we both picked a weird\n"
-	.string "place to get acquainted.\p"
-	.string "As one weirdo to another,\n"
-	.string "let's do our best!$"
+	.string "Beno, azken finean, biok aukeratu dugu\n"
+	.string "elkar ezagutzeko leku arraroa.\p"
+	.string "Xelebre baten partetik beste bati,\n"
+	.string "saia gaitezen gure onena ematen!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "It's awfully cramped in here…$"
+	.string "Oso oso beteta dago hau…$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Oh, yes, strong you are.$"
+	.string "Ene, bai, indartsua zara.$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "I was hoping to switch places with you\n"
-	.string "when I beat you, but…$"
+	.string "Zurekin lekua trukatu nahi\n"
+	.string "nuen irabazi ostean, baina…$"
 

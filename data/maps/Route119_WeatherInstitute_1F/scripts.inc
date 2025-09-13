@@ -71,65 +71,65 @@ Route119_WeatherInstitute_1F_EventScript_Grunt4::
 	end
 
 Route119_WeatherInstitute_1F_Text_Grunt1Intro:
-	.string "The BOSS got interested in\n"
-	.string "the research they have going here,\l"
-	.string "so he sent us out.\p"
-	.string "You quit meddling!$"
+	.string "NAGUSIAK interesa du hemen\n"
+	.string "egiten ari diren ikerketan,\l"
+	.string "beraz, bidali egin gaitu.\p"
+	.string "Ez ezazu muturrik sartu!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
-	.string "Blast it…\n"
-	.string "Blasted by a kid…$"
+	.string "Txikituta…\n"
+	.string "Umemoko batek txikitu nau…$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
-	.string "Our BOSS knows everything.\p"
-	.string "But I'm just a GRUNT. What would I know\n"
-	.string "about what he's thinking?$"
+	.string "NAGUSIAK dena daki.\p"
+	.string "Baina ni ERREKRUTA bat naiz. Nola\n"
+	.string "jakingo dut zer pentsatzen ari den?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Intro:
-	.string "Huh?\n"
-	.string "What's a kid doing here?$"
+	.string "Zer?\n"
+	.string "Zertan ari da umemoko bat hemen?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Defeat:
-	.string "Huh?\n"
-	.string "I lost?!$"
+	.string "Zer?\n"
+	.string "Galdu egin dut?!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4PostBattle:
-	.string "Oh, no…\n"
-	.string "I'll catch an earful for losing to a kid…\p"
-	.string "I should just take a nap in the bed…$"
+	.string "Ai ene… Ume baten aurka galduta,\n"
+	.string "errieta jasoko dut…\p"
+	.string "Siesta bat bota behar nuke…$"
 
 Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs:
-	.string "While I was sleeping, everyone went\n"
-	.string "upstairs!$"
+	.string "Lotan nengoela, mundu guztia\n"
+	.string "gora joan da!$"
 
 Route119_WeatherInstitute_1F_Text_WowYoureStrong:
-	.string "Wow, you're really strong!\p"
-	.string "I wish I could be a POKéMON TRAINER\n"
-	.string "like you!$"
+	.string "Ene, benetan indartsua zara!\p"
+	.string "Zu bezalako POKéMON ENTRENATZAILEA\n"
+	.string "izan nahi nuke!$"
 
 Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
-	.string "The PROFESSOR loves rain.\n"
-	.string "That's a fact.\p"
-	.string "But if it keeps raining, people will be in\n"
-	.string "trouble. That's another fact.\p"
-	.string "And thus, the PROFESSOR is studying\n"
-	.string "if the rain can be put to good use.$"
+	.string "IRAKASLEAK maite du euria.\n"
+	.string "Egia da hori.\p"
+	.string "Baina euriak horrela jarraitzen badu,\n"
+	.string "arazoa izango da. Hori ere egia da.\p"
+	.string "Horregatik, IRAKASLEA euria nola\n"
+	.string "erablii aztertzen ari da.$"
 
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
-	.string "On the 2nd floor of the INSTITUTE,\n"
-	.string "we study the weather patterns over\l"
-	.string "the HOENN region.\p"
-	.string "We've been noticing temporary and\n"
-	.string "isolated cases of droughts and\l"
-	.string "heavy rain lately…$"
+	.string "INSTITUTUKO 2. solairuan, HOENN\n"
+	.string "eskualdeko eguraldiaren patroiak\l"
+	.string "aztertzen ditugu.\p"
+	.string "Leku jakin batzuetan lehorte eta\n"
+	.string "uholde laburrak detektatzen ari\l"
+	.string "gara azkenaldian…$"
 
 Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
-	.string "Hello!\n"
-	.string "We've been saved by your actions!\p"
-	.string "What I don't understand is what on\n"
-	.string "earth the AQUAS were up to.$"
+	.string "Kaixo!\n"
+	.string "Zuk egindakoak salbatu gaitu!\p"
+	.string "Ulertzen ez dudana da zer nahi\n"
+	.string "zuten AQUA TALDEKO horiek.$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.string "Ohe bat da…\n"
+	.string "Deskantsatu dezagun.$"
 

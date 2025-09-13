@@ -245,57 +245,57 @@ Route118_EventScript_Deandre::
 	end
 
 Route118_Text_StevenQuestions:
-	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
-	.string "It's me, STEVEN!\n"
-	.string "We met in the cave near DEWFORD.\p"
-	.string "Have you met many kinds of POKéMON\n"
-	.string "since I last saw you?\p"
-	.string "There are many, many kinds of POKéMON\n"
-	.string "in this wide world of ours.\p"
-	.string "If you wanted to raise only your\n"
-	.string "favorites, that's fine.\p"
-	.string "Perhaps you find it more fun to raise\n"
-	.string "all sorts of POKéMON.\p"
-	.string "As a TRAINER of POKéMON,\n"
-	.string "what do you think?\p"
-	.string "Of course, it's not any of my business.\p"
-	.string "It would be nice if we were to meet\n"
-	.string "again somewhere.$"
+	.string "MIKEL: Aupa, {PLAYER}{KUN}!\p"
+	.string "Ni naiz, MIKEL!\n"
+	.string "IHINTZIBARREKO kobazuloan elkartu\p"
+	.string "ginen. POKéMON mota asko ikusi al\n"
+	.string "dituzu azkenengoz ikusi zintudanetik?\p"
+	.string "POKéMON mota asko eta asko daude\n"
+	.string "gure mundu zabal honetan.\p"
+	.string "Zure gustokoenak soilik hazi nahi\n"
+	.string "badituzu, ongi.\p"
+	.string "Agian dibertigarriagoa iruditzen zaizu\n"
+	.string "era guztietako POKéMONAK haztea.\p"
+	.string "POKéMON ENTRENATZAILE gisan,\n"
+	.string "zein da zure iritzia?\p"
+	.string "Noski, ez dit ardura behar.\p"
+	.string "Ongi egongo litzateke beste nonbait\n"
+	.string "elkar ikusiko bagenu.$"
 
 Route118_Text_YouAgreeGoodRodIsGood:
 	.string "Hmm!\n"
-	.string "A GOOD ROD is really good!\p"
-	.string "Wouldn't you agree?$"
+	.string "KANABERA ONA benetan da ona!\p"
+	.string "Ez al zaude ados?$"
 
 Route118_Text_IdenticalMindsTakeThis:
 	.string "Hmm!\n"
-	.string "We're of identical minds!\p"
+	.string "Berdin-beridn pentsatzen dugu!\p"
 	.string "Hmm!\n"
-	.string "Take this GOOD ROD!$"
+	.string "Tori KANABERA ON hau!$"
 
 Route118_Text_TryYourLuckFishing:
-	.string "Wherever there's water, try your luck\n"
-	.string "at fishing.$"
+	.string "Ura dagoen edozein lekutan,\n"
+	.string "probatu eta egin arrantza.$"
 
 Route118_Text_DontYouLikeToFish:
-	.string "Don't you like to fish?$"
+	.string "Ez al duzu arrantza atsegin?$"
 
 Route118_Text_TryCatchingMonWithGoodRod:
-	.string "Try catching all sorts of POKéMON\n"
-	.string "with your GOOD ROD.$"
+	.string "Saiatu POKéMON desberdinak\n"
+	.string "harrapatzen KANABERA ONAREKIN.$"
 
 Route118_Text_CanCrossRiversWithSurf:
-	.string "Even if there isn't a boat, you can\n"
-	.string "cross rivers and the sea if you have\l"
-	.string "a POKéMON that knows SURF.\p"
-	.string "POKéMON can be counted on to do so\n"
-	.string "much!$"
+	.string "Itsasontzi gabe ere, ibaiak eta\n"
+	.string "itsasoa zeharkatu ditzakezu SURFA\l"
+	.string "dakien POKéMON bat baduzu.\p"
+	.string "POKéMONAK gauza pila bat egiteko\n"
+	.string "gai dira!$"
 
 Route118_Text_RouteSignMauville:
-	.string "ROUTE 118\n"
-	.string "{LEFT_ARROW} MAUVILLE CITY$"
+	.string "118. ERRUTA\n"
+	.string "{LEFT_ARROW} MALBADI HIRIA$"
 
 Route118_Text_RouteSign119:
-	.string "ROUTE 118\n"
-	.string "{UP_ARROW} ROUTE 119$"
+	.string "118. ERRUTA\n"
+	.string "{UP_ARROW} 119. ERRUTA$"
 

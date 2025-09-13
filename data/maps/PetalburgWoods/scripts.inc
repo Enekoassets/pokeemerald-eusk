@@ -320,157 +320,157 @@ PetalburgWoods_EventScript_JamesRematch::
 
 PetalburgWoods_Text_NotAOneToBeFound:
 	.string "Hmmm…\n"
-	.string "Not a one to be found…$"
+	.string "Ez dago bat bera ere…$"
 
 PetalburgWoods_Text_HaveYouSeenShroomish:
-	.string "Hello, have you seen any POKéMON\n"
-	.string "called SHROOMISH around here?\p"
-	.string "I really love that POKéMON.$"
+	.string "Kaixo, ikusi al duzu SHROOMISH\n"
+	.string "izeneko POKéMONIK hemen inguruan?\p"
+	.string "Benetan gustatzen zait POKéMON hori.$"
 
 PetalburgWoods_Text_IWasGoingToAmbushYou:
-	.string "I was going to ambush you, but you\n"
-	.string "had to dawdle in PETALBURG WOODS\l"
-	.string "forever, didn't you?\p"
-	.string "I got sick of waiting, so here I am!$"
+	.string "Segada bat egin behar nizun,\n"
+	.string "baina PETALORE BASOAN egon zara\l"
+	.string "denbora pila bat!\p"
+	.string "Nekatu naiz, itxaroten. Hemen nago!$"
 
 PetalburgWoods_Text_HandOverThosePapers:
-	.string "You! DEVON RESEARCHER!\p"
-	.string "Hand over those papers!$"
+	.string "Aizu! DEVONEKO IKERTZAILEA!\p"
+	.string "Ekarri paper horiek hona!$"
 
 PetalburgWoods_Text_YouHaveToHelpMe:
-	.string "Aiyeeeh!\p"
-	.string "You're a POKéMON TRAINER, aren't you?\n"
-	.string "You've got to help me, please!$"
+	.string "Ai ene!\p"
+	.string "POKéMON ENTRENATZAILEA zara, ezta?\n"
+	.string "Lagundu egin behar didazu, mesedez!$"
 
 PetalburgWoods_Text_NoOneCrossesTeamAqua:
-	.string "Hunh? What do you think you're doing?\n"
-	.string "What, you're going to protect him?\p"
-	.string "No one who crosses TEAM AQUA\n"
-	.string "gets any mercy, not even a kid!\p"
-	.string "Come on and battle me!$"
+	.string "Zer? Zertan ari zarela uste duzu?\n"
+	.string "Zer, babestu egingo al duzu?\p"
+	.string "AQUA TALDEARI aurre egiten dionak ez du\n"
+	.string "errukirik jasotzen, umea izanda ere!\p"
+	.string "Ea ba, borrokatu dezagun!$"
 
 PetalburgWoods_Text_YoureKiddingMe:
-	.string "You're kidding me! You're tough!$"
+	.string "Ezinezkoa da! Indartsua zara!$"
 
 PetalburgWoods_Text_YouveGotSomeNerve:
-	.string "Grrr… You've got some nerve\n"
-	.string "meddling with TEAM AQUA!\l"
-	.string "Come on and battle me again!\p"
-	.string "I wish I could say that, but I'm out of\n"
-	.string "POKéMON…\p"
-	.string "And, hey, we of TEAM AQUA are also\n"
-	.string "after something in RUSTBORO.\p"
-	.string "I'll let you go today!$"
+	.string "Kaka… Baduzu ausardia AQUA\n"
+	.string "TALDEAREN aurka errebelatzeko!\l"
+	.string "Ea ba, borroka dezagun berriro!\p"
+	.string "Hori egin nahi nuke, baina ez zait\n"
+	.string "POKéMONIK geratzen…\p"
+	.string "Gainera, AQUA TALDEKOOK zerbaiten\n"
+	.string "bila ari gara BURDINTZAN.\p"
+	.string "Ihes egiten utziko dizut, beraz!$"
 
 PetalburgWoods_Text_ThatWasAwfullyClose:
-	.string "Whew…\n"
-	.string "That was awfully close!\p"
-	.string "Thanks to you, he didn't rob me of\n"
-	.string "these important papers.\p"
-	.string "I know, I'll give you a GREAT BALL as\n"
-	.string "my thanks!$"
+	.string "Ufff…\n"
+	.string "Ia-ia guztia lapurtu didate!\p"
+	.string "Zuri esker ez ditut paper\n"
+	.string "garrantzitsu hauek galdu.\p"
+	.string "Badakit, SUPER BALL bat emango\n"
+	.string "dizut eskertzeko!$"
 
 PetalburgWoods_Text_TeamAquaAfterSomethingInRustboro:
-	.string "Didn't that TEAM AQUA thug say\n"
-	.string "they were after something in\l"
-	.string "RUSTBORO, too?$"
+	.string "Ez al du AQUA TALDEKO tipo horrek\n"
+	.string "esan BURDINTZAN ere zerbaiten\l"
+	.string "bila ari direla?$"
 
 PetalburgWoods_Text_ICantBeWastingTime:
-	.string "Uh-oh! It's a crisis!\n"
-	.string "I can't be wasting time!$"
+	.string "Ai ene! A zer krisia!\n"
+	.string "Ezin dut denborarik galdu!$"
 
 PetalburgWoods_Text_YoureLoadedWithItems:
-	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+	.string "Itemez gainezka zaude.\n"
+	.string "Ezin dizut SUPER BALL hau eman.$"
 
 PetalburgWoods_Text_GoBugPokemonTeam:
-	.string "I caught a whole bunch of POKéMON!\p"
-	.string "Go, go, go!\n"
-	.string "My BUG POKéMON team!$"
+	.string "POKéMON pila bat harrapatu ditut!\p"
+	.string "Aurrera, goazen!\n"
+	.string "Nire ZOMORRO POKéMONEN taldea!$"
 
 PetalburgWoods_Text_ICouldntWin:
-	.string "I have all these POKéMON,\n"
-	.string "but I couldn't win…$"
+	.string "Horrenbeste POKéMON,\n"
+	.string "baina ezin irabazi…$"
 
 PetalburgWoods_Text_ImOutOfPokeBalls:
-	.string "I caught a bunch of POKéMON.\n"
-	.string "Now I'm out of POKé BALLS.$"
+	.string "POKéMON mordo bat harrapatu ditut.\n"
+	.string "Orain ez daukat POKé BALLIK.$"
 
 PetalburgWoods_Text_InstantlyPopularWithBugPokemon:
-	.string "If you take BUG POKéMON to school,\n"
-	.string "you get to be instantly popular!$"
+	.string "ZOMORRO POKéMONAK eskolara eramaten\n"
+	.string "badituzu, guztiak txundituko dituzu!$"
 
 PetalburgWoods_Text_CantBePopularIfILose:
-	.string "I can't be popular if I lose.$"
+	.string "Ez dut inor txundituko galtzen badut.$"
 
 PetalburgWoods_Text_PeopleRespectYou:
-	.string "If you have a big BUG POKéMON,\n"
-	.string "people respect you for it.$"
+	.string "ZOMORRO POKéMON handi bat baduzu,\n"
+	.string "jendeak errespetua adieraziko dizu.$"
 
 PetalburgWoods_Text_IWantRematch1:
-	.string "I want a rematch when my BUG\n"
-	.string "POKéMON grow up!\p"
-	.string "I'm registering you in my POKéNAV!$"
+	.string "Errebantxa nahi dut nire ZOMORRO\n"
+	.string "POKéMONAK hazten direnean!\p"
+	.string "Nire POKéNAVEAN erregistratuko zaitut!$"
 
 PetalburgWoods_Text_IWantRematch2:
-	.string "I want a rematch when my BUG \n"
-	.string "POKéMON grow up!\p"
-	.string "I'm registering you in my POKéNAV!$"
+	.string "Errebantxa nahi dut nire ZOMORRO\n"
+	.string "POKéMONAK hazten direnean!\p"
+	.string "Nire POKéNAVEAN erregistratuko zaitut!$"
 
 PetalburgWoods_Text_MyPokemonHaveGrown:
-	.string "My BUG POKéMON have grown.\n"
-	.string "I'll be popular again.$"
+	.string "Nire ZOMORROPOKéMONAK hazi egin dira.\n"
+	.string "Denak txundituko ditut berriz.$"
 
 PetalburgWoods_Text_CantBePopularIfLose:
-	.string "I can't be popular if I lose.$"
+	.string "Ez dut inor txundituko galtzen badut.$"
 
 PetalburgWoods_Text_IveBeenTrainingHard:
-	.string "You get to be popular if you have\n"
-	.string "strong POKéMON, right?\l"
-	.string "So, I've been training hard.$"
+	.string "Guztiak txunditzen dituzu POKéMON\n"
+	.string "indartsuak badituzu, ezta?\l"
+	.string "Horregatik, gogor entrenatu dut.$"
 
 PetalburgWoods_Text_StayOutOfTallGrass:
-	.string "Yo, there!\n"
-	.string "Your POKéMON doing okay?\p"
-	.string "If your POKéMON are weak and you want\n"
-	.string "to avoid battles, you should stay out\l"
-	.string "of tall grass.$"
+	.string "Ei, aizu!\n"
+	.string "Ondo al daude zure POKéMONAK?\p"
+	.string "Zure POKéMONAK ahul badaude eta\n"
+	.string "borrokak saihestu nahi badituzu,\l"
+	.string "ez sartu belar garai artean.$"
 
 PetalburgWoods_Text_HiddenItemsExplanation:
-	.string "Sometimes, there are things on the\n"
-	.string "ground even if you can't see them.\p"
-	.string "That's why I always check where I'm\n"
-	.string "walking.$"
+	.string "Batzuetan, gauzak daude lurrean,\n"
+	.string "ikusi ezin badituzu ere.\p"
+	.string "Horregatik ibiltzen naiz beti\n"
+	.string "lurrera begira, adi.$"
 
 PetalburgWoods_Text_TryUsingThisItem:
-	.string "Oh, neat!\n"
-	.string "That's the BADGE from RUSTBORO GYM!\p"
-	.string "You must be a TRAINER.\n"
-	.string "You should try using this item.$"
+	.string "Itzela!\n"
+	.string "Hori BURDINTZAKO GIMNASIOKO DOMINA da!\p"
+	.string "ENTRENATZAILEA izango zara.\n"
+	.string "Item hau erabili behar zenuke.$"
 
 PetalburgWoods_Text_MiracleSeedExplanation:
-	.string "It's a MIRACLE SEED.\n"
-	.string "If a POKéMON holds that item, its\l"
-	.string "GRASS-type moves become stronger.\p"
-	.string "Besides MIRACLE SEED, I think there are\n"
-	.string "other convenient items for POKéMON\l"
-	.string "to hold.$"
+	.string "MIRARI HAZIA da.\n"
+	.string "POKéMON batek edukita, bere BELAR\l"
+	.string "motako erasoak indartzen dira.\p"
+	.string "MIRARI HAZIAZ gain, uste dut\n"
+	.string "badaudela POKéMONEK eduki ditzaketen\l"
+	.string "item interesgarri gehiago.$"
 
 PetalburgWoods_Text_TrainerTipsExperience:
-	.string "TRAINER TIPS\p"
-	.string "Any POKéMON that appears even once\n"
-	.string "in a battle is awarded EXP Points.\p"
-	.string "To raise a weak POKéMON, put it at the\n"
-	.string "left of the team list.\p"
-	.string "As soon as a battle starts, switch it\n"
-	.string "out. It will earn EXP Points without\l"
-	.string "being exposed to any harm.$"
+	.string "ENTRENATZAILEENTZAKO PISTAK\p"
+	.string "Borrokan gutxienez behin ateratzen den\n"
+	.string "POKéMONAK ESP. Puntuak lortzen ditu.\p"
+	.string "POKéMON ahul bat hazteko, ipini\n"
+	.string "zerrendaren ezkerreko aldean, goian.\p"
+	.string "Borroka hasten denean, atera ezazu.\n"
+	.string "ESP Puntuak irabaziko ditu inolako\l"
+	.string "minik hartu gabe ere.$"
 
 PetalburgWoods_Text_TrainerTipsPP:
-	.string "TRAINER TIPS\p"
-	.string "In addition to Hit Points (HP), POKéMON\n"
-	.string "have Power Points (PP) that are used to\l"
-	.string "make moves during battle.\p"
-	.string "If a POKéMON runs out of PP, it must be\n"
-	.string "taken to a POKéMON CENTER.$"
+	.string "ENTRENATZAILEENTZAKO PISTAK\p"
+	.string "Bizitza Puntuez (BP) gain, POKéMONEK\n"
+	.string "Indar Puntuak (PP) dituzte, borrokan\l"
+	.string "erasoak erabili ahal izateko.\p"
+	.string "POKéMON bat PP gabe geratzen bada,\n"
+	.string "POKéMON ZENTRO batera eraman behar da.$"
 

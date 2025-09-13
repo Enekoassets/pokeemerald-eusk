@@ -477,88 +477,88 @@ Route109_EventScript_Elijah::
 	end
 
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've made land in SLATEPORT!\p"
-	.string "I suppose you're going to visit CAPT.\n"
-	.string "STERN and deliver the DEVON GOODS?$"
+	.string "SARDINZAR JN.: Kaixo, txo!\n"
+	.string "Iritsi gara PORTUONDORA!\p"
+	.string "ABABOR KAPITAINA bisitatu eta\n"
+	.string "DEVON PIEZAK ematera zoaz, ezta?$"
 
 Route109_Text_BrineySailToDewfordQuestion:
-	.string "MR. BRINEY: I thought you're supposed\n"
-	.string "to deliver the DEVON GOODS.\p"
-	.string "Would you like to sail back to\n"
-	.string "DEWFORD, then?$"
+	.string "SARDINZAR JN.: Uste nuen DEVON\n"
+	.string "PIEZAK eman behar zenituela.\p"
+	.string "IHINTZIBARRERA itzuli nahi duzu\n"
+	.string "orduan?$"
 
 Route109_Text_BrineyDewfordItIs:
-	.string "MR. BRINEY: DEWFORD it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "SARDINZAR JN.: IHINTZIBARRERA, beraz!\p"
+	.string "Jaso aingurak!\n"
+	.string "PEEKO, bagoaz martxan, maitea!$"
 
 Route109_Text_BrineyDeliverDevonGoods:
-	.string "MR. BRINEY: Then you go on and deliver\n"
-	.string "the DEVON GOODS. I'll be waiting.$"
+	.string "SARDINZAR JN.: Orduan segi eta eman\n"
+	.string "DEVON PIEZAK. Hemen itxarongo dizut.$"
 
 DewfordTown_Text_BrineyLandedInSlateport:
-	.string "MR. BRINEY: Ahoy! We've made land in\n"
-	.string "SLATEPORT!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
+	.string "SARDINZAR JN.: Kaixo, txo! Iritsi\n"
+	.string "gara PORTUONDORA!\p"
+	.string "Ondo segi, eta lasai esan berriz\n"
+	.string "bidaiatu nahi duzunean!$"
 
 Route109_Text_BrineyWhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "SARDINZAR JN.: Kaixo, txo!\n"
+	.string "Zuregatik, edonoiz itsasoratuko naiz!\p"
+	.string "Esan, lagun, nora joango gara?$"
 
 Route109_Text_BrineyTellMeWhenYouNeedToSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+	.string "SARDINZAR JN.: Berriz itsasoratu\n"
+	.string "nahi duzunean, esan!$"
 
 Route109_Text_ChillAtMyPapasSpot:
-	.string "Yo, TRAINERS!\n"
-	.string "Whether you're hot to trot,\l"
-	.string "or cool cat not,\l"
-	.string "chill at my papa's spot!$"
+	.string "Ei, ENTRENATZAILEOK!\n"
+	.string "Zeozer beroa nahi duzula, bale,\l"
+	.string "edo bazara freskagarri zale,\l"
+	.string "nire aitarenera etorri, ez egin kale!$"
 
 Route109_Text_LittleKidsDartAround:
-	.string "Little kids can dart around so quickly…\p"
-	.string "You don't dare take your eyes off them\n"
-	.string "for an instant. It's very taxing.\p"
-	.string "Mine are with my POKéMON, so they\n"
-	.string "should be okay, but…$"
+	.string "Haur txikiek segituan egiten dute ihes…\p"
+	.string "Ezin dituzu segundu bat bera ere\n"
+	.string "bakarrik utzi. Oso nekagarria da.\p"
+	.string "Nireak nire POKéMONEKIN daude, beraz,\n"
+	.string "egongi egon beharko lukete, baina…$"
 
 Route109_Text_SandCastleTakingLongTime:
-	.string "Our sand castle's taking a long time\n"
-	.string "to make.$"
+	.string "Gure hondarrezko gaztelua egiteko\n"
+	.string "denbora asko behar izaten ari gara.$"
 
 Route109_Text_YouCanHaveThis:
-	.string "You can have this!$"
+	.string "Hau zuretzat!$"
 
 Route109_Text_WereGoingToMakeBigCastle:
-	.string "We're going to get all the sand from\n"
-	.string "the beach and make a big castle!\p"
-	.string "And then we're going to be a king and\n"
-	.string "queen.\p"
-	.string "We'll let you be a servant.$"
+	.string "Hondartzako hondar guztia bildu eta\n"
+	.string "gaztelu erraldoia egingo dugu!\p"
+	.string "Eta ondoren bertako erregea eta\n"
+	.string "erregina izango gara.\p"
+	.string "Zuri zerbitzari izaten utziko dizugu.$"
 
 Route109_Text_ZigzagoonPicksUpLitter:
-	.string "The water around these parts is clean.\p"
-	.string "But, I get my ZIGZAGOON to pick up\n"
-	.string "litter from the shoreline at times.\p"
-	.string "Dirty water becomes rain and joins our\n"
-	.string "rivers, which we drink from…\p"
-	.string "If we pollute the sea, it all comes\n"
-	.string "back to haunt us eventually.$"
+	.string "Hemen inguruko ura oso garbia da.\p"
+	.string "Hala ere, nire ZIGZAGOONEKIN itsasertzeko\n"
+	.string "zaborra bildu ohi dut batzuetan.\p"
+	.string "Ur zikina euri bihurtzen da eta erreketan\n"
+	.string "amaitzen du, guk ondoren edateko…\p"
+	.string "Itsasoa kutsatzen badugu, bueltan\n"
+	.string "etorriko zaigu kaltea.$"
 
 Route109_Text_ZigzagoonCry:
 	.string "ZIGZAGOON: Guguu?$"
 
 Route109_Text_SeashoreHouseSign:
-	.string "SEASHORE HOUSE\p"
-	.string "“May hot battles rage on hot sands!\n"
-	.string "The place for hot TRAINERS!”$"
+	.string "ITSASERTZEKO ETXEA\p"
+	.string "“Borroka beroak hondar beroagoan!\n"
+	.string "ENTRENATZAILE beroentzako toki bikaina!”$"
 
 Route109_Text_TrainerTipsSign:
-	.string "TRAINER TIPS\p"
-	.string "POKéMON at the same level may not\n"
-	.string "always have identical stats.\p"
-	.string "POKéMON raised by TRAINERS are said\n"
-	.string "to grow stronger than wild POKéMON.$"
+	.string "ENTRENATZAILEENTZAKO PISTAK\p"
+	.string "Maila bereko POKéMONEK estatistika\n"
+	.string "desberdinak izan ditzakete.\p"
+	.string "ENTRENATZAILEEK hazitako POKéMONAK\n"
+	.string "basatiak baino indartsuagoak izan ohi dira.$"

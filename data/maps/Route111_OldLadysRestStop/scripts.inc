@@ -29,22 +29,22 @@ Route111_OldLadysRestStop_EventScript_DeclineRest::
 	end
 
 Route111_OldLadysRestStop_Text_RestUpHere:
-	.string "Oh, dear, dear.\n"
-	.string "Aren't your POKéMON exhausted?\p"
-	.string "If you'd like, rest up here.\n"
-	.string "That's a fine idea! You should do that.$"
+	.string "Ai, maitea, maitea.\n"
+	.string "Ez al daude zure POKéMONAK akituta?\p"
+	.string "Nahi baduzu, deskantsatu hemen.\n"
+	.string "Ideia bikaina da! Hori egin behar zenuke.$"
 
 Route111_OldLadysRestStop_Text_TakeYourTimeRestUp:
-	.string "That's right.\n"
-	.string "Take your time and rest up!$"
+	.string "Hori da.\n"
+	.string "Lasai hartu eta deskantsatu!$"
 
 Route111_OldLadysRestStop_Text_StillTiredTakeAnotherRest:
-	.string "Oh, dear, dear.\n"
-	.string "Are your POKéMON still tired?\p"
-	.string "You should take another rest here.\n"
-	.string "That's a fine idea. You should do that.$"
+	.string "Ai, maitea, maitea.\n"
+	.string "Oraindik nekatuta al daude zure POKéMONAK?\p"
+	.string "Berriz deskantsatu behar zenuke hemen.\n"
+	.string "Ideia bikaina da. Hori egin behar zenuke.$"
 
 Route111_OldLadysRestStop_Text_DontNeedToBeShy:
-	.string "Is that so?\n"
-	.string "You don't need to be shy about it.$"
+	.string "Benetan?\n"
+	.string "Ez zenuke lotsarik izan behar.$"
 

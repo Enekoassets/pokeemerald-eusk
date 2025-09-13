@@ -45,8 +45,8 @@ gText_Birch_SoItsPlayer::
 
 gText_Birch_YourePlayer::
 	.string "Ene bada, noski!\p"
-	.string "{PLAYER}{KUN} zara, ERROTXIKIra\n"
-	.string "iritsi berri zara familiarekin, ezta?.\l"
+	.string "{PLAYER}{KUN} zara, ERROTXIKIRA\n"
+	.string "iritsi berri zara familiarekin, ezta?\l"
 	.string "Ahaztua nuen!\p"
 	.string "$"
 

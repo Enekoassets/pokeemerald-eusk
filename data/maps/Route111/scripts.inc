@@ -574,156 +574,156 @@ Route111_EventScript_TrainerHillSign::
 	end
 
 Route111_Text_BattleOurFamily:
-	.string "Hello! I take it you're a traveler.\p"
-	.string "How's this? What do you say to taking\n"
-	.string "on our family of four in a series of\l"
-	.string "POKéMON battles?$"
+	.string "Kaixo! Bidaiaria zara, ikusten dudanez.\p"
+	.string "Zer iruditzen hau? Gure lauko familiaren\n"
+	.string "aruka POKéMON borroka batzuk egiteko\l"
+	.string "prest egongo al zinateke?$"
 
 Route111_Text_IsThatSo:
-	.string "Is that so?\n"
-	.string "Drop in, if you change your mind!$"
+	.string "Ezetz diozu?\n"
+	.string "Itzuli, iritzia aldatzen baduzu!$"
 
 Route111_Text_VictorIntro:
-	.string "That's the spirit! I like you!$"
+	.string "Hori da legea! Atsegin zaitut!$"
 
 Route111_Text_VictorDefeat:
-	.string "Aiyah!\n"
-	.string "You're a lot tougher than I expected!$"
+	.string "Ene!\n"
+	.string "Uste baino askoz indartsuagoa zara!$"
 
 Route111_Text_VictorPostBattle:
-	.string "Hey, all!\n"
-	.string "I've found a pretty strong TRAINER!$"
+	.string "Aizue, entzun!\n"
+	.string "ENTRENATZAILE indartsu bat aurkitu dut!$"
 
 Route111_Text_VictoriaIntro:
-	.string "Oh, my goodness! Aren't you young?\p"
-	.string "You must be quite the TRAINER to beat\n"
-	.string "my husband, though.\p"
-	.string "It's my turn to battle now!$"
+	.string "Ene jainkoa! Ez al zara gaztea, baina?\p"
+	.string "Nire senarra garaitzeko ENTRENATZAILE\n"
+	.string "gogorra izan beharko duzu, hala ere.\p"
+	.string "Nire borrokatzeko txanda da!$"
 
 Route111_Text_VictoriaDefeat:
-	.string "Oh, gosh!\n"
-	.string "I can't get over how strong you are!$"
+	.string "Ai ene!\n"
+	.string "Ezin dut sinetsi zeinen indartsua zaren!$"
 
 Route111_Text_VictoriaPostBattle:
-	.string "There's a strong TRAINER here!\n"
-	.string "This one's really strong!$"
+	.string "ENTRENATZAILE indartsua da hau!\n"
+	.string "Benetan indartsua da!$"
 
 Route111_Text_ViviIntro:
-	.string "You're stronger than Mommy? Wow!\p"
-	.string "But I'm strong, too!\n"
-	.string "Really! Honestly!$"
+	.string "Amatxo baino indartsuagoa zara? Uau!\p"
+	.string "Baina ni ere indartsua naiz!\n"
+	.string "Benetan! Serio!$"
 
 Route111_Text_ViviDefeat:
-	.string "Huh? Did I just lose?$"
+	.string "Zer? Galdu egin al dut?$"
 
 Route111_Text_ViviPostBattle:
-	.string "This stinks…\p"
-	.string "…Snivel… Grandma!$"
+	.string "Kaka zaharra…\p"
+	.string "…Zintz… Amona!$"
 
 Route111_Text_VickyIntro:
-	.string "How dare you make my granddaughter\n"
-	.string "cry!\p"
-	.string "For that, I'm going to smack you!\n"
-	.string "Prepare to lose!$"
+	.string "Nola ausartu zara nire biloba\n"
+	.string "negarrez uzten!\p"
+	.string "Txikitu egingo zaitut horregatik!\n"
+	.string "Prestatu galtzeko!$"
 
 Route111_Text_VickyDefeat:
-	.string "Kwah! You are strong…\n"
-	.string "My granddaughter was right…$"
+	.string "Zer?! Indartsua zara…\n"
+	.string "Nire biloba zuzen zegoen…$"
 
 Route111_Text_VickyPostBattle:
-	.string "If you're not in any hurry,\n"
-	.string "visit with us awhile.$"
+	.string "Ez badaukazu presarik,\n"
+	.string "bisita gaitzazu berriz.$"
 
 Route111_Text_ToughToKeepWinningUpTheRanks:
-	.string "If you don't raise your POKéMON some\n"
-	.string "more, it could be tough to keep winning\l"
-	.string "up through the ranks.\p"
-	.string "I've heard the POKéMON LEAGUE's\n"
-	.string "ELITE FOUR are far stronger than\l"
-	.string "any GYM LEADER.$"
+	.string "Ez badituzu zure POKéMONAK gehixeago\n"
+	.string "hazten, zaila izango da gero eta\l"
+	.string "gogorragoei irabaztea.\p"
+	.string "Entzun dut POKéMON LIGAKO ELITE\n"
+	.string "LAUKOTEA edozein lider baino\l"
+	.string "askoz indartsuagoa dela.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
-	.string "I challenged the WINSTRATE family,\n"
-	.string "but four matches in a row is tough\l"
-	.string "going… They destroyed me.$"
+	.string "ESTRATEGA familiari erronka bota nion,\n"
+	.string "baina lau bororka jarraian egitea\l"
+	.string "gogorra da… Txikitu egin ninduten.$"
 
 Route111_Text_RouteSignMauville:
-	.string "ROUTE 111\n"
-	.string "{DOWN_ARROW} MAUVILLE CITY$"
+	.string "111. ERRUTA\n"
+	.string "{DOWN_ARROW} MALBADI HIRIA$"
 
 Route111_Text_WinstrateHouseSign:
-	.string "“Our family's hearts beat as one!”\n"
-	.string "THE WINSTRATE'S HOUSE$"
+	.string "“Gure familiaren bihotzak batera doaz!”\n"
+	.string "ESTRATEGA FAMILIAREN ETXEA$"
 
 Route111_Text_RouteSign112:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 112$"
+	.string "111. ERRUTA\n"
+	.string "{LEFT_ARROW} 112. ERRUTA$"
 
 Route111_Text_RouteSign113:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 113$"
+	.string "111. ERRUTA\n"
+	.string "{LEFT_ARROW} 113. ERRUTA$"
 
 Route111_Text_OldLadysRestStopSign:
-	.string "OLD LADY'S REST STOP\n"
-	.string "“Come in and rest your tired bones.”$"
+	.string "EMAKUME ZAHARRAREN ATSEDEN ETXEA\n"
+	.string "“Sartu eta atseden eman hezur nekatuei.”$"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
-	.string "TRAINER TIPS\p"
-	.string "One of the indicators of a POKéMON's\n"
-	.string "powerfulness is SP. ATK. It stands for\l"
-	.string "“SPECIAL ATTACK.”\p"
-	.string "Likewise, SP. DEF stands for “SPECIAL\n"
-	.string "DEFENSE.”$"
+	.string "ENTRENATZAILEENTZAKO PISTAK\p"
+	.string "POKéMON baten indarraren adierazleetako\n"
+	.string "bat ER. BER. da. “ERASO BEREZIA”\l"
+	.string "esan nahi du\p"
+	.string "Antzera, DEF. BER. “DEFENTSA\n"
+	.string "BEREZIA” esateko erabiltzen da.$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
-	.string "There should be a tower made of sand\n"
-	.string "around here somewhere.\p"
-	.string "But for some reason, it can be seen\n"
-	.string "sometimes, and sometimes not.\p"
-	.string "That's why I call it the MIRAGE TOWER.$"
+	.string "Hondarrez osatutako dorre bat egon\n"
+	.string "behar da nonbait hemen inguruan.\p"
+	.string "Baina arrazoiren batengatik, batzuetan\n"
+	.string "ikusi daiteke, eta besteetan ez.\p"
+	.string "Horregatik deitzen diot ISPILATZE DORREA.$"
 
 Route111_Text_MirageTowerClearlyVisible:
-	.string "I see it!\n"
-	.string "The tower of sand!\p"
-	.string "The sand tower they called a mirage\n"
-	.string "is clearly visible!\p"
-	.string "But it looks so fragile…\n"
-	.string "It could crumble away anytime…\p"
-	.string "I want to go inside it, but I can't\n"
-	.string "get my courage up for it…$"
+	.string "Ikusten dut!\n"
+	.string "Hondarrezko dorrea!\p"
+	.string "Ispilatzea deitzen zioten dorrea\n"
+	.string "argi eta garbi ikusi daiteke!\p"
+	.string "Baina hauskorra dirudi…\n"
+	.string "Edozein momentutan eroriko da…\p"
+	.string "Barrura sartu nahi nuke, baina ezin\n"
+	.string "dut behar den adorea bildu…$"
 
 Route111_Text_ThatWasShockingSandRainedDown:
-	.string "Whoa…\n"
-	.string "That was shocking.\p"
-	.string "Sand rained down in chunks all of\n"
-	.string "a sudden.\p"
-	.string "What was it like inside?\n"
-	.string "Were there sandy ghosts and such?$"
+	.string "Uau…\n"
+	.string "Harrigarria izan da.\p"
+	.string "Harea euria balitz bezala erori\n"
+	.string "da zatika bat-batean.\p"
+	.string "Zer zegoen barruan?\n"
+	.string "Hareazko mamuak eta abar al zeuden?$"
 
 Route111_Text_MirageTowerHasntBeenSeenSince:
-	.string "Since I spoke to you, the tower of sand\n"
-	.string "hasn't been seen.\p"
-	.string "Perhaps it really was\n"
-	.string "the MIRAGE TOWER…$"
+	.string "Zurekin hitz egin nuenetik, hondarrezko\n"
+	.string "dorrea ez da berriro agertu.\p"
+	.string "Agian benetan zen\n"
+	.string "ISPILATZE DORREA…$"
 
 Route111_Text_ClawFossilDisappeared:
-	.string "The CLAW FOSSIL disappeared into\n"
-	.string "the sand…$"
+	.string "ATZAPAR FOSILA hondarretan\n"
+	.string "desagertu da…$"
 
 Route111_Text_RootFossilDisappeared:
-	.string "The ROOT FOSSIL disappeared into\n"
-	.string "the sand…$"
+	.string "SUSTRAI FOSILA hondarretan\n"
+	.string "desagertu da…$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
-	.string "Oh, no!\p"
-	.string "My uncle in MAUVILLE told me to take\n"
-	.string "ROCK SMASH with me if I was going to\l"
-	.string "ROUTE 111!\p"
-	.string "My uncle? He lives across from\n"
-	.string "the bike shop in MAUVILLE.$"
+	.string "Ai ene, ez!\p"
+	.string "Nire MALBADIKO osabak esan dit\n"
+	.string "ARROKA KOLPEA aldean eramateko\l"
+	.string "111. ERRUTARA banindoan!\p"
+	.string "Nire osaba? Bizikleta denda baino\n"
+	.string "aurrerago bizi da, MALBADIN.$"
 
 Route111_Text_TrainerHillSign:
-	.string "{RIGHT_ARROW} TRAINER HILL ENTRANCE\p"
-	.string "“Scale the heights, you hot-blooded\n"
-	.string "TRAINERS!”$"
+	.string "{RIGHT_ARROW} ERRONKA MUINORAKO SARRERA\p"
+	.string "“Igo itzazue aldapak, odol beroko\n"
+	.string "ENTRENATZAILEOK!”$"
 

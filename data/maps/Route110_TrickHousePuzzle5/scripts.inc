@@ -902,127 +902,127 @@ Route110_TrickHousePuzzle5_Movement_MechadollShake:
 	step_end
 
 Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is a genius.”\n"
+	.string "{PLAYER}(e)k kode sekretua idatzi\n"
+	.string "du atean.\p"
+	.string "“TRIKIMAISUA genioa da.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Atea ireki egin da!$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 1 AM I!\p"
-	.string "IF YOU ANSWER QUIZZES CORRECTLY,\n"
-	.string "THEN YOU WILL GO TO MECHADOLL 5.\l"
-	.string "THEN YOU CAN OBTAIN THE SECRET CODE.$"
+	.string "KLIK-KLAK-KLAK…\n"
+	.string "1. MEKAPANPINA NI IZAN!\p"
+	.string "ERANTZUN EGOKIAK EMATEN BADITUZU,\n"
+	.string "5. MEKAPANPINARENGANA JOANGO ZU.\l"
+	.string "KODE SEKRETUA BERTAN JASOKO DUZU.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not found\n"
-	.string "on ROUTE 110. Which one is it?$"
+	.string "1. MEKAPANPINAREN GALDERA.\p"
+	.string "POKéMON hauetako bat ez dago\n"
+	.string "110. ERRUTAN. Zein da?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON is not of the\n"
-	.string "WATER type. Which one is it?$"
+	.string "1. MEKAPANPINAREN GALDERA.\p"
+	.string "POKéMON hauetako bat ez da\n"
+	.string "UR motakoa. Zein da?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these POKéMON does not use\n"
-	.string "LEECH LIFE. Which one is it?$"
+	.string "1. MEKAPANPINAREN GALDERA.\p"
+	.string "POKéMON hauetako batek ez du BIZI\n"
+	.string "XURGAKETA erabiltzen. Zeinek?$"
 
 Route110_TrickHousePuzzle5_Text_CorrectGoThrough:
-	.string "CONGRATULATIONS. CORRECT YOU ARE.\n"
-	.string "GO THROUGH. PLEASE.$"
+	.string "ZORIONAK. ZUZEN ZU ZAUDE.\n"
+	.string "HEMENDIK PASA. MESEDEZ.$"
 
 Route110_TrickHousePuzzle5_Text_DisappointmentError:
-	.string "BZZZT. DISAPPOINTMENT.\n"
-	.string "ERROR.$"
+	.string "BZZZT. PORROTA.\n"
+	.string "ERROREA.$"
 
 Route110_TrickHousePuzzle5_Text_Wahahahaha:
-	.string "WAHAHAHAHA! WAHAHAHAHA!\n"
-	.string "CLICKETY-CLACK!$"
+	.string "KAR-KAR-KAR! KAR-KAR-KAR!\n"
+	.string "KLIK-KLAK-KLAK!$"
 
 Route110_TrickHousePuzzle5_Text_WaitForNextChallenge:
-	.string "YOUR NEXT CHALLENGE WE WAIT FOR.$"
+	.string "HURRENGO ERRONKAREN ZAIN GU EGON.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 2 AM I!\p"
-	.string "MECHADOLL 1'S QUIZ DIFFICULTY LEVEL\n"
-	.string "IS SET TOO LOW.$"
+	.string "KLIK-KLAK-KLAK…\n"
+	.string "2. MEKAPANPINA NI IZAN!\p"
+	.string "1. MEKAPANPINAREN GALDERA OSO\n"
+	.string "ERRAZA IZAN.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON did WALLY\n"
-	.string "borrow from your father?$"
+	.string "2. MEKAPANPINAREN GALDERA.\p"
+	.string "POKéMON hauetako zein jaso zuen\n"
+	.string "EKAITZEK zure aitak utzita?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON was chasing\n"
-	.string "PROF. BIRCH?$"
+	.string "2. MEKAPANPINAREN GALDERA.\p"
+	.string "POKéMON hauetako zein aritu zen\n"
+	.string "URKI DOKTOREAREN atzetik?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these POKéMON did TEAM AQUA\n"
-	.string "use in PETALBURG FOREST?$"
+	.string "2. MEKAPANPINAREN GALDERA.\p"
+	.string "POKéMON hauetako zein erabili zuen\n"
+	.string "AQUA TALDEAK PETALORE BASOAN?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 3 AM I!\p"
-	.string "MATTERS OF MONEY ARE MY SOLE FOCUS.$"
+	.string "KLIK-KLAK-KLAK…\n"
+	.string "3. MEKAPANPINA NI IZAN!\p"
+	.string "DIRU KONTUEI SOILIK NI ADI.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Which costs more?\n"
-	.string "Three HARBOR MAILS or one BURN HEAL?$"
+	.string "3. MEKAPANPINAREN GALDERA.\p"
+	.string "Zer da garestiagoa? Hiru PORTU\n"
+	.string "GUTUN edo ANTIERREDURA bat?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Sell one GREAT BALL and buy\n"
-	.string "one POTION. How much money remains?$"
+	.string "3. MEKAPANPINAREN GALDERA.\p"
+	.string "Saldu SUPER BALL bat eta erosi\n"
+	.string "EDABE bat. Zenbat diru geratzen da?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Do one REPEL and SODA POP cost\n"
-	.string "more than one SUPER POTION?$"
+	.string "3. MEKAPANPINAREN GALDERA.\p"
+	.string "Garestiagoa al da FRESKAGARRI bat eta\n"
+	.string "UXAGARRI bat SUPER EDABE bat baino?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 4 THAT IS ME!\p"
-	.string "MY QUIZ IS AN OBJECT OF BEAUTY.$"
+	.string "KLIK-KLAK-KLAK…\n"
+	.string "4. MEKAPANPINA HORI NAIZ NI!\p"
+	.string "NIRE GALDERA PERTSONEN INGURUAN IZAN.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1:
 	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In SEASHORE HOUSE, were there more men\n"
-	.string "or women?$"
+	.string "ITSASERTZEKO ETXEAN, gizon edo\n"
+	.string "emakume gehiago zeuden?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2:
 	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In LAVARIDGE TOWN, were there more\n"
-	.string "elderly men or elderly women?$"
+	.string "LABARAN HERRIAN, gizon zahar\n"
+	.string "edo emakume zahar gehiago zeuden?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3:
 	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In the TRAINER'S SCHOOL, how many\n"
-	.string "girl students were there?$"
+	.string "ENTRENATZAILE ESKOLAN, zenbat\n"
+	.string "ikasle neska zeuden?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 5 AM I!\p"
-	.string "THE MASTER'S BEST AND PROUDEST\n"
-	.string "ACHIEVEMENT AM I.$"
+	.string "KLIK-KLAK-KLAK…\n"
+	.string "5. MEKAPANPINA NI IZAN!\p"
+	.string "MAISUAREN LORPEN ONENA\n"
+	.string "ETA BIKAINENA NI IZAN.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In SLATEPORT's POKéMON FAN CLUB,\n"
-	.string "how many POKéMON were there?$"
+	.string "5. MEKAPANPINAREN GALDERA.\p"
+	.string "PORTUONDOKO POKéMON FAN KLUBEAN,\n"
+	.string "zenbat POKéMON zeuden?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In FORTREE CITY, how many\n"
-	.string "tree houses were there?$"
+	.string "5. MEKAPANPINAREN GALDERA.\p"
+	.string "ZUHAITZAGA HIRIAN, zuhaitzetako\n"
+	.string "zenbat etxe zeuden?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz3:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "On the CYCLING ROAD, how many\n"
-	.string "TRIATHLETES were there?$"
+	.string "5. MEKAPANPINAREN GALDERA.\p"
+	.string "BIDEGORRIAN, zenbat\n"
+	.string "TRIATLETA zeuden?$"

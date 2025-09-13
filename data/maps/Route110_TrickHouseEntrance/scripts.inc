@@ -697,130 +697,130 @@ Route110_TrickHouseEntrance_EventScript_DoHidingSpotSparkle::
 	return
 
 Route110_TrickHouseEntrance_Text_YoureBeingWatched:
-	.string "You're being watched…$"
+	.string "Zelatatua izaten ari zara…$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this desk? You're sharp!$"
+	.string "Zer? Grrr…\p"
+	.string "Nola jakin duzu mahai honen atzean\n"
+	.string "ezkutatu naizela? Zu bai azkarra!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindTree:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this tree? You're sharp!$"
+	.string "Zer? Grrr…\p"
+	.string "Nola jakin duzu zuhaitz honen atzean\n"
+	.string "ezkutatu naizela? Zu bai azkarra!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInDresser:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this dresser? You're sharp!$"
+	.string "Zer? Grrr…\p"
+	.string "Nola jakin duzu komoda honetan\n"
+	.string "ezkutatu naizela? Zu bai azkarra!$"
 
 Route110_TrickHouseEntrance_Text_ConealedBeyondWindow:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beyond this window? You're sharp!$"
+	.string "Zer? Grrr…\p"
+	.string "Nola jakin duzu leiho honen atzean\n"
+	.string "ezkutatu naizela? Zu bai azkarra!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInPlanter:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this planter? You're sharp!$"
+	.string "Zer? Grrr…\p"
+	.string "Nola jakin duzu landare honen atzean\n"
+	.string "ezkutatu naizela? Zu bai azkarra!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInCupboard:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this cupboard? You're sharp!$"
+	.string "Zer? Grrr…\p"
+	.string "Nola jakin duzu armairu honen atzean\n"
+	.string "ezkutatu naizela? Zu bai azkarra!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindWindow:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this window? You're sharp!$"
+	.string "Zer? Grrr…\p"
+	.string "Nola jakin duzu leiho honen atzean\n"
+	.string "ezkutatu naizela? Zu bai azkarra!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this cushion? You're sharp!$"
+	.string "Zer? Grrr…\p"
+	.string "Nola jakin duzu kuxin honen azpian\n"
+	.string "ezkutatu naizela? Zu bai azkarra!$"
 
 Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
-	.string "Behold!\p"
-	.string "For I am the greatest living mystery\n"
-	.string "of a man in all of HOENN!\l"
-	.string "They call me…\p"
-	.string "The TRICK MASTER!\n"
-	.string "Wahahaha! Glad to meet you!$"
+	.string "Adi!\p"
+	.string "HOENN eskualde osoko gizonik\n"
+	.string "misteriotsuena dago zure aurrean!\l"
+	.string "Nire izena da…\p"
+	.string "TRIKIMAISUA!\n"
+	.string "Kar-kar-kar! Pozten naiz zu ezagututa!$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
-	.string "You, you've come to challenge\n"
-	.string "my TRICK HOUSE, haven't you?\p"
-	.string "That's why you're here, isn't it?\n"
-	.string "Yes, it is!\p"
-	.string "Consider your challenge accepted!\p"
-	.string "Enter through the scroll there,\n"
-	.string "and let your challenge commence!\p"
-	.string "I shall be waiting in the back!$"
+	.string "Aizu, nire TRIKIMAILU ETXEKO\n"
+	.string "erronkari aurre egitera etorri zara?\p"
+	.string "Horregatik zaude hemen, ezta?\n"
+	.string "Ziur baietz!\p"
+	.string "Onartzen dut zure erronka, orduan!\p"
+	.string "Sartu horko paper-biribilki horretatik,\n"
+	.string "eta has dadila zure erronka!\p"
+	.string "Atzean itxarongo dizut!$"
 
 Route110_TrickHouseEntrance_Text_ItsAScroll:
-	.string "It's a scroll.$"
+	.string "Paper-biribilki bat da.$"
 
 Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll:
-	.string "There is a big hole behind the scroll!\p"
-	.string "Want to go in?$"
+	.string "Zulo handi bat dago paperaren atzean!\p"
+	.string "Sartu nahi al duzu?$"
 
 Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
-	.string "There is a note affixed to the scroll…\p"
-	.string "“I am leaving on a journey.\n"
-	.string "Don't look for me. TRICK MASTER”$"
+	.string "Ohar bat dago paperari lotuta…\p"
+	.string "“Bidaia batera joan naiz.\n"
+	.string "Ez etorri nire bila. TRIKIMAISUA”$"
 
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
-	.string "For the next time, I'll use this trick,\n"
-	.string "and that scheme, and those ruses…\p"
-	.string "Mufufufu… If I may say so, it's\n"
-	.string "brilliantly difficult, even for me!$"
+	.string "Hurrengoan, trikimailu hau erabiliko dut,\n"
+	.string "eta plan hori, eta azpijoko hura…\p"
+	.string "Mufufufu… Egia esan, izugarri zaila\n"
+	.string "izango da, baita niretzat ere!$"
 
 Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges:
-	.string "Hah? What?!\n"
-	.string "Oh, it's you!\p"
-	.string "I'm in the midst of devising new tricky\n"
-	.string "challenges!\p"
-	.string "It's not too much to ask for a bit more\n"
-	.string "time for me to think, is it now?\l"
-	.string "You wouldn't begrudge me that?\l"
-	.string "Come back in a little while!$"
+	.string "Zer? Nola?!\n"
+	.string "Ene, zu zara eta!\p"
+	.string "Trikimailuz beteriko erronka berriak\n"
+	.string "prestatzen ari naiz!\p"
+	.string "Zentzuzkoa da trikimailuak prestatzeko\n"
+	.string "denbora gehiago eskatzea, ezta?\l"
+	.string "Ez zenidake kontuan hartuko, ez?\l"
+	.string "Itzuli pixka bat beranduago!$"
 
 Route110_TrickHouseEntrance_Text_YoureHereToAcceptReward:
-	.string "Ah, it's you! You're here to accept the\n"
-	.string "reward from before, isn't that right?\l"
-	.string "Yes, right I am!\p"
-	.string "Here!\n"
-	.string "I'll give it to you now!$"
+	.string "Ene, zu zara eta! Lehengo sariaren\n"
+	.string "bila etorri zara, ez al da hala?\l"
+	.string "Bai, halaxe da ba!\p"
+	.string "Tori!\n"
+	.string "Oraintxe emango dizut!$"
 
 Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward:
-	.string "Hah?\n"
-	.string "Did you not come to claim your reward?$"
+	.string "Zer?\n"
+	.string "Ez zara sariaren bila etorri?$"
 
 Route110_TrickHouseEntrance_Text_MechadollWhichTent:
-	.string "MECHADOLL 5 I AM!\n"
-	.string "IF REWARD IS NOT TAKEN BY YOU,\l"
-	.string "THEN TRICK MASTER YOU CANNOT FOLLOW.\p"
-	.string "RED TENT OR BLUE TENT,\n"
-	.string "WHICH DO YOU PREFER?$"
+	.string "5. MEKAPANPINA NAIZ!\n"
+	.string "EZ SARIA JASOTZEN BADUZU,\l"
+	.string "TRIKIMAISUA EZIN JARRAITU ZUK.\p"
+	.string "DENDA GORRIA EDO DENDA URDINA,\n"
+	.string "ZEIN DUZU NAHI?$"
 
 Route110_TrickHouseEntrance_Text_ThenFarewell:
-	.string "THEN FAREWELL.$"
+	.string "AGUR BERAZ.$"
 
 Route110_TrickHouseEntrance_Text_PCFullAgain:
-	.string "YOUR PC STATUS: FULL AGAIN.\n"
-	.string "MEAN, YOU ARE.$"
+	.string "ZURE PC EGOERA: BETETA BERRIZ.\n"
+	.string "ZU, GAIZTOA.$"
 
 Route110_TrickHousePuzzle_Text_FoundAScroll:
-	.string "{PLAYER} found a scroll.$"
+	.string "{PLAYER}(e)k paper-biribilki bat aurkitu du.$"
 
 Route110_TrickHousePuzzle_Text_MemorizedSecretCode:
-	.string "{PLAYER} memorized the secret code\n"
-	.string "written on the scroll.$"
+	.string "{PLAYER}(e)k biribilkian zegoen\n"
+	.string "kode sekretua memorizatu du.$"
 
 Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt:
-	.string "A secret code is written on it.$"
+	.string "Kode sekretu bat idatzita dago bertan.$"
 
 Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere:
 	.string "Atea itxita dago.\p"
-	.string "…On closer inspection, this is written\n"
-	.string "on it: “Write the secret code here.”$"
+	.string "…Hurbilagotik begiratuta, honakoa ikusi\n"
+	.string "daiteke bertan: “Idatzi kode sekretua hemen.”$"

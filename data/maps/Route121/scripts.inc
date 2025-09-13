@@ -173,20 +173,20 @@ Route121_EventScript_RematchCristin::
 	end
 
 Route121_Text_OkayMoveOutToMtPyre:
-	.string "Okay!\n"
-	.string "We're to move out to MT. PYRE!$"
+	.string "Ongi!\n"
+	.string "PIRO MENDIRA goaz!$"
 
 Route121_Text_AheadLoomsMtPyre:
-	.string "Ahead looms MT. PYRE…\p"
-	.string "It is a natural monument to the spirits \n"
-	.string "of departed POKéMON…$"
+	.string "Hemendik aurrera PIRO MENDIA dago…\p"
+	.string "Utzi gaituzten POKéMONEI egindako\n"
+	.string "monumentu naturala da…$"
 
 Route121_Text_MtPyrePierSign:
-	.string "MT. PYRE PIER\p"
-	.string "…The sign is old and worn out.\n"
-	.string "The words are barely legible…$"
+	.string "PIRO MENDIKO GERALEKUA\p"
+	.string "…Kartela zaharra eta higatuta dago.\n"
+	.string "Hitzak ezin dira irakurri ia…$"
 
 Route121_Text_SafariZoneSign:
-	.string "“Filled with rare POKéMON!”\n"
-	.string "SAFARI ZONE$"
+	.string "“POKéMON arraroz betea!”\n"
+	.string "SAFARI GUNEA$"
 

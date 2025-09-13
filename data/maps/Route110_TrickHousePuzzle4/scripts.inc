@@ -28,43 +28,43 @@ Route110_TrickHousePuzzle4_EventScript_Paula::
 	end
 
 Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is cool.”\n"
+	.string "{PLAYER}(e)k kode sekretua idatzi\n"
+	.string "du atean.\p"
+	.string "“TRIKIMAISUA itzela da.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Atea ireki egin da!$"
 
 Route110_TrickHousePuzzle4_Text_CoraIntro:
-	.string "It's too much bother to think this out.\n"
-	.string "I only wanted to battle!$"
+	.string "Hau guztia gehiegi da pentsatzeko.\n"
+	.string "Borrokatu nahi nuen soilik!$"
 
 Route110_TrickHousePuzzle4_Text_CoraDefeat:
-	.string "Even though I lost, I still like battling\n"
-	.string "the best!$"
+	.string "Galdu badut ere, ikaragarri\n"
+	.string "atsegin dut borrokatzea!$"
 
 Route110_TrickHousePuzzle4_Text_CoraPostBattle:
-	.string "Wouldn't you agree? You would go\n"
-	.string "anywhere if TRAINERS were there.$"
+	.string "Ez al zaude ados? Edozein lekutara\n"
+	.string "nindoake, bertan ENTRENATZAILEAK baleude.$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
-	.string "Heh! Boulders like this, I can brush\n"
-	.string "aside with one finger!$"
+	.string "Bua! Halako haitzek, hatz\n"
+	.string "bakarrarekin ken ditzaket paretik!$"
 
 Route110_TrickHousePuzzle4_Text_YujiDefeat:
-	.string "I can push boulders, but I can't solve\n"
-	.string "the puzzle…$"
+	.string "Harriak bultza bai, baina ezin dut\n"
+	.string "puzlea argitu…$"
 
 Route110_TrickHousePuzzle4_Text_YujiPostBattle:
-	.string "It's not good enough to be brawny…\n"
-	.string "You have to use your head. Be brainy!$"
+	.string "Ez da nahikoa izaten indarra…\n"
+	.string "Burua erabili behar da. Izan argia!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaIntro:
-	.string "The TRICK HOUSE is getting trickier,\n"
-	.string "isn't it?$"
+	.string "TRIKIMAILUEN ETXEA gero eta zailagoa\n"
+	.string "bihurtzen ari da, ezta?$"
 
 Route110_TrickHousePuzzle4_Text_PaulaDefeat:
 	.string "Aaak!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaPostBattle:
-	.string "Has anyone made it to the end?$"
+	.string "Iritsi al da inor amaierara?$"
 

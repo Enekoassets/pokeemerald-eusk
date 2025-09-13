@@ -134,33 +134,33 @@ Route113_EventScript_Wyatt::
 	end
 
 Route113_Text_AshCanBeFashionedIntoGlass:
-	.string "Wahahaha! Today's technology is a\n"
-	.string "wondrous thing!\p"
-	.string "Take this volcanic ash here.\n"
-	.string "It can be fashioned into glass.$"
+	.string "Kar-kar-kar! Gaur egungo\n"
+	.string "teknologia sinestezina da!\p"
+	.string "Tori hauts bolkaniko hau.\n"
+	.string "Beira bihurtu daiteke.$"
 
 Route113_Text_FunWalkingThroughAsh:
-	.string "It's fun walking through the volcano's\n"
-	.string "ashes on the ground and grass.\p"
-	.string "You can see where you walked--it's\n"
-	.string "really neat!$"
+	.string "Sumendiaren errautsa duen lur eta\n"
+	.string "belar artean ibiltzea dibertigarria da.\p"
+	.string "Non ibili zaren ikus dezakezu,\n"
+	.string "bikaina da!$"
 
 Route113_Text_RouteSign111:
-	.string "ROUTE 113\n"
-	.string "{RIGHT_ARROW} ROUTE 111$"
+	.string "113. ERRUTA\n"
+	.string "{RIGHT_ARROW} 111. ERRUTA$"
 
 Route113_Text_RouteSignFallarbor:
-	.string "ROUTE 113\n"
-	.string "{LEFT_ARROW} FALLARBOR TOWN$"
+	.string "113. ERRUTA\n"
+	.string "{LEFT_ARROW} ARREKARA HERRIA$"
 
 Route113_Text_TrainerTipsRegisterKeyItems:
-	.string "TRAINER TIPS\p"
-	.string "You may register one of the KEY ITEMS\n"
-	.string "in your BAG as SELECT.\p"
-	.string "Simply press SELECT to use\n"
-	.string "the registered item conveniently.$"
+	.string "ENTRENATZAILEENTZAKO PISTAK\p"
+	.string "ITEM GAKO bat ezarri dezakezu zure\n"
+	.string "POLTSAN SELECT sakatuz erabiltzeko.\p"
+	.string "SELECT botoia sakatu besterik ez\n"
+	.string "duzu egin behar itema erabiltzeko.$"
 
 Route113_Text_GlassWorkshopSign:
-	.string "GLASS WORKSHOP\n"
-	.string "“Turning Volcanic Ash into Glass Items”$"
+	.string "BEIRA TAILERRA\n"
+	.string "“Errauts Bolkanikoa Beirazko Item Bihurtzen”$"
 

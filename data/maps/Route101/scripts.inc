@@ -261,42 +261,42 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "H-help me!$"
+	.string "La-lagundu mesedez!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "Kaixo! Zu, bai, zu!\n"
+	.string "Mesedez! Lagundu!\p"
+	.string "Nire POLTSAN!\n"
+	.string "POKé BALL bat dago!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "No-nora zoaz baina?!\n"
+	.string "Ez nazau hemen utzi!$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRCH: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
-	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "URKI DOKT.: Ufff…\p"
+	.string "Belar garai artean ari nintzen POKéMON\n"
+	.string "basatiak aztertzen, eraso zidaten arte.\p"
+	.string "Salbatu egin nauzu.\n"
+	.string "Eskerrik asko!\p"
+	.string "Nola?\p"
+	.string "Kaixo, {PLAYER}{KUN} zara eta!\p"
+	.string "Hau ez da hitz egiteko lekua, etorri\n"
+	.string "POKéMON LABORATEGIRA gero, bai?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "If POKéMON get tired, take them to\n"
-	.string "a POKéMON CENTER.\p"
-	.string "There's a POKéMON CENTER in OLDALE\n"
-	.string "TOWN right close by.$"
+	.string "POKéMONAK nekatzen badira, eraman\n"
+	.string "itzazu POKéMON ZENTRO batera.\p"
+	.string "POKéMON ZENTRO bat dago ESKASETA\n"
+	.string "HERRIAN, hemendik hurbil.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild POKéMON will jump out at you in\n"
-	.string "tall grass.\p"
-	.string "If you want to catch POKéMON, you have\n"
-	.string "to go into the tall grass and search.$"
+	.string "POKéMON basatiak agertuko zaizkizu\n"
+	.string "belar garai artean.\p"
+	.string "POKéMONAK harrapatu nahi badituzu,\n"
+	.string "belar garai artera joan eta bilatu.$"
 
 Route101_Text_RouteSign:
-	.string "ROUTE 101\n"
-	.string "{UP_ARROW} OLDALE TOWN$"
+	.string "101. ERRUTA\n"
+	.string "{UP_ARROW} ESKASETA HERRIA$"
 

@@ -97,81 +97,81 @@ Route109_SeashoreHouse_EventScript_TrainersNotCompleted::
 	end
 
 Route109_SeashoreHouse_Text_SeashoreHouseIntro:
-	.string "I'm the owner of the SEASHORE HOUSE.\n"
-	.string "But you can call me MR. SEA!\p"
-	.string "What I love above all is to see hot\n"
-	.string "POKéMON battles.\p"
-	.string "Let me see that your heart burns hot!\p"
-	.string "If you can defeat all the TRAINERS\n"
-	.string "here, I'll reward your efforts.$"
+	.string "ITSASERTZEKO ETXEAREN jabea naiz.\n"
+	.string "ITSASO JAUNA dei diezadakezu!\p"
+	.string "Gehien gustatzen zaidana POKéMON\n"
+	.string "borroka beroak ikustea da.\p"
+	.string "Erakutsi zure bihotza ere beroa dela!\p"
+	.string "Hemengo ENTRENATZAILE guztiak garaituz\n"
+	.string "gero, sari bat emango dizut.$"
 
 Route109_SeashoreHouse_Text_ShowMeSomeHotMatches:
-	.string "Show me some hot matches!\p"
-	.string "I run this SEASHORE HOUSE just for\n"
-	.string "that reason alone!$"
+	.string "Erakutsi borroka beroak!\p"
+	.string "Arrazoi horregatik soilik daukat\n"
+	.string "ITSASERTZEKO ETXEA!$"
 
 Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
-	.string "You're scorching hot!\n"
-	.string "Those battles blazed!\l"
-	.string "I'm more than just satisfied!\p"
-	.string "As thanks for showing me your hot\n"
-	.string "streak, I want you to take these.\p"
-	.string "It's half a dozen bottles of SODA POP!$"
+	.string "Zu bai zu beroa!\n"
+	.string "Borrokak ere sua bezain beroak!\l"
+	.string "Oso oso pozik geratu naiz!\p"
+	.string "Zure borroka estilo beroa erakutsi\n"
+	.string "didazunez, hauek zuretzat dira.\p"
+	.string "FRESKAGARRI dozena erdi bat!$"
 
 Route109_SeashoreHouse_Text_BagFull:
-	.string "Oh, but hey, your BAG's jammed full.\n"
-	.string "I'll hang on to these for you.$"
+	.string "Aizu, POLTSA goraino beteta duzu.\n"
+	.string "Zuretzat gordeko ditut hauek.$"
 
 Route109_SeashoreHouse_Text_WantToBuySodaPop:
-	.string "Want to buy some SODA POP?\n"
-	.string "POKéMON love it!\p"
-	.string "Just ¥300 a bottle!\n"
-	.string "Buy some!$"
+	.string "Nahi al duzu FRESKAGARRIRIK?\n"
+	.string "POKéMONEK oso atsegin dute!\p"
+	.string "Soilik 300¥ botilako!\n"
+	.string "Erosi!$"
 
 Route109_SeashoreHouse_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "Tori!$"
 
 Route109_SeashoreHouse_Text_NotEnoughMoney:
-	.string "You don't have the money.$"
+	.string "Ez duzu nahikoa diru.$"
 
 Route109_SeashoreHouse_Text_ThatsTooBad:
-	.string "No?\n"
-	.string "That's too bad.$"
+	.string "Ez?\n"
+	.string "Beno, pena da.$"
 
 Route109_SeashoreHouse_Text_DwayneIntro:
-	.string "If you're looking for a battle in the\n"
-	.string "SEASHORE HOUSE, you'll find no\l"
-	.string "hotter TRAINER than me, matey!$"
+	.string "ITSASERTZEKO ETXEAN borroka bila\n"
+	.string "bazabiltza, ez duzu ni baino\l"
+	.string "ENTRENATZAILE beroagorik aurkituko!$"
 
 Route109_SeashoreHouse_Text_DwayneDefeated:
-	.string "That was a hot battle!\n"
-	.string "I can accept that loss, matey!$"
+	.string "Hori bai borroka beroa!\n"
+	.string "Onartzen dut porrota!$"
 
 Route109_SeashoreHouse_Text_DwaynePostBattle:
-	.string "Whenever I'm in SLATEPORT, I enjoy\n"
-	.string "hot battles and ice-cold SODA POP!$"
+	.string "PORTUONDON nagoenean, borroka beroak\n"
+	.string "eta FRESKAGARRI hotzak atsegin ditut!$"
 
 Route109_SeashoreHouse_Text_JohannaIntro:
-	.string "Boring battles aren't worth the effort.\p"
-	.string "Fiery hot battles are what toughen up\n"
-	.string "TRAINERS and POKéMON!$"
+	.string "Borroka aspergarriek ez dute merezi.\p"
+	.string "Borroka bero gogorrek ENTRENATZAILE\n"
+	.string "POKéMONAK indartzen dituzte!$"
 
 Route109_SeashoreHouse_Text_JohannaDefeated:
-	.string "That's hot!$"
+	.string "Hori bai beroa!$"
 
 Route109_SeashoreHouse_Text_JohannaPostBattle:
-	.string "Whew, I'm all thirsty.\n"
-	.string "Maybe I'll have a SODA POP.$"
+	.string "Uf, a zer nolako egarria.\n"
+	.string "FRESKAGARRI bat hartuko dut agian.$"
 
 Route109_SeashoreHouse_Text_SimonIntro:
-	.string "I'm going to show you how great\n"
-	.string "my POKéMON are, but don't cry!$"
+	.string "Nire POKéMONAK zeinen itzelak diren\n"
+	.string "erakutsiko dizut, baina ez egin negar!$"
 
 Route109_SeashoreHouse_Text_SimonDefeated:
-	.string "…I lost, but I won't cry…$"
+	.string "…Galdu egin dut, baina ez dut negar egingo…$"
 
 Route109_SeashoreHouse_Text_SimonPostBattle:
-	.string "If one of my POKéMON knew the move\n"
-	.string "for carrying me across water on its\l"
-	.string "back, I could get rid of this inner tube.$"
+	.string "Nire POKéMONETAKO batek ur gainetik\n"
+	.string "bizkarrean eramateko erasoa jakingo\l"
+	.string "balu, ez nuke flotagailurik behar.$"
 

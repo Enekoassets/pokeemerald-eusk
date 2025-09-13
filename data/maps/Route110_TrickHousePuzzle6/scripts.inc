@@ -43,45 +43,45 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 	end
 
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is my life.”\n"
+	.string "{PLAYER}(e)k kode sekretua idatzi\n"
+	.string "du atean.\p"
+	.string "“TRIKIMAISUA nire bizitza da.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Atea ireki egin da!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
-	.string "When I heard there was a strange\n"
-	.string "house, I had to check it out.$"
+	.string "Etxe bitxi bat zegoela entzun\n"
+	.string "nuenean, ikustera etorri nintzen.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
-	.string "I've discovered a tough TRAINER!$"
+	.string "ENTRENATZAILE indartsua aurkitu dut!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
-	.string "I'm sure having a good time checking\n"
-	.string "this place out.\p"
-	.string "It's a challenge I've found worth\n"
-	.string "repeating!$"
+	.string "Oso ndo ari naiz pasatzen leku\n"
+	.string "honetan hara eta hona.\p"
+	.string "Errepikatuko nukeen erronka da\n"
+	.string "ezbairik gabe!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Maybe I could get my BIRD POKéMON\n"
-	.string "to fly over the wall…$"
+	.string "Agian nire TXORI POKéMONEK hegan\n"
+	.string "egin dezakete hormen gainetik…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:
-	.string "Gwaaah! I blew it!$"
+	.string "Uau! Kakaztu egin dut!$"
 
 Route110_TrickHousePuzzle6_Text_BennyPostBattle:
-	.string "Ehehehe… I guess I lost because\n"
-	.string "I was trying to cheat.$"
+	.string "Beno… Tranpa egiten saiatzen ari\n"
+	.string "nintzelako galduko nuen.$"
 
 Route110_TrickHousePuzzle6_Text_SebastianIntro:
-	.string "I'm getting dizzy from these rotating\n"
-	.string "doors…$"
+	.string "Ate birakari hauekin zorabiatzen\n"
+	.string "ari naiz…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianDefeat:
-	.string "Everything's spinning around and\n"
-	.string "around. I can't take this anymore…$"
+	.string "Guztia jira eta bira ari da.\n"
+	.string "Ezin dut gehiago…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianPostBattle:
-	.string "You don't seem to be affected at all.\n"
-	.string "Or do you have your poker face on?$"
+	.string "Zuri ez dizu batere eragiten.\n"
+	.string "Edo ezkutatzen ari zara zure ondoeza?$"
 

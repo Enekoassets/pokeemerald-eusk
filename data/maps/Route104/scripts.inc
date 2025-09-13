@@ -999,174 +999,174 @@ Route104_EventScript_Darian::
 	end
 
 Route104_Text_BrineyLivesInSeasideCottage:
-	.string "That seaside cottage is where\n"
-	.string "MR. BRINEY lives.\p"
-	.string "He was once a mighty sailor who never\n"
-	.string "feared the sea, however stormy.$"
+	.string "Itsasertzeko etxetxo horretan\n"
+	.string "bizi da SARDINZAR JAUNA.\p"
+	.string "Itsasoari beldurrik ez zion marinela\n"
+	.string "izan zen, ekaitza egonda ere.$"
 
 Route104_Text_WhatsItLikeAtBottomOfSea:
-	.string "The sea, huh?\p"
-	.string "I wonder what it's like at the bottom\n"
-	.string "of the sea?$"
+	.string "Itsasoa, e?\p"
+	.string "Jakin nahi nuke, zer ote dago\n"
+	.string "itsas hondoan?$"
 
 Route104_Text_ThrowBallAtWeakenedPokemon:
-	.string "If you're going to throw a POKé BALL,\n"
-	.string "weaken the wild POKéMON first.\p"
-	.string "It will be easier to catch if it's been\n"
-	.string "poisoned, burned, or lulled to sleep.$"
+	.string "POKé BALL bat botatzekotan bazaude,\n"
+	.string "ahuldu POKéMON basatia lehenengo.\p"
+	.string "Errazagoa da harrapatzea pozoinduta,\n"
+	.string "erreta edo lotan baldin badago.$"
 
 Route104_Text_OnlyThrowBallAtWildPokemon:
-	.string "You're a thief if you try to steal\n"
-	.string "someone else's POKéMON.\p"
-	.string "You should throw POKé BALLS only at\n"
-	.string "wild POKéMON.$"
+	.string "Lapur bat zara beste norbaiten\n"
+	.string "POKéMONA lapurtu nahi baduzu.\p"
+	.string "POKé BALLAK POKéMON basatiei soilik\n"
+	.string "bota behar dizkiezu.$"
 
 Route104_Text_ImNotATrainer:
-	.string "Oh, no, I'm not a TRAINER.\p"
-	.string "But that's right, if TRAINERS lock eyes,\n"
-	.string "it's a challenge to battle.\p"
-	.string "If you don't want to battle, stay out\n"
-	.string "of their sight.$"
+	.string "Ez, ez, ez naiz ENTRENATZAILEA.\p"
+	.string "Baina bai, ENTRENATZAILEEK begiradak\n"
+	.string "gurutzatzean, borrokarako erronka bat da.\p"
+	.string "Ez baduzu borrokatu nahi, ez zaitez\n"
+	.string "beraien begien paretik pasatu.$"
 
 Route104_Text_LikeFillingMouthWithSeedsTakeThis:
-	.string "I like filling my mouth with seeds,\n"
-	.string "then spitting them out fast!\p"
-	.string "You can have this, so you try it out!\p"
-	.string "Use it on a POKéMON, and it will learn\n"
-	.string "a move for firing seeds rapidly.$"
+	.string "Gustuko du ahoa haziekin betetzea,\n"
+	.string "gero azkar tu egin eta jaurtitzeko!\p"
+	.string "Tori, hau zuretzat da, probatu!\p"
+	.string "Erabili POKéMON batekin, haziak bizkor\n"
+	.string "botatzen dituen eraso bat ikasiko du.$"
 
 Route104_Text_TMsAreOneTimeUse:
-	.string "A word of advice!\p"
-	.string "A TM, TECHNICAL MACHINE, is good only\n"
-	.string "for one-time use.\p"
-	.string "Once you use it, it's gone.\n"
-	.string "Think twice before using it!$"
+	.string "Aholku bat!\p"
+	.string "MT bat, MAKINA TEKNIKO bat, alegia,\n"
+	.string "behin bakarrik erabili dezakezu.\p"
+	.string "Behin erabilita, ahitu egiten da.\n"
+	.string "Ondo pentsatu erabili aurretik!$"
 
 Route104_Text_DontNeedThisTakeIt:
-	.string "This FLOWER SHOP started selling\n"
-	.string "saplings recently.\p"
-	.string "It made me so happy, I went overboard\n"
-	.string "shopping.\p"
-	.string "I don't need this WHITE HERB anymore.\n"
-	.string "Would you take it, please?$"
+	.string "LORE DENDA honetan zuhaixkak saltzen\n"
+	.string "hasi dira duela gutxi.\p"
+	.string "Horren pozik jarri naiz, erosi eta\n"
+	.string "erosi aritu naizela.\p"
+	.string "Jada ez dut BELAR ZURI hau behar.\n"
+	.string "Hartuko zenuke zuretzat, mesedez?$"
 
 Route104_Text_FlowerShopSellingSaplings:
-	.string "This FLOWER SHOP started selling\n"
-	.string "saplings recently.\p"
-	.string "It made me so happy, I went overboard\n"
-	.string "shopping. Where should I put them?$"
+	.string "LORE DENDA honetan zuhaixkak saltzen\n"
+	.string "hasi dira duela gutxi.\p"
+	.string "Horren pozik jarri naiz, erosi eta\n"
+	.string "erosi aritu naizela. Non jarriko ote ditut?$"
 
 Route104_Text_MrBrineysCottage:
-	.string "MR. BRINEY'S COTTAGE$"
+	.string "SARDINZAR JAUNAREN ETXEA$"
 
 Route104_Text_RouteSignPetalburg:
-	.string "ROUTE 1O4\n"
-	.string "{RIGHT_ARROW} PETALBURG CITY$"
+	.string "1O4. ERRUTA\n"
+	.string "{RIGHT_ARROW} PETALORE HIRIA$"
 
 Route104_Text_RouteSignRustboro:
-	.string "ROUTE 1O4\n"
-	.string "{UP_ARROW} RUSTBORO CITY$"
+	.string "1O4. ERRUTA\n"
+	.string "{UP_ARROW} BURDINTZA HERRIA$"
 
 Route104_Text_PrettyPetalFlowShop:
-	.string "PRETTY PETAL FLOWER SHOP$"
+	.string "PETALO EDER LORE DENDA$"
 
 Route104_Text_TrainerTipsDoubleBattles:
-	.string "TRAINER TIPS\p"
-	.string "In the HOENN region there are pairs\n"
-	.string "of TRAINERS who challenge others\l"
-	.string "for 2-on-2 POKéMON battles called\l"
-	.string "DOUBLE BATTLES.\p"
-	.string "In a DOUBLE BATTLE, the TRAINER must\n"
-	.string "send out two POKéMON, the one at the\l"
-	.string "left of the list and the top one.\l"
-	.string "Watch how POKéMON are lined up.$"
+	.string "ENTRENATZAILEENTZAKO PISTAK\p"
+	.string "HOENNEKO eskualdean binaka aritzen\n"
+	.string "diren ENTRENATZAILEAK daude,\l"
+	.string "2 2ren aurkako POKéMON BORROKA\l"
+	.string "BIKOITZAK egiten dituztenak.\p"
+	.string "BORROKA BIKOITZ batean, bi POKéMON\n"
+	.string "atera behar dira, zerrendaren\l"
+	.string "ezkerrean dagoena eta goikoa.\l"
+	.string "Adi egon nola dauden POKéMONAK jarrita.$"
 
 Route104_Text_MayWeShouldRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "DEVON upgraded your POKéNAV with\n"
-	.string "the MATCH CALL system, huh?\p"
-	.string "We should register each other so we\n"
-	.string "can get in contact anytime.$"
+	.string "MAIA: Ei, kaixo, {PLAYER}{KUN}!\p"
+	.string "DEVONEK zure POKéNAVA berritu\n"
+	.string "du BORROKA DEIA gehituta, ezta?\p"
+	.string "Elkar erregistratu behar genuke\n"
+	.string "edozein momentutan hitz egiteko.$"
 
 Route104_Text_RegisteredMay:
-	.string "{PLAYER} registered MAY\n"
-	.string "in the POKéNAV.$"
+	.string "{PLAYER}(e)k MAIA erregistratu\n"
+	.string "du POKéNAVEAN.$"
 
 Route104_Text_MayHowsYourPokedex:
-	.string "MAY: Oh, by the way, {PLAYER}{KUN},\n"
-	.string "how's your POKéDEX coming along?$"
+	.string "MAIA: Aizu, portzierto, {PLAYER}{KUN},\n"
+	.string "zer moduz doa zure POKéDEXA?$"
 
 Route104_Text_MayMinesDecentLetsBattle:
-	.string "Mine's looking pretty decent.\n"
-	.string "So…\l"
-	.string "How about a little battle?$"
+	.string "Nire bide onetik doa.\n"
+	.string "Beraz…\l"
+	.string "Borrokatxo bat egingo al dugu?$"
 
 Route104_Text_MayHaventRaisedPokemon:
-	.string "MAY: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "POKéMON very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.string "MAIA: Zer gertatzen da?\p"
+	.string "Ez al dituzu nahikoa POKéMON\n"
+	.string "harrapatu eta hazi?\p"
+	.string "Hori ez da ENTRENATZAILE baten bidea!$"
 
 Route104_Text_MayLetsBattle:
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.string "MAIA: Beraz, zer deritzotzu?\n"
+	.string "Egingo al dugu borrokatxo bat?$"
 
 Route104_Text_MayIntro:
-	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.string "MAIA: ENTRENATZAILE bihurtu berri zara,\n"
+	.string "{PLAYER}{KUN}. Ez dut inolaz ere galduko!$"
 
 Route104_Text_MayDefeat:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Kaka!\n"
+	.string "Espero nuena baino hobea zara!$"
 
 Route104_Text_MayPostBattle:
-	.string "MAY: I can tell you've gotten pretty\n"
-	.string "good with the way you handle POKéMON.\p"
-	.string "But instead of only making them\n"
-	.string "battle, you should be like MR. BRINEY.\p"
-	.string "It's important to become friends with\n"
-	.string "POKéMON, too.$"
+	.string "MAIA: Esan dezaket nahikoa ona\n"
+	.string "bihurtu zarela POKéMONEKIN.\p"
+	.string "Baina soilik borrokan aritu ordez,\n"
+	.string "SARDINZAR bezalako izan behar zenuke.\p"
+	.string "Garrantzitsua da POKéMONEN\n"
+	.string "laguna izatea ere.$"
 
 Route104_Text_BrendanWeShouldRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "Cool, you had DEVON install the MATCH\n"
-	.string "CALL system on your POKéNAV!\p"
-	.string "Let's register each other in our\n"
-	.string "POKéNAVS so we can keep in touch.$"
+	.string "BEÑAT: Ei, kaixo, {PLAYER}!\p"
+	.string "Itzela, DEVONEK BORROKA DEIA\n"
+	.string "instalatu dizu POKéNAVEAN!\p"
+	.string "Erregistra dezagun elkar, nahi\n"
+	.string "dugunean elkarrekin hitz egiteko.$"
 
 Route104_Text_RegisteredBrendan:
-	.string "{PLAYER} registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "{PLAYER}(e)k BEÑAT erregistratu\n"
+	.string "du POKéNAVEAN.$"
 
 Route104_Text_BrendanHowsYourPokedex:
-	.string "BRENDAN: {PLAYER}, how's your POKéDEX?\n"
-	.string "Have you filled in any pages yet?$"
+	.string "BEÑAT: {PLAYER}, zer moduz POKéDEXA?\n"
+	.string "Bete al duzu orririk jada?$"
 
 Route104_Text_BrendanDoingGreatLetsBattle:
-	.string "Me, I'm doing great!\p"
-	.string "Want to check out how good I am with\n"
-	.string "a battle?$"
+	.string "Ni oso ondo ari naiz!\p"
+	.string "Ikusi nahi al duzu nire maila\n"
+	.string "borroka bat eginda?$"
 
 Route104_Text_BrendanNoConfidence:
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
+	.string "BEÑAT: Zer gertatzen da? Ez al duzu\n"
+	.string "konfidantzarik zure POKéMONENGAN?$"
 
 Route104_Text_BrendanLetsBattle:
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.string "BEÑAT: Zer da?\n"
+	.string "Nirekin borrokatu nahi al duzu?$"
 
 Route104_Text_BrendanIntro:
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.string "BEÑAT: ENTRENATZAILE bihurtu\n"
+	.string "berri bazara ere, indar osoz noa!$"
 
 Route104_Text_BrendanDefeat:
 	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Nahikoa ona zara, bai.$"
 
 Route104_Text_BrendanPostBattle:
-	.string "BRENDAN: You've gotten pretty decent\n"
-	.string "at handling POKéMON.\p"
-	.string "But, you know, you shouldn't just be\n"
-	.string "making POKéMON battle.\p"
-	.string "Like MR. BRINEY, it's important to\n"
-	.string "become friends with your POKéMON.$"
+	.string "BEÑAT: Nahikoa ona bihurtu\n"
+	.string "zara POKéMONEKIN.\p"
+	.string "Baina, badakizu, borrokan aritzea\n"
+	.string "soilik ez da garrantzitsuena.\p"
+	.string "SARDINZAR bezala, zure POKéMONEN\n"
+	.string "lagun bilakatzea da egin beharrekoa.$"
