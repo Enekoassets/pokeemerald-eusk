@@ -30,21 +30,21 @@ PacifidlogTown_PokemonCenter_1F_EventScript_OldMan::
 	end
 
 PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
-	.string "What color is your TRAINER CARD?\n"
-	.string "Mine's copper!$"
+	.string "Zein koloretakoa da zure ENTRENATZAILE\n"
+	.string "TXARTELA? Nire kobre kolorekoa!$"
 
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:
-	.string "PACIFIDLOG TOWN floats on top of\n"
-	.string "a colony of CORSOLA.\p"
-	.string "If I told you that, would you believe\n"
-	.string "me?$"
+	.string "URREBARE HERRIA CORSOLA kolonia\n"
+	.string "baten gainean dago flotatzen.\p"
+	.string "Hori esango banizu, sinestuko al\n"
+	.string "zenidake?$"
 
 PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats:
-	.string "The ancestors of the people in\n"
-	.string "PACIFIDLOG were said to have been\l"
-	.string "born on boats and then lived and died \l"
-	.string "aboard them.\p"
-	.string "I understand that they lived that way\n"
-	.string "because they were searching for\l"
-	.string "something.$"
+	.string "URREBAREKO jendearen arbasoak\n"
+	.string "ontzietan jaio, bizi eta hiltzen\l"
+	.string "zirela kontatu izan didate\l"
+	.string "batzuetan.\p"
+	.string "Suposatzen dut hala bizi zirela\n"
+	.string "zerbaiten bila aritzen zirelako\l"
+	.string "edo.$"
 

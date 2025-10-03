@@ -273,32 +273,32 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "Erlojua geldirik dago…\p"
+	.string "Hobe ezarri eta piztea!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+	.string "AMA: {PLAYER}, atsegin al duzu\n"
+	.string "zure gela berria?\p"
+	.string "Ongi! Dena txukun-txukun dago!\p"
+	.string "Beheko pisuan ere dena jartzen\n"
+	.string "amaitu dute. POKéMON langileak\p"
+	.string "erabilgarriak dira, gero!\p"
+	.string "Aizu, begiratu ea zure mahaian\n"
+	.string "behar duzun dena dagoen.$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+	.string "{PLAYER}(e)k koadernoa ireki du.\p"
+	.string "ABENTURARAKO 1. ARAUA\n"
+	.string "Ireki MENUA START botoiarekin.\p"
+	.string "ABENTURARAKO 2. ARAUA\n"
+	.string "Grabatu zure partida GORDEREKIN.\p"
+	.string "Beste orriak hutsik daude…$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "HOENN region map.$"
+	.string "{PLAYER} hurbildu egin da HOENN\n"
+	.string "eskualdeko mapa begiratzeko.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "Nintendo GameCube bat da.\p"
+	.string "Game Boy Advance bat du lotuta\n"
+	.string "kontrolagailu bezala erabiltzeko.$"

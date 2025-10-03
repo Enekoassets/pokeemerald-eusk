@@ -28,27 +28,27 @@ PacifidlogTown_EventScript_TownSign::
 	end
 
 PacifidlogTown_Text_FastRunningCurrent:
-	.string "The sea between PACIFIDLOG and\n"
-	.string "SLATEPORT has a fast-running tide.\p"
-	.string "If you decide to SURF, you could end\n"
-	.string "up swept away somewhere else.$"
+	.string "URREBARE eta PORTUONDO arteko itsasoan\n"
+	.string "ur-laster oso bizi bat dago.\p"
+	.string "SURF egitea erabakitzen baduzu, beste\n"
+	.string "nonbait amaitu dezakezu.$"
 
 PacifidlogTown_Text_NeatHousesOnWater:
-	.string "See, isn't it neat?\n"
-	.string "These houses are on water!\p"
-	.string "I was born here!$"
+	.string "Begira, ez al da bikaina?\n"
+	.string "Etxe hauek ur gainean daude!\p"
+	.string "Hemen jaio nintzen!$"
 
 PacifidlogTown_Text_SkyPillarTooScary:
-	.string "The SKY PILLAR?\p"
-	.string "…Oh, you must mean that tall, tall\n"
-	.string "tower a little further out.\p"
-	.string "If you asked me, I wouldn't climb it.\n"
-	.string "It's too scary to get up that high.\p"
-	.string "Life at sea level in PACIFIDLOG,\n"
-	.string "that suits me fine.$"
+	.string "ZERUAREN ZUTABEA?\p"
+	.string "…Ah, ziur hemendik aurrera jarraituta\n"
+	.string "dagoen dorre altu-altu hortaz ari zarela.\p"
+	.string "Ni zu banintz, ez nuke igoko.\n"
+	.string "Beldurra ematen du horren gora igotzeak.\p"
+	.string "URREBAREKO bizitza lasaia dut nik\n"
+	.string "atsegin, itsasoaren maila berean.$"
 
 PacifidlogTown_Text_TownSign:
-	.string "PACIFIDLOG TOWN\p"
-	.string "“Where the morning sun smiles upon\n"
-	.string "the waters.”$"
+	.string "URREBARE HERRIA\p"
+	.string "“Goizeko eguzkiak uraren gainean\n"
+	.string "irribarre egiten duen lekua.”$"
 

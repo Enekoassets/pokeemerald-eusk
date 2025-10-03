@@ -344,58 +344,58 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "I want to take a rest, so I'm saving my\n"
-	.string "progress.$"
+	.string "Deskantsu bat hartu nahi dut, beraz, nire\n"
+	.string "partida gordeko dut.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
-	.string "Hi!\n"
-	.string "I work at a POKéMON MART.\p"
-	.string "Can I get you to come with me?$"
+	.string "Kaixo!\n"
+	.string "POKéMON DENDA batean egiten dut lan.\p"
+	.string "Etorriko zinateke nirekin, mesedez?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "This is a POKéMON MART.\n"
-	.string "Just look for our blue roof.\p"
-	.string "We sell a variety of goods including\n"
-	.string "POKé BALLS for catching POKéMON.\p"
-	.string "Here, I'd like you to have this as\n"
-	.string "a promotional item.$"
+	.string "Hau POKéMON DENDA bat da.\n"
+	.string "Teilatu urdina daukan eraikina da.\p"
+	.string "Hainbat tresna saltzen ditugu, esaterako,\n"
+	.string "POKéMONAK harrapatzeko POKé BALLAK.\p"
+	.string "Tori, hau eman nahi nizuke\n"
+	.string "promozio gisan.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "A POTION can be used anytime, so it's\n"
-	.string "even more useful than a POKéMON CENTER\l"
-	.string "in certain situations.$"
+	.string "EDABEA edozein unetan erabili daiteke,\n"
+	.string "beraz, batzuetan POKéMON ZENTRO bat\l"
+	.string "baino erabilgarriagoa izan daiteke.$"
 
 OldaleTown_Text_WaitDontComeInHere:
-	.string "Aaaaah! Wait!\n"
-	.string "Please don't come in here.\p"
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "Aizuuu! Itxaron!\n"
+	.string "Mesedez, ez sartu hona.\p"
+	.string "POKéMON arraro baten oinatzak\n"
+	.string "aurkitu berri ditut!\p"
+	.string "Itxaron koadernoan zirriborratzen\n"
+	.string "ditudan bitartean, ados?$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "POKéMON arraro baten oinatzak\n"
+	.string "aurkitu berri ditut!\p"
+	.string "Itxaron koadernoan zirriborratzen\n"
+	.string "ditudan bitartean, ados?$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "I finished sketching the footprints of\n"
-	.string "a rare POKéMON.\p"
-	.string "But it turns out they were only my\n"
-	.string "own footprints…$"
+	.string "Bukatu dut POKéMON arraroaren\n"
+	.string "oinatzak zirriborratzen.\p"
+	.string "Baina, azkenean nire oinatzak\n"
+	.string "besterik ez ziren…$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: {PLAYER}{KUN}!\n"
-	.string "Over here!\l"
-	.string "Let's hurry home!$"
+	.string "MAIA: {PLAYER}{KUN}!\n"
+	.string "Hemen!\l"
+	.string "Goazen azkar etxera!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: I'm heading back to my dad's\n"
-	.string "LAB now.\l"
-	.string "{PLAYER}, you should hustle back, too.$"
+	.string "BEÑAT: Nire aitaren LABORATEGIRA\n"
+	.string "noa oraintxe.\l"
+	.string "{PLAYER}, zu ere bueltan joan behar zinateke.$"
 
 OldaleTown_Text_TownSign:
-	.string "OLDALE TOWN\n"
-	.string "“Where things start off scarce.”$"
+	.string "ESKASETA HERRIA\n"
+	.string "“Gauzak poliki hasten diren lekua.”$"
 

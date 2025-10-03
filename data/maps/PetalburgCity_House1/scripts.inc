@@ -10,19 +10,19 @@ PetalburgCity_House1_EventScript_Woman::
 	end
 
 PetalburgCity_House1_Text_TravelingIsWonderful:
-	.string "Traveling is wonderful!\p"
-	.string "When I was young, I roamed the seas\n"
-	.string "and the mountains!$"
+	.string "Bidaiatzea itzela da!\p"
+	.string "Gaztea nintzenean, mendi eta\n"
+	.string "itsaso guztiak zeharkatu nituen!$"
 
 PetalburgCity_House1_Text_GoOnAdventure:
-	.string "Sigh…\p"
-	.string "I wish I could go on an adventure\n"
-	.string "with some POKéMON…\p"
-	.string "Crawl through some damp grass…\n"
-	.string "Climb rocky, rugged mountains…\p"
-	.string "Cross the raging seas…\n"
-	.string "Wander about in dark caves…\p"
-	.string "And, sometimes, even get a little\n"
-	.string "homesick…\p"
-	.string "It must be fabulous to travel!$"
+	.string "Uff…\p"
+	.string "Gustura joango nintzateke POKéMON\n"
+	.string "batzuekin abentura batera…\p"
+	.string "Belar hezean arrastaka ibili…\n"
+	.string "Mendi harritsu altuak igo…\p"
+	.string "Itsaso handiak zeharkatu…\n"
+	.string "Koba ilunetan zehar bidaiatu…\p"
+	.string "Eta, batzuetan, herrimina\n"
+	.string "sentitu…\p"
+	.string "Bidaiatzea itzela izan behar da!$"
 

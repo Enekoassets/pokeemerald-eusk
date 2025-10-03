@@ -51,39 +51,39 @@ PacifidlogTown_House3_EventScript_Girl::
 	end
 
 PacifidlogTown_House3_Text_WillingToTradeIt:
-	.string "Check out this {STR_VAR_2}!\p"
-	.string "It's the {STR_VAR_2} that I caught\n"
-	.string "yesterday to celebrate my birthday!\p"
-	.string "Oh, I can see that you want it!\n"
-	.string "After all, it's priceless!\p"
-	.string "I'll tell you what. I might be willing\n"
-	.string "to trade it for a {STR_VAR_1}.$"
+	.string "Begira {STR_VAR_2} hau!\p"
+	.string "Nire urtebetetzea ospatzeko atzo\n"
+	.string "harrapatu nuen {STR_VAR_2} bat da!\p"
+	.string "Ikus dezaket nahi duzula!\n"
+	.string "Azken finean, oso baliotsua da!\p"
+	.string "Begira, {STR_VAR_1} baten truke\n"
+	.string "trukatzeko prest nago.$"
 
 PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou:
-	.string "Oh, so this is a {STR_VAR_1}?\p"
-	.string "It's sort of like a {STR_VAR_2},\n"
-	.string "and yet it's subtly different.\p"
-	.string "Thank you!$"
+	.string "Hau al da {STR_VAR_1} bat?\p"
+	.string "{STR_VAR_2} baten antza dauka,\n"
+	.string "baina pixka bat desberdina da.\p"
+	.string "Eskerrik asko!$"
 
 PacifidlogTown_House3_Text_WontAcceptAnyLessThanRealMon:
-	.string "No, no, no! I won't accept any\n"
-	.string "less than a real {STR_VAR_1}!$"
+	.string "Ez, ez, ez! Ez dut {STR_VAR_1}\n"
+	.string "bat besterik onartuko!$"
 
 PacifidlogTown_House3_Text_NotDesperateOrAnything:
-	.string "Oh, so you're not going to go through\n"
-	.string "with this?\p"
-	.string "That's cool. I'm not desperate to make\n"
-	.string "a trade or anything.$"
+	.string "Beraz, ez duzu honekin jarraitu\n"
+	.string "nahi?\p"
+	.string "Ongi. Ez dut truke hau egiteko\n"
+	.string "behar edo gogo berezirik.$"
 
 PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
-	.string "I know I could go looking for one\n"
-	.string "on my own, but…\p"
-	.string "But I really wanted to get a BAGON\n"
-	.string "that another TRAINER caught…$"
+	.string "Badakit joan naitekeela ni horrelako\n"
+	.string "bat harrapatzera, baina…\p"
+	.string "Baina benetan nahi nuen beste ENTRENATZAILE\n"
+	.string "batek harrapatutako BAGON bat izan…$"
 
 PacifidlogTown_House3_Text_IsThatAPokedex:
-	.string "Is that a POKéDEX?\p"
-	.string "Did you get to meet a lot of different\n"
-	.string "POKéMON?\p"
-	.string "I wish I was like you.$"
+	.string "POKéDEX bat al da hori?\p"
+	.string "Lortu al duzu POKéMON desberdin pila\n"
+	.string "bat ikustea?\p"
+	.string "Zu bezalakoa izan nahi nuke.$"
 

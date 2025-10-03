@@ -28,26 +28,26 @@ PacifidlogTown_House4_EventScript_No::
 	end
 
 PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon:
-	.string "People were saying they saw a POKéMON\n"
-	.string "flying high above HOENN.\p"
-	.string "Is it flying around all the time?\n"
-	.string "Doesn't it need to rest somewhere?$"
+	.string "Jendeak dio POKéMON hegalari bat\n"
+	.string "ikusi dutela HOENN gainetik igarotzen.\p"
+	.string "Gelditu gabe ari ote da hegan?\n"
+	.string "Ez al du nonbait deskantsatu behar edo?$"
 
 PacifidlogTown_House4_Text_SkyPokemon:
-	.string "A sky POKéMON!\n"
-	.string "A sky POKéMON!$"
+	.string "Zeruko POKéMONA!\n"
+	.string "Zeruko POKéMONA!$"
 
 PacifidlogTown_House4_Text_WhereDidYouComeFrom:
-	.string "Where did you come from?$"
+	.string "Nondik etorri zara?$"
 
 PacifidlogTown_House4_Text_YesTown:
-	.string "Yes?\n"
-	.string "YES TOWN?\p"
-	.string "I've never heard of a place like that.$"
+	.string "Bai?\n"
+	.string "BAI HERRIA?\p"
+	.string "Ez dut horrelako lekurik ezagutzen.$"
 
 PacifidlogTown_House4_Text_YouHaveToComeFromSomewhere:
-	.string "No? That doesn't make any sense.\n"
-	.string "You have to come from somewhere.\p"
-	.string "Oh! Wait! You're not going to say you\n"
-	.string "were born at the bottom of the sea?$"
+	.string "Ez? Horrek ez du zentzurik.\n"
+	.string "Nonbaitetik etorri behar duzu, baina.\p"
+	.string "Ene! Itxaron! Ez didazu esango itsasoaren\n"
+	.string "hondoan jaio zinela, ezta?$"
 

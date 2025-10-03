@@ -55,42 +55,42 @@ PetalburgCity_PokemonCenter_1F_EventScript_SayMudkipType::
 	return
 
 PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem:
-	.string "That PC-based POKéMON Storage\n"
-	.string "System…\p"
-	.string "Whoever made it must be some kind\n"
-	.string "of a scientific wizard!$"
+	.string "Ordenagailuan POKéMONAK Gordetzeko\n"
+	.string "Sistema hori…\p"
+	.string "Asmatu zuena aztia edo horrelako\n"
+	.string "zerbait izango da!$"
 
 PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP:
-	.string "When my POKéMON ate an\n"
-	.string "ORAN BERRY, it regained HP!$"
+	.string "Nire POKéMONAK ARANJA BAIA bat jan\n"
+	.string "zuenean, BPak sendatu zituen!$"
 
 PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon:
-	.string "There are many types of POKéMON.\p"
-	.string "All types have their strengths and\n"
-	.string "weaknesses against other types.\p"
-	.string "Depending on the types of POKéMON,\n"
-	.string "a battle could be easy or hard.$"
+	.string "POKéMON mota asko daude.\p"
+	.string "Mota guztiek dituzte ahulgunea eta\n"
+	.string "indargunean beste moten aurka.\p"
+	.string "POKéMONEN moten arabera, borroka\n"
+	.string "bat erraza edo zaila izan daiteke.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType:
-	.string "For example, your TREECKO\n"
-	.string "is a GRASS type.\p"
-	.string "It's strong against the WATER and\n"
-	.string "GROUND types.\p"
-	.string "But, it's weak against FIRE-type\n"
-	.string "POKéMON.$"
+	.string "Adibidez, zure TREECKO\n"
+	.string "LANDARE motakoa da.\p"
+	.string "Indartsua da UR eta LUR\n"
+	.string "moten aurka.\p"
+	.string "Baina, ahula SU motako\n"
+	.string "POKéMONEN aurka.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType:
-	.string "For example, your TORCHIC\n"
-	.string "is a FIRE type.\p"
-	.string "It's strong against the GRASS and\n"
-	.string "BUG types.\p"
-	.string "But, it's weak against WATER-type\n"
-	.string "POKéMON.$"
+	.string "Adibidez, zure TORCHIC\n"
+	.string "SU motakoa da.\p"
+	.string "Indartsua da LANDARE eta ZOMORRO\n"
+	.string "moten aurka.\p"
+	.string "Baina, ahula UR motako\n"
+	.string "POKéMONEN aurka.$"
 
 PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType:
-	.string "For example, your MUDKIP\n"
-	.string "is a WATER type.\p"
-	.string "It's strong against the FIRE type.\p"
-	.string "But, it's weak against GRASS-type\n"
-	.string "and ELECTRIC-type POKéMON.$"
+	.string "Adibidez, zure MUDKIP\n"
+	.string "UR motakoa da.\p"
+	.string "Indartsua da SU motaren aurka.\p"
+	.string "Baina, ahula LANDARE eta\n"
+	.string "ELEKTRIKO motako POKéMONEN aurka.$"
 
