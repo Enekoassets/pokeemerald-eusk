@@ -1473,7 +1473,7 @@ PetalburgCity_Gym_Text_AlexiaDefeat:
 PetalburgCity_Gym_Text_AlexiaPostBattle:
 	.string "Esango nuke gauza baliotsuak\n"
 	.string "irakatsi dizkidazula.\p"
-	.string "Orain segi" Ezkerreko ateak\n"
+	.string "Orain segi! Ezkerreko ateak\n"
 	.string "INDAR GELARA eramango zaitu.\p"
 	.string "Eskuineko ateak, berriz,\n"
 	.string "KO KOLPE GELARA.\p"

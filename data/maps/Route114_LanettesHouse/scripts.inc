@@ -57,7 +57,7 @@ Route114_LanettesHouse_Text_OrganizeYourBoxes:
 	.string "Eman diezazuket aholku bat POKéMONAK\n"
 	.string "Gordetzeko Sistemaren inguruan?\p"
 	.string "KUTXAK antolatu behar zenituzke,\n"
-	.string bakoitzean zein POKéMON dauden jakiteko.$"
+	.string "bakoitzean zein POKéMON dauden jakiteko.$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage1:
 	.string "LANETTEREN ikerketa oharrak dira.\n"
