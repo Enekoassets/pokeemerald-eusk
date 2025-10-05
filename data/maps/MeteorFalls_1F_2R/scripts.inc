@@ -61,123 +61,123 @@ MeteorFalls_1F_2R_EventScript_RematchJay::
 	end
 
 MeteorFalls_1F_2R_Text_NicolasIntro:
-	.string "This is where we DRAGON users do our\n"
-	.string "training.\p"
-	.string "The CHAMPION even visits.\n"
-	.string "Now do you see how special it is here?$"
+	.string "DRAGOIAK erabiltzen ditugunok\n"
+	.string "hemen entrenatu ohi dugu.\p"
+	.string "TXAPELDUNA ere etorri ohi da.\n"
+	.string "Ikusten duzu zeinen leku berezia den?$"
 
 MeteorFalls_1F_2R_Text_NicolasDefeat:
-	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.string "Kaka!\n"
+	.string "Ez nuen uste horren indartsua zinenik!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostBattle:
-	.string "The road ahead remains long and harsh.\p"
-	.string "When will my POKéMON and I become\n"
-	.string "the best?$"
+	.string "Bidea gogorra eta luzea da.\p"
+	.string "Noiz bihurtuko gara onenak\n"
+	.string "nire POKéMONAK eta ni?$"
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
-	.string "I want to know more about your power.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.string "Zure btoerea gehiago ezagutu nahi dut.\n"
+	.string "POKéNAVEAN erregistratuko zaitut.$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
-	.string "Since we met, we have trained hard\n"
-	.string "with our sights on number one.\p"
-	.string "Help us see how much stronger we've\n"
-	.string "become!$"
+	.string "Elkartu ginenetik, onena izateko\n"
+	.string "izugarri entrenatu dugu.\p"
+	.string "Lagundu zeinen indartsuak\n"
+	.string "garen erakusten!$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchDefeat:
-	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.string "Kaka!\n"
+	.string "Ez nuen uste horren indartsua zinenik!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostRematch:
-	.string "You've obviously kept up your\n"
-	.string "POKéMON training.\p"
-	.string "So long as you remain strong, I, too,\n"
-	.string "can become stronger!$"
+	.string "Argi dago zure POKéMONAK\n"
+	.string "entrenatzen jarraitu duzula.\p"
+	.string "Zu indartsua baldin bazara, ni ere\n"
+	.string "indartsuagoa egingo naiz!$"
 
 MeteorFalls_1F_2R_Text_JohnIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.string "JON: Beti borrokatu dugu\n"
+	.string "POKéMONEKIN bikote moduan.\l"
+	.string "Konfidantza dugu gugan.$"
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "JON: Ai ene.\n"
+	.string "Galdu egin dugu, emazte maitea.$"
 
 MeteorFalls_1F_2R_Text_JohnPostBattle:
-	.string "JOHN: We've been married for\n"
-	.string "fifty years.\p"
-	.string "Come to think of it, I've yet to beat\n"
-	.string "my dear wife in a battle.$"
+	.string "JON: Berrogeita hamar urte\n"
+	.string "daramatzagu ezkonduta.\p"
+	.string "Ondo pentsatuta, inoiz ez diot\n"
+	.string "nire maiteari borrokan irabazi.$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "JON: Beno, beno, zu bai ENTRENATZAILE\p"
+	.string "gaztea! Borrokatuko duzu gurekin? POKéMON\n"
+	.string "gehiagorekin itzuli, orduan.$"
 
 MeteorFalls_1F_2R_Text_JohnRegister:
-	.string "JOHN: Young TRAINER, if the chance\n"
-	.string "arises, will you battle with us again?$"
+	.string "JON: ENTRENATZAILE gazte, aukera\n"
+	.string "baduzu, borrokatuko dugu berriz?$"
 
 MeteorFalls_1F_2R_Text_JayIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "The bond we share as a couple could\n"
-	.string "never be broken.$"
+	.string "JAIONE: Berrogeita hamar urte\n"
+	.string "daramatzagu ezkonduta.\p"
+	.string "Gure bikote harremana ez da\n"
+	.string "inoiz etengo.$"
 
 MeteorFalls_1F_2R_Text_JayDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "JAIONE: Ai ene.\n"
+	.string "Galdu egin dugu, senar maitea.$"
 
 MeteorFalls_1F_2R_Text_JayPostBattle:
-	.string "JAY: Fifty years of marriage…\p"
-	.string "If we ever argued, we always settled\n"
-	.string "it with a POKéMON battle…$"
+	.string "JAIONE: Berrogeita hamar urte\p"
+	.string "ezkonduta… Desadostasun bat badugu,\n"
+	.string "POKéMON borroka batekin ebazten dugu…$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.string "JAIONE: Beno, beno, zu bai\n"
+	.string "ENTRENATZAILE gaztea?\p"
+	.string "Gurekin borrokatzekotan, POKéMON\n"
+	.string "gehiago ekarri behar dituzu.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.string "JON: Beti borrokatu dugu\n"
+	.string "POKéMONEKIN bikote moduan.\l"
+	.string "Konfidantza dugu gugan.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "JON: Ai ene.\n"
+	.string "Galdu egin dugu, emazte maitea.$"
 
 MeteorFalls_1F_2R_Text_JohnPostRematch:
-	.string "JOHN: Married for fifty years…\p"
-	.string "On reflection, the dear wife and I,\n"
-	.string "we battled day in and day out…$"
+	.string "JON: Berrogeita hamar urte ezkonduta…\p"
+	.string "Ondo pentsatuta, nire emazteak eta\n"
+	.string "nik egunero egin ditugu borrokak…$"
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "JON: Beno, beno, zu bai ENTRENATZAILE\p"
+	.string "gaztea! Borrokatuko duzu gurekin? POKéMON\n"
+	.string "gehiagorekin itzuli, orduan.$"
 
 MeteorFalls_1F_2R_Text_JayRematchIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "We've supported each other all that\n"
-	.string "time. We've made ourselves strong.$"
+	.string "JAIONE: Berrogeita hamar urte\p"
+	.string "daramatzagu ezkonduta.\p"
+	.string "Elkarri lagundu diogu beti.\n"
+	.string "Oso indartsuak bihurtu gara.$"
 
 MeteorFalls_1F_2R_Text_JayRematchDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "JAIONE: Ai ene.\n"
+	.string "Galdu egin dugu, senar maitea.$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
-	.string "JAY: Fifty years of marriage…\n"
-	.string "Many things have happened.\p"
-	.string "I hope that we will continue to make\n"
-	.string "happy memories together.$"
+	.string "JAIONE: Berrogeita hamar urte…\n"
+	.string "Gauza asko gertatu dira.\p"
+	.string "Espero dut oroitzapen alaiak\n"
+	.string "sortzen jarraituko dugula elkarrekin.$"
 
 MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.string "JAIONE: Beno, beno, zu bai\n"
+	.string "ENTRENATZAILE gaztea?\p"
+	.string "Gurekin borrokatzekotan, POKéMON\n"
+	.string "gehiago ekarri behar dituzu.$"
 

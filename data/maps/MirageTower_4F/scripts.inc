@@ -61,20 +61,20 @@ MirageTower_4F_EventScript_CollapseMirageTower::
 	end
 
 MirageTower_4F_Text_TakeRootFossil:
-	.string "You found the ROOT FOSSIL.\p"
-	.string "If this FOSSIL is taken, the ground\n"
-	.string "around it will likely crumble away…\p"
-	.string "Take the ROOT FOSSIL anyway?$"
+	.string "SUSTRAI FOSILA aurkitu duzu.\p"
+	.string "FOSIL hau hartzen baduzu, inguruko\n"
+	.string "lurra hautsi egingo da ziurrenik…\p"
+	.string "Hartu SUSTRAI FOSILA, hala ere?$"
 
 MirageTower_4F_Text_LeftRootFossilAlone:
-	.string "{PLAYER} left the ROOT FOSSIL alone.$"
+	.string "{PLAYER}(e)k SUSTRAI FOSILA utzi du.$"
 
 MirageTower_4F_Text_TakeClawFossil:
-	.string "You found the CLAW FOSSIL.\p"
-	.string "If this FOSSIL is taken, the ground\n"
-	.string "around it will likely crumble away…\p"
-	.string "Take the CLAW FOSSIL anyway?$"
+	.string "ATZAPAR FOSILA aurkitu duzu.\p"
+	.string "FOSIL hau hartzen baduzu, inguruko\n"
+	.string "lurra hautsi egingo da ziurrenik…\p"
+	.string "Hartu ATZAPAR FOSILA, hala ere?$"
 
 MirageTower_4F_Text_LeaveClawFossilAlone:
-	.string "{PLAYER} left the CLAW FOSSIL alone.$"
+	.string "{PLAYER}(e)k ATZAPAR FOSILA utzi du.$"
 

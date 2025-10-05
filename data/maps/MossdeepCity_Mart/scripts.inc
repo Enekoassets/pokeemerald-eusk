@@ -37,22 +37,22 @@ MossdeepCity_Mart_EventScript_Sailor::
 	end
 
 MossdeepCity_Mart_Text_ReviveIsFantastic:
-	.string "REVIVE is fantastic!\p"
-	.string "Give it to a fainted POKéMON,\n"
-	.string "and the POKéMON will arise.\p"
-	.string "But be careful, REVIVE doesn't restore\n"
-	.string "the used-up PP of moves.$"
+	.string "BERPIZTAILEA itzela da!\p"
+	.string "Eman indargabetutako POKéMON bati,\n"
+	.string "eta POKéMONA berpiztu egingo da.\p"
+	.string "Baina kontuz, BERPIZTAILEAK ez ditu\n"
+	.string "erabilitako PPak sendatzen eta.$"
 
 MossdeepCity_Mart_Text_MaxRepelLastsLongest:
-	.string "MAX REPEL keeps all weak POKéMON away.\p"
-	.string "Out of all the REPEL sprays, it lasts\n"
-	.string "the longest.$"
+	.string "MAX UXAGARRIAK POKéMON ahulak uxatzen\p"
+	.string "ditu. UXAGARRI guztietan gehien\n"
+	.string "irauten duena da.$"
 
 MossdeepCity_Mart_Text_NetAndDiveBallsRare:
-	.string "The NET and DIVE BALLS are rare POKé\n"
-	.string "BALLS that are only made in MOSSDEEP.\p"
-	.string "A NET BALL is effective against\n"
-	.string "BUG-type and WATER-type POKéMON.\p"
-	.string "A DIVE BALL works best on POKéMON\n"
-	.string "at the bottom of the sea.$"
+	.string "SARE eta URPE BALLAK GOROLDIN soilik\n"
+	.string "egiten diren POKé BALL arraroak dira.\p"
+	.string "SARE BALLA egokia da ZOMORRO eta\n"
+	.string "UR motako POKéMONENTZAT.\p"
+	.string "URPE BALLA ona da itsas-hondoan\n"
+	.string "bizi diren POKéMONENTZAT.$"
 

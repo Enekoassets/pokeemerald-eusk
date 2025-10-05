@@ -26,22 +26,22 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "All sorts of beings wander the slopes\n"
-	.string "of MT. PYRE…\p"
-	.string "There is no telling what may happen.\n"
-	.string "Take this. It's for your own good.$"
+	.string "Mota guztietako izakiak daude\n"
+	.string "PIRO MENDIAN…\p"
+	.string "Inork ez daki zer gertatuko den.\n"
+	.string "Tori hau. Zure onerako da.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:
-	.string "Have a POKéMON hold that\n"
-	.string "CLEANSE TAG.\p"
-	.string "It will help ward off wild POKéMON.$"
+	.string "Eman GARBITZE AMULETOA\n"
+	.string "POKéMON bati.\p"
+	.string "POKéMON basatiak uxatuko ditu.$"
 
 MtPyre_1F_Text_ComeToPayRespects:
-	.string "Did you come to pay your respect\n"
-	.string "to the spirits of departed POKéMON?\p"
-	.string "You must care for your POKéMON a lot.$"
+	.string "Zendutako POKéMONEN espirituei\n"
+	.string "agur esatera al zatoz?\p"
+	.string "Asko zaintzen dituzu zure POKéMONAK.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:
-	.string "This is the final resting place of my\n"
-	.string "ZIGZAGOON. I cherished it…$"
+	.string "Hau da nire ZIGZAGOON maitearen\n"
+	.string "deskantsu lekua. Asko maite nuen…$"
 

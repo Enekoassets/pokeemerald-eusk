@@ -2293,7 +2293,7 @@ Route116_Text_SarahIntro:
 	.string "ezertan irabazi.$"
 
 Route116_Text_SarahDefeat:
-	.string "Ai ene jainkoa.\n"
+	.string "Ai ene Jainkoa.\n"
 	.string "Hau berria da niretzat.$"
 
 Route116_Text_SarahPostBattle:

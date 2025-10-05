@@ -151,67 +151,67 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 	end
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
-	.string "STEVEN: {PLAYER}{KUN}…\p"
-	.string "As you can see, there's not much here,\n"
-	.string "but this is my home.\p"
-	.string "Thank you for all that you've done.\p"
-	.string "This is my token of appreciation.\n"
-	.string "It's the HIDDEN MACHINE DIVE.\p"
-	.string "No need to be shy--you've earned\n"
-	.string "this HM.$"
+	.string "MIKEL: {PLAYER}{KUN}…\p"
+	.string "Ikus dezakezunez, ez da ezer asko,\n"
+	.string "baina, hau da nire etxea.\p"
+	.string "Eskerrik asko egindako guztiagatik.\p"
+	.string "Hau nire esker onaren adierazle.\n"
+	.string "URPERAKETA MAKINA EZKUTUA da.\p"
+	.string "Ez izan lotsarik, benetan merezi\n"
+	.string "duzu ME hau.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: While you're using SURF, you\n"
-	.string "should notice dark patches of water.\p"
-	.string "Use DIVE if you come to deep water\n"
-	.string "like it. You'll drop to the seafloor.\p"
-	.string "When you want to come back up, use\n"
-	.string "DIVE again.\p"
-	.string "In some places, it won't be possible\n"
-	.string "for you to surface, though.$"
+	.string "MIKEL: SURFA erabiltzen ari zarenean,\n"
+	.string "zati ilunak ikusiko dituzu uretan.\p"
+	.string "Erabili URPERAKETA hondoraino jaitsi\n"
+	.string "nahi baduzu. Itsas azpira jaitsiko zara.\p"
+	.string "Berriz igo nahi duzunean, erabili\n"
+	.string "URPERAKETA berriro.\p"
+	.string "Leku batzuetan ezingo zara\n"
+	.string "azalera igo, ordea.$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
-	.string "STEVEN: Apparently, there's an\n"
-	.string "underwater cavern between\l"
-	.string "MOSSDEEP and SOOTOPOLIS.\p"
-	.string "You know, the one that CAPT. STERN\n"
-	.string "found in his submarine.$"
+	.string "MIKEL: Dirudienez, ur azpiko\n"
+	.string "haitzulo bat dago GOROLDI\l"
+	.string "eta ARREZIPOLISEN artean.\p"
+	.string "Badakizu, ABABOR KAPITAINAK bere\n"
+	.string "urpekoa aurkitu zuen lekua.$"
 
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
-	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
-	.string "BELDUM.\p"
-	.string "Take the POKé BALL?$"
+	.string "{PLAYER}(e)k POKé BALLA aztertu du.\p"
+	.string "BELDUM POKéMONA dauka\n"
+	.string "barruan.\p"
+	.string "POKé BALLA hartu?$"
 
 MossdeepCity_StevensHouse_Text_ObtainedBeldum:
-	.string "{PLAYER} obtained a BELDUM.$"
+	.string "{PLAYER}(e)k BELDUM bat jaso du.$"
 
 @ Unused
 MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
-	.string "There is no space for another POKéMON.$"
+	.string "Ez dago lekurik beste POKéMON batentzat.$"
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
-	.string "{PLAYER} left the POKé BALL where\n"
-	.string "it was.$"
+	.string "{PLAYER}(e)k bere tokian utzi\n"
+	.string "du POKé BALLA.$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:
-	.string "It's a letter.\p"
+	.string "Gutun bat da.\p"
 	.string "… … … … … …\p"
-	.string "To {PLAYER}{KUN}…\p"
-	.string "I've decided to do a little soul-\n"
-	.string "searching and train on the road.\p"
-	.string "I don't plan to return home for some\n"
-	.string "time.\p"
-	.string "I have a favor to ask of you.\p"
-	.string "I want you to take the POKé BALL on\n"
-	.string "the desk.\p"
-	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
-	.string "I'm counting on you.\p"
-	.string "May our paths cross someday.\p"
-	.string "STEVEN STONE$"
+	.string "{PLAYER}{KUN}(r)entzat…\p"
+	.string "Nire burua ezagutzeko, bidean\n"
+	.string "entrenatzea erabaki dut.\p"
+	.string "Ez dut uste etxera itzuliko\n"
+	.string "naizenik tarte batean.\p"
+	.string "Mesede bat eskatu behar dizut.\p"
+	.string "Mahaian dagoen POKé BALLA\n"
+	.string "hartzea nahi nuke.\p"
+	.string "BELDUM bat dauka barruan, nire\n"
+	.string "POKéMON kuttunena.\p"
+	.string "Konfidantza dut zugan.\p"
+	.string "Gure bideak elkartuko direlakoan.\p"
+	.string "MIKEL HARRI$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by STEVEN.$"
+	.string "MIKELEK bildutako harribitxi eta\n"
+	.string "harritxoz osatutako bilduma da.$"
 

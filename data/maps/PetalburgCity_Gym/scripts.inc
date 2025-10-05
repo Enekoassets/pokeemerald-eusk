@@ -1330,7 +1330,7 @@ PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough:
 
 PetalburgCity_Gym_Text_GymGuideAdvice:
 	.string "Ei, zer moduz zaude, {PLAYER}\n"
-	.string "TXAPELDUNA?\p"
+	.string "etorkizuneko TXAPELDUNA?\p"
 	.string "GIMNASIO honetako ateak bertako\n"
 	.string "ENTRENATZAILEAK garaitzean irekiko dira.\p"
 	.string "Ups! Gela honetako ateak irekita\n"

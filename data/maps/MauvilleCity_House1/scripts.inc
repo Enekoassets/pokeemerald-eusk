@@ -19,28 +19,28 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 	end
 
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
-	.string "Woohoo!\p"
-	.string "I hear people call me the ROCK SMASH\n"
-	.string "GUY, but I find that sort of degrading.\p"
-	.string "I think I deserve a bit more respect,\n"
-	.string "like maybe the ROCK SMASH DUDE.\p"
-	.string "Woohoo!\p"
-	.string "Anyways, your POKéMON look pretty\n"
-	.string "strong.\p"
-	.string "I like that!\n"
-	.string "Here, take this HIDDEN MACHINE!$"
+	.string "Iuju!\p"
+	.string "Entzun dut jendeak ARROKA KOLPE TIPOA\n"
+	.string "deitzen didala, baina ez dut atsegin.\p"
+	.string "Errespetu gehixeago merezi dut,\n"
+	.string "ARROKA KOLPE JAUNA, adibidez.\p"
+	.string "Iuju!\p"
+	.string "Berdin da, zure POKéMONEK indartsuak\n"
+	.string "dirudite.\p"
+	.string "Atsegin dut hori!\n"
+	.string "Tori, hartu MAKINA EZKUTU hau!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "That HM contains ROCK SMASH.\p"
-	.string "If you come across large boulders\n"
-	.string "that block your path…\p"
-	.string "Well, use that HM move and smash\n"
-	.string "them right out of your way!\p"
-	.string "Yes, sir! Smash rocks aside, I say!\n"
-	.string "Woohoo!$"
+	.string "ME horrek ARROKA KOLPEA dauka barruan.\p"
+	.string "Zure bidea oztopatzen duten arroka\n"
+	.string "handiekin topo egiten baduzu…\p"
+	.string "Beno, erabili ME hori eta birrindu\n"
+	.string "itzazu bidea irekitzeko!\p"
+	.string "Bai jauna! Txikitu arrokak, bai!\n"
+	.string "Iuju!$"
 
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:
-	.string "Oh, yes, if you smash a rock, a POKéMON\n"
-	.string "could come flying out of hiding.\p"
-	.string "Woohoo!$"
+	.string "Ah, bai, arroka bat txikitzen baduzu,\n"
+	.string "POKéMON bat agertu daiteke bat-batean.\p"
+	.string "Iuju!$"
 

@@ -365,284 +365,284 @@ MossdeepCity_Gym_EventScript_RedFloorSwitch::
 	end
 
 MossdeepCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going, CHAMPION-bound\n"
-	.string "{PLAYER}?\p"
-	.string "The GYM LEADERS here use\n"
-	.string "PSYCHIC-type POKéMON.\p"
-	.string "If you go up against them with\n"
-	.string "FIGHTING- or POISON-type POKéMON,\l"
-	.string "they'll inflict horrible damage!\p"
-	.string "Plus, they'll come at you with\n"
-	.string "outstanding combination attacks.\p"
-	.string "If you want to win, you'll need to show\n"
-	.string "them how tight you are with your\l"
-	.string "POKéMON. Go for it!$"
+	.string "Ei, zer moduz, {PLAYER},\n"
+	.string "etorkizuneko TXAPELDUNA?\p"
+	.string "Hemengo GIMNASIOKO LIDERREK\n"
+	.string "PSIKIKO motako POKéMONAK dituzte.\p"
+	.string "BORROKA edo POZOIN motako\n"
+	.string "POKéMONAK badituzu, izugarrizko\l"
+	.string "kaltea eragingo dizute!\p"
+	.string "gainera, eraso konbinaketa\n"
+	.string "izugarriekin egingo dizute aurre.\p"
+	.string "Irabazi nahi baduzu, zure POKéMONEKIN\n"
+	.string "duzun konexioa erakutsi beharko\l"
+	.string "duzu. Aurrera!$"
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
-	.string "Wow, you're astounding!\n"
-	.string "You're one great TRAINER!$"
+	.string "Uau, itzela zara!\n"
+	.string "ENTRENATZAILE bikaina zara, gero!$"
 
 MossdeepCity_Gym_Text_PrestonIntro:
-	.string "Battles hinge on the strength of your\n"
-	.string "spirit! The weak-spirited will never win!$"
+	.string "Borrokak zure gogoaren indarraren arabera\n"
+	.string "erabakitzen dira! Gogo gutxirekin, ezin irabazi!$"
 
 MossdeepCity_Gym_Text_PrestonDefeat:
-	.string "I lost!\n"
-	.string "I must temper my spirit again!$"
+	.string "Galdu egin dut!\n"
+	.string "Nire gogoa indartu behar dut!$"
 
 MossdeepCity_Gym_Text_PrestonPostBattle:
-	.string "The indecisive lose.\n"
-	.string "That's my warning to you.$"
+	.string "Zalantzatiek galdu egiten dute.\n"
+	.string "Hori da nire abisua.$"
 
 MossdeepCity_Gym_Text_VirgilIntro:
-	.string "Let me see your talent!$"
+	.string "Ikus dezagun zure talentua!$"
 
 MossdeepCity_Gym_Text_VirgilDefeat:
-	.string "You possess spectacular talent!$"
+	.string "Talentu harrigarria daukazu!$"
 
 MossdeepCity_Gym_Text_VirgilPostBattle:
-	.string "If there are prodigies in the world,\n"
-	.string "then our GYM LEADERS are them!\p"
-	.string "However, you may be even more talented\n"
-	.string "than them…$"
+	.string "Prodijioak existitzen badira, gure\n"
+	.string "GIMNASIOKO LIDERRAK halakoak dira!\p"
+	.string "Hala ere, agian beraiek baino\n"
+	.string "talntu handiagoa duzu zuk…$"
 
 MossdeepCity_Gym_Text_BlakeIntro:
-	.string "Fufufufu… Watch me levitate a POKé\n"
-	.string "BALL telekinetically!\p"
-	.string "Wrooooooooaaaar!\n"
+	.string "Fufufufu… Begira nola aireratzen dudan\n"
+	.string "POKé BALLA telekinesiarekin!\p"
+	.string "Rooooooooaaaar!\n"
 	.string "… … … … … … …\p"
-	.string "Sometimes, I'm out of sync…$"
+	.string "Batzuetan, ezin dut sinkronizatu…$"
 
 MossdeepCity_Gym_Text_BlakeDefeat:
-	.string "My POKéMON battling skills are out\n"
-	.string "of sync, too!$"
+	.string "POKéMONEKIN borroka egiteko abilezia\n"
+	.string "ere ezin dut sinkronizatu!$"
 
 MossdeepCity_Gym_Text_BlakePostBattle:
-	.string "A POKé BALL was too heavy to lift\n"
-	.string "psychically. But this dust bunny…\p"
-	.string "Whoooooooooooooooh!\n"
+	.string "POKé BALLA pisutsuegia zen fisikoki\n"
+	.string "altxatzeko. Baina hauts maluta hau…\p"
+	.string "Ffffuuuu!\n"
 	.string "… … … … … …\p"
-	.string "No, I'm not cheating!\n"
-	.string "I didn't blow on it! Honestly!$"
+	.string "Ez, ez naiz tranpatan ari!\n"
+	.string "Ez dut putz egin! Benetan!$"
 
 MossdeepCity_Gym_Text_HannahIntro:
-	.string "When you lose to me, don't be too hard\n"
-	.string "on yourself.\p"
-	.string "It's not that you're weak--I'm just\n"
-	.string "too strong!$"
+	.string "Nire aurka galtzen duzunean,\n"
+	.string "ez jarri tristeegi.\p"
+	.string "Ez da ahula zarela,\n"
+	.string "ni indartsuegia naiz!$"
 
 MossdeepCity_Gym_Text_HannahDefeat:
-	.string "You're just too strong!$"
+	.string "Indartsuegia zara!$"
 
 MossdeepCity_Gym_Text_HannahPostBattle:
-	.string "I'm not going to get down on myself for\n"
-	.string "losing. I just need to train harder.\p"
-	.string "Positive thinking--that's my strong\n"
-	.string "point!$"
+	.string "Ez naiz triste jarriko galdu dudalako.\n"
+	.string "Gogorrago entrenatu behar dut.\p"
+	.string "Positiboki pentsatzea, hori da\n"
+	.string "kontua!$"
 
 MossdeepCity_Gym_Text_SamanthaIntro:
-	.string "I see it…\n"
-	.string "I see your future…\p"
-	.string "If you can beat me, I will tell you\n"
-	.string "your future!$"
+	.string "Ikusi dezaket…\n"
+	.string "Zure etorkizun hurbila…\p"
+	.string "Irabazten badidazu, zure\n"
+	.string "etorkizuna kontatuko dizut!$"
 
 MossdeepCity_Gym_Text_SamanthaDefeat:
-	.string "I surrender!$"
+	.string "Errenditu egin naiz!$"
 
 MossdeepCity_Gym_Text_SamanthaPostBattle:
-	.string "You will wage a terrifically intense\n"
-	.string "battle with our GYM LEADERS…\p"
-	.string "The result…\n"
-	.string "You won't hear it from me!$"
+	.string "GIMNASIOKO LIDERREN aurka borroka\n"
+	.string "izugarria izango duzu…\p"
+	.string "Garailea…\n"
+	.string "Hori ez dizut nik esango!$"
 
 MossdeepCity_Gym_Text_MauraIntro:
-	.string "The roads you have traveled…\n"
-	.string "What you have experienced…\p"
-	.string "Come at me with everything you've\n"
-	.string "learned!$"
+	.string "Gurutzatu dituzun bideak…\n"
+	.string "Izan dituzun bizipenak…\p"
+	.string "Ereakutsi niri ikasi duzun\n"
+	.string "guztia!$"
 
 MossdeepCity_Gym_Text_MauraDefeat:
-	.string "You've traveled a path of greatness!$"
+	.string "Bide bikaina egin duzu!$"
 
 MossdeepCity_Gym_Text_MauraPostBattle:
-	.string "A bright future awaits those who have\n"
-	.string "worked diligently.\p"
-	.string "For those who lazed idly, there is\n"
-	.string "only despair at the end.\p"
-	.string "What goes around comes around…$"
+	.string "Lan gogor egin dutenek etorkizun\n"
+	.string "oparoa dute zain.\p"
+	.string "Alferkerian egon direnei, berriz,\n"
+	.string "ez zaie ezer geratuko.\p"
+	.string "Ereiten dena jasotzen da…$"
 
 MossdeepCity_Gym_Text_SylviaIntro:
-	.string "Even at the risk of life, I will win\n"
-	.string "this battle!$"
+	.string "Bizitza arriskatuta ere, borroka\n"
+	.string "hau irabazi egingo dut!$"
 
 MossdeepCity_Gym_Text_SylviaDefeat:
-	.string "What you do…\n"
-	.string "It horrifies me…$"
+	.string "Zuk egiten duzunak…\n"
+	.string "beldurtu egiten nau…$"
 
 MossdeepCity_Gym_Text_SylviaPostBattle:
-	.string "How dare you beat me…\p"
-	.string "It won't be my fault if something\n"
-	.string "horrible befalls you…$"
+	.string "Nola ausartu zara ni garaitzen…\p"
+	.string "Ez da nire errua izango zerbait\n"
+	.string "izugarria gertatzen bazaizu…$"
 
 MossdeepCity_Gym_Text_NateIntro:
-	.string "Hohoho.\p"
-	.string "You need me to show you how tenacious\n"
-	.string "the PSYCHIC type can be.$"
+	.string "Jojojo.\p"
+	.string "Nik erakutsiko dizut PSIKIKO mota\n"
+	.string "zeinen beldurgarria izan daitekeen.$"
 
 MossdeepCity_Gym_Text_NateDefeat:
-	.string "Oh! My, my!\n"
-	.string "Your battle style is fantastic!$"
+	.string "Ai! Ene, ene!\n"
+	.string "Zure borroka estiloa itzela da!$"
 
 MossdeepCity_Gym_Text_NatePostBattle:
-	.string "I… I don't let defeat rattle m-me,\n"
-	.string "however b-badly.$"
+	.string "Nik… Ez diot utziko porrotari ni\n"
+	.string "garaitzen, benetan.$"
 
 MossdeepCity_Gym_Text_KathleenIntro:
-	.string "Let me show you a perfectly awful,\n"
-	.string "horrifying time!$"
+	.string "Utzidazu esperientzia izugarria\n"
+	.string "biziarazten!$"
 
 MossdeepCity_Gym_Text_KathleenDefeat:
-	.string "N-nooooo!$"
+	.string "E-eeeez!$"
 
 MossdeepCity_Gym_Text_KathleenPostBattle:
-	.string "Your vitality is contagious!\n"
-	.string "Get away from me quickly!$"
+	.string "Zure bizitasuna itsaskorra da!\n"
+	.string "Egin alde nire ondotik, azkar!$"
 
 MossdeepCity_Gym_Text_CliffordIntro:
-	.string "I may be past my prime, but I suggest\n"
-	.string "you not patronize me.$"
+	.string "Agian igaro da nire momenturik onena,\n"
+	.string "baina ez harrotu horregatik, mesedez.$"
 
 MossdeepCity_Gym_Text_CliffordDefeat:
-	.string "Ah, you overflow with the power\n"
-	.string "of youth!$"
+	.string "Ene, gaztetasunaren botere\n"
+	.string "izugarria duzu barnean!$"
 
 MossdeepCity_Gym_Text_CliffordPostBattle:
-	.string "It seems that I could not overcome\n"
-	.string "your youthful energy.$"
+	.string "Badirudi ezin izan dudala zure\n"
+	.string "energia gaztea garaitu.$"
 
 MossdeepCity_Gym_Text_MaceyIntro:
-	.string "You're not getting through to the end!\n"
-	.string "Not if I can help it!$"
+	.string "Ez zara amaieraraino iritsiko!\n"
+	.string "Ez, nik geratuko zaitut eta!$"
 
 MossdeepCity_Gym_Text_MaceyDefeat:
-	.string "How could you be so ludicrously\n"
-	.string "strong?$"
+	.string "Nola izan zaitezke horren\n"
+	.string "beldurgarriki indartsua?$"
 
 MossdeepCity_Gym_Text_MaceyPostBattle:
-	.string "Humph! You may be strong, but you're\n"
-	.string "not suitable for the PSYCHIC type!\p"
-	.string "The way you battle is somehow brutal!$"
+	.string "Uf! Indartsua izango zara, baina ez\n"
+	.string "zara egokia PSIKIKO motarentzat!\p"
+	.string "Zure borrokarako era basatia da nolabait!$"
 
 MossdeepCity_Gym_Text_NicholasIntro:
-	.string "Wroooar! Have a taste of my super\n"
-	.string "POKéMON hard-battling power!$"
+	.string "Roooar! Probatu nire POKéMON\n"
+	.string "borrokalarien indar bortitza!$"
 
 MossdeepCity_Gym_Text_NicholasDefeat:
-	.string "Oh!\n"
-	.string "Done in!$"
+	.string "Ene!\n"
+	.string "Txikitu egin nau!$"
 
 MossdeepCity_Gym_Text_NicholasPostBattle:
-	.string "All right! I think I'll develop a special\n"
-	.string "invincible POKéMON power next.$"
+	.string "Ongi! Hurrengorako POKéMON indar\n"
+	.string "garaitezina garatuko dut.$"
 
 MossdeepCity_Gym_Text_TateAndLizaIntro:
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: Fufufu… Were you surprised?\p"
-	.string "TATE: That there are two GYM LEADERS?\n"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: We're twins!\n"
-	.string "LIZA: We're twins!\p"
-	.string "TATE: We don't need to talk because…\n"
-	.string "LIZA: We can each determine what…\p"
-	.string "TATE: The other is thinking…\n"
-	.string "LIZA: All in our minds!\p"
-	.string "TATE: This combination of ours…\n"
-	.string "LIZA: Can you beat it?$"
+	.string "JON: Jejeje… Harrituta, ala?\p"
+	.string "JONE: Fufufu… Harrituta, ala?\p"
+	.string "JON: GIMNASIOKO bi LIDER daudelako?\n"
+	.string "JONE: GIMNASIOKO bi LIDER daudelako?\p"
+	.string "JON: Bizkiak gara!\n"
+	.string "JONE: Bizkiak gara!\p"
+	.string "JON: Ez dugu zertan hitz egin…\n"
+	.string "JONE: Biok dakigulako beti…\p"
+	.string "JON: Zer pentsatzen duen besteak…\n"
+	.string "JONE: Burua soilik erabiliz!\p"
+	.string "JON: Gure konbinaketa hau…\n"
+	.string "JONE: Garaitzeko gai izango al zara?$"
 
 MossdeepCity_Gym_Text_TateAndLizaDefeat:
-	.string "TATE: What?! Our combination…\n"
-	.string "LIZA: Was shattered!\p"
-	.string "TATE: It can't be helped. You've won…\n"
-	.string "LIZA: So, in recognition, take this.$"
+	.string "JON: Zer?! Gure konbinaketa…\n"
+	.string "JONE: Txikitu egin du!\p"
+	.string "JON: Ezin dugu ezer egin. Irabazi egin duzu…\n"
+	.string "JONE: Beraz, horren erakusgarri, tori hau.$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
-	.string "{PLAYER} received the MIND BADGE\n"
-	.string "from TATE and LIZA.$"
+	.string "{PLAYER}(e)K GOGO DOMINA jaso\n"
+	.string "du JON eta JONERENGANDIK.$"
 
 MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
-	.string "TATE: The MIND BADGE enhances the\n"
-	.string "SP. ATK and SP. DEF of POKéMON.\p"
-	.string "LIZA: It also lets you use the HM move\n"
-	.string "DIVE outside of battle.\p"
-	.string "TATE: You should also take this, too.$"
+	.string "JON: GOGO DOMINAK POKéMONEN\n"
+	.string "ER. BER. eta. DEF. BER. hobetzen ditu.\p"
+	.string "JONE: Gainera, URPERAKETA MEa\n"
+	.string "erabili dezakezu borrokatik kanpo.\p"
+	.string "JON: Hau ere zuretzako da.$"
 
 MossdeepCity_Gym_Text_ExplainCalmMind:
-	.string "TATE: That TM04 contains…\n"
-	.string "LIZA: CALM MIND!\p"
-	.string "TATE: It raises SP. ATK and…\n"
-	.string "LIZA: It raises SP. DEF!\p"
-	.string "TATE: It's a move that's perfect…\n"
-	.string "LIZA: For PSYCHIC POKéMON!\p"
+	.string "JON: MT04 horrek barruan…\n"
+	.string "JONE: BAKE MENTALA dauka grabatuta!\p"
+	.string "JON: ER. BER. igotzen du eta…\n"
+	.string "JONE: DEF. BER: ere bai!\p"
+	.string "JON: Eraso perfektua da…\n"
+	.string "JONE: POKéMON PSIKIKOENTZAT!\p"
 	.string "… … … … … …$"
 
 MossdeepCity_Gym_Text_RegisteredTateAndLiza:
-	.string "Registered GYM LEADERS TATE & LIZA\n"
-	.string "in the POKéNAV.$"
+	.string "JON & JONE GIMNASIOKO LIDERRAK\n"
+	.string "POKéNAVEAN erregistratu dira.$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
-	.string "TATE: Looks like the bond between you\n"
-	.string "and your POKéMON is far stronger than\l"
-	.string "the bond that we share as twins.\p"
-	.string "LIZA: You will become even stronger!\n"
-	.string "We've battled you, so we know.$"
+	.string "JON: Badirudi zu eta zure POKéMONEN\n"
+	.string "arteko lotura gu bikion artekoa\l"
+	.string "baino indartsuagoa dela.\p"
+	.string "JONE: Are indartsuagoa bihurtuko zara!\n"
+	.string "Badakigu, zure aurka egin baitugu.$"
 
 MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons:
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: Oops, you have only one…\n"
-	.string "LIZA: POKéMON that can battle.\p"
-	.string "TATE: We can't battle that way!\p"
-	.string "LIZA: If you want to challenge us,\n"
-	.string "bring some more POKéMON.$"
+	.string "JON: Jejeje… Harrituta, ala?\p"
+	.string "JONE: GIMNASIOKO bi LIDER daudelako?\p"
+	.string "JON: Ups, baina POKéMON…\n"
+	.string "JONE: bakarra daukazu eta.\p"
+	.string "JON: horrela ezin dugu borroka egin!\p"
+	.string "JONE: Gure kontra borrokatu nahi baduzu,\n"
+	.string "ekarri POKéMON gehiago.$"
 
 MossdeepCity_Gym_Text_GymStatue:
-	.string "MOSSDEEP CITY POKéMON GYM$"
+	.string "GOROLDI HIRIKO POKéMON GIMNASIOA$"
 
 MossdeepCity_Gym_Text_GymStatueCertified:
-	.string "MOSSDEEP CITY POKéMON GYM\p"
-	.string "LIZA AND TATE'S CERTIFIED TRAINERS:\n"
+	.string "GOROLDI HIRIKO POKéMON GIMNASIOA\p"
+	.string "JON ETA JONEK ZIURTATUTAKO ENTRENATZAILEAK:\n"
 	.string "{PLAYER}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch:
-	.string "TATE: POKéMON…\n"
-	.string "LIZA: POKéMON…\p"
-	.string "TATE: By changing the party's mix…\n"
-	.string "LIZA: The battle style changes.\p"
-	.string "TATE: But me…\n"
-	.string "LIZA: But me…\p"
-	.string "TATE: I'll always be with LIZA!\n"
-	.string "LIZA: I'll always be with TATE!\p"
-	.string "TATE: Our combination…\n"
-	.string "LIZA: We'll show you again and again!$"
+	.string "JON: POKéMONAK…\n"
+	.string "JONE: POKéMONAK…\p"
+	.string "JON: Taldea aldatuz gero…\n"
+	.string "JONE: Borroka estiloa aldatzen da.\p"
+	.string "JON: Baina, ni…\n"
+	.string "JONE: Baina, ni…\p"
+	.string "JON: Beti egongo naiz JONEREKIN!\n"
+	.string "JONE: Beti egongo naiz JONEKIN!\p"
+	.string "JON: Gure konbinaketa…\n"
+	.string "JONE: Behin eta berrik erakutsiko dizugu!$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchDefeat:
-	.string "TATE: You and your POKéMON…\n"
-	.string "LIZA: It's as if you were siblings!$"
+	.string "JON: Zu eta zure POKéMONAK…\n"
+	.string "JONE: Anai-arrebak bazinete bezala da!$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostRematch:
-	.string "TATE: You can knock us down,\n"
-	.string "but we'll never stay down!\p"
-	.string "LIZA: Because the two of us,\n"
-	.string "we always support each other!$"
+	.string "JON: irabazi egin diezagukezu,\n"
+	.string "baina ez gara inoiz errendituko!\p"
+	.string "JONE: Gu biok, beti bultzatuko\n"
+	.string "dugulako elkar!$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons:
-	.string "TATE: You're back again…\n"
-	.string "LIZA: You're back again…\p"
-	.string "TATE: To give us a rematch.\n"
-	.string "LIZA: To give us a rematch.\p"
-	.string "TATE: But…\n"
-	.string "LIZA: For our match…\p"
-	.string "TATE: You brought just one POKéMON!\n"
-	.string "LIZA: You brought just one POKéMON!\p"
-	.string "TATE: We need you to bring at least…\n"
-	.string "LIZA: Two POKéMON when you come back.$"
+	.string "JON: Itzuli zara berriro…\n"
+	.string "JONE: Itzuli zara berriro…\p"
+	.string "JON: Errebantxa baterako.\n"
+	.string "JONE: Errebantxa baterako.\p"
+	.string "JON: Baina…\n"
+	.string "JONE: Borroka egiteko…\p"
+	.string "JON: POKéMON bakarra ekarri duzu!\n"
+	.string "JONE: POKéMON bakarra ekarri duzu!\p"
+	.string "JON: Gutxienez, bi POKéMON…\n"
+	.string "JONE: ekarri, eta, ondoren, itzuli.$"

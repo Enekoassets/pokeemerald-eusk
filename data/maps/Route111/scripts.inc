@@ -595,7 +595,7 @@ Route111_Text_VictorPostBattle:
 	.string "ENTRENATZAILE indartsu bat aurkitu dut!$"
 
 Route111_Text_VictoriaIntro:
-	.string "Ene jainkoa! Ez al zara gaztea, baina?\p"
+	.string "Ene Jainkoa! Ez al zara gaztea, baina?\p"
 	.string "Nire senarra garaitzeko ENTRENATZAILE\n"
 	.string "gogorra izan beharko duzu, hala ere.\p"
 	.string "Nire borrokatzeko txanda da!$"

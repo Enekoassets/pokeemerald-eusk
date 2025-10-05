@@ -50,9 +50,9 @@ NewMauville_Entrance_Text_DoorIsLocked:
 	.string "Atea itxita dago.$"
 
 NewMauville_Entrance_Text_UseBasementKey:
-	.string "Use the BASEMENT KEY?$"
+	.string "SOTOKO GILTZA erabili?$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
-	.string "{PLAYER} used the BASEMENT KEY.\p"
-	.string "The door opened!$"
+	.string "{PLAYER}(e)k SOTOKO GILTZA erabili du.\p"
+	.string "Atea ireki egin da!$"
 

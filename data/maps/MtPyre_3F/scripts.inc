@@ -33,67 +33,67 @@ MtPyre_3F_EventScript_RematchGabrielle::
 	end
 
 MtPyre_3F_Text_WilliamIntro:
-	.string "The rich atmosphere of the mountain\n"
-	.string "has elevated my psychic power!\p"
-	.string "A mere child like you…\n"
-	.string "You dream of winning?$"
+	.string "Mendiaren atomsfera biziak nire\n"
+	.string "botere psikikoak indartu ditu!\p"
+	.string "Zu bezalako ume batek…\n"
+	.string "Irabazi egingo didazula uste al duzu?$"
 
 MtPyre_3F_Text_WilliamDefeat:
-	.string "I drown in self-pity…$"
+	.string "Izugarrizko pena eman dut…$"
 
 MtPyre_3F_Text_WilliamPostBattle:
-	.string "My psychic powers have surely\n"
-	.string "grown several times, but…$"
+	.string "Nire botere psikikoak asko\n"
+	.string "indartu dira, baina…$"
 
 MtPyre_3F_Text_KaylaIntro:
-	.string "Ahahahaha!\p"
-	.string "This is no place for children, least\n"
-	.string "of all you!$"
+	.string "Kar-kar-kar!\p"
+	.string "Hau ez da umeentzako leku egokia,\n"
+	.string "are gutxiago zuretzako!$"
 
 MtPyre_3F_Text_KaylaDefeat:
-	.string "I lost that cleanly…$"
+	.string "Horren garbi galdu dut…$"
 
 MtPyre_3F_Text_KaylaPostBattle:
-	.string "This means my training is still not\n"
-	.string "enough…\p"
-	.string "I've got to keep working toward the\n"
-	.string "summit…\p"
-	.string "Go, me!$"
+	.string "Horrek esan nahi du nire entrenamendua\n"
+	.string "ez dela nahikoa izan…\p"
+	.string "Gailurrera iristeko lan handia\n"
+	.string "egin beharko dut…\p"
+	.string "Aurrera, ni!$"
 
 MtPyre_3F_Text_GabrielleIntro:
-	.string "Why have you come here?$"
+	.string "Zertara etorri zara hona?$"
 
 MtPyre_3F_Text_GabrielleDefeat:
-	.string "That was amazing!\n"
-	.string "You're a very special TRAINER.$"
+	.string "Bikaina izan da! ENTRENATZAILE\n"
+	.string "berezia zara.$"
 
 MtPyre_3F_Text_GabriellePostBattle:
-	.string "POKéMON no longer of this world.\n"
-	.string "POKéMON that are with you now.\p"
-	.string "And the POKéMON that you will meet\n"
-	.string "in the future…\p"
-	.string "They are all to be equally cherished.\n"
-	.string "Please remember that.$"
+	.string "Mundu honetakoak ez diren POKéMONAK.\n"
+	.string "Zurekin dauden POKéMONAK.\p"
+	.string "Eta etorkizunean ezagutuko\n"
+	.string "dituzun POKéMONAK…\p"
+	.string "Denek merezi dute tratu bera.\n"
+	.string "Gogoratu ezazu, mesedez.$"
 
 MtPyre_3F_Text_GabrielleRegister:
-	.string "I would like to see your POKéMON\n"
-	.string "when they grow up some more…\p"
-	.string "Please, I need to see your POKéNAV.$"
+	.string "Zure POKéMONAK ikusi nahiko nituzke\n"
+	.string "pixka bat gehiago hazten direnean…\p"
+	.string "Mesedez, utzi zure POKéNAVA.$"
 
 MtPyre_3F_Text_GabrielleRematchIntro:
-	.string "Oh, it's you…\p"
-	.string "Have you come to show me your grown\n"
-	.string "POKéMON?$"
+	.string "Ene, zu zara eta…\p"
+	.string "Zure hazitako POKéMONAK erakustera\n"
+	.string "etorri al zara?$"
 
 MtPyre_3F_Text_GabrielleRematchDefeat:
-	.string "How amazing!\n"
-	.string "You are a special person.$"
+	.string "Bikaina!\n"
+	.string "Oso pertsona berezia zara.$"
 
 MtPyre_3F_Text_GabriellePostRematch:
-	.string "POKéMON no longer of this world.\n"
-	.string "POKéMON that are with you now.\p"
-	.string "And the POKéMON that you will meet\n"
-	.string "in the future…\p"
-	.string "They are all to be equally cherished.\n"
-	.string "I see that you've remembered that.$"
+	.string "Mundu honetakoak ez diren POKéMONAK.\n"
+	.string "Zurekin dauden POKéMONAK.\p"
+	.string "Eta etorkizunean ezagutuko\n"
+	.string "dituzun POKéMONAK…\p"
+	.string "Denek merezi dute tratu bera.\n"
+	.string "Ongi gogoratu duzu, bai.$"
 

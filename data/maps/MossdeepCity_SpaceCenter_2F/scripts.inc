@@ -368,151 +368,151 @@ MossdeepCity_SpaceCenter_2F_EventScript_BrendanRayquazaCall::
 	return
 
 MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets:
-	.string "MOSSDEEP has mainly sunny weather,\n"
-	.string "and its winds are stable.\p"
-	.string "It's an ideal location for launching\n"
-	.string "rockets.$"
+	.string "GOROLDI oso eguzkitsua da, eta\n"
+	.string "haizea ere egonkorra da.\p"
+	.string "Suziriak botatzeko leku\n"
+	.string "paregabea da.$"
 
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel:
-	.string "Why would TEAM MAGMA want to steal\n"
-	.string "our rocket fuel in the first place?$"
+	.string "Zergatik nahi ote zuen MAGMA TALDEAK\n"
+	.string "gure suziriaren erregaia lapurtu?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
-	.string "If only I was a little younger, I would\n"
-	.string "have liked being an astronaut…\p"
-	.string "No… It's not too late!\n"
-	.string "I can and will try!$"
+	.string "Pixka bat gazteagoa banintz,\n"
+	.string "astronauta izan nahiko nuke…\p"
+	.string "Ez… Ez da berandu oraindik!\n"
+	.string "Lor dezaket eta egingo dut!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis:
-	.string "If TEAM MAGMA takes the rocket fuel,\n"
-	.string "I won't be able to go to space!\p"
-	.string "They can't be allowed to get away\n"
-	.string "with such an outrage!$"
+	.string "MAGMA TALDEAK suziriaren erregaia\n"
+	.string "hartzen badu, ezingo naiz espaziora\p"
+	.string "joan! Ezin dute horren erraz\n"
+	.string "ihes egin!$"
 
 MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace:
-	.string "I wish ordinary people could go into\n"
-	.string "space one day…$"
+	.string "Jende arruntak espaziora joateko\n"
+	.string "aukera izatea nahi nuke…$"
 
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace:
-	.string "TEAM MAGMA…\n"
-	.string "Do they want to go to space, too?$"
+	.string "MAGMA TALDEKOEK…\n"
+	.string "Espaziora joan nahi ote dute haiek ere?$"
 
 MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn:
-	.string "What's wrong with you?\p"
-	.string "You're outnumbered three to one,\n"
-	.string "but you still want to take us on?$"
+	.string "Zer gertatzen zaizu zuri?\p"
+	.string "Hiru gara bakarraren aurka, baina,\n"
+	.string "hala ere, gure aurka egingo duzu?$"
 
 MossdeepCity_SpaceCenter_2F_Text_GoodAnswer:
-	.string "Good answer!\n"
-	.string "That's what a smart person'll do!$"
+	.string "Erantzun bikaina!\n"
+	.string "Hori egingo luke pertsona argi batek!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Intro:
-	.string "A reckless go-getter, are you?\n"
-	.string "Okay, I'll go first!$"
+	.string "Guztia nahi duen eroa al zara?\n"
+	.string "Ongi, ni hasiko naiz!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Defeat:
-	.string "I lost!\n"
-	.string "But!$"
+	.string "Galdu egin dut!\n"
+	.string "Baina!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Intro:
-	.string "It's too soon to be relieved!\n"
-	.string "I'm up next!$"
+	.string "Azkarregi da lasaitzeko!\n"
+	.string "Ni naiz hurrengoa!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Defeat:
-	.string "I lost, too!\n"
-	.string "But!$"
+	.string "Nik ere galdu egin dut!\n"
+	.string "Baina!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Intro:
-	.string "I bet you want to take a break.\n"
-	.string "But I'm not about to let you do that!$"
+	.string "Ziur nago deskantsatu egin nahi\n"
+	.string "duzula. Baina ez dizut utziko!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat:
-	.string "We should've taken a break…\n"
-	.string "That's what we should've done…$"
+	.string "Deskantsu bat hartu behar genuen…\n"
+	.string "Horixe egin behar genuen, bai…$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle:
-	.string "Three of us here, and look at the sorry\n"
-	.string "mess we got ourselves into.$"
+	.string "Hiru ginen, eta begira nolako\n"
+	.string "arazoan sartu garen, hala ere.$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle:
-	.string "We three losing like this…\n"
-	.string "We look worse than usual by triple!$"
+	.string "Hirurok horrela galtzea…\n"
+	.string "Hiru aldiz itxura txarragoa dugu!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle:
-	.string "Are we being useful to our leader\n"
-	.string "at all?$"
+	.string "Erabilgarriak izaten ari al gara\n"
+	.string "gure nagusiarentzat?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
-	.string "Hehehe!\p"
-	.string "We come all the way here to get some\n"
-	.string "fuel, and we're interfered with again!\p"
-	.string "If you're going to mess with us too,\n"
-	.string "we'll take care of you at the same time!$"
+	.string "Kar-kar-kar!\p"
+	.string "Honaino etorri gara erregaiaren bila,\n"
+	.string "eta berriro zapuztu dituzte gure planak!\p"
+	.string "Gure aurka etorriko bazara,\n"
+	.string "zutaz ere arduratuko gara!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MAXIE: Clear out of the way!\n"
-	.string "Don't you dare interfere!$"
+	.string "MAGNO: Kendu paretik!\n"
+	.string "Ez zaitez tartean sartu!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
-	.string "STEVEN: TEAM MAGMA…\p"
-	.string "What's the point of stealing rocket\n"
-	.string "fuel?$"
+	.string "MIKEL: MAGMA TALDEA…\p"
+	.string "Zergatik ari ote dira erregaia\n"
+	.string "lapurtzen?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Since you're so\n"
-	.string "curious, you deserve an explanation.\p"
-	.string "We're going to jettison the entire\n"
-	.string "load into MT. CHIMNEY!\p"
-	.string "With GROUDON gone, we have no need\n"
-	.string "for that slag heap of a mountain!\p"
-	.string "So we'll use the fuel's power to make\n"
-	.string "the volcano erupt!\p"
-	.string "It will be savage!$"
+	.string "MAGNO: Fufufu… Horren kuxkuxeroa\n"
+	.string "zarenez, azalpena merezi duzu.\p"
+	.string "Guztia TXIMINIA MENDIRA botako\n"
+	.string "dugu!\p"
+	.string "GROUDON joan denez, ez dugu ezertarako\n"
+	.string "behar mendi zikin hori!\p"
+	.string "Erregaiaren indarra erabiliko dugu\n"
+	.string "sumendian erupzioa piztu dadin!\p"
+	.string "Basatia izango da!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
-	.string "You're going to help me?\p"
-	.string "Let's go into battle together!\n"
-	.string "Are you ready?$"
+	.string "MIKEL: {PLAYER}{KUN}!\n"
+	.string "Lagundu egingo al didazu?\p"
+	.string "Borroka dezagun elkarrekin!\n"
+	.string "Prest al zaude?$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
-	.string "STEVEN: Then, hurry!\n"
-	.string "Get ready quickly!$"
+	.string "MIKEL: Bizkor, orduan!\n"
+	.string "Prestatu zaitez azkar!$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
-	.string "All I want…\n"
-	.string "I just want to expand the land mass…$"
+	.string "Nik nahi dudana…\n"
+	.string "Lur masa handitu besterik ez dut nahi…$"
 
 MossdeepCity_SpaceCenter_Text_TabithaDefeat:
-	.string "I'm with our leader…$"
+	.string "Gure liderrarekin nago…$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MAXIE: We failed to make the volcano\n"
-	.string "erupt…\p"
-	.string "We failed to control GROUDON after\n"
-	.string "we had awoken it…\p"
-	.string "Is our goal to expand the land\n"
-	.string "misguided?\p"
+	.string "MAGNO: Ez dugu lortu sumendian\n"
+	.string "erupzioa piztea…\p"
+	.string "Ez dugu GROUDON kontrolatzea\n"
+	.string "esnatu ondoren…\p"
+	.string "Agian lur masa handitzeko ideia\n"
+	.string "ez da zuzena?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "If…\n"
-	.string "If we, TEAM MAGMA, are wrong…\l"
+	.string "Baina…\n"
+	.string "Baina, MAGMA TALDEKOAK oker bagaude…\l"
 	.string "… … … … … …\p"
-	.string "Then might TEAM AQUA's goal to expand\n"
-	.string "the sea also be equally misguided?$"
+	.string "AQUA TALDEAK itsasoa handitzeko duen\n"
+	.string "helburua ere okerra ote da?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MAXIE: All right…\n"
-	.string "We will give up on the fuel…\p"
-	.string "There appear to be more important\n"
-	.string "matters that I must examine…$"
+	.string "MAGNO: Ongi… Errenditu egingo\n"
+	.string "gara erregaiaren kontuan…\p"
+	.string "Aztertu behar ditudan arazo\n"
+	.string "garrantzitsuagoak daude…$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
-	.string "STEVEN: Whew, that was too tense.\n"
-	.string "{PLAYER}{KUN}, thank you.\p"
-	.string "I have something to give you as\n"
-	.string "thanks for your support.\p"
-	.string "Please come see me at home\n"
-	.string "after this.\p"
-	.string "Oh, yes, I don't live in RUSTBORO CITY.\n"
-	.string "I live right here on this island.$"
+	.string "MIKEL: Uau, hori oso gogorra izan da.\n"
+	.string "{PLAYER}{KUN}, eskerrik asko.\p"
+	.string "Zerbait eman nahi nizuke zure\n"
+	.string "laguntza eskertzeko.\p"
+	.string "Etorri nire etxera bisitan\n"
+	.string "honen ostean.\p"
+	.string "Ah bai, ez naiz BURDINTZA HIRIAN bizi.\n"
+	.string "Irla honetan bertan bizi naiz.$"

@@ -257,165 +257,165 @@ MauvilleCity_Gym_EventScript_GymStatue::
 	end
 
 MauvilleCity_Gym_Text_GymGuideAdvice:
-	.string "Hey, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "WATTSON, the LEADER of MAUVILLE\n"
-	.string "GYM, uses ELECTRIC-type POKéMON.\p"
-	.string "If you challenge him with WATER-type\n"
-	.string "POKéMON, he'll zap them! Bzzt!\p"
-	.string "And, he's put in switch-controlled\n"
-	.string "doors all over his GYM! Eccentric!\p"
-	.string "Hey, go for it!$"
+	.string "Ei, zer moduz dago gure {PLAYER},\n"
+	.string "etorkizuneko TXAPELDUNA?\p"
+	.string "ERIKO, MALBADIKO GIMNASIOKO\n"
+	.string "LIDERRAK POKéMON ELEKTRIKOAK ditu.\p"
+	.string "UR motako POKéMONAK erabiltzen badituzu\n"
+	.string "elektrifikatu egingo ditu! Bzzt!\p"
+	.string "Eta etengailuekin kontrolatzen diren\n"
+	.string "ateak jarri ditu GIMNASIOAN! Xelebrea!\p"
+	.string "Ea ba! Aurrera!$"
 
 MauvilleCity_Gym_Text_GymGuidePostVictory:
-	.string "Whoa, you're electrifying!\n"
-	.string "You've powered the door open!$"
+	.string "Uau, elektrikoa zara!\n"
+	.string "Zure indarrak atea ireki du!$"
 
 MauvilleCity_Gym_Text_KirkIntro:
-	.string "My electric soul, it'll shatter your\n"
-	.string "dreams whole, whoa-yeahah!$"
+	.string "Nire arima elektrikoak zure ametsak\n"
+	.string "zapuztuko ditu, ua-iajaja!$"
 
 MauvilleCity_Gym_Text_KirkDefeat:
-	.string "That was plugged in, amped up,\n"
-	.string "over-driven electric, man!$"
+	.string "Hori elektrikoa izan da,\n"
+	.string "entxufatua eta anplifikatua!$"
 
 MauvilleCity_Gym_Text_KirkPostBattle:
-	.string "POKéMON and rock, it's all about heart,\n"
-	.string "whoa-yeah!$"
+	.string "POKéMONAK eta rocka, bihotz kontua\n"
+	.string "dira biak ala biak!$"
 
 MauvilleCity_Gym_Text_ShawnIntro:
-	.string "I trained under WATTSON!\n"
-	.string "There ain't no way I'll lose easily!$"
+	.string "ERIKOK entrenatu nau!\n"
+	.string "Ez didazu erraz irabaziko!$"
 
 MauvilleCity_Gym_Text_ShawnDefeat:
-	.string "Unplugged and turned off…$"
+	.string "Desentxufatuta eta itzalita…$"
 
 MauvilleCity_Gym_Text_ShawnPostBattle:
-	.string "WATTSON, our GYM LEADER, has been\n"
-	.string "around for a long, long time.\p"
-	.string "He was battling even before your\n"
-	.string "daddy was born, that tough coot.$"
+	.string "ERIKO, gure LIDERRA, aspalditik\n"
+	.string "egon da GIMNASIO honetan.\p"
+	.string "Zure aitatxo jaio aurretik\n"
+	.string "ere hemen zegoen jada.$"
 
 MauvilleCity_Gym_Text_BenIntro:
-	.string "This GYM's got puzzles!\n"
-	.string "Isn't it fun?$"
+	.string "GIMNASIO honetan puzleak daude!\n"
+	.string "Ez al da dibertigarria?$"
 
 MauvilleCity_Gym_Text_BenDefeat:
-	.string "It's no fun to lose…$"
+	.string "Ez da dibertigarria galtzea…$"
 
 MauvilleCity_Gym_Text_BenPostBattle:
-	.string "WATTSON says he likes setting up\n"
-	.string "little traps with switches.$"
+	.string "ERIKORI asko gustatzen zaio\n"
+	.string "etengailuekin tranpak jartzea.$"
 
 MauvilleCity_Gym_Text_VivianIntro:
-	.string "With my charm and my POKéMON's moves,\n"
-	.string "you'll be shocked!$"
+	.string "Nire xarmarekin eta nire POKéMONEN\n"
+	.string "erasoekin txundituta geratuko zara!$"
 
 MauvilleCity_Gym_Text_VivianDefeat:
-	.string "I'm shocked by your power!$"
+	.string "Zure indarrak txunditu nau!$"
 
 MauvilleCity_Gym_Text_VivianPostBattle:
-	.string "I've heard that MAUVILLE was founded\n"
-	.string "by WATTSON.\p"
-	.string "He was a TRAINER long before we\n"
-	.string "became TRAINERS.\l"
-	.string "He must know all sorts of things!$"
+	.string "Entzun dut MALBADI ERIKOK\n"
+	.string "sortu zuela.\p"
+	.string "Gu ENTRENATZAILE izan baino\n"
+	.string "askoz lehenago hasi zen bera.\l"
+	.string "Pila bat gauza dakizki!$"
 
 MauvilleCity_Gym_Text_AngeloIntro:
-	.string "I love shiny things!$"
+	.string "Gauza distiratsuak atsegin ditut!$"
 
 MauvilleCity_Gym_Text_AngeloDefeat:
-	.string "Oh…\n"
-	.string "My eyes are frazzled…$"
+	.string "Ene…\n"
+	.string "Nire begiak txundituta geratu dira…$"
 
 MauvilleCity_Gym_Text_AngeloPostBattle:
-	.string "MAUVILLE GYM's WATTSON has a shiny\n"
-	.string "forehead. It makes me happy!$"
+	.string "MALBADIKO GIMNASIOKO ERIKOK kopeta\n"
+	.string "distiratsua du. Pozik jartzen nau!$"
 
 MauvilleCity_Gym_Text_WattsonIntro:
-	.string "I've given up on my plans to convert\n"
-	.string "the city, I have.\p"
-	.string "And so, I put my time into making\n"
-	.string "door traps in my GYM.\p"
-	.string "Oh? Now, what are you doing here?\p"
-	.string "What's that? You say you've gotten\n"
-	.string "past all my rigged doors?\p"
-	.string "Wahahahah!\n"
-	.string "Now, that is amusing!\p"
-	.string "Then, I, WATTSON, the LEADER of\n"
-	.string "MAUVILLE GYM, shall electrify you!$"
+	.string "Hiria eraldatzeko nire planak\n"
+	.string "alde batera utzi ditut.\p"
+	.string "Ondorioz, nire GIMNASIOAN ate\n"
+	.string "tranpak jartzen aritu naiz.\p"
+	.string "Zer? Zertan ari zara hemen?\p"
+	.string "Zer diozu? Nire tranpa ate guztiak\n"
+	.string "gurutzatzea lortu duzula?\p"
+	.string "Kar-kar-kar!\n"
+	.string "Dibertigarria, benetan!\p"
+	.string "Orduan, nik, ERIKOK, MALBADIKO\n"
+	.string "GIMNASIOKO LIDERRAK, ziztatuko zaitut!$"
 
 MauvilleCity_Gym_Text_WattsonDefeat:
-	.string "Wahahahah!\n"
-	.string "Fine, I lost!\p"
-	.string "You ended up giving me a thrill!\n"
-	.string "Take this BADGE!$"
+	.string "Kar-kar-kar!\n"
+	.string "Ados, galdu egin dut!\p"
+	.string "Borroka zirraragarria izan da!\n"
+	.string "Tori DOMINA hau!$"
 
 MauvilleCity_Gym_Text_ReceivedDynamoBadge:
-	.string "{PLAYER} received the DYNAMO BADGE\n"
-	.string "from WATTSON.$"
+	.string "{PLAYER}(e)K DINAMO DOMINA jaso\n"
+	.string "du ERIKORENGANDIK.$"
 
 MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
-	.string "With the DYNAMO BADGE, POKéMON can\n"
-	.string "use ROCK SMASH out of battle.\p"
-	.string "And, it will make your POKéMON a little\n"
-	.string "bit faster, too.\p"
+	.string "DINAMO DOMINAREKIN, POKéMONEK borrokaz\n"
+	.string "kanpo ARROKA KOLPEA erabili dezakete.\p"
+	.string "Eta zure POKéMONAK pixka bat\n"
+	.string "azkarragoak izango dira.\p"
 	.string "Hmm…\n"
-	.string "You should take this, too!$"
+	.string "Hau ere hartu behar zenuke!$"
 
 MauvilleCity_Gym_Text_ExplainShockWave:
-	.string "That TM34 there contains SHOCK WAVE.\p"
-	.string "It's a trustworthy move that never\n"
-	.string "misses! You can count on it!\p"
+	.string "MT34ak BOLTIO UHINA dakar barnean.\p"
+	.string "Huts egiten ez duen eraso\n"
+	.string "fidagarria da! Erabili ezazu!\p"
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:
-	.string "Registered GYM LEADER WATTSON\n"
-	.string "in the POKéNAV.$"
+	.string "ERIKO GIMNASIOKO LIDERRA\n"
+	.string "POKéNAVEAN erregistratu da.$"
 
 MauvilleCity_Gym_Text_WattsonPostBattle:
-	.string "I swell with optimism, seeing a promising\n"
-	.string "young TRAINER like you!$"
+	.string "Baikortasunez betetzen naiz zu bezalako\n"
+	.string "ENTRENATZAILE gaztea ikusita!$"
 
 MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor:
-	.string "Wahahahah!\n"
-	.string "Go forth and endeavor, youngster!$"
+	.string "Kar-kar-kar!\n"
+	.string "Segi aurrera, gazte!$"
 
 MauvilleCity_Gym_Text_GymStatue:
-	.string "MAUVILLE CITY POKéMON GYM$"
+	.string "MALBADI HIRIKO POKéMON GIMNASIOA$"
 
 MauvilleCity_Gym_Text_GymStatueCertified:
-	.string "MAUVILLE CITY POKéMON GYM\p"
-	.string "WATTSON'S CERTIFIED TRAINERS:\n"
+	.string "MALBADI HIRIKO POKéMON GIMNASIOA\p"
+	.string "ERIKOK ZIURTATUTAKO ENTRENATZAILEAK:\n"
 	.string "{PLAYER}$"
 
 MauvilleCity_Gym_Text_WattsonPreRematch:
-	.string "WATTSON: Ah-ha! Here at last!\n"
-	.string "I know what you want.\l"
+	.string "ERIKO: Aja! Hemen, azkenean!\n"
+	.string "Badakit zer nahi duzun.\l"
 	.string "You want to battle my POKéMON!\p"
-	.string "Wahahahaha!\p"
-	.string "I'll make sparks fly from you!\n"
-	.string "Don't say I didn't warn you!$"
+	.string "Kar-kar-kar!\p"
+	.string "Txinpartek hegan egingo dute!\n"
+	.string "Ez esan abisatu ez dizudanik!$"
 
 MauvilleCity_Gym_Text_WattsonRematchDefeat:
-	.string "Oof…\n"
-	.string "Our batteries ran dry…$"
+	.string "Uf…\n"
+	.string "Bateria gastatu zaigu…$"
 
 MauvilleCity_Gym_Text_WattsonPostRematch:
-	.string "WATTSON: We'll have to recharge our\n"
-	.string "batteries again.\p"
-	.string "When we're fully charged up, we'll\n"
-	.string "gladly accept your challenge.\p"
-	.string "So, come back again sometime,\n"
-	.string "won't you?$"
+	.string "ERIKO: Bateriak berriz kargatu\n"
+	.string "beharko ditugu.\p"
+	.string "Guztiz kargatzen garenean, pozik\n"
+	.string "onartuko dugu zure erronka.\p"
+	.string "Beraz, itzuli nahi duzunean,\n"
+	.string "ados?$"
 
 MauvilleCity_Gym_Text_WattsonRematchNeedTwoMons:
-	.string "WATTSON: Ah-ha! Here at last!\n"
-	.string "I know what you want.\l"
+	.string "ERIKO: Aja! Hemen, azkenean!\n"
+	.string "Badakit zer nahi duzun.\l"
 	.string "You want to battle my POKéMON!\p"
-	.string "Wahahahaha!\p"
-	.string "Oops! Wait!\n"
-	.string "You've only one POKéMON with you!\p"
-	.string "Come see me with two or more\n"
-	.string "POKéMON, all right?$"
+	.string "Kar-kar-kar!\p"
+	.string "Ups! Itxaron!\n"
+	.string "POKéMON bakarra duzu aldean!\p"
+	.string "Itzuli bi POKéMON edo gehiago\n"
+	.string "dituzunean, ados?$"
 

@@ -627,152 +627,152 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is MAUVILLE GAME CORNER.$"
+	.string "Hau MALBADIKO JOKOEN TXOKOA da.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-	.string "the games?\p"
-	.string "But you don't have a COIN CASE for\n"
-	.string "stowing the COINS.$"
+	.string "Jokoetarako TXANPON batzuk\n"
+	.string "behar al dituzu?\p"
+	.string "Baina ez daukazu TXANPONAK\n"
+	.string "gordetzeko DIRU ZORRORIK.$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥1000 for 50 COINS.\n"
-	.string "Would you like some?$"
+	.string "TXANPON bila al zabiltza?\p"
+	.string "1000¥ 50 TXANPONEN truke.\n"
+	.string "Nahi al dituzu?$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
-	.string "Thank you very much!\n"
-	.string "Here are your COINS!$"
+	.string "Eskerrik asko!\n"
+	.string "Tori zure TXANPONAK!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Um… You don't appear to have\n"
-	.string "enough money…$"
+	.string "Beno… Badirudi ez duzula\n"
+	.string "nahikoa dirurik…$"
 
 MauvilleCity_GameCorner_Text_CoinCaseIsFull:
-	.string "Oh?\n"
-	.string "Your COIN CASE is full.$"
+	.string "Nola?\n"
+	.string "DIRU ZORROA beteta daukazu.$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+	.string "Beno… Ez duzu TXANPONIK behar, beraz?\n"
+	.string "Zorte on zure abenturan!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
-	.string "Welcome.\p"
-	.string "You can exchange your COINS for\n"
-	.string "prizes here.$"
+	.string "Ongi etorri.\p"
+	.string "Zure TXANPONAK oparien truke\n"
+	.string "aldatu ditzakezu hemen.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "Zein opari nahi zenuke?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "Zure aukera {STR_VAR_1}\n"
+	.string "{STR_VAR_2} da, orduan?$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "Eskerrik asko!\n"
+	.string "Zure etxeko PCRA bidaliko dugu.$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
+	.string "Ez duzu nahikoa TXANPON.$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+	.string "Ez dago lekurik {STR_VAR_1}\n"
+	.string "jartzeko.$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
-	.string "Oh, is that so? \n"
-	.string "You need to save some COINS before\l"
-	.string "coming back here.$"
+	.string "Zer, benetan?\n"
+	.string "TXANPON batzuk bildu behar\l"
+	.string "dituzu hona itzuli aurretik.$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "{STR_VAR_1} nahi duzu orduan?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "Tori!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Oh, you can't carry any more than that.$"
+	.string "Ene, ezin duzu halako gehiago eraman.$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+	.string "Konturatu gabe bi PANPINA\n"
+	.string "berdin hartu ditut.\p"
+	.string "Nahi al duzu bietako bat?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "Here you go!$"
+	.string "Tori!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
-	.string "Huh?\n"
-	.string "You want it, but not right now?$"
+	.string "Zer?\n"
+	.string "Nahi duzula, baina ez orain?$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
-	.string "Oh, don't be so negative!\n"
-	.string "You can have this!$"
+	.string "Aizu, ez izan horren ezkorra!\n"
+	.string "Tori hau, zuretzat!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
-	.string "the jackpot.$"
+	.string "Nahi dudan opari bat dago, baina\n"
+	.string "ezin dut sari nagusia irabazi.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
-	.string "Hey, kid, if you want to play here,\n"
-	.string "you need a COIN CASE.\p"
-	.string "I think the young lady next door\n"
-	.string "had one. Go see her!$"
+	.string "Ei, gazte, hemen jokatu nahi baduzu,\n"
+	.string "DIRU ZORRO bat beharko duzu.\p"
+	.string "Uste dut hurrengo gelako emakumeak\n"
+	.string "baduela bat. Joan beregana!$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
-	.string "My luck can only last so long.\n"
-	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+	.string "Nire zortea ez da betirako.\n"
+	.string "Hau gehiegi da niretzat.\l"
+	.string "Tori, hartu TXANPON batzuk!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
-	.string "everyone.\p"
-	.string "For me, it's the GAME CORNER.$"
+	.string "MALBADIN guztientzako zerbait\n"
+	.string "dago.\p"
+	.string "Niretzat, JOKOEN TXOKOA.$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
-	.string "rates.\p"
-	.string "Check your COINS if you're going to\n"
-	.string "pick a table.$"
+	.string "ERRULETEN mahaiek apustu maila\n"
+	.string "desberdinak dituzte.\p"
+	.string "Begiratu zure TXANPONAK mahai\n"
+	.string "bat aukeratu aurretik.$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
-	.string "It's easy to lose track of time in here. \n"
-	.string "I should get back to work.$"
+	.string "Erraza da denboraren zentzua galtzea\n"
+	.string "hemen. Lanera itzuli behar nuke.$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
+	.string "TXANPONAK behar dira JOKOEN\n"
+	.string "TXOKOAN jokatu ahal izateko.$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "ERRULETA honek…\n"
+	.string "Gehiegi eskatzen du.\p"
+	.string "Irabazi edo galdu, zorte kontua da.$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
+	.string "Gehienez hiru TXANPON erabili\n"
+	.string "daitezke MAKINA TXANPONJALEETAN.$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "It's very difficult to make it stop\n"
-	.string "right on “7.”\p"
-	.string "If it stops on “7” during the REEL TIME\n"
-	.string "bonus game, you'll receive extra COINS.$"
+	.string "Izugarri zaila da makina justu\n"
+	.string "“7an” geratzea\p"
+	.string "“7” an geratzen bada BONUS DENBORA\n"
+	.string "denean, TXANPON gehiago jasoko dituzu.$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
-	.string "Here's some information for you\n"
-	.string "about the SLOTS.\p"
-	.string "The more lightning bolts you stock,\n"
-	.string "the more REEL TIME chances you get.\p"
-	.string "In a game with the maximum five\n"
-	.string "REEL TIME chances…\p"
-	.string "It is possible to receive four regular\n"
-	.string "bonuses, then a big bonus.\p"
-	.string "That would total 660 COINS, but it's\n"
-	.string "very difficult to get.$"
+	.string "Hemen duzu informazioa MAKINA\n"
+	.string "TXANPONJALEEN inguruan.\p"
+	.string "Zenbat eta tximista gehiago lortu,\n"
+	.string "BONUS DENBORA errazago lortuko duzu.\p"
+	.string "Gehienez bost BONUS DENBORA\n"
+	.string "dituen partida batean…\p"
+	.string "Lau bonus arrunt lortu daitezke,\n"
+	.string "eta, ondoren, bonus handia.\p"
+	.string "Guztira 660 TXANPON dira, baina\n"
+	.string "lortzeko oso zaila da.$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "You can't play if you don't have\n"
-	.string "a COIN CASE.$"
+	.string "Ezin duzu jokatu DIRU\n"
+	.string "ZORRORIK gabe.$"
 

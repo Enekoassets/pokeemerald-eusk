@@ -43,93 +43,93 @@ MtPyre_2F_EventScript_Zander::
 	end
 
 MtPyre_2F_Text_MemoriesOfSkitty:
-	.string "Memories of my darling SKITTY…\n"
-	.string "My eyes overflow thinking about it.$"
+	.string "Nire SKITTY maitearen memoriak…\n"
+	.string "Malkotan hasten naiz pentsatzean.$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
-	.string "Ooch, ouch… There are holes in the\n"
-	.string "ground here and there.\p"
-	.string "I didn't notice and took a tumble from\n"
-	.string "the floor above.$"
+	.string "Autx, autx… Zuloak daude lurrean\n"
+	.string "han-hemen.\p"
+	.string "Ez naiz konturatu eta goiko\n"
+	.string "pisutik erori naiz.$"
 
 MtPyre_2F_Text_MarkIntro:
-	.string "Hey! Are you searching for POKéMON?\n"
-	.string "You came along after me! You're rude!$"
+	.string "Aizu! POKéMON bila al zabiltza?\n"
+	.string "Nire atzetik etorri zara! Zakarra!$"
 
 MtPyre_2F_Text_MarkDefeat:
 	.string "Ayieeeeh!\n"
-	.string "I'm sorry, forgive me, please!$"
+	.string "Barkatu, barkatu, mesedez!$"
 
 MtPyre_2F_Text_MarkPostBattle:
-	.string "People don't come here often, so\n"
-	.string "I thought there'd be rare POKéMON.$"
+	.string "Jendea ez da hona etortzen ia, beraz,\n"
+	.string "POKéMON arraroak zeudela pentsatu nuen.$"
 
 MtPyre_2F_Text_LukeIntro:
-	.string "LUKE: We're here on a dare.\p"
-	.string "Heheh, if I show her how cool I am,\n"
-	.string "she'll fall for me. I know it!\p"
-	.string "I know! I'll cream you and show her\n"
-	.string "how cool I am!$"
+	.string "ARITZ: Nire ausardia erakusteko gaude\p"
+	.string "hemen. Kar-kar, zeinen bikaina naizen\n"
+	.string "erakutsita maiteminduko dut, ziur!\p"
+	.string "Badakit! Egurra emango dizut zeinen\n"
+	.string "bikaina naizen erakusteko!$"
 
 MtPyre_2F_Text_LukeDefeat:
-	.string "LUKE: Whoopsie!$"
+	.string "ARITZ: Ups!$"
 
 MtPyre_2F_Text_LukePostBattle:
-	.string "LUKE: Well, we lost but that's okay!\n"
-	.string "I'm right here by your side.\l"
-	.string "We'll make it through this dare!$"
+	.string "ARITZ: Beno, galdu egin dugu baina\n"
+	.string "berdin da. Hemen nago zure alboan.\l"
+	.string "Nire ausardia erakutsiko dizut!$"
 
 MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LUKE: If you want to take me on,\n"
-	.string "bring some more POKéMON.\p"
-	.string "If you don't, I won't be able to show\n"
-	.string "off to my girl how cool I am!$"
+	.string "ARITZ: Nire aurka egitekotan,\n"
+	.string "ekarri POKéMON gehiago.\p"
+	.string "Bestela ezingo diot nire neska-lagunari\n"
+	.string "zeinen bikaina naizen erakutsi!$"
 
 MtPyre_2F_Text_DezIntro:
-	.string "DEZ: I came here on a dare with my\n"
-	.string "boyfriend.\p"
-	.string "It's really scary, but I'm with my\n"
-	.string "boyfriend. It's okay.\p"
-	.string "I know! I'll get my boyfriend to look\n"
-	.string "cool by beating you!$"
+	.string "NAIA: Nire mutil-lagunak esan\n"
+	.string "dit hona etortzeko.\p"
+	.string "Beldurgarria da, baina nire mutil-\n"
+	.string "lagunarekin nago. Ongi, beraz.\p"
+	.string "Badakit! Nire mutila ondo geratu\n"
+	.string "dadin garaituko zaitut!$"
 
 MtPyre_2F_Text_DezDefeat:
-	.string "DEZ: Waaaah! I'm scared!$"
+	.string "NAIA: Buaaaa! Beldurra!$"
 
 MtPyre_2F_Text_DezPostBattle:
-	.string "DEZ: We're lovey-dovey, so we don't\n"
-	.string "care if we lose!$"
+	.string "NAIA: Elkar maite dugu, beraz,\n"
+	.string "ez zaigu axola galtzea!$"
 
 MtPyre_2F_Text_DezNotEnoughMons:
-	.string "DEZ: If you want to challenge us, you\n"
-	.string "should bring at least two POKéMON.\p"
-	.string "My boyfriend's strong.\n"
-	.string "Just one POKéMON won't do at all.$"
+	.string "NAIA: Gure aurka egitekotan, gutxienez\n"
+	.string "POKéMON ekarri behar dituzu.\p"
+	.string "Nire mutil-laguna indartsua da.\n"
+	.string "POKéMON bakarrarekin ezingo duzu ezer egin.$"
 
 MtPyre_2F_Text_LeahIntro:
-	.string "You are an unfamiliar sight…\n"
-	.string "Depart before anything befalls you!$"
+	.string "Zu ez zaitut ezagutzen…\n"
+	.string "Alde egin ezer txarra gertatu aurretik!$"
 
 MtPyre_2F_Text_LeahDefeat:
 	.string "Hmm…\n"
-	.string "You're durable.$"
+	.string "Gogorra zara gero.$"
 
 MtPyre_2F_Text_LeahPostBattle:
-	.string "Our family has been TRAINERS here\n"
-	.string "since my great-grandmother's time…\p"
-	.string "It is my duty to protect this\n"
-	.string "mountain…$"
+	.string "Gure birramonaren garaitik\n"
+	.string "ENTRENATZAILEAK gara familian…\p"
+	.string "Nire betebeharra da mendi hau\n"
+	.string "babestea…$"
 
 MtPyre_2F_Text_ZanderIntro:
-	.string "Kiyaaaaah!\n"
-	.string "I'm terrified!$"
+	.string "Uaaaaaaaa!\n"
+	.string "A zer ikara!$"
 
 MtPyre_2F_Text_ZanderDefeat:
-	.string "Nooooooo!\n"
-	.string "I lost my wits!$"
+	.string "Eeeeez!\n"
+	.string "Kikildu egin naiz!$"
 
 MtPyre_2F_Text_ZanderPostBattle:
-	.string "I get freaked out every time I see\n"
-	.string "anything move…\p"
-	.string "I shouldn't have come here to train…$"
+	.string "Beldurtu egiten naiz edozer\n"
+	.string "mugitzen denean… Ez nuen\p"
+	.string "hona etorri behar entrenatzera…$"
 

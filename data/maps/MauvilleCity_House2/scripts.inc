@@ -41,25 +41,25 @@ MauvilleCity_House2_EventScript_DeclineTrade::
 	end
 
 MauvilleCity_House2_Text_BuyHarborMailAtSlateport:
-	.string "If I had a BIKE, it'd be easy to cycle to\n"
-	.string "SLATEPORT for some shopping.\p"
-	.string "I'd be able to buy HARBOR MAIL at the\n"
-	.string "POKéMON MART in SLATEPORT…$"
+	.string "BIZIKLETA bat banu, erraz joango nintzateke\n"
+	.string "PORTUONDORA erosketak egitera.\p"
+	.string "PORTU GUTUN bat erosiko nuke\n"
+	.string "PORTUONDOKO POKéMON DENDAN…$"
 
 MauvilleCity_House2_Text_TradeHarborMailForCoinCase:
-	.string "Oh! You have HARBOR MAIL?\n"
-	.string "Will you trade it for a COIN CASE?$"
+	.string "Nola! PORTU GUTUN bat duzu? Trukatuko\n"
+	.string "al zenidake DIRU ZORRO baten truke?$"
 
 MauvilleCity_House2_Text_IllTradeYouCoinCase:
-	.string "Oh, I'm so happy!\n"
-	.string "Okay, I'll trade you a COIN CASE!$"
+	.string "Ene, bikain!\n"
+	.string "Tori, DIRU ZORROA zuretzat!$"
 
 MauvilleCity_House2_Text_UseCoinCaseAtGameCorner:
-	.string "That COIN CASE can be used\n"
-	.string "at the GAME CORNER.$"
+	.string "DIRU ZORRO hori JOKOEN\n"
+	.string "TXOKOAN erabili daiteke.$"
 
 MauvilleCity_House2_Text_ThatsDisappointing:
-	.string "Oh, that's disappointing.\p"
-	.string "A COIN CASE is needed for the\n"
-	.string "GAME CORNER.$"
+	.string "Ene, pena handia da hori.\p"
+	.string "DIRU ZORROA behar da JOKOEN\n"
+	.string "TXOKOAN jokatu ahal izateko.$"
 

@@ -39,49 +39,49 @@ RS_MysteryEventsHouse_EventScript_Door::
 	end
 
 RS_MysteryEventsHouse_Text_OldManGreeting:
-	.string "When I was young, I traveled the world\n"
-	.string "as a POKéMON TRAINER.\p"
-	.string "Now that I've become an old buzzard,\n"
-	.string "my only amusement is watching young\l"
-	.string "TRAINERS battle.$"
+	.string "Gaztea nintzenean, mundua zeharkatu\n"
+	.string "nuen POKéMON ENTRENATZAILE bezala.\p"
+	.string "Orain agure zahar bihurtu naizenez,\n"
+	.string "ENTRENATZAILE gazteak borrokan ikustea\l"
+	.string "soilik gustatzen zait.$"
 
 RS_MysteryEventsHouse_Text_DoorIsLocked:
-	.string "The door appears to be locked.$"
+	.string "Badirudi atea itxita dagoela.$"
 
 RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer:
-	.string "A TRAINER named {STR_VAR_1} is\n"
-	.string "visiting my home.\p"
-	.string "Would you like to challenge\n"
-	.string "{STR_VAR_1}?$"
+	.string "{STR_VAR_1} izeneko ENTRENATZAILE\n"
+	.string "bat dago nire etxean bisitan.\p"
+	.string "Nahi diozu erronka bota\n"
+	.string "{STR_VAR_1}(e)ri?$"
 
 RS_MysteryEventsHouse_Text_YouWontBattle:
-	.string "You won't battle? I'm disappointed\n"
-	.string "that I can't see you battle…$"
+	.string "Ez duzu borrokatuko? Triste jarriko\n"
+	.string "naiz ezin zaitudalako borrokan ikusi…$"
 
 RS_MysteryEventsHouse_Text_KeepItToA3On3:
-	.string "Oh, good, good!\p"
-	.string "But my house isn't all that sturdy.\p"
-	.string "Could I ask you to keep it down to\n"
-	.string "a 3-on-3 match?$"
+	.string "Bai, ongi, ongi!\p"
+	.string "Baina nire etxea ez da horren sendoa.\p"
+	.string "Egin dezakezue 3 3ren aurkako\n"
+	.string "borroka bat?$"
 
 RS_MysteryEventsHouse_Text_SaveYourProgress:
-	.string "Before you two battle, you should\n"
-	.string "save your progress.$"
+	.string "Borrokatu aurretik, zure partida\n"
+	.string "gorde behar zenuke.$"
 
 RS_MysteryEventsHouse_Text_HopeToSeeAGoodMatch:
-	.string "I hope to see a good match!$"
+	.string "Ea borroka itzel bat ikusten dudan!$"
 
 RS_MysteryEventsHouse_Text_BattleTie:
-	.string "So, it became a standoff.\p"
-	.string "It was a brilliant match in which\n"
-	.string "neither side conceded a step!$"
+	.string "Izugarrizko borroka izan da.\p"
+	.string "Alde batek ere amore eman ez duen\n"
+	.string "borroka itzela izan da!$"
 
 RS_MysteryEventsHouse_Text_BattleWon:
-	.string "That was superlative!\p"
-	.string "Why, it was like seeing myself in\n"
-	.string "my youth again!$"
+	.string "Hori sinesgaitza izan da!\p"
+	.string "Berriro gazte izatea bezalakoa\n"
+	.string "izan da ia-ia!$"
 
 RS_MysteryEventsHouse_Text_BattleLost:
-	.string "Ah, too bad for you!\p"
-	.string "But it was a good match.\n"
-	.string "I hope you can win next time.$"
+	.string "Pena zuretzat!\p"
+	.string "Baina borroka ona izan da.\n"
+	.string "Ea hurrengoan irabazten duzun.$"

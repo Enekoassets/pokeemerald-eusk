@@ -36,21 +36,21 @@ MauvilleCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_ManOverThereSaysWeirdThings:
-	.string "That man over there, he says weird\n"
-	.string "things!\p"
-	.string "He's funny in a weird way.\n"
-	.string "I doubt I'll forget about him!$"
+	.string "Horko gizon horrek oso gauza\n"
+	.string "arraroak esaten ditu!\p"
+	.string "Barregarria da, era arraroan.\n"
+	.string "Ez dut uste ahaztuko dudanik!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner:
-	.string "When I accessed the RECORD CORNER,\n"
-	.string "the data for what's hot in DEWFORD\l"
-	.string "got updated.\p"
-	.string "Now that bit of data is the same\n"
-	.string "as my friend's!$"
+	.string "ERREKORREN TXOKORA sartu nintzenean,\n"
+	.string "IHINTZIBARREN modan dagoena esaten\l"
+	.string "zuen informazioa berritu zen.\p"
+	.string "Orain informazio hori du nire\n"
+	.string "lagunak ere!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun:
-	.string "A RECORD CORNER opened upstairs in\n"
-	.string "the POKéMON CENTER.\p"
-	.string "I don't know what it's about, but it\n"
-	.string "sounds fun. I'll go check it out!$"
+	.string "ERREKORREN TXOKO bat ireki dute\n"
+	.string "POKéMON ZENTROKO goiko pisuan.\p"
+	.string "Ez dakit zer den, baina dibertigarria\n"
+	.string "dirudi. Ikustera joango naiz!$"
 

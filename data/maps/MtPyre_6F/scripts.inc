@@ -28,42 +28,42 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "When I'm here…\n"
-	.string "A curious power flows into me…$"
+	.string "Hemen nagoenean…\n"
+	.string "Botere arrao batek zeharkatzen nau…$"
 
 MtPyre_6F_Text_ValerieDefeat:
-	.string "The power is ebbing away…$"
+	.string "Badoa botere arraroa…$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Perhaps the power is from the spirits\n"
-	.string "of POKéMON in fitful sleep here…$"
+	.string "Agian hemen lotan dauden POKéMONEN\n"
+	.string "espirituen boterea da…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… I lost the match, but…\n"
-	.string "I have this little ability…\p"
-	.string "Without ever laying my hands on\n"
-	.string "your POKéNAV… Hiyah!$"
+	.string "Fufufu… Borroka galdu dut, baina…\n"
+	.string "Abilezia hau daukat…\p"
+	.string "Zure POKéNAVA ikutu ere\n"
+	.string "egin gabe… Jiaa!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
-	.string "Behind you…\n"
-	.string "What is it…$"
+	.string "Zure atzean…\n"
+	.string "Zer dago…$"
 
 MtPyre_6F_Text_ValerieRematchDefeat:
-	.string "Something faded away…$"
+	.string "Zerbait desagertu da…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "The POKéMON at rest here…\n"
-	.string "Sometimes, they play…$"
+	.string "Hemen dauden POKéMONAK…\n"
+	.string "Batzuetan, jolastu egiten dute…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Have you lost your bearings?\n"
-	.string "Have no fear for I am here!$"
+	.string "Galdu egin al zara?\n"
+	.string "Ez beldurtu, hemen nago eta!$"
 
 MtPyre_6F_Text_CedricDefeat:
-	.string "Weren't you lost?$"
+	.string "Ez al zeunden galduta?$"
 
 MtPyre_6F_Text_CedricPostBattle:
-	.string "I had this feeling that a lost TRAINER\n"
-	.string "would be panicked and easy to beat.\p"
-	.string "It's dirty and I won't try it again…$"
+	.string "Uste nuen galdutako ENTRENATZAILE\n"
+	.string "bat erraz garaituko nuela.\p"
+	.string "Joko zikina da, ez dut berriz egingo…$"
 
