@@ -35,12 +35,12 @@ Route111_Text_WhatColorBerriesToLookForToday:
 	.string "ote ditut gaur?$"
 
 Route114_Text_LoveUsingBerryCrushShareBerry:
-	.string "BAIA TXIKITZAILEA erabiltzea atsegin dut,\n"
+	.string "BAIA BIRRINTZAILEA erabiltzea atsegin dut,\n"
 	.string "beraz, BAIAK jasotzen ari naiz.\p"
 	.string "Bat emango dizut, nahi baduzu.$"
 
 Route114_Text_TryBerryCrushWithFriends:
-	.string "BAIA TXIKITZAILEA probatu behar\n"
+	.string "BAIA BIRRINTZAILEA probatu behar\n"
 	.string "zenuke zure lagunekin.$"
 
 Route114_Text_FunToThinkAboutBerries:

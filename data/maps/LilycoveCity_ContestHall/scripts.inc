@@ -336,203 +336,203 @@ LilycoveCity_ContestHall_EventScript_SmartStageSign::
 	end
 
 LilycoveCity_ContestHall_Text_TodayWonSmartnessContest:
-	.string "This POKéMON won the BEAUTY CONTEST\n"
-	.string "here before.\p"
-	.string "Well, guess what? Today, I made it\n"
-	.string "win a SMARTNESS CONTEST!\p"
-	.string "My abilities scare even me…$"
+	.string "POKéMON honek irabazi du lehenago\n"
+	.string "hemengo EDERTASUN TXAPELKETA.\p"
+	.string "Ba, badakizu zer? Gaur AZKARTASUN\n"
+	.string "TXAPELKETA irabaztea lortu dut!\p"
+	.string "Nire trebetasunak beldurtu egiten nau…$"
 
 LilycoveCity_ContestHall_Text_EnteredBunchOfContests:
-	.string "I've entered a bunch of CONTESTS,\n"
-	.string "so I'm seeing how things work.\p"
-	.string "If you're in a COOLNESS CONTEST,\n"
-	.string "cool moves go over as appeals.\p"
-	.string "But smart moves and cute moves\n"
-	.string "don't go over well, for instance.$"
+	.string "Hainbat TXAPELKETATAN sartu naiz,\n"
+	.string "nola funtzionatzen duten ikusi dut.\p"
+	.string "KARISMA TXAPELKETETAN, eraso\n"
+	.string "karismatikoek ondo funtzionatzen dute.\p"
+	.string "Baina eraso azkar eta politek ez dute\n"
+	.string "horren ondo funtzionatzen, adibidez.$"
 
 LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks:
-	.string "That young man who won earlier had\n"
-	.string "a whole bunch of different {POKEBLOCK}S.\p"
-	.string "Can you win if you had that many\n"
-	.string "of those things?$"
+	.string "Lehen irabazi duen gizon gazte horrek\n"
+	.string "hainbat {POKEBLOCK} erabili ditu.\p"
+	.string "Irabazi egingo ote zenuke horrenbeste\n"
+	.string "{POKEBLOCK} erabiliko bazenitu?$"
 
 LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous:
-	.string "Whoa, isn't this place humongous!\p"
-	.string "The tension in the air… It's not\n"
-	.string "like a CONTEST hall in the sticks.$"
+	.string "Ene, leku hau erraldoia da!\p"
+	.string "Aireko tentsioa… Ez da edonolako\n"
+	.string "TXAPELKETA aretoa, ez.$"
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal:
-	.string "MC: Okay, SMART POKéMON and their\n"
-	.string "TRAINERS, are you ready?!\p"
-	.string "Give it your best showing!\n"
-	.string "Let's appeal!$"
+	.string "ZM: Ongi, POKéMON AZKARRAK eta haien\n"
+	.string "ENTRENATZAILEAK. Prest al zaudete?!\p"
+	.string "Eman ezazue zuen onena!\n"
+	.string "Has gaitezen!$"
 
 LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest:
-	.string "JUDGE: Are you enjoying this CONTEST?\p"
-	.string "Come back with three friends, and\n"
-	.string "all of you may enter a CONTEST!$"
+	.string "EPAILEA: Gustuko duzu TXAPELKETA hau?\p"
+	.string "Etorri zaitez hiru lagunekin eta\n"
+	.string "denek har dezakezue parte batera!$"
 
 LilycoveCity_ContestHall_Text_EnteredWrongContest:
-	.string "Ayayayay…\n"
-	.string "I entered the wrong CONTEST.\p"
-	.string "I entered this tough POKéMON in\n"
-	.string "the SMARTNESS CONTEST…\p"
-	.string "Come on, wow them with a smart-looking\n"
-	.string "ROCK SMASH.$"
+	.string "Aiaiaiaia…\n"
+	.string "Okerreko TXAPELKETAN sartu naiz.\p"
+	.string "POKéMON gogor bat sartu dut\n"
+	.string "AZKARTASUN TXAPELKETAN…\p"
+	.string "Ea ba, harritu itzazu ARROKA\n"
+	.string "KOLPE azkar batekin, orduan.$"
 
 LilycoveCity_ContestHall_Text_RaisedMonToBeSmart:
-	.string "I've spent many a year, and all my\n"
-	.string "wisdom besides, raising this POKéMON\l"
-	.string "to be smart.\p"
-	.string "It won't be easily bested by some\n"
-	.string "young pup's POKéMON.\p"
-	.string "My dear wife, are you seeing this?$"
+	.string "Urte asko pasa ditut, nire zuhurtzia\n"
+	.string "guztiarekin POKéMON hau hazten,\l"
+	.string "azkarra izan dadin.\p"
+	.string "Gaztetxo baten POKéMONAK ez dio\n"
+	.string "berehalakoan irabaziko.\p"
+	.string "Emazte maitea, ikusten ari al zara?$"
 
 LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext:
-	.string "There it is!\p"
-	.string "If my POKéMON pulls a smart move next,\n"
-	.string "the audience's excitement will peak!$"
+	.string "Hori da!\p"
+	.string "Nire POKéMONAK eraso azkar bat erabiltzen\n"
+	.string "badu, publikoa izugarri animatuko da!$"
 
 LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife:
-	.string "Oh, dear, no!\p"
-	.string "My darling ZUBAT's LEECH LIFE is so\n"
-	.string "cute I kept using it over and over!\p"
-	.string "But these mean people don't appreciate\n"
-	.string "it at all!$"
+	.string "Ai ene, ez!\p"
+	.string "Nire ZUBAT maitearen BIZI XURGAKETA\n"
+	.string "horren ederra da, etengabe erabili dudala!\p"
+	.string "Baina pertsona desatsegin hauei ez\n"
+	.string "zaie batere gustatu!$"
 
 LilycoveCity_ContestHall_Text_YoureBeautifulGrandpa:
-	.string "Kiyaaah! You're beautiful, Grandpa!$"
+	.string "Iaiiii! Ederra zara, aitona!$"
 
 LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves:
-	.string "Even when TRAINERS enter the same\n"
-	.string "kind of POKéMON, they all seem to use\l"
-	.string "different moves for appeals.\p"
-	.string "It's just like the way people have\n"
-	.string "different styles for battling.$"
+	.string "ENTRENATZAILEEK POKéMON berdinak erabiltzen\n"
+	.string "badituzte ere, eraso desberdinak\l"
+	.string "agintzen dizkiete normalean.\p"
+	.string "Jendeak borrokarako estilo\n"
+	.string "desberdinak dituen bezala.$"
 
 LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers:
-	.string "I think the POKéMON look smarter\n"
-	.string "than their TRAINERS. By a lot.$"
+	.string "POKéMONAK beraien ENTRENATZAILEAK\n"
+	.string "baino askoz azkarragoak dira, nire ustez.$"
 
 LilycoveCity_ContestHall_Text_StillLoveSmartnessContests:
-	.string "When all's said and done, I still love\n"
-	.string "SMARTNESS CONTESTS.\p"
-	.string "That intellectual green color…\n"
-	.string "It's so… So… Cool.$"
+	.string "Dena kontuan hartuta, benetan atsegin\n"
+	.string "ditut AZKARTASUN TXAPELKETAK.\p"
+	.string "Kolore berde intelektual hori…\n"
+	.string "Benetan da… Oso… Itzela.$"
 
 LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest:
-	.string "MC: Are you entering the BEAUTY\n"
-	.string "CONTEST, too? Good luck!$"
+	.string "ZM: Zure ere EDERTASUN TXAPELKETAN\n"
+	.string "sartuko zara? Zorte on!$"
 
 LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty:
-	.string "JUDGE: Ah, every POKéMON here is\n"
-	.string "a model of pristine beauty!\p"
-	.string "Why, I almost forgot to score them!$"
+	.string "EPAILEA: Hemengo POKéMON guztiak\n"
+	.string "benetan dira ederrak eta apartak!\p"
+	.string "Ia ia puntuak ematea ahaztu zait!$"
 
 LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty:
-	.string "A POKéMON this beautiful…\n"
-	.string "There isn't another one like it.\p"
-	.string "Everyone's eyes will be glued to\n"
-	.string "my beauty.$"
+	.string "Honen ederra den POKéMONIK…\n"
+	.string "Ez dago halakorik inon.\p"
+	.string "Denen begiak nire maite politari\n"
+	.string "itsatsita egongo dira.$"
 
 LilycoveCity_ContestHall_Text_OverdidGrooming:
-	.string "Waaaah!\p"
-	.string "I brushed and groomed my POKéMON\n"
-	.string "carefully for this CONTEST…\p"
-	.string "But I overdid it…\n"
-	.string "My POKéMON's coat turned all scraggly…\p"
-	.string "What should I do?$"
+	.string "Buaaaa!\p"
+	.string "Ondo orraztu eta apaindu dut nire\n"
+	.string "POKéMONA TXAPELKETA honetarako…\p"
+	.string "Baina pasa egin naiz…\n"
+	.string "Nire POKéMONAREN ilea laztu egin da…\p"
+	.string "Zer egingo dut?$"
 
 LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam:
-	.string "This AURORA BEAM is so dazzling,\n"
-	.string "the JUDGE won't be able to see it.\p"
-	.string "Uh, wait a second…\n"
-	.string "That'll be meaningless, then!$"
+	.string "AURORA IZPIA horren miragarria da,\n"
+	.string "EPAILEAK ez duela ikusi ere egingo.\p"
+	.string "Ene, itxaron pixka bat…\n"
+	.string "Orduan ez du ezertarako balioko!$"
 
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe:
-	.string "This pretty POKéMON looks just like\n"
-	.string "me when I was younger.\p"
-	.string "Right when I said that, my husband\n"
-	.string "spewed the coffee he was drinking.\p"
-	.string "Did I say something funny?$"
+	.string "POKéMON honek gaztea nintzeneko\n"
+	.string "edertasuna dauka.\p"
+	.string "Hori esan nuenean, nire senarrak edaten\n"
+	.string "ari zen kafea zurrustan bota zuen.\p"
+	.string "Zerbait graziosoa esan al dut, bada?$"
 
 LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy:
-	.string "You know, if I win at a BEAUTY\n"
-	.string "CONTEST, sure it makes me\l"
-	.string "happy. More than usual, anyway.$"
+	.string "Badakizu, EDERTASUN TXAPELKETA bat\n"
+	.string "irabazten badut, oso alai jartzen\l"
+	.string "naiz. Normalean baino gehiago, bederen.$"
 
 LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon:
-	.string "Wahahahah!\p"
-	.string "Will you take a gander at all those\n"
-	.string "pretty POKéMON!\l"
-	.string "I just love this sort of glitz!$"
+	.string "Uajajajaja!\p"
+	.string "Begiratu ondo POKéMON eder guzti\n"
+	.string "horiek!\l"
+	.string "Harrigarriak dira guztiz!$"
 
 LilycoveCity_ContestHall_Text_CantWinOnBeautyAlone:
-	.string "You can't always win on just beauty\n"
-	.string "alone.\p"
-	.string "You have to groom your POKéMON so\n"
-	.string "it's nice and glossy like mine.$"
+	.string "Ezin duzu edertasunarekin bakarrik\n"
+	.string "irabazi beti.\p"
+	.string "Zure POKéMONA ondo orraztu behar duzu\n"
+	.string "nirea bezain txukun egoteko.$"
 
 LilycoveCity_ContestHall_Text_InTheMiddleOfContest:
-	.string "MC: Uh-oh! Hello!\n"
-	.string "We're in the middle of a CONTEST!\p"
-	.string "Please enter at our registration\n"
-	.string "counter and come out, okay?$"
+	.string "ZM: Ene! Kaixo!\n"
+	.string "TXAPELKETA betean gaude orain!\p"
+	.string "Mesedez, joan harrerara izena\n"
+	.string "emateko eta bertatik sartu, bai?$"
 
 LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals:
-	.string "JUDGE: Oh, such charming and cute\n"
-	.string "appeals!\p"
-	.string "Oh, my goodness! What a perfectly\n"
-	.string "adorable WATER SPORT appeal!$"
+	.string "EPAILEA: Ene, hauek bai erakustaldi\n"
+	.string "eder eta erakargarriak!\p"
+	.string "Ene jainkoa! Hori bai UR ZORROTADA\n"
+	.string "erakustaldi polita!$"
 
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted:
-	.string "Oh, no… My sweet AZURILL was\n"
-	.string "distracted by another POKéMON.$"
+	.string "Ai ene… Nire AZURILL txikiari beste\n"
+	.string "POKéMON batek arreta galarazi dio.$"
 
 LilycoveCity_ContestHall_Text_NeverWonBattleButContest:
-	.string "My POKéMON has never won in a battle,\n"
-	.string "but put it in a CONTEST and look out!$"
+	.string "Nire POKéMONAK ez du inoiz borrokan irabazi,\n"
+	.string "baina TXAPELKETETAN izugarria da!$"
 
 LilycoveCity_ContestHall_Text_PetalDanceIsMarvel:
-	.string "My POKéMON's PETAL DANCE is a marvel\n"
-	.string "of elegance.\p"
-	.string "I won't let anyone disturb its\n"
-	.string "performance.$"
+	.string "Nire POKéMONAREN PETALO DANTZA\n"
+	.string "izugarri dotorea da.\p"
+	.string "Ez diot inori utziko erakustaldia\n"
+	.string "mozten.$"
 
 LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter:
-	.string "Everyone's POKéMON are very cute.\p"
-	.string "However, if my POKéMON were to make\n"
-	.string "a cute appeal…\p"
-	.string "I'm sure that it would be so much \n"
-	.string "cuter than the others.$"
+	.string "Denen POKéMONAK dira oso politak.\p"
+	.string "Baina nire POKéMONAK POLITASUN\n"
+	.string "erakustaldia egingo balu…\p"
+	.string "Ziur nago besteena baino askoz\n"
+	.string "politagoa izango litzatekeela.$"
 
 LilycoveCity_ContestHall_Text_MyChildIsInContest:
-	.string "My child is in this CONTEST.$"
+	.string "Nire haurra TXAPELKETA honetan dago.$"
 
 LilycoveCity_ContestHall_Text_ComeOnDear:
-	.string "Come on, dear. Go for it!\n"
-	.string "Your POKéMON is the best!$"
+	.string "Ea ba, maitea. Eman egurra!\n"
+	.string "Zure POKéMONA onena da!$"
 
 LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest:
-	.string "I think that girl over there is\n"
-	.string "the cutest of the lot.\p"
-	.string "What's that? They're judging\n"
-	.string "POKéMON by their looks?$"
+	.string "Horko neska hori dela\n"
+	.string "denetan politena uste dut.\p"
+	.string "Zer diozu? POKéMONEN itxura\n"
+	.string "dela baloratzen dutena?$"
 
 LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn:
-	.string "Ohh, seeing all these cute POKéMON,\n"
-	.string "they make we want to get my own!\p"
-	.string "I'm going to go catch some!$"
+	.string "Ene, POKéMON polit hauek guztiak\n"
+	.string "ikusita, niretzako bat nahi dut!\p"
+	.string "Batzuk harrapatuko ditut!$"
 
 LilycoveCity_ContestHall_Text_BeautyContestStage:
-	.string "BEAUTY CONTEST STAGE\n"
-	.string "BE ALLURED BY BEAUTIFUL POKéMON!$"
+	.string "EDERTASUN TXAPELKETA ARETOA\n"
+	.string "POKéMON EDERREK ZORATUKO ZAITUZTE!$"
 
 LilycoveCity_ContestHall_Text_CuteContestStage:
-	.string "CUTENESS CONTEST STAGE\n"
-	.string "BE CHARMED BY CUTE POKéMON!$"
+	.string "POLITASUN TXAPELKETA ARETOA\n"
+	.string "POKéMON POLITEK MAITEMINDUKO ZAITUZTE!$"
 
 LilycoveCity_ContestHall_Text_SmartContestStage:
-	.string "SMARTNESS CONTEST STAGE\n"
-	.string "BE IMPRESSED BY SMART POKéMON!$"
+	.string "AZKARTASUN TXAPELKETA ARETOA\n"
+	.string "POKéMON AZKARREK HARRITUKO ZAITUZTE!$"
 

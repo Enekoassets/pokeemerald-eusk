@@ -158,7 +158,7 @@ SSTidalRooms_Text_NaomiDefeat:
 SSTidalRooms_Text_NaomiPostBattle:
 	.string "Luxuzko gurutzaontzi batean bidaiatzea\n"
 	.string "ederra da, dudarik gabe…\p"
-	.string "Baina, esango nuke HOENN ferrian\n"
+	.string "Baina, esango nuke HOENN ferryan\n"
 	.string "ikusteak bere xarma duela.$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:

@@ -1293,7 +1293,7 @@ SlateportCity_Text_ExplainBerries:
 SlateportCity_Text_ExplainBerryPowder:
 	.string "Duela gutxi BAIAK txikitzeko makinak\n"
 	.string "jarri ditugu POKéMON ZENTROETAN.\p"
-	.string "BAIA TXIKITZAILEAK goiko pisuan\n"
+	.string "BAIA BIRRINTZAILEAK goiko pisuan\n"
 	.string "daude, ZUZENEKO TXOKOAN.\p"
 	.string "Ba al zenekien?\p"
 	.string "Egingo zenidake BAIA HAUTSA\n"

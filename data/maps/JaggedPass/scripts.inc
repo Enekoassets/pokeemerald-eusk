@@ -150,119 +150,119 @@ JaggedPass_EventScript_Autumn::
 	end
 
 JaggedPass_Text_EricIntro:
-	.string "MT. CHIMNEY's JAGGED PASS…\p"
-	.string "Now this is what I've always wanted\n"
-	.string "in a mountain.\p"
-	.string "This jagged bumpiness…\n"
-	.string "It rocks my soul!$"
+	.string "TXIMINIA MENDIKO HAIZPITARTEA…\p"
+	.string "Hori da mendi batean gehien\n"
+	.string "gustatzen zaidana.\p"
+	.string "Jauzi ero hauek…\n"
+	.string "Arima pizten didate!$"
 
 JaggedPass_Text_EricDefeat:
-	.string "Losing left me bitter!$"
+	.string "Bai garratza galtzea!$"
 
 JaggedPass_Text_EricPostBattle:
-	.string "Yes, I did lose at POKéMON…\p"
-	.string "But, when it comes to the love of\n"
-	.string "the mountains, I have you beat!$"
+	.string "Bai, galdu egin dut POKéMON borrokan…\p"
+	.string "Baina mendiekiko dudan maitasunean\n"
+	.string "ezin didazu irabazi!$"
 
 JaggedPass_Text_DianaIntro:
-	.string "This place isn't your casual hike.\n"
-	.string "It's not suited for a picnic.$"
+	.string "Hau ez da paseo arrunta.\n"
+	.string "Hemen ezin da piknikik egin.$"
 
 JaggedPass_Text_DianaDefeat:
-	.string "Ohhh, no!\n"
-	.string "The ground is too bumpy…$"
+	.string "Aiiii, ez!\n"
+	.string "Lurra malkartsuegia da…$"
 
 JaggedPass_Text_DianaPostBattle:
-	.string "Did you know?\p"
-	.string "Some people cleverly ride their\n"
-	.string "bicycles up this horribly bumpy pass.$"
+	.string "Ba al zenekien?\p"
+	.string "Badago jendea jauziz beteriko bide\n"
+	.string "hau bizikletan igotzen duena.$"
 
 JaggedPass_Text_DianaRegister:
-	.string "Will you ever be back in this area?\n"
-	.string "If you do return, I'd like a rematch.$"
+	.string "Inoiz bueltatuko al zara hemen ingurura?\n"
+	.string "Baldin bazatoz, errebantxa nahi nuke.$"
 
 JaggedPass_Text_DianaRematchIntro:
-	.string "Picnics are fun wherever you go.\n"
-	.string "Just like POKéMON!$"
+	.string "Piknikak dibertigarriak dira beti.\n"
+	.string "POKéMONAK bezala!$"
 
 JaggedPass_Text_DianaRematchDefeat:
-	.string "I only lost because the ground is\n"
-	.string "too bumpy!$"
+	.string "Lurra malkartsuegia delako galdu\n"
+	.string "dut, besterik ez!$"
 
 JaggedPass_Text_DianaPostRematch:
-	.string "I'll forget about losing and just\n"
-	.string "enjoy this bumpy hike.$"
+	.string "Galdu dudala ahaztu eta paseo\n"
+	.string "malkartsu hau gozatuko dut.$"
 
 JaggedPass_Text_EthanIntro:
-	.string "JAGGED PASS is hard to walk on.\n"
-	.string "It's a good place for training.$"
+	.string "HAIZPITARTEAN ibiltzea ez da erraza.\n"
+	.string "Entrenatzeko leku ona da.$"
 
 JaggedPass_Text_EthanDefeat:
-	.string "It was all over while we were still\n"
-	.string "trying to find a good footing…$"
+	.string "Hankak non jarri erabaki baino\n"
+	.string "lehenago galdu dut…$"
 
 JaggedPass_Text_EthanPostBattle:
-	.string "If I had an ACRO BIKE, I'd be able to\n"
-	.string "jump ledges.$"
+	.string "BIZIKLETA AKROBATIKO bat banu,\n"
+	.string "jauzika igoko nuke hau.$"
 
 JaggedPass_Text_EthanRegister:
-	.string "When I get more used to this bumpiness,\n"
-	.string "I'll be sure to win!\p"
-	.string "Can you register me in your POKéNAV?$"
+	.string "Leku malkartsu honetara ohitzen naizenean,\n"
+	.string "ziur edonori irabaziko diodala!\p"
+	.string "Erregistratuko nauzu POKéNAVEAN?$"
 
 JaggedPass_Text_EthanRematchIntro:
-	.string "I got used to this bumpiness.\n"
-	.string "I sing while I climb now.$"
+	.string "Ohitu naiz leku malkartsu honetara.\n"
+	.string "Kantatu bitartean igotzen dut orain.$"
 
 JaggedPass_Text_EthanRematchDefeat:
-	.string "It's still not easy to battle on this\n"
-	.string "bumpy ground…$"
+	.string "Hala ere ez da erraza leku malkartsu\n"
+	.string "honetan borrokan aritzea…$"
 
 JaggedPass_Text_EthanPostRematch:
-	.string "I should get an ACRO BIKE from RYDEL\n"
-	.string "in MAUVILLE CITY…$"
+	.string "MALBADIKO ANAKLETOREN dendatik\n"
+	.string "BIZIKLETA AKROBATIKOA hartu behar nuke…$"
 
 JaggedPass_Text_GruntIntro:
-	.string "Wah!\n"
-	.string "What are you doing here?\p"
-	.string "What am I doing in a place like this?\p"
-	.string "What business is it of yours?$"
+	.string "Ei!\n"
+	.string "Zertan ari zara hemen?\p"
+	.string "Zertan ari ote naiz ni hemen?\p"
+	.string "Eta zuri zer inporta zaizu?$"
 
 JaggedPass_Text_GruntDefeat:
-	.string "Urrrgh…\p"
-	.string "I should've ducked into our HIDEOUT\n"
-	.string "right away…$"
+	.string "Uffff…\p"
+	.string "Gure EZKUTALEKUAN sartu behar\n"
+	.string "nintzen segituan…$"
 
 JaggedPass_Text_GoWhereverYouWant:
-	.string "Okay, oh-kay!\n"
-	.string "I admit it--you're strong!\p"
-	.string "Don't worry about me.\n"
-	.string "Go wherever you want!$"
+	.string "Ongi, on-gi!\n"
+	.string "Onartzen dut, indartsua zara!\p"
+	.string "Ez kezkatu nigatik.\n"
+	.string "Nahi duzun lekura joan!$"
 
 JaggedPass_Text_BoulderShakingInResponseToEmblem:
-	.string "Oh! This boulder is shaking in response\n"
-	.string "to the MAGMA EMBLEM!$"
+	.string "Ene! Haitza dardarka jarri da MAGMA\n"
+	.string "ENBLEMARENGATIK!$"
 
 JaggedPass_Text_JulioIntro:
-	.string "Aiyeeh! It's awfully scary to shoot\n"
-	.string "down the mountain in one go!$"
+	.string "Eneeee! Oso beldurgarria da\n"
+	.string "mendia zuzenean jaistea!$"
 
 JaggedPass_Text_JulioDefeat:
-	.string "I feel like I'm falling apart…$"
+	.string "Hausten ariko banintz bezala da…$"
 
 JaggedPass_Text_JulioPostBattle:
-	.string "My bicycle bounced around so much,\n"
-	.string "my rear end's sore…$"
+	.string "Halako saltoak eman ditu nire bizikletak,\n"
+	.string "ipurdiko min izugarria daukat…$"
 
 JaggedPass_Text_AutumnIntro:
-	.string "I climb this hill every day.\n"
-	.string "I have confidence in my strength!$"
+	.string "Egunero igotzen dut tontor hau.\n"
+	.string "Konfidantza dut nire indarrean!$"
 
 JaggedPass_Text_AutumnDefeat:
 	.string "Hmm…\n"
-	.string "What went wrong?$"
+	.string "Zer gertatu ote da?$"
 
 JaggedPass_Text_AutumnPostBattle:
-	.string "What is that odd rock protrusion\n"
-	.string "a little up the hill from here?$"
+	.string "Zer da hor pixka bat gorago\n"
+	.string "dagoen arroka konkor hori?$"
 

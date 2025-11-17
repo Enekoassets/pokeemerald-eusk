@@ -70,39 +70,39 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
 	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
-	.string "Would you like me to do that?$"
+	.string "Bai, bai, ERASO EZABATZAILEA naiz.\p"
+	.string "POKéMONEK erasoak ahaztea eragin dezaket.\p"
+	.string "Nahi al zenuke hori egitea?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Which POKéMON should forget a move?$"
+	.string "Zein POKéMONEK ahaztu behar luke erasoa?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Which move should be forgotten?$"
+	.string "Zein eraso ahaztu behar luke?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "{STR_VAR_1} knows only one move\n"
-	.string "so it can't be forgotten…$"
+	.string "{STR_VAR_1}(e)k eraso bakarra ezagutzen\n"
+	.string "duenez, ezin du ahaztu…$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
-	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.string "Ongi! {STR_VAR_1}(r)en {STR_VAR_2}?\n"
+	.string "Hori ahaztu behar al luke?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove:
-	.string "It worked to perfection!\p"
-	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+	.string "Oso ondo funtzionatu du!\p"
+	.string "{STR_VAR_1}(e)k guztiz ahaztu\n"
+	.string "du {STR_VAR_2}.$"
 
 LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
-	.string "Come again if there are moves that\n"
-	.string "need to be forgotten.$"
+	.string "Etorri berriro erasoren bat\n"
+	.string "ahaztarazi nahi baduzu.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "What?\n"
-	.string "No EGG should know any moves.$"
+	.string "Zer?\n"
+	.string "ARRAUTZEK ez dakite erasorik.$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
-	.string "Hm!\p"
-	.string "Your {STR_VAR_1} doesn't seem willing\n"
-	.string "to forget SURF.$"
+	.string "Ene!\p"
+	.string "Zure {STR_VAR_1}(e)k ez du SURFA\n"
+	.string "ahaztu nahi, dirudienez.$"
 

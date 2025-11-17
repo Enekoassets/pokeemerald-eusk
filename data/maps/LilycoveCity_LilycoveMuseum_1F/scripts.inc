@@ -162,133 +162,133 @@ LilycoveCity_LilycoveMuseum_1F_EventScript_FatMan::
 	end
 
 LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum:
-	.string "Welcome to LILYCOVE MUSEUM.\p"
-	.string "Please take the time to enjoy our\n"
-	.string "collection of fantastic artwork\l"
-	.string "featuring POKéMON.$"
+	.string "Ongi etorri UR-LILIKO MUSEORA.\p"
+	.string "Hartu behar duzun denbora guztia\n"
+	.string "POKéMONEZ beteriko gure artelan\l"
+	.string "bilduma zabala ikusteko.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings:
-	.string "I'm the CURATOR of this MUSEUM of\n"
-	.string "fine arts.\p"
-	.string "It's heartening to see someone so\n"
-	.string "young as you in our MUSEUM.\p"
-	.string "Have you viewed our collection of\n"
-	.string "paintings already?$"
+	.string "MUSEO honetako artelan finen\n"
+	.string "ARDURADUNA naiz.\p"
+	.string "Zu bezalako pertsona gazte bat\n"
+	.string "MUSEOAN ikusteak asko pozten nau.\p"
+	.string "Ikusi al duzu gure margolanen\n"
+	.string "bilduma jada?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime:
-	.string "Ah, then let me not disturb you.\n"
-	.string "Please, do take your time.$"
+	.string "Ongi, orduan ez dizut enbarazu egingo.\n"
+	.string "Mesedez, hartu behar duzun denbora guztia.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings:
-	.string "Oh? I do believe that you seem to\n"
-	.string "be a POKéMON TRAINER.\p"
-	.string "Have you an interest in paintings,\n"
-	.string "too?$"
+	.string "Zer? POKéMON ENTRENATZAILEA\n"
+	.string "dirudizu, dudarik gabe.\p"
+	.string "Margolanetan ere interesa al\n"
+	.string "duzu, ba?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HonoredYoudVisitInSpiteOfThat:
-	.string "I see…\p"
-	.string "I'm honored that you would visit\n"
-	.string "us in spite of that.$"
+	.string "Ongi…\p"
+	.string "Asko pozten nau hala ere gu\n"
+	.string "bisitatzera etortzeak.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ExcellentCanYouComeWithMe:
-	.string "Ah, excellent!\n"
-	.string "You do like paintings!\p"
-	.string "Then, may I ask you to come with me?$"
+	.string "Ene, bikain!\n"
+	.string "Atsgein dituzu margolanak!\p"
+	.string "Orduan, etorriko zinateke nirekin?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_VeryOldPainting:
-	.string "It's a very old painting.\n"
-	.string "The paint is peeling here and there.$"
+	.string "Oso margolan zaharra da.\n"
+	.string "Pintura askatzen ari da leku guztietan.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_OddLandscapeFantasticScenery:
-	.string "It's an odd landscape with bizarre\n"
-	.string "and fantastic scenery.$"
+	.string "Eszenografia bitxi eta fantastikoa\n"
+	.string "duen paisaia berezia da.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman:
-	.string "It's a painting of a beautiful, smiling\n"
-	.string "woman with a POKéMON on her lap.$"
+	.string "POKéMON bat altzoan duen emakume eder\n"
+	.string "eta irribarretsu baten margolana da.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
-	.string "It's a painting of a legendary POKéMON\n"
-	.string "from long ago.\p"
-	.string "The artist painted this from\n"
-	.string "imagination.$"
+	.string "Antzinako POKéMON legendario baten\n"
+	.string "margolana da.\p"
+	.string "Artistak bere imaginaziotik\n"
+	.string "abiatuta margotu zuen.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
-	.string "It's a painting of GRASS POKéMON\n"
-	.string "swaying in a breeze.\p"
-	.string "They appear to be enjoying the wind's\n"
-	.string "gentle caress.$"
+	.string "Haizearekin kulunkan ari den\n"
+	.string "LANDARE POKéMON baten artelana.\p"
+	.string "Haizearen fereka leuna gozatzen\n"
+	.string "ari dela dirudi.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
-	.string "It's a delicious-looking painting\n"
-	.string "of BERRIES.\p"
-	.string "This painting could make you hungry!$"
+	.string "Itxura gozo-gozoa duten\n"
+	.string "BAIA batzuen margolana da.\p"
+	.string "Gose izugarria ematen du koadroak!$"
 
 LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
-	.string "It's a replica of a famous sculpture.\p"
-	.string "It depicts an ancient BIRD POKéMON.$"
+	.string "Eskultura famatu baten erreplika da.\p"
+	.string "Antzinako TXORI POKéMON baten itxura du.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "It's a big POKé BALL carved from\n"
-	.string "a black stone.\p"
-	.string "It was apparently used in festivals\n"
-	.string "in the olden days.$"
+	.string "Harri beltz batean zizelkatutako\n"
+	.string "POKé BALL erraldoia da.\p"
+	.string "Garai batean jaialdietan\n"
+	.string "erabiltzen omen zen.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText:
-	.string "It's a huge stone tablet inscribed\n"
-	.string "with POKéMON and dense text in the\l"
-	.string "small characters of an ancient,\l"
-	.string "unreadable language.$"
+	.string "POKéMONAK eta antzinako hizkuntza\n"
+	.string "irakurtezin bateko karaktereak\l"
+	.string "grabatuta dituen harrizko\l"
+	.string "taula bat da.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_WorksOfMagnificence:
 	.string "Hmmm…\n"
-	.string "What works of great magnificence…$"
+	.string "Hauek bai sekulako lanak…$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts:
-	.string "Battling with POKéMON is fun,\n"
-	.string "I'll grant you that.\p"
-	.string "But one mustn't forget our love for\n"
-	.string "the fine arts.$"
+	.string "POKéMONEKIN borrokan aritzea oso\n"
+	.string "dibertigarria da, arrazoia duzu.\p"
+	.string "Baina ezin dugu artearekiko dugun\n"
+	.string "maitasuna ahaztu.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration:
-	.string "This ART MUSEUM… Well, you could\n"
-	.string "see many fantastic paintings.\p"
-	.string "And the CURATOR is a wonderful person.\p"
-	.string "Among artists like myself, this MUSEUM\n"
-	.string "is an inspiration.$"
+	.string "ARTE MUSEO hau… Beno, hainbat\n"
+	.string "margolan izugarri ikus ditzakezu.\p"
+	.string "Eta ARDURADUNA oso pertsona jatorra da.\p"
+	.string "Ni bezalako artistentzat, MUSEO hau\n"
+	.string "inspirazio iturri itzela da.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisLadyIsPretty:
-	.string "This lady is pretty!\n"
-	.string "She's like Mommy!$"
+	.string "Andereño hau ederra da!\n"
+	.string "Amatxo bezalakoa da!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable:
-	.string "This POKéMON is adorable!\n"
-	.string "Just like our little boy!$"
+	.string "POKéMON hau polit-polita da!\n"
+	.string "Gure mutikoa bezala!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings:
-	.string "I'd heard that this ART MUSEUM got\n"
-	.string "in some new paintings.\p"
-	.string "So, naturally I hurried over.\p"
-	.string "Are the new paintings up on\n"
-	.string "the second floor?$"
+	.string "Entzun dut ARTE MUSEO honetan\n"
+	.string "margolan berriak ipini dituztela.\p"
+	.string "Noski, ziztu batean etorri naiz.\p"
+	.string "Margolan berriak bigarren\n"
+	.string "pisuan al daude?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful:
-	.string "Lately, the CURATOR has been\n"
-	.string "unusually cheerful.\p"
-	.string "I bet something good happened for him.\n"
-	.string "Definitely.$"
+	.string "Azkenaldian, ARDURADUNA bereziki\n"
+	.string "pozik dago.\p"
+	.string "Ziur zeozer ona pasa zaiola.\n"
+	.string "Ezbairik gabe.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
-	.string "I aim to see many great paintings\n"
-	.string "here and learn from them.\p"
-	.string "I have this dream of one day having\n"
-	.string "my artwork exhibited here.$"
+	.string "Nire helburua hainbat margolan itzel\n"
+	.string "ikusi eta haiengandik ikastea da.\p"
+	.string "Egunen batean nire artelanak hemen\n"
+	.string "erakustea da nire ametsa.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
-	.string "The ART MUSEUM has become a favorite\n"
-	.string "tourist destination.\p"
-	.string "It's great for LILYCOVE…\n"
-	.string "No, great for the HOENN region!\p"
-	.string "This is what I've heard--a lone TRAINER\n"
-	.string "procured all the paintings upstairs.$"
+	.string "ARTE MUSEOA turisten helmuga\n"
+	.string "gustokoena bihurtu da.\p"
+	.string "UR-LILIRENTZAT oso ona da…\n"
+	.string "Ez, HOENN osoarentzat da ona!\p"
+	.string "Entzun dudanez, ENTRENATZAILE bakarrak\n"
+	.string "bildu ditu goiko pisuko koadroak.$"
 

@@ -145,19 +145,19 @@ LilycoveCity_DepartmentStore_5F_EventScript_LittleGirl::
 	end
 
 LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls:
-	.string "This place is full of cute DOLLS.\p"
-	.string "I should buy some for me, instead of\n"
-	.string "just for my children.$"
+	.string "Leku hau PANPINA politez lepo dago.\p"
+	.string "Niretzako batzuk hartu behar nituzke,\n"
+	.string "ez nire umeentzat soilik.$"
 
 LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon:
-	.string "I'm not big enough to raise POKéMON,\n"
-	.string "so I'm getting a cute DOLL instead.$"
+	.string "Ez naiz POKéMONAK hazteko bezain heldua,\n"
+	.string "beraz, PANPINA polit bat erosiko dut$"
 
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
-	.string "They sell many cute MATS here.\p"
-	.string "I wonder which one I should get?\n"
-	.string "Maybe I'll buy them all…$"
+	.string "Hemen ALFONBRA politak saltzen dituzte.\p"
+	.string "Zein erosi behar nuke?\n"
+	.string "Agian guztiak erosiko ditut…$"
 
 LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather:
-	.string "I think they closed the rooftop\n"
-	.string "because the weather is wild today.$"
+	.string "Uste dut sabaiko patioa itxi\n"
+	.string "dutela eguraldi zakarragatik.$"

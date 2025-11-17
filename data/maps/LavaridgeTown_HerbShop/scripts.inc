@@ -44,21 +44,21 @@ LavaridgeTown_HerbShop_Text_WelcomeToHerbShop:
 	.string "effective and inexpensive medicine!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
-	.string "You've come to look at herbal medicine\n"
-	.string "in LAVARIDGE?\p"
-	.string "That's rather commendable.\p"
-	.string "I like you! Take this!$"
+	.string "Sendabelarren bila etorri\n"
+	.string "al zara LABARANERA?\p"
+	.string "Gomendagarria da oso.\p"
+	.string "Atsegin zaitut! Tori hau!$"
 
 LavaridgeTown_HerbShop_Text_ExplainCharcoal:
-	.string "That CHARCOAL I gave you, it's used\n"
-	.string "for making herbal medicine.\p"
-	.string "It also does wonders when held by\n"
-	.string "a POKéMON.\p"
-	.string "It intensifies the power of FIRE-type\n"
-	.string "moves.$"
+	.string "Eman dizudan IKATZA, belar\n"
+	.string "sendagarriak egiteko erabiltzen da.\p"
+	.string "POKéMONEK helduta ere gauza\n"
+	.string "miragarriak egiten ditu.\p"
+	.string "SU motako erasoen indarra igotzeko\n"
+	.string "ahalmena dauka.$"
 
 LavaridgeTown_HerbShop_Text_HerbalMedicineWorksButMonWillDislike:
-	.string "Herbal medicine works impressively well.\n"
-	.string "But your POKéMON will dislike you for it.\l"
-	.string "It must be horribly bitter!$"
+	.string "Sendabelarrek oso ondo funtzionatzen dute.\n"
+	.string "Baina zure POKéMONARI ez zaizkio gustatuko.\l"
+	.string "Oso garratzak omen dira!$"
 

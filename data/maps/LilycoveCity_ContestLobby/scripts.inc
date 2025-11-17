@@ -983,104 +983,104 @@ LilycoveCity_ContestLobby_EventScript_LittleGirlHaveCase::
 	end
 
 LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase:
-	.string "Yippee!\p"
-	.string "The lady at the reception counter\n"
-	.string "gave me a case for {POKEBLOCK}S!$"
+	.string "Iuju!\p"
+	.string "Harrerako mahaiko andereak kutxa\n"
+	.string "bat eman dit {POKEBLOCK}ENTZAKO!$"
 
 LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
-	.string "Make {POKEBLOCK}S and put them in there.\p"
-	.string "When you make a {POKEBLOCK}, everyone\n"
-	.string "has to put in a different BERRY.$"
+	.string "Egin {POKEBLOCK}AK eta bertan sartu.\p"
+	.string "{POKEBLOCK} bat egiten duzunean, pertsona\n"
+	.string "bakoitzak BAIA desberdin bat jarri behar du.$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
-	.string "Congratulations!\p"
-	.string "I did a painting of your POKéMON to\n"
-	.string "commemorate its victory…\p"
-	.string "Well, your POKéMON's appeals were\n"
-	.string "so fantastic, it spurred me into\l"
-	.string "painting better than I usually do.\l"
-	.string "Look, see?$"
+	.string "Zorionak!\p"
+	.string "Zure POKéMONAREN margolan bat egin\n"
+	.string "dut bere garaipena gogorarazteko…\p"
+	.string "Zure POKéMONAREN estiloa horren\n"
+	.string "bikaina zenez, normalean baino\l"
+	.string "hobeto margotu ahal izan dut.\l"
+	.string "Begira, ikusten?$"
 
 LilycoveCity_ContestLobby_Text_ShouldITakePaintingToMuseum:
-	.string "What do you think? I'm confident in\n"
-	.string "what I've done, but do you like it?\p"
-	.string "A work of this caliber, it wouldn't look\n"
-	.string "out of place in an art museum.\p"
-	.string "Huh? An art museum really is looking\n"
-	.string "for paintings?\p"
-	.string "Do you think I should take this there?$"
+	.string "Zer iruditzen zaizu? Gustatzen zait\n"
+	.string "egin dudana, eta zuri?\p"
+	.string "Horrelako artelan bat ondo geratuko\n"
+	.string "litzateke arte museo batean.\p"
+	.string "Nola? Arte museo bat margolan bila\n"
+	.string "ari dela?\p"
+	.string "Hara eraman behar nukeela uste duzu?$"
 
 LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum:
-	.string "What, really? Then, sure, I will take\n"
-	.string "this painting there right now.\p"
-	.string "I'll give it a proper title, too.\p"
-	.string "I hope they'll like it and consider\n"
-	.string "exhibiting this.\p"
-	.string "Please check if they did accept this.\n"
-	.string "Thank you!$"
+	.string "Zer, benetan? Orduan, oraintxe bertan\n"
+	.string "eramango dut margolana, bai.\p"
+	.string "Izenburua ere jarri behar diot.\p"
+	.string "Gustatuko zaiela espero dut, eta\n"
+	.string "museoan jarriko dutela.\p"
+	.string "Begiratu ezazu, ea onartzen didaten.\n"
+	.string "Eskerrik asko!$"
 
 LilycoveCity_ContestLobby_Text_TakeMementoOfPainting:
-	.string "Oh, that's right!\p"
-	.string "As a memento of me painting your\n"
-	.string "POKéMON, please take this.$"
+	.string "Bai, hori da!\p"
+	.string "Zure POKéMONA margotu dudala\n"
+	.string "gogoratzeko, tori hau.$"
 
 LilycoveCity_ContestLobby_Text_ReceivedARibbon:
-	.string "{PLAYER} received a RIBBON.$"
+	.string "{PLAYER}(e)k ZINTA bat jaso du.$"
 
 LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon:
-	.string "{PLAYER} put the RIBBON on\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}(e)k zinta jarri dio\n"
+	.string "{STR_VAR_1}(e)ri.$"
 
 LilycoveCity_ContestLobby_Text_OkaySeeYou:
-	.string "Okay, see you!$"
+	.string "Ongi, agur!$"
 
 LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum:
-	.string "Oh… Then, I guess I'll just take\n"
-	.string "this home with me…\p"
-	.string "But, you know, I would like to take\n"
-	.string "this to the art museum… Okay?$"
+	.string "Beno… Orduan etxera eramango\n"
+	.string "dut…\p"
+	.string "Baina badakizu, arte museora eramatea\n"
+	.string "gustatuko litzaidake… Ongi?$"
 
 LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs:
-	.string "Oh, fine, that's the way it is.\n"
-	.string "I will hang this in my own house.\p"
-	.string "I'll just have to try harder next time.\n"
-	.string "Well, be seeing you.$"
+	.string "Ongi, hala bedi, beraz.\n"
+	.string "Nire etxean eskegiko dut margolana.\p"
+	.string "Gehiago saiatu beharko dut hurrengoan.\n"
+	.string "Beno, hurrengora arte.$"
 
 LilycoveCity_ContestLobby_Text_MasterRankHereICome:
-	.string "Hoo, boy… Master Rank CONTESTS,\n"
-	.string "here I come.\p"
-	.string "The world will know that my dearest\n"
-	.string "POKéMON is the cutest being in all\l"
-	.string "existence. The time has come!\l"
-	.string "Uheheheh.$"
+	.string "Ene jauna… Maisu Mailako TXAPELKETAK,\n"
+	.string "banator.\p"
+	.string "Mundu osoak jakingo du nire POKéMON\n"
+	.string "maitea existitzen den politena\l"
+	.string "dela. Heldu da garaia!\l"
+	.string "Ujejejeje.$"
 
 LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere:
-	.string "You can see a whole variety of\n"
-	.string "POKéMON here.\p"
-	.string "That's why I make this place a regular\n"
-	.string "part of my daily stroll.$"
+	.string "Mota askotako POKéMONAK\n"
+	.string "ikus daitezke hemen.\p"
+	.string "Horregatik etortzen naiz ia\n"
+	.string "egunero hona paseatzera.$"
 
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes:
-	.string "Wow, coming out to a CONTEST is\n"
-	.string "a feast for these eyes!\p"
-	.string "Would you look at all the POKéMON\n"
-	.string "that just scream to be painted?$"
+	.string "Uau, TXAPELKETA batera etortzea\n"
+	.string "ikuskizun itzela da!\p"
+	.string "Ikusten al dituzu margotuak izan\n"
+	.string "nahi duten POKéMON guztiak?$"
 
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme:
-	.string "The TOUGHNESS CONTEST is like\n"
-	.string "extreme, man!\p"
-	.string "Those muscular appeals…\n"
-	.string "Cascading sweat… I swoon!$"
+	.string "GOGORTASUN TXAPELKETA berebizikoa\n"
+	.string "da, aizu!\p"
+	.string "Gihar indartsu horiek…\n"
+	.string "Denak izerdi patsetan… Izugarria!$"
 
 LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
-	.string "Day in and day out, I lavished my care\n"
-	.string "on this POKéMON.\p"
-	.string "Its condition is peaking.\n"
-	.string "Today, victory is mine!$"
+	.string "Egunero-egunero POKéMON honi\n"
+	.string "dudan maitasuna erakutsi diot.\p"
+	.string "Egoera ezin hobean dago.\n"
+	.string "Gaur, nik irabaziko dut!$"
 
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily:
-	.string "I made {POKEBLOCK}S with Mom, Dad, and\n"
-	.string "Big Sister. They turned out great!\p"
-	.string "I bet you can make smoother, better\n"
-	.string "{POKEBLOCK}S if you have more people.$"
+	.string "{POKEBLOCK}AK egin ditut Ama, Aita eta\n"
+	.string "Arreba Nagusiarekin. Oso ondo atera dira!\p"
+	.string "Ziur nago {POKEBLOCK} leunagoak eta hobeak\n"
+	.string "egingo dituzula jende gehiagorekin.$"
 

@@ -1523,7 +1523,7 @@ static const u8 sAuroraTicketDesc[] = _(
     "txartela.");
 
 static const u8 sPowderJarDesc[] = _(
-    "BAIA TXIKITZAILEKO\n"
+    "BAIA BIRRINTZAILEKO\n"
     "BAIA HAUTSA\n"
     "gordetzeko kutxa.");
 

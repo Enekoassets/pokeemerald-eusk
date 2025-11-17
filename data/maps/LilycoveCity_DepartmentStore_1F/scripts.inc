@@ -141,45 +141,45 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign::
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore:
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.$"
+	.string "Ongi etorri UR-LILIKO ZENTRO KOMERTZIALERA.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
-	.string "Whenever I come to the DEPARTMENT\n"
-	.string "STORE, I always end up buying all sorts\l"
-	.string "of things because it's so fun.$"
+	.string "ZENTRO KOMERTZIALERA natorren bakoitzean,\n"
+	.string "mota guztietako gauzak erosten amaitzen\l"
+	.string "dut, oso dibertigarria delako.$"
 
 LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
-	.string "Today, my mom is going to buy me some\n"
-	.string "nice furniture.$"
+	.string "Gaur, nire amak altzari eder batzuk\n"
+	.string "erosiko dizkit.$"
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:
-	.string "I'm buying something for my AZUMARILL\n"
-	.string "as a reward for winning a CONTEST.$"
+	.string "Nire AZUMARILLENTZAKO zerbait erosiko\n"
+	.string "dut TXAPELKETA irabazi duelako.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill:
 	.string "AZUMARILL: Maririroo!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
-	.string "1F: SERVICE COUNTER\n"
-	.string "    LOTTERY CORNER\p"
-	.string "2F: TRAINER'S ZONE\p"
-	.string "3F: BATTLE COLLECTION\p"
-	.string "4F: TM CORNER\p"
-	.string "5F: POKé DOLL FLOOR\p"
-	.string "ROOFTOP: ROOFTOP PLAZA$"
+	.string "1S: ZERBITZU MOSTRADOREA\n"
+	.string "       LOTERIAREN TXOKOA\p"
+	.string "2S: ENTRENATZAILEEN GUNEA\p"
+	.string "3S: BORROKA BILDUMA\p"
+	.string "4S: MT TXOKOA\p"
+	.string "5S: POKé PANPINEN SOLAIRUA\p"
+	.string "TEILATUA: TEILATUKO PLAZA$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:
-	.string "Wireless Communication is a\n"
-	.string "lot of fun, isn't it?\p"
-	.string "I think it lets you do things that\n"
-	.string "weren't possible before.\p"
-	.string "For instance, you can now trade\n"
-	.string "with people you couldn't before.\p"
-	.string "I think it's going to be exciting!$"
+	.string "Hari Gabeko Komunikazioa oso\n"
+	.string "dibertigarria da, baietz?\p"
+	.string "Lehen egin ezin ziren gauzak\n"
+	.string "egin ditzakezu hari esker.\p"
+	.string "Adibidez, orain, lehen ezin zenuen\n"
+	.string "pertsonekin egin ditzakezu trukeak.\p"
+	.string "Zirraragarria izango da!$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_SpreadWordAboutWirelessComm:
-	.string "I want to spread the word about how\n"
-	.string "fun Wireless Communication can be.$"
+	.string "Hari Gabeko Komunikazioa zeinen dibertigarria\n"
+	.string "izan daitekeen kontatu nahi dut.$"
 

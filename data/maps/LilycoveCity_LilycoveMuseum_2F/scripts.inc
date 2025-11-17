@@ -217,114 +217,114 @@ LilycoveCity_LilycoveMuseum_2F_EventScript_ShowToughPainting::
 	end
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThisIsExhibitHall:
-	.string "This is our special exhibit hall.$"
+	.string "Hau gure erakusketa areto berezia da.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall:
-	.string "As you can plainly see, there is not\n"
-	.string "a single painting on exhibit.\p"
-	.string "Here, I don't wish to exhibit works of\n"
-	.string "so-called classical art.\p"
-	.string "Such classical works you can see on\n"
-	.string "our ground floor.\p"
-	.string "I wish to exhibit work that is far\n"
-	.string "different from the classics.\p"
-	.string "Art, after all, is not restricted to old,\n"
-	.string "famous works!\p"
-	.string "This exhibit hall, I wish to fill it with…\p"
-	.string "Modern and vibrant artworks of\n"
-	.string "POKéMON seemingly ready to spring\l"
-	.string "forth into glorious life!$"
+	.string "Ikus dezakezunez, ez dugu margolan\n"
+	.string "bat bera ere eskegita.\p"
+	.string "Hemen ez nuke klasiko deritzen\n"
+	.string "artelanik jarri nahi.\p"
+	.string "Halako artelan klasikoak beheko\n"
+	.string "pisuan ikus ditzakezu.\p"
+	.string "Pisu honetan bestelako artelanak\n"
+	.string "erakutsi nahi nituzke.\p"
+	.string "Artea, azken finean, ez dute artelan\n"
+	.string "zahar famatuek bakarrik osatzen!\p"
+	.string "Erakusketa areto hau bete nahi nuke…\p"
+	.string "POKéMONEN artelan moderno eta\n"
+	.string "biziak, mundu guztiak ikus\l"
+	.string "ditzan hemen eskegita!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
-	.string "I beg your pardon. I didn't intend\n"
-	.string "to monopolize the conversation.\p"
-	.string "Now, as you are young, and yet\n"
-	.string "obviously well traveled…\p"
-	.string "You must encounter lively POKéMON\n"
-	.string "and works of art depicting them.\p"
-	.string "If you were to come across such\n"
-	.string "a painting, may we ask you to obtain\l"
-	.string "the artist's permission to exhibit\l"
-	.string "it here?$"
+	.string "Barkatu, benetan. Ez nuen\n"
+	.string "elkarrizketa monopolizatu nahi.\p"
+	.string "Baina, gaztea zarenez, eta asko\n"
+	.string "bidaiatutakoa, begi bistan denez…\p"
+	.string "Ziur POKéMONEN artelan bizi\n"
+	.string "asko ikusten dituzula.\p"
+	.string "Halako amrgolanen bat aurkituko\n"
+	.string "bazenu, zer iruditzen zaizu hemen\l"
+	.string "eskegitzeko artistaren baimena\l"
+	.string "lortzen saiatuko bazina?$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_WishToFillExhibit:
-	.string "I wish to fill this exhibit hall with\n"
-	.string "modern and vibrant paintings of\l"
-	.string "POKéMON.$"
+	.string "Erakusketa areto hau POKéMONEN\n"
+	.string "artelan moderno eta biziz bete\l"
+	.string "nahi nuke.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThanksAddedNewPainting:
-	.string "Thanks to you, we've added a new\n"
-	.string "painting to our collection!\p"
-	.string "I've heard it depicts your POKéMON.\n"
-	.string "Truly magnificent!\p"
-	.string "Thank you so very, very much!$"
+	.string "Zuri esker, margolan berri bat\n"
+	.string "gehitu dugu bildumara!\p"
+	.string "Zure POKéMONARENA dela entzun dut.\n"
+	.string "Benetan sekulakoa!\p"
+	.string "benetan, eskerrik asko!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYouPlayer:
-	.string "Ah! It's you!\n"
+	.string "Ei! Zu zara eta!\n"
 	.string "{PLAYER}!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PaintingsAttractedMoreGuests:
-	.string "Isn't this marvelous?\n"
-	.string "This collection of paintings!\p"
-	.string "Each one of them flawless!\n"
-	.string "None better than another!\p"
-	.string "These paintings have attracted\n"
-	.string "more guests to our ART MUSEUM.\p"
-	.string "Sincerely, I thank you, {PLAYER}.\n"
-	.string "This is my dream come true!$"
+	.string "Ez al da izugarria?\n"
+	.string "Margolan bilduma hau!\p"
+	.string "Akatsik gabeak dira denak!\n"
+	.string "Ez dago besteak baino hobea denik!\p"
+	.string "Margolan hauei esker bezero gehiago\n"
+	.string "etorri dira gure ARTE MUSEORA.\p"
+	.string "Zinez, eskerrik asko, {PLAYER}.\n"
+	.string "Nire ametsa bete da!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_TokenOfGratitude:
-	.string "This is merely a token of my gratitude.$"
+	.string "Hau nire esker onaren erakusle.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_KeepThisForYou:
-	.string "I will keep this for you until we\n"
-	.string "meet again.$"
+	.string "Berriz elkar ikusten dugun arte\n"
+	.string "gordeko dizut hau.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_HonorToHaveYouVisit:
-	.string "Ah, so good to see you, {PLAYER}!\p"
-	.string "It's an honor to have you visit us\n"
-	.string "on your busy journeys.\p"
-	.string "Please, relax and do enjoy your\n"
-	.string "visit with us.$"
+	.string "Ene, a zer poza, {PLAYER}!\p"
+	.string "Ohorea da zu bisitan etortzea,\n"
+	.string "ziur oso lanpetuta zaudela.\p"
+	.string "Mesedez, erlaxatu eta gozatu\n"
+	.string "zure bisita.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPinkPictureFrame:
-	.string "It's a picture frame with pink-colored\n"
-	.string "adornments.$"
+	.string "Kolore larrosako apaingarridun\n"
+	.string "marko bat da.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYellowPictureFrame:
-	.string "It's a picture frame with\n"
-	.string "yellow-colored adornments.$"
+	.string "Kolore horiko apaingarridun\n"
+	.string "marko bat da.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsBluePictureFrame:
-	.string "It's a picture frame with\n"
-	.string "blue-colored adornments.$"
+	.string "Kolore urdineko apaingarridun\n"
+	.string "marko bat da.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsRedPictureFrame:
-	.string "It's a picture frame with\n"
-	.string "red-colored adornments.$"
+	.string "Kolore gorriko apaingarridun\n"
+	.string "marko bat da.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsGreenPictureFrame:
-	.string "It's a picture frame with\n"
-	.string "green-colored adornments.$"
+	.string "Kolore berdeko apaingarridun\n"
+	.string "marko bat da.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPaintingOfPokemon:
-	.string "It's a painting of POKéMON.$"
+	.string "POKéMON baten margolana da.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe:
-	.string "I've been away awhile, so the new\n"
-	.string "paintings up here surprised me.\p"
-	.string "I wish someone would paint my POKéMON\n"
-	.string "this pretty.$"
+	.string "Kanpoan ibili naiz, beraz, margolan\n"
+	.string "berriek harrituta utzi naute.\p"
+	.string "Norbaitek nire POKéMONAK horren\n"
+	.string "eder margotzea nahi nuke.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsRatherAmusing:
-	.string "Well… So this is where they show\n"
-	.string "the topical POKéMON paintings.\p"
-	.string "I see, these new paintings are indeed\n"
-	.string "rather amusing.$"
+	.string "Ados… Hemen erakusten dituzte\n"
+	.string "POKéMONEN margolanak, beraz.\p"
+	.string "Ikusten dut, margolan berri hauek\n"
+	.string "nahikoa dibertigarriak dira.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThesePaintingsOfYourPokemon:
-	.string "Wow, is that right?\n"
-	.string "These paintings are of your POKéMON.\p"
-	.string "Isn't that just the ultimate joy for\n"
-	.string "a TRAINER?$"
+	.string "Ene, egia al da hori?\n"
+	.string "Margolan hauek zure POKéMONENAK dira.\p"
+	.string "Ez al da hori ENTRENATZAILE\n"
+	.string "baten alaitsaun gorena?$"
 
