@@ -22,57 +22,57 @@ MagmaHideout_2F_2R_EventScript_Grunt8::
 	end
 
 MagmaHideout_2F_2R_Text_Grunt15Intro:
-	.string "I don't have a bone to pick with you.\n"
-	.string "I'm just following orders!$"
+	.string "Ez dut ezer berezirik zure aurka.\n"
+	.string "Aginduak jarraitzen ari naiz soilik!$"
 
 MagmaHideout_2F_2R_Text_Grunt15Defeat:
-	.string "I may have lost, but…$"
+	.string "Galdu egin dut, baina…$"
 
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
-	.string "We dug up something beyond belief!\n"
-	.string "And, we got the BLUE ORB!\p"
-	.string "All that's left is for our leader to…\n"
-	.string "Fufufu… Fwahahaha!$"
+	.string "Izugarrizko zuloa egin dugu!\n"
+	.string "Eta ORBE URDINA aurkitu!\p"
+	.string "Orain, gure liderrak soilik…\n"
+	.string "Fufufu… Uajajaja!$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
-	.string "I can't stand heat. Maybe I should've\n"
-	.string "joined TEAM AQUA instead…$"
+	.string "Ezin dut beroa jasan. Agian AQUA\n"
+	.string "TALDEKOA izan behar nintzen…$"
 
 MagmaHideout_2F_2R_Text_Grunt6Defeat:
-	.string "Yeah, I really may not be right for\n"
-	.string "TEAM MAGMA…$"
+	.string "Bai, agian ez naiz egokiena\n"
+	.string "MAGMA TALDERAKO…$"
 
 MagmaHideout_2F_2R_Text_Grunt6PostBattle:
-	.string "Don't you get lonely for the sea\n"
-	.string "being in a place like this?$"
+	.string "Ez al duzu itsasoa faltan hartzen\n"
+	.string "horrelako leku batean?$"
 
 MagmaHideout_2F_2R_Text_Grunt7Intro:
-	.string "You can hear tremors here sometimes.\p"
-	.string "Could it be the volcano rattling?\n"
-	.string "Or is it GROU…\p"
-	.string "Whoops!\n"
-	.string "No, no, never mind!$"
+	.string "Dardarak entzun daitezke batzuetan hemen.\p"
+	.string "Sumendia izango al da?\n"
+	.string "Edo, agian, GROU…\p"
+	.string "Ups!\n"
+	.string "Ez, ez, ez da ezer!$"
 
 MagmaHideout_2F_2R_Text_Grunt7Defeat:
-	.string "You're a fiery battler.\n"
-	.string "Just like a volcano!$"
+	.string "Borrokalari sutsua zara.\n"
+	.string "Sumendiak bezala!$"
 
 MagmaHideout_2F_2R_Text_Grunt7PostBattle:
-	.string "You just happened to win this time,\n"
-	.string "but that doesn't matter.\p"
-	.string "TEAM MAGMA's goal is about to be\n"
-	.string "reached!$"
+	.string "Zuk irabaziko zenuen gaur, bai,\n"
+	.string "baina ez du axola.\p"
+	.string "MAGMA TALDEAREN helburua\n"
+	.string "betetzear dago!$"
 
 MagmaHideout_2F_2R_Text_Grunt8Intro:
-	.string "One of our guys was freaking out that\n"
-	.string "he lost his MAGMA EMBLEM…\p"
-	.string "Wait a minute!\n"
-	.string "Was it you who found it?$"
+	.string "Gure kideetako bat urduri zegoen\n"
+	.string "MAGMA ENBLEMA galdu duelako…\p"
+	.string "Itxaron pixka bat!\n"
+	.string "Zuk aurkitu al zenuen?$"
 
 MagmaHideout_2F_2R_Text_Grunt8Defeat:
-	.string "I'm having trouble believing this…$"
+	.string "Ezin dut hau sinetsi…$"
 
 MagmaHideout_2F_2R_Text_Grunt8PostBattle:
-	.string "I'm getting this feeling that our plan\n"
-	.string "is going to end in failure…$"
+	.string "Gure plana zapuztu egingo dela\n"
+	.string "nabaritzen ari naiz…$"
 

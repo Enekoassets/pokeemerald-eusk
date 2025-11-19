@@ -2307,7 +2307,7 @@ gText_ApprenticePickWinSpeech7::
 	.string "galderarik jada.\p"
 	.string "Nire inguruan da orain galdera…\p"
 	.string "Badakizu ENTRENATZAILE batek borroka\n"
-	.string "amaitzean zerbait esante duela?\p"
+	.string "amaitzean zerbait esaten duela?\p"
 	.string "Bada, niri ere gustatuko litzaidake\n"
 	.string "halako zeozer egitea!\p"
 	.string "Mesedez, zer esan behar nuke borroka\n"

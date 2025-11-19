@@ -134,99 +134,99 @@ MagmaHideout_4F_EventScript_Tabitha::
 	end
 
 MagmaHideout_4F_Text_Grunt11Intro:
-	.string "I want to see GROUDON, too, but they\n"
-	.string "won't let me see even its tail…\p"
-	.string "It's got me feeling really frustrated.\p"
-	.string "Oh, no!\n"
-	.string "I blabbed about GROUDON!$"
+	.string "Nik ere GROUDON ikusi nahi dut, baina\n"
+	.string "ez didate haren buztana ere erakusten…\p"
+	.string "Oso zapuztuta sentitzen naiz.\p"
+	.string "Ai, ene! Ez nuen GROUDONEN\n"
+	.string "inguruan hitzik esan behar!$"
 
 MagmaHideout_4F_Text_Grunt11Defeat:
-	.string "I guess it's impossible to win if one\n"
-	.string "doesn't have a calm mind…$"
+	.string "Irabaztea ezinezkoa da norberaren\n"
+	.string "burua ez badago lasai…$"
 
 MagmaHideout_4F_Text_Grunt11PostBattle:
-	.string "I wonder if GROUDON even has a tail?$"
+	.string "Ba al du buztanik GROUDONEK?$"
 
 MagmaHideout_4F_Text_Grunt12Intro:
-	.string "Fuhahaha!\n"
-	.string "Soon! Very soon!\l"
-	.string "Our grand objective will be achieved!$"
+	.string "Kar-kar-kar!\n"
+	.string "Laister! Laister!\l"
+	.string "Gure helburua lortuko dugu!$"
 
 MagmaHideout_4F_Text_Grunt12Defeat:
 	.string "Grrr…\n"
-	.string "I've come so far, but now this?$"
+	.string "HOnaino iritsi naiz eta hau, orain?$"
 
 MagmaHideout_4F_Text_Grunt12PostBattle:
-	.string "MAXIE, sir!\n"
-	.string "An intruder is headed your way!$"
+	.string "MAGNO jauna!\n"
+	.string "Kanpotar bat doa zugana!$"
 
 MagmaHideout_4F_Text_Grunt13Intro:
-	.string "You're not finished yet!\n"
-	.string "You're not getting by me easily!$"
+	.string "Oraindik ez da hau bukatu!\n"
+	.string "Ez didazu horren erraz irabaziko!$"
 
 MagmaHideout_4F_Text_Grunt13Defeat:
-	.string "Was I that easy to knock down?$"
+	.string "Horren erraz irabazi al didazu?$"
 
 MagmaHideout_4F_Text_Grunt13PostBattle:
-	.string "C-come on, one more match…$"
+	.string "Ea ba, beste borroka bat…$"
 
 MagmaHideout_4F_Text_TabithaIntro:
-	.string "Hehehe!\n"
-	.string "You made it this far, so I'll tell you!\p"
-	.string "That's right!\n"
-	.string "Up ahead, GROUDON is sleeping!\p"
-	.string "MAXIE went to GROUDON just seconds\n"
-	.string "ago!\p"
-	.string "It's going to awaken real soon!\n"
-	.string "Hehe! Hehehe!$"
+	.string "Kar-kar-kar!\n"
+	.string "Honaino iritsi zarenez, esan egingoo dizut!\p"
+	.string "Hori da!\n"
+	.string "Hor aurrean, GROUDON dago lozorroan!\p"
+	.string "MAGNO GROUDONENGANA joan da\n"
+	.string "duela segundu gutxi!\p"
+	.string "Segituan esnatuko dugu!\n"
+	.string "Kar-kar! Kar-kar-kar!$"
 
 MagmaHideout_4F_Text_TabithaDefeat:
-	.string "Taken down again…\n"
-	.string "Hehe…$"
+	.string "Berriz galdu dut…\n"
+	.string "Kar-kar…$"
 
 MagmaHideout_4F_Text_TabithaPostBattle:
-	.string "…And while you wasted time with me,\n"
-	.string "MAXIE should have awakened GROUDON…$"
+	.string "…Nirekin denbora galdu bitartean,\n"
+	.string "MAGNOK esnatuko zuen jada GROUDON…$"
 
 MagmaHideout_4F_Text_MaxieAwakenGroudon:
-	.string "MAXIE: GROUDON…\p"
-	.string "Nothing could awaken you from your\n"
-	.string "sleep bathed in magma…\p"
-	.string "This BLUE ORB is what you sought.\n"
-	.string "Wasn't it?\p"
-	.string "I have brought you the BLUE ORB.\n"
-	.string "Let its shine awaken you!\p"
-	.string "And show me…\n"
-	.string "Show me the full extent of your power!$"
+	.string "MAGNO: GROUDON…\p"
+	.string "Ezerk ezin zintuen esnatu zure\n"
+	.string "magmaz inguratutako lozorrotik esnatu…\p"
+	.string "ORBE URDIN hau da nahi zenuena.\n"
+	.string "Ez al da hala?\p"
+	.string "ORBE URDINA ekarri dizut.\n"
+	.string "Esna zaitzala bere distirak!\p"
+	.string "Eta erakutsi niri…\n"
+	.string "Zure botere guztia!$"
 
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
-	.string "MAXIE: GROUDON!\n"
-	.string "What's wrong?\p"
-	.string "Wasn't the BLUE ORB the key?\p"
+	.string "MAGNO: GROUDON!\n"
+	.string "Zer gertatzen zaizu?\p"
+	.string "Ez al zen ORBE URDINA giltza?\p"
 	.string "GROUDON!\n"
-	.string "Where have you gone…$"
+	.string "Nora joan ote zara…$"
 
 MagmaHideout_4F_Text_MaxieOhItWasYou:
-	.string "MAXIE: Oh, so it was you?\p"
-	.string "I've seen you poking around uninvited\n"
-	.string "here and there…\p"
-	.string "I get it now!\n"
-	.string "You must have pulled a cheap stunt!$"
+	.string "MAGNO: Zer, zu al zinen?\p"
+	.string "Ikusi zaitut hemen inguruan, inork\n"
+	.string "gonbiterik eman ez badizu ere…\p"
+	.string "Ulertzen dut orain!\n"
+	.string "Trikimailuren bat erabili duzu!$"
 
 MagmaHideout_4F_Text_MaxieDefeat:
-	.string "What makes you so adept at handling\n"
-	.string "POKéMON?$"
+	.string "Zergatik zara horren hona\n"
+	.string "POKéMONEKIN?$"
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
-	.string "MAXIE: There has to be some reason\n"
-	.string "why GROUDON fled…\p"
-	.string "That's what you're trying to say,\n"
-	.string "aren't you?\p"
+	.string "MAGNO: Arrazoiren baten ondorioz\n"
+	.string "egin du ihes GROUDONEK…\p"
+	.string "Hori da esan nahi duzuna,\n"
+	.string "ez al da hala?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "Humph…\n"
-	.string "You think I didn't know that?\p"
-	.string "With GROUDON gone, there is no longer\n"
-	.string "any need for this blasted volcano.\p"
-	.string "I am going after GROUDON, so this\n"
-	.string "is where we part!$"
+	.string "Ufff…\n"
+	.string "Ez nekiela uste zenuen?\p"
+	.string "GROUDONEK ihes eginda, ez dago arrazoirik\n"
+	.string "sumendi honetan geratzeko.\p"
+	.string "GROUDONEN bila joango naiz, beraz,\n"
+	.string "hementxe banatuko gara elkarrengandik!$"
