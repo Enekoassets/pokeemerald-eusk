@@ -88,69 +88,69 @@ FortreeCity_Movement_KecleonFlee:
 	step_end
 
 FortreeCity_Text_SawGiganticPokemonInSky:
-	.string "No one believes me, but I saw this\n"
-	.string "gigantic POKéMON in the sky.\p"
-	.string "It seemed to squirm as it flew toward\n"
-	.string "ROUTE 131.\p"
-	.string "By the way… Sniff…\n"
-	.string "Um… You, uh…smell singed.\p"
-	.string "Were you at a volcano or something?$"
+	.string "Inork ez dit sinisten, baina POKéMON\n"
+	.string "erraldoi bat ikusi dut zeruan.\p"
+	.string "131. ERRUTARANTZ zihoala\n"
+	.string "iruditu zait.\p"
+	.string "Bestalde… Zintz…\n"
+	.string "Beno… Zuk…usain berezia duzu.\p"
+	.string "Sumendi batean egon al zara?$"
 
 FortreeCity_Text_SomethingBlockingGym:
-	.string "I want to go to the POKéMON GYM,\n"
-	.string "but something's blocking the way.\p"
-	.string "After all the bother I went through\n"
-	.string "training on ROUTE 120…$"
+	.string "POKéMON GIMNASIORA joan nahi dut,\n"
+	.string "baina zerbait dago bidean.\p"
+	.string "120. ERRUTAN horrenbeste\n"
+	.string "entrenatzen egon ostean…$"
 
 FortreeCity_Text_ThisTimeIllBeatWinona:
-	.string "I've got my pride-and-joy POKéMON\n"
-	.string "with me. This time, I'll beat WINONA.$"
+	.string "Nire POKéMON kuttuna dut nirekin.\n"
+	.string "Oraingoan HAIZEA garaituko dut.$"
 
 FortreeCity_Text_TreesGrowByDrinkingRainwater:
-	.string "The ground absorbs rainwater, and\n"
-	.string "trees grow by drinking that water…\p"
-	.string "Our FORTREE CITY exists because\n"
-	.string "there's both water and soil.$"
+	.string "Lurrak euria xurgatzen du eta\n"
+	.string "hala hazten dira zuhaitzak…\p"
+	.string "ZUHAITZAGA HIRIA hemen ura eta lurra,\n"
+	.string "biak daudelako existitzen da.$"
 
 FortreeCity_Text_EveryoneHealthyAndLively:
-	.string "The CITY consists of homes built on\n"
-	.string "trees.\p"
-	.string "Perhaps because of that lifestyle,\n"
-	.string "everyone is healthy and lively.\p"
-	.string "Why, even myself--I feel as if I've\n"
-	.string "grown thirty years younger.$"
+	.string "HIRIA zuhaitzetan eraikitako etxeek\n"
+	.string "osatzen dute.\p"
+	.string "Agian, bizimodu horri esker daude\n"
+	.string "biztanleak osasuntsu eta pozik.\p"
+	.string "Ni ere hogeita haman urte gaztetu\n"
+	.string "izan banitu bezala sentitzen naiz.$"
 
 FortreeCity_Text_BugPokemonComeThroughWindow:
-	.string "Living on top of trees is okay.\p"
-	.string "But sometimes BUG POKéMON come in\n"
-	.string "through windows.\l"
-	.string "It can be really startling.$"
+	.string "Zuhaitz gainean bizitzea ondo dago.\p"
+	.string "Baina, batzuetan ZOMORRO POKéMONAK\n"
+	.string "sartzen dira leihoetatik.\l"
+	.string "Pixka bat nazkagarria da.$"
 
 FortreeCity_Text_PokemonThatEvolveWhenTraded:
-	.string "There are POKéMON that evolve when\n"
-	.string "you trade them! That's what I heard.$"
+	.string "Trukatzean eboluzionatzen diren\n"
+	.string "POKéMONAK daude! Hori entzun dut.$"
 
 FortreeCity_Text_SomethingUnseeable:
-	.string "Something unseeable is in the way.$"
+	.string "Zerbait ikustezina dago bidean.$"
 
 FortreeCity_Text_UnseeableUseDevonScope:
-	.string "Something unseeable is in the way.\p"
-	.string "Want to use the DEVON SCOPE?$"
+	.string "Zerbait ikustezina dago bidean.\p"
+	.string "DEVON DETEKTAGAILUA erabili nahi duzu?$"
 
 FortreeCity_Text_UsedDevonScopePokemonFled:
-	.string "{PLAYER} used the DEVON SCOPE.\p"
-	.string "An invisible POKéMON became completely\n"
-	.string "visible!\p"
-	.string "The startled POKéMON fled!$"
+	.string "{PLAYER}(e)k DEVON DETEKTAGAILUA erabili du.\p"
+	.string "POKéMON ikusezin bat guztiz\n"
+	.string "ikusgai bihurtu da!\p"
+	.string "POKéMON izutuak ihes egin du!$"
 
 FortreeCity_Text_CitySign:
-	.string "FORTREE CITY\n"
-	.string "“The treetop city that frolics with\l"
-	.string "nature.”$"
+	.string "ZUHAITZAGA HIRIA\n"
+	.string "“Naturarekin jolasten den\l"
+	.string "zuhaitz gaineko hiria.”$"
 
 FortreeCity_Text_GymSign:
-	.string "FORTREE CITY POKéMON GYM\n"
-	.string "LEADER: WINONA\p"
-	.string "“The bird user taking flight into\n"
-	.string "the world.”$"
+	.string "ZUHAITZAGA HIRIKO POKéMON GIMNASIOA\n"
+	.string "LIDERRA: HAIZEA\p"
+	.string "“Txoriak erabiliz hegan\n"
+	.string "egiten duena.”$"
 

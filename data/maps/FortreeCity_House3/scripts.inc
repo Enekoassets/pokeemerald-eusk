@@ -10,20 +10,20 @@ FortreeCity_House3_EventScript_SchoolKidM::
 	end
 
 FortreeCity_House3_Text_MetStevenHadAmazingPokemon:
-	.string "While speaking about POKéDEXES,\n"
-	.string "I remembered something.\p"
-	.string "I met this TRAINER, STEVEN, when\n"
-	.string "I was searching for rare stones.\p"
-	.string "Hoo, boy, he had some amazing POKéMON\n"
-	.string "with him.\p"
-	.string "They weren't just rare, they were\n"
-	.string "trained to terrifying extremes!\p"
-	.string "He might even be stronger than the\n"
-	.string "GYM LEADER in this town…$"
+	.string "POKéDEXEN inguruan hizketan,\n"
+	.string "gauza bat gogoratu dut.\p"
+	.string "ENTRENATZAILE bat ezagutu nuen, MIKEL,\n"
+	.string "harri arraoak bilatzen zituena.\p"
+	.string "Ene, benetan POKéMON bikainak\n"
+	.string "zituen berarekin.\p"
+	.string "Ez ziren bereziak soilik, izugarri\n"
+	.string "ondo entrenatuta zeuden!\p"
+	.string "Herri honetako GIMNASIOKO LIDERRA\n"
+	.string "bera baino indartsuagoa izango da…$"
 
 FortreeCity_House3_Text_OhYouHavePokedex:
-	.string "What's that thing you have there?\p"
+	.string "Zer da hor daukazun hori?\p"
 	.string "… … … … … …\p"
-	.string "Oh, it's called a POKéDEX?\n"
-	.string "It's really awesome!$"
+	.string "POKéDEXA deitzen zaio?\n"
+	.string "Itzela da!$"
 

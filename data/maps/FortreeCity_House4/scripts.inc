@@ -65,32 +65,32 @@ FortreeCity_House4_EventScript_Wingull::
 	end
 
 FortreeCity_House4_Text_BringsWorldCloserTogether:
-	.string "By being together with POKéMON,\n"
-	.string "people make more and more friends.\p"
-	.string "And that brings the world closer\n"
-	.string "together. I think it's wonderful!$"
+	.string "POKéMONEKIN batera egonda, jendeak\n"
+	.string "gero eta lagun gehiago egiten ditu.\p"
+	.string "Eta horrek mundu osoa elkartzen du.\n"
+	.string "Oso ederra iruditzen zait!$"
 
 FortreeCity_House4_Text_GoBirdPokemon:
-	.string "There!\n"
-	.string "Go, BIRD POKéMON!$"
+	.string "Hortxe!\n"
+	.string "Aurrera, TXORI POKéMONAK!$"
 
 FortreeCity_House4_Text_AskedWingullToRunErrand:
-	.string "Heheh, I asked my WINGULL to run\n"
-	.string "an errand for me.$"
+	.string "Kar-kar, nire WINGULLI enkargu\n"
+	.string "bat egiteko eskatu diot.$"
 
 FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
-	.string "Good!\n"
-	.string "Welcome back, WINGULL!\p"
-	.string "Huh? What is this?\n"
-	.string "What is it holding?\p"
-	.string "A MENTAL HERB?\n"
-	.string "It must have picked it up somewhere.\p"
-	.string "But I'm not a TRAINER, so you can\n"
-	.string "have it.$"
+	.string "Ondo!\n"
+	.string "Ongi etorri berriro, WINGULL!\p"
+	.string "Nola? Zer da hau?\n"
+	.string "Zer dauka atzaparretan?\p"
+	.string "BELAR MENTAL bat?\n"
+	.string "Hor nonbait jasoko zuen.\p"
+	.string "Baina ez naiz ENTRENATZAILEA, beraz,\n"
+	.string "zuretzat har dezakezu.$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:
-	.string "Thanks to my WINGULL, I have friends\n"
-	.string "who live far away.$"
+	.string "Nire WINGULLI esker, urruti\n"
+	.string "bizi diren lagunak ditut.$"
 
 FortreeCity_House4_Text_Wingull:
 	.string "WINGULL: Pihyoh!$"

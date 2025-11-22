@@ -52,44 +52,44 @@ FallarborTown_EventScript_MoveTutorSign::
 	end
 
 FallarborTown_Text_ShadyCharactersCozmosHome:
-	.string "Something's happening,\n"
-	.string "and I don't like it!\p"
-	.string "I've seen shady characters wandering\n"
-	.string "in and out of PROF. COZMO's home…$"
+	.string "Zerbait gertatzen ari da,\n"
+	.string "eta ez dut gustoko!\p"
+	.string "Jende arraroa ikusi dut KOZMO\n"
+	.string "IRAKASLEAREN etxe inguruan…$"
 
 FallarborTown_Text_RegionKnownForMeteors:
-	.string "This region's been known for meteors\n"
-	.string "since the olden days.\p"
-	.string "They say METEOR FALLS was gouged out\n"
-	.string "by a falling meteorite long ago.$"
+	.string "Eskualde hau meteoritoengatik\n"
+	.string "izan da ezaguna betidanik.\p"
+	.string "Diotenez, METEORO UR-JAUZIA meteorito\n"
+	.string "baten kolpearekin sortu zen aspaldi.$"
 
 FallarborTown_Text_MyPreciousAzurill:
-	.string "See! Take a look!\n"
-	.string "This is my precious AZURILL!\p"
-	.string "It's slick and smooth and plushy, too!$"
+	.string "Ikusi! Begira hau!\n"
+	.string "Hau nire AZURILL maitea da!\p"
+	.string "Leuna eta bigun-biguna!$"
 
 FallarborTown_Text_Azurill:
 	.string "AZURILL: Rooreelooo.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Have you already challenged FLANNERY,\n"
-	.string "the LEADER of LAVARIDGE GYM?\p"
-	.string "The girl's grandfather was famous.\n"
-	.string "He was one of the ELITE FOUR in the\l"
-	.string "POKéMON LEAGUE at one point.\p"
-	.string "It wouldn't surprise me to see FLANNERY\n"
-	.string "become a great TRAINER in her own\l"
-	.string "right.$"
+	.string "Egin diozu aurre SUARI, LABARANEKO\n"
+	.string "GIMNASIOKO LIDERRARI?\p"
+	.string "Neskaren aitona famatua zen.\n"
+	.string "POKéMON LIGAKO ELITE LAUKOTEAN\l"
+	.string "egon omen zen aspaldi.\p"
+	.string "Ez nintzateke batere harrituko SUA\n"
+	.string "bera ere ENTRENATZAILE aparta\l"
+	.string "bihurtuko balitz.$"
 
 FallarborTown_Text_BattleTentSign:
-	.string "BATTLE TENT FALLARBOR SITE\n"
-	.string "“May the Greatest Teams Gather!”$"
+	.string "ARREKARA HERRIKO BORROKA DENDA\n"
+	.string "“Elkar daitezela talderik onenak!”$"
 
 FallarborTown_Text_TownSign:
-	.string "FALLARBOR TOWN\n"
-	.string "“A farm community with small gardens.”$"
+	.string "ARREKARA HERRIA\n"
+	.string "“Lorategi txikidun baserritar herria.”$"
 
 FallarborTown_Text_MoveTutorSign:
-	.string "MOVE TUTOR'S HOUSE\n"
-	.string "“New moves taught to POKéMON.”$"
+	.string "ERASO TUTOREAREN ETXEA\n"
+	.string "“POKéMONEI eraso berriak erakusten dizkiet.”$"
 

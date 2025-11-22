@@ -61,38 +61,38 @@ FortreeCity_House1_EventScript_Zigzagoon::
 	end
 
 FortreeCity_House1_Text_YouWillTradeWontYou:
-	.string "Wrooooaaar! I need it!\n"
-	.string "I have to get me a {STR_VAR_1}!\l"
-	.string "I'll do anything for it!\p"
-	.string "…Uh… Did you hear that?\n"
-	.string "My shout from the bottom of my heart?\p"
-	.string "Having heard that, you will trade\n"
-	.string "your {STR_VAR_1} for my {STR_VAR_2},\l"
-	.string "won't you?$"
+	.string "Rooooaaar! Behar dut!\n"
+	.string "{STR_VAR_1} bat lortu behar dut!\l"
+	.string "Edozer egingo dut lortzeko!\p"
+	.string "…Em… Entzun al duzu hori?\n"
+	.string "Bihotzetik atera zaidan garrasia?\p"
+	.string "Hori entzunda, aldatuko didazu zure\n"
+	.string "{STR_VAR_1} nire {STR_VAR_2} honen\l"
+	.string "truke, ezta?$"
 
 FortreeCity_House1_Text_MonYouTakeCare:
-	.string "Oh, yeah, right on!\p"
-	.string "{STR_VAR_1}, welcome!\n"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "Ondo, bai, hori da!\p"
+	.string "{STR_VAR_1}, ongi etorri!\n"
+	.string "{STR_VAR_2}, zaindu zaitez!$"
 
 FortreeCity_House1_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "Ez, ez. Ez dut uste.\n"
+	.string "Hau ez da {STR_VAR_1} bat.$"
 
 FortreeCity_House1_Text_YouWontTradeMe:
-	.string "No? You won't trade me?\n"
-	.string "Even after I bared my heart to you?$"
+	.string "Ez? Ez duzu nirekin trukea egin nahi?\n"
+	.string "Nire bihotza ireki ostean ere ez?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
-	.string "I'm going to make VOLBEAT super\n"
-	.string "strong from this moment on!\p"
-	.string "I hope you do the same with PLUSLE!$"
+	.string "Hemendik aurrera VOLBEAT oso\n"
+	.string "indartsua bihurtuko dut!\p"
+	.string "Zuk ere berdina egin PLUSLEREKIN!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
-	.string "Trading POKéMON with others…\p"
-	.string "It's as if you're trading your own\n"
-	.string "memories with other people.$"
+	.string "Besteekin POKéMONAK trukatzea…\p"
+	.string "Zure memoriak besteekin trukatzen\n"
+	.string "aritzea bezalakoa da.$"
 
 FortreeCity_House1_Text_Zigzagoon:
-	.string "ZIGZAGOON: Gumomoh?$"
+	.string "ZIGZAGOON: Gumomo?$"
 

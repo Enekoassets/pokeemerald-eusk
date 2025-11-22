@@ -134,185 +134,185 @@ FortreeCity_Gym_EventScript_GymStatue::
 	end
 
 FortreeCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "FORTREE GYM LEADER WINONA is\n"
-	.string "a master of FLYING-type POKéMON.\p"
-	.string "She's waiting at the back of this GYM,\n"
-	.string "behind the rotating doors.\p"
-	.string "She's waiting for new challengers\n"
-	.string "who are trying to take wing!\p"
-	.string "Okay, go for it!$"
+	.string "Ei, zer moduz dago gure {PLAYER},\n"
+	.string "etorkizuneko TXAPELDUNA?\p"
+	.string "HAIZEA, ZUHAITZAGAKO GIMNASIOKO\n"
+	.string "LIDERRAK POKéMON HEGALARIAK ditu.\p"
+	.string "GIMNASIO honen amaieran dago zain,\n"
+	.string "ate birakarien atzean.\p"
+	.string "Aireratu nahi duten erronkari\n"
+	.string "berrien zain dago!\p"
+	.string "Ongi, segi aurrera!$"
 
 FortreeCity_Gym_Text_GymGuidePostVictory:
-	.string "You did it!\n"
-	.string "You've achieved liftoff!$"
+	.string "Lortu duzu!\n"
+	.string "Aireratzea lortu duzu!$"
 
 FortreeCity_Gym_Text_JaredIntro:
-	.string "Behold the elegant battle style of\n"
-	.string "BIRD POKéMON!$"
+	.string "Ikusi TXORI POKéMONEN borroka\n"
+	.string "estilo dotorea!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
-	.string "You…\n"
-	.string "You're strong…$"
+	.string "Zu…\n"
+	.string "Indartsua zara, gero…$"
 
 FortreeCity_Gym_Text_JaredPostBattle:
-	.string "A TRAINER has to be smart to keep\n"
-	.string "up with unexpected turns of events.\p"
-	.string "Do you have the smarts to get to\n"
-	.string "our LEADER?$"
+	.string "ENTRENATZAILEAK azkarrak izan behar\n"
+	.string "dira espero ez denari aurre egiteko.\p"
+	.string "Nahikoa azkarra al zara zu gure\n"
+	.string "LIDERRARENGANAINO iristeko?$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
-	.string "The lovers of BIRD POKéMON aspire\n"
-	.string "to join this GYM.\p"
-	.string "As a member of the FORTREE GYM,\n"
-	.string "I'm not allowed to lose!$"
+	.string "TXORI POKéMONAK maite dituztenek\n"
+	.string "GIMNASIO honen parte izan nahi dute.\p"
+	.string "ZUHAITZAGAKO GIMNASIOKO partaide\n"
+	.string "naizenez, ezin dut galdu!$"
 
 FortreeCity_Gym_Text_EdwardoDefeat:
-	.string "It was too much of a load for me\n"
-	.string "to bear…$"
+	.string "Karga handiegia izan da\n"
+	.string "niretzako…$"
 
 FortreeCity_Gym_Text_EdwardoPostBattle:
-	.string "The world is huge, and there are\n"
-	.string "countless tough TRAINERS.\p"
-	.string "I'm going to keep training and make\n"
-	.string "myself even stronger.$"
+	.string "Mundua erraldoia da eta ENTRENATZAILE\n"
+	.string "indartsu piloa dago.\p"
+	.string "Entrenatzen jarraituko dut eta\n"
+	.string "indartsuagoa izango naiz.$"
 
 FortreeCity_Gym_Text_FlintIntro:
-	.string "There's no need for WINONA, our GYM\n"
-	.string "LEADER, to deal with you!\p"
-	.string "I'm plenty good enough for you!$"
+	.string "Ez da beharrezkoa, HAIZEA, gure\n"
+	.string "LIDERRA, zutaz arduratzea!\p"
+	.string "Nahikoa naiz ni horretarako!$"
 
 FortreeCity_Gym_Text_FlintDefeat:
-	.string "WINONA, I…\n"
-	.string "I lost!$"
+	.string "HAIZEA, nik…\n"
+	.string "Galdu egin dut!$"
 
 FortreeCity_Gym_Text_FlintPostBattle:
-	.string "WINONA is cute and she's strong.\n"
-	.string "She's the ultimate LEADER!\p"
-	.string "Blush…$"
+	.string "HAIZEA polita da, eta indartsua.\n"
+	.string "LIDER onena da!\p"
+	.string "Lotsagorritu egin naiz…$"
 
 FortreeCity_Gym_Text_AshleyIntro:
-	.string "WINONA taught me personally!\n"
-	.string "You can't beat me easily!$"
+	.string "HAIZEAK berak erakutsi zidan niri!\n"
+	.string "Ez didazu erraz irabaziko!$"
 
 FortreeCity_Gym_Text_AshleyDefeat:
-	.string "I was beaten…$"
+	.string "Garaitu egin naute…$"
 
 FortreeCity_Gym_Text_AshleyPostBattle:
-	.string "Thanks to WINONA, the people of\n"
-	.string "FORTREE can live without fear.$"
+	.string "HAIZEARI esker, ZUHAITZAGAKO\n"
+	.string "jendea beldurrik gabe bizi da.$"
 
 FortreeCity_Gym_Text_HumbertoIntro:
-	.string "When WINONA takes to battle, her face\n"
-	.string "shines with beautiful determination…\p"
-	.string "I'm not letting you witness that\n"
-	.string "lovely sight!$"
+	.string "HAIZEA borrokan ari denean, aurpegiak\n"
+	.string "determinazioz egiten dio distira…\p"
+	.string "Ez dizut utziko zuri halako\n"
+	.string "gauza ederra ikusten!$"
 
 FortreeCity_Gym_Text_HumbertoDefeat:
-	.string "Urk!\n"
-	.string "I couldn't stop you.$"
+	.string "Uf!\n"
+	.string "Ez dut lortu zu gelditzea.$"
 
 FortreeCity_Gym_Text_HumbertoPostBattle:
-	.string "You'd better watch it!\n"
-	.string "Don't get distracted staring at WINONA\l"
-	.string "or you'll go crashing down in a heap!$"
+	.string "Kontuz ibili beharko duzu!\n"
+	.string "Ez galdu arreta HAIZEARI begira\l"
+	.string "edo txikitu egingo zaitu!$"
 
 FortreeCity_Gym_Text_DariusIntro:
-	.string "You'd better know that there are all\n"
-	.string "sorts of FLYING-type POKéMON.\p"
-	.string "You do know that, right?$"
+	.string "Hobe duzu mota askotako TXORI\n"
+	.string "POKéMONAK daudela jakitea.\p"
+	.string "Badakizu hori, ezta?$"
 
 FortreeCity_Gym_Text_DariusDefeat:
-	.string "You seem to know your stuff!$"
+	.string "Badakizu, bai!$"
 
 FortreeCity_Gym_Text_DariusPostBattle:
-	.string "Sure, you beat me all right.\n"
-	.string "But you'd better watch it! Our LEADER\l"
-	.string "WINONA's POKéMON are all business.$"
+	.string "Ados, garaitu egin nauzu, bai.\n"
+	.string "Baina kontuz ibili! HAIZEAREN, gure\l"
+	.string "LIDERRAREN POKéMONAK ikaragarriak dira.$"
 
 FortreeCity_Gym_Text_WinonaIntro:
-	.string "I am WINONA. I am the LEADER of\n"
-	.string "the FORTREE POKéMON GYM.\p"
-	.string "I have become one with BIRD POKéMON\n"
-	.string "and have soared the skies…\p"
-	.string "However grueling the battle, we have\n"
-	.string "triumphed with grace…\p"
-	.string "Witness the elegant choreography\n"
-	.string "of BIRD POKéMON and I!$"
+	.string "HAIZEA naiz. ZUHAITZAGAKO POKéMON\n"
+	.string "GIMNASIOKO LIDERRA.\p"
+	.string "TXORI POKéMONEKIN bat eginda,\n"
+	.string "zeruak zeharkatu ditut…\p"
+	.string "Borroka beldurgarrietan ere,\n"
+	.string "beti atera gara garaile…\p"
+	.string "Nire TXORI POKéMONEN koreografia\n"
+	.string "dotorearen lekukoa izango zara!$"
 
 FortreeCity_Gym_Text_WinonaDefeat:
-	.string "Never before have I seen a TRAINER\n"
-	.string "command POKéMON with more grace\l"
-	.string "than I…\p"
-	.string "In recognition of your prowess,\n"
-	.string "I present to you this GYM BADGE.$"
+	.string "Ez dut inoiz ikusi ENTRENATZAILE\n"
+	.string "bat ni baino dotorezia handiagoz\l"
+	.string "POKéMONAK gidatzen\p"
+	.string "Zure trebeziaren sari gisan,\n"
+	.string "har ezazu GIMNASIOKO DOMINA hau.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
-	.string "{PLAYER} received the FEATHER BADGE\n"
-	.string "from WINONA.$"
+	.string "{PLAYER}(e)k LUMA DOMINA jaso du\n"
+	.string "HAIZEARENGANDIK.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
-	.string "With the FEATHER BADGE, all POKéMON up\n"
-	.string "to LV 70, even those received through\l"
-	.string "trades, will obey your every command.\p"
-	.string "You will also be able to use\n"
-	.string "the HM move FLY outside of battle.\p"
-	.string "And this…\n"
-	.string "This is a gift from me.$"
+	.string "LUMA DOMINAREKIN, 70. mailara arteko\n"
+	.string "POKéMONEK, baita trukean jaso dituzunek\l"
+	.string "ere, zure aginduak beteko dituzte.\p"
+	.string "Gainera, HEGALDIA Makina Ezkutua\n"
+	.string "borrokatik kanpo erabili dezakezu.\p"
+	.string "Eta hau…\n"
+	.string "Opari bat da, nire partez.$"
 
 FortreeCity_Gym_Text_ExplainAerialAce:
-	.string "TM40 contains AERIAL ACE.\p"
-	.string "Its speed…\n"
-	.string "No POKéMON should be able to avoid it.\p"
+	.string "MT40ek AIRE KOLPEA du barruan.\p"
+	.string "Eraso honen abiadura…\n"
+	.string "Ez dago saihestu dezakeen POKéMONIK.\p"
 	.string "… … … … … …$"
 
 FortreeCity_Gym_Text_RegisteredWinona:
-	.string "Registered GYM LEADER WINONA\n"
-	.string "in the POKéNAV.$"
+	.string "HAIZEA GIMNASIOKO LIDERRA\n"
+	.string "erregistratu duzu POKéNAVEAN.$"
 
 FortreeCity_Gym_Text_WinonaPostBattle:
-	.string "Though I fell to you, I will remain\n"
-	.string "devoted to BIRD POKéMON.$"
+	.string "Zure aurka galduta ere, TXORI\n"
+	.string "POKéMONEI emanda jarraituko dut.$"
 
 FortreeCity_Gym_Text_GymStatue:
-	.string "FORTREE CITY POKéMON GYM$"
+	.string "ZUHAITZAGA HIRIKO POKéMON GIMNASIOA$"
 
 FortreeCity_Gym_Text_GymStatueCertified:
-	.string "FORTREE CITY POKéMON GYM\p"
-	.string "WINONA'S CERTIFIED TRAINERS:\n"
+	.string "ZUHAITZAGA HIRIKO POKéMON GIMNASIOA\p"
+	.string "HAIZEAK ZIURTATUTAKO ENTRENATZAILEAK:\n"
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:
-	.string "WINONA: We humans can never escape\n"
-	.string "gravity's pull on the ground.\p"
-	.string "But by striving for excellence,\n"
-	.string "we have the power to soar!\p"
-	.string "You have scaled the pinnacle as\n"
-	.string "the reigning CHAMPION.\p"
-	.string "Please, allow me to see your power\n"
-	.string "at full flight!$"
+	.string "HAIZEA: Gizakiok ezin diogu grabitatearen\n"
+	.string "indarrari ihes egin.\p"
+	.string "Baina bikaintasunaren bila arituz,\n"
+	.string "aireratzea lor dezakegu!\p"
+	.string "Zu goraino iritsi zara,\n"
+	.string "TXAPELDUN goren bezala.\p"
+	.string "Mesedez, utz iezadazu zure boterea\n"
+	.string "ikusten hegan egin bitartean!$"
 
 FortreeCity_Gym_Text_WinonaRematchDefeat:
-	.string "I failed to reach your height again…$"
+	.string "Ez dut lortu zure altuerara iristea…$"
 
 FortreeCity_Gym_Text_WinonaPostRematch:
-	.string "WINONA: Even though I have lost,\n"
-	.string "the wings of my heart remain unbroken.\p"
-	.string "I can rise and soar again and\n"
-	.string "yet again.\p"
-	.string "I am convinced of it!$"
+	.string "HAIZEA: Galdu badut ere, nire\n"
+	.string "bihotzaren hegoak ez dira hautsi.\p"
+	.string "Berriro altxa eta aireratuko\n"
+	.string "naiz.\p"
+	.string "Guztiz ziur nago!$"
 
 FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
-	.string "WINONA: We humans can never escape\n"
-	.string "gravity's pull on the ground.\p"
-	.string "But by striving for excellence,\n"
-	.string "we have the power to soar!\p"
-	.string "You have scaled the pinnacle as\n"
-	.string "the reigning CHAMPION.\p"
-	.string "Please, allow me to see your power\n"
-	.string "at full flight!\p"
-	.string "Oh, no… Do you have but one\n"
-	.string "POKéMON with you?\p"
-	.string "Please return with two POKéMON\n"
-	.string "at the very least.$"
+	.string "HAIZEA: Gizakiok ezin diogu grabitatearen\n"
+	.string "indarrari ihes egin.\p"
+	.string "Baina bikaintasunaren bila arituz,\n"
+	.string "aireratzea lor dezakegu!\p"
+	.string "Zu goraino iritsi zara,\n"
+	.string "TXAPELDUN goren bezala.\p"
+	.string "Mesedez, utz iezadazu zure boterea\n"
+	.string "ikusten hegan egin bitartean!\p"
+	.string "Ai, ene… POKéMON bakarra al\n"
+	.string "duzu aldean?\p"
+	.string "Mesedez, itzuli gutxienez bi\n"
+	.string "POKéMONEKIN.$"

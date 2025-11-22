@@ -44,27 +44,27 @@ FallarborTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 FallarborTown_ContestHall_Text_DoAllRightInPreliminary:
-	.string "We do all right in the preliminary round,\n"
-	.string "but we can never win the appeals…\p"
-	.string "Maybe it means I have to watch what\n"
-	.string "other contestants are doing…$"
+	.string "Ondo aritzen gara beti lehenengo txandan,\n"
+	.string "baina ez dugu irabazten erakustaldirik…\p"
+	.string "Agian beste parte-hartzaileek egiten\n"
+	.string "dutenari adi egon beharko beharko naiz…$"
 
 @ Unused
 FallarborTown_ContestHall_Text_MonAllTheseRibbons:
-	.string "See!\n"
-	.string "My POKéMON won all these RIBBONS!\p"
-	.string "Have your POKéMON earned any RIBBONS?\n"
-	.string "You can check them on your POKéNAV.$"
+	.string "Ikusi!\n"
+	.string "Nire POKéMONEK ZINTA hauek irabazi dituzte!\p"
+	.string "Zure POKéMONEK irabazi al dute ZINTARIK?\n"
+	.string "Zure POKéNAVEAN begiratu dezakezu.$"
 
 @ Unused
 FallarborTown_ContestHall_Text_CantWinEverywhere:
-	.string "I can't beat GYM LEADERS…\p"
-	.string "I can't win any CONTESTS…\p"
-	.string "I've been here, there, and everywhere,\n"
-	.string "and it's all for naught…$"
+	.string "Ezin ditut GIMNASIOKO LIDERRAK garaitu…\p"
+	.string "Ezin dut TXAPELKETARIK irabazi…\p"
+	.string "Leku guztietan egon naiz, bai hemen,\n"
+	.string "bai han, eta ezer ere ez…$"
 
 @ Unused
 FallarborTown_ContestHall_Text_SuperRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "SUPER RANK STAGE!$"
+	.string "POKéMON TXAPELKETAK\n"
+	.string "SUPER MAILAKO ARETOA!$"
 

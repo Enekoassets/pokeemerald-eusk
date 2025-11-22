@@ -30,28 +30,28 @@ FortreeCity_PokemonCenter_1F_EventScript_Boy::
 	end
 
 FortreeCity_PokemonCenter_1F_Text_GoToSafariZone:
-	.string "Listen, kid, are you working\n"
-	.string "on a POKéDEX?\p"
-	.string "Hmm… Go to the SAFARI ZONE.\n"
-	.string "That's my suggestion.$"
+	.string "Entzun, gazte, POKéDEX batekin\n"
+	.string "lanean ari al zara?\p"
+	.string "Hmm… Joan SAFARI GUNERA, orduan.\n"
+	.string "Hori gomendatzen dizut.$"
 
 FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat:
-	.string "Have you done anything at\n"
-	.string "the RECORD CORNER?\p"
-	.string "It's pretty neat. It mixes and matches\n"
-	.string "the records of TRAINERS.\p"
-	.string "I don't know quite how it works,\n"
-	.string "but it's cool. It's exciting, even!$"
+	.string "Egun al duzu zeozer\n"
+	.string "ERREKORREN TXOKOAN?\p"
+	.string "Itzela da. ENTRENATZAILEEN errekorrak\n"
+	.string "nahastu eta bateratzen ditu.\p"
+	.string "Ez dakit nola funtzionatzen duen,\n"
+	.string "baina ederra da. Bizigarria, alajaina!$"
 
 FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav:
-	.string "Oh, wow, you have a POKéNAV!\n"
-	.string "And it's just like mine!\p"
-	.string "Do you know about POKéNAV's\n"
-	.string "MATCH CALL system?\p"
-	.string "Access it, and you can chat with\n"
-	.string "registered TRAINERS anytime.\p"
-	.string "It also shows you which TRAINERS\n"
-	.string "want a rematch with you.\p"
-	.string "It's really nifty! Those DEVON guys\n"
-	.string "sure know what they're doing!$"
+	.string "Ene, bada, POKéNAV bat daukazu!\n"
+	.string "Nirea bezalakoa, gainera!\p"
+	.string "Ezagutzen al duzu POKéNAVEN\n"
+	.string "BORROKA DEIEN sistema?\p"
+	.string "Sartu bertan, eta erregistratutako\n"
+	.string "ENTRENATZAILEEKIN hitz egin dezakezu.\p"
+	.string "Gainera, zein ENTRENATZAILEK nahi\n"
+	.string "duen errbantxa ere jartzen du.\p"
+	.string "Oso erabilgarria da! DEVONEKO horiek\n"
+	.string "badakite zertan ari diren!$"
 

@@ -65,54 +65,54 @@ FallarborTown_CozmosHouse_EventScript_CozmoIsHappy::
 	end
 
 FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow:
-	.string "PROF. COZMO: Oh…\n"
-	.string "I never should have let myself be\l"
-	.string "conned into telling TEAM MAGMA where\l"
-	.string "you can find METEORITES…\p"
-	.string "That METEORITE from METEOR FALLS…\n"
-	.string "It's never going to be mine now…$"
+	.string "KOZMO DOKT.: Ene…\n"
+	.string "Ez nintzen kikildu behar eta MAGMA\l"
+	.string "TALDEKOEI METEORITOAK non dauden\l"
+	.string "esan…\p"
+	.string "METEORO UR-JAUZIKO METEORITOA…\n"
+	.string "Ez da inoiz nirea izango…$"
 
 FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt:
-	.string "Oh!\n"
-	.string "Hah?\p"
-	.string "That item…\p"
-	.string "Could it be?\p"
-	.string "Is it the METEORITE that TEAM MAGMA\n"
-	.string "took from METEOR FALLS?\p"
-	.string "Please, may I have it?\p"
-	.string "I'm not asking for it for free.\n"
-	.string "How about in exchange for this TM?$"
+	.string "Ene!\n"
+	.string "Nola?\p"
+	.string "Item hori…\p"
+	.string "Ez al da izango…\p"
+	.string "MAGMA TALDEAK METEORO UR-JAUZIETAN\n"
+	.string "hartutako METEORITOA al da?\p"
+	.string "Mesedez, emango zenidake?\p"
+	.string "Ez dizut doan eskatuko, noski.\n"
+	.string "Zer iruditzen trukean MT hau ematen badizut?$"
 
 FallarborTown_CozmosHouse_Text_PleaseUseThisTM:
-	.string "PROF. COZMO: This TM, it represents\n"
-	.string "my feeling of gratitude.\l"
-	.string "Please use it!$"
+	.string "KOZMO DOKT.: MT honekin nire esker\n"
+	.string "ona adierazi nahi nizuke.\l"
+	.string "Erabili, mesedez!$"
 
 FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch:
-	.string "PROF. COZMO: Oh, I can't believe it.\n"
-	.string "This is really, really great!\p"
-	.string "This is really going to help my research!$"
+	.string "KOZMO DOKT.: Ene, ezin dut sinetsi.\n"
+	.string "Hau izugarria da, izugarria!\p"
+	.string "Honek asko lagunduko dit nire ikerketan!$"
 
 FallarborTown_CozmosHouse_Text_CrushedWithDisappointment:
-	.string "PROF. COZMO: Oh, but…\n"
-	.string "I'm crushed with disappointment…$"
+	.string "KOZMO DOKT.: Beno, baina…\n"
+	.string "A zer nolako desengainua…$"
 
 FallarborTown_CozmosHouse_Text_MayIHaveMeteorite:
-	.string "PROF. COZMO: Please, may I have that\n"
-	.string "METEORITE?\p"
-	.string "I'm not asking for it for free.\n"
-	.string "How about in exchange for this TM?$"
+	.string "KOZMO DOKT.: Mesedez, emango al\n"
+	.string "zenidake METEORITO hori?\p"
+	.string "Ez dizut doan eskatuko, noski.\n"
+	.string "Zer iruditzen trukean MT hau ematen badizut?$"
 
 FallarborTown_CozmosHouse_Text_CozmoWentToMeteorFalls:
-	.string "PROF. COZMO went off to METEOR FALLS\n"
-	.string "on ROUTE 114 with some people from\l"
-	.string "TEAM MAGMA.$"
+	.string "KOZMO DOKTOREA 114. ERRUTARA joan da\n"
+	.string "MAGMA TALDEKO pertsona batzuekin\l"
+	.string "batera.$"
 
 FallarborTown_CozmosHouse_Text_FeelSorryForCozmo:
-	.string "Poor PROF. COZMO…\n"
-	.string "He's so depressed… I feel sorry for him.$"
+	.string "KOZMO gaixoa…\n"
+	.string "Deprimituta dago… Pena handia ematen dit.$"
 
 FallarborTown_CozmosHouse_Text_CozmoIsSoHappy:
-	.string "Look at PROF. COZMO…\n"
-	.string "He's so happy! I think it's cute.$"
+	.string "Ikusi KOZMO DOKTOREA…\n"
+	.string "Oso pozik dago! Zeinen ongi.$"
 
