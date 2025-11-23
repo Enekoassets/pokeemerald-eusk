@@ -268,7 +268,7 @@ FortreeCity_Gym_Text_ExplainAerialAce:
 	.string "… … … … … …$"
 
 FortreeCity_Gym_Text_RegisteredWinona:
-	.string "HAIZEA GIMNASIOKO LIDERRA\n"
+	.string "HAIZEA, GIMNASIOKO LIDERRA\n"
 	.string "erregistratu duzu POKéNAVEAN.$"
 
 FortreeCity_Gym_Text_WinonaPostBattle:

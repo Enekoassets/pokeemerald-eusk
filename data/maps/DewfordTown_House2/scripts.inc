@@ -27,31 +27,31 @@ DewfordTown_House2_EventScript_Boy::
 	end
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
-	.string "Gorge your eyes on this!\p"
-	.string "It's a SILK SCARF. It's right at the\n"
-	.string "cutting edge of fashion, yeah!\p"
-	.string "Oh, I can see your eyes twinkling!\n"
-	.string "You appreciate my dazzling style!\p"
-	.string "Oh, you're a delight!\n"
-	.string "Here you go. I want you to have it!$"
+	.string "Gozatu zure begiak honi begiratuz!\p"
+	.string "ZETAZKO ZAPI Bat da. Moda-modan\n"
+	.string "dagoen jantzia da, bai!\p"
+	.string "Ene, zur ebegien distira ikus dezaket!\n"
+	.string "Nire estilo distiratsua atsegin duzu!\p"
+	.string "Ene, zu bai zu jatorra!\n"
+	.string "Tori. Zuretzat har dezazun nahi dut!$"
 
 DewfordTown_House2_Text_NoRoom:
-	.string "Oh, you don't have room?\p"
-	.string "Now, listen tight, this SCARF is a must-\n"
-	.string "have! Why, I would sell all my items\l"
-	.string "in order to get it!$"
+	.string "Zer, ez daukazula lekurik?\p"
+	.string "Aizu, entzun iezadazu: ZAPI hau derrigor\n"
+	.string "eduki beharrekoa da! Nire item guztiak\l"
+	.string "salduko nituzke lortzeko!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
+	.string "ZETAZKO ZAPIAK mota NORMALEKO\n"
+	.string "erasoen indarra igotzen du.\p"
+	.string "Ia POKéMON guztiei ondo geratzen\n"
+	.string "zaien ZAPI miragarria da!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, you bothered to cross the sea\n"
-	.string "to visit DEWFORD?\p"
-	.string "Did you maybe come here because you\n"
-	.string "heard about BRAWLY?\p"
-	.string "He's so cool…\n"
-	.string "Everyone idolizes him.$"
+	.string "Uau, itsasoa zeharkatu al duzu\n"
+	.string "IHINTZIBAR bisitatzeko?\p"
+	.string "MARTZIALEN inguruan zerbait entzun\n"
+	.string "duzulako etorri al zara?\p"
+	.string "Benetan itzela da MARTZIAL…\n"
+	.string "Guztion idoloa da.$"
 

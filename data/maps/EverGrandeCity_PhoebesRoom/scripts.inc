@@ -59,26 +59,26 @@ EverGrandeCity_PhoebesRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
-	.string "Ahahaha!\p"
-	.string "I'm PHOEBE of the ELITE FOUR.\n"
-	.string "I did my training on MT. PYRE.\p"
-	.string "While I trained, I gained the ability\n"
-	.string "to commune with GHOST-type POKéMON.\p"
-	.string "Yes, the bond I developed with POKéMON\n"
-	.string "is extremely tight.\p"
-	.string "So, come on, just try and see if you can\n"
-	.string "even inflict damage on my POKéMON!$"
+	.string "Kar-kar-kar!\p"
+	.string "IRAIDE naiz, ELITE LAUKOTEKO Kidea.\n"
+	.string "PIRO MENDIAN entrenatu nintzen.\p"
+	.string "Entrenamenduan, MAMU motako POKéMONEKIN\n"
+	.string "komunikatzeko ahalmena garatu nuen.\p"
+	.string "Bai, POKéMONEKIN dudan lotura\n"
+	.string "oso-oso estua da.\p"
+	.string "Ea, bada, ikus dezagun nire POKéMONAK\n"
+	.string "ukitzeko gai zaren ere!$"
 
 EverGrandeCity_PhoebesRoom_Text_Defeat:
-	.string "Oh, darn.\n"
-	.string "I've gone and lost.$"
+	.string "Ene, bada.\n"
+	.string "Azkenean galdu egin dut.$"
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
-	.string "There's a definite bond between you\n"
-	.string "and your POKéMON, too.\p"
-	.string "I didn't recognize it, so it's only\n"
-	.string "natural that I lost.\p"
-	.string "Yup, I'd like to see how far your bond\n"
-	.string "will carry you.\p"
-	.string "Go ahead, move on to the next room.$"
+	.string "Zu eta zure POKéMONEN artean ere\n"
+	.string "lotura indartsua dago.\p"
+	.string "Ez naiz garaiz ohartu, eta\n"
+	.string "horregatik galdu dut, bai.\p"
+	.string "Bai, jakin nahi nuke ea noraino eramaten\n"
+	.string "zaituzten zuen arteko lotura indartsuak.\p"
+	.string "Ea bada, segi hurrengo aretora.$"
 

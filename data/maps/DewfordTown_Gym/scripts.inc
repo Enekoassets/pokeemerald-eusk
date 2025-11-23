@@ -283,177 +283,177 @@ DewfordTown_Gym_EventScript_GymStatue::
 	end
 
 DewfordTown_Gym_Text_GymGuideAdvice:
-	.string "Hey, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "DEWFORD's GYM LEADER BRAWLY commands\n"
-	.string "FIGHTING-type POKéMON.\p"
-	.string "Going against him with NORMAL-type\n"
-	.string "POKéMON is asking for trouble.\p"
-	.string "FIGHTING POKéMON will lay a serious\n"
-	.string "smack down on NORMAL POKéMON,\l"
-	.string "so be careful!\p"
-	.string "What's worse, the GYM is as dark as\n"
-	.string "the ocean floor.\p"
-	.string "But it will get brighter after defeating\n"
-	.string "the TRAINERS in your way.\p"
-	.string "Hey, okay, go for it!$"
+	.string "Ei, zer moduz dago gure {PLAYER},\n"
+	.string "etorkizuneko TXAPELDUNA?\p"
+	.string "MARTZIALEK, IHINTZIBARREKO GIMNASIOKO\n"
+	.string "LIDERRAK BORROKA motako POKéMONAK ditu.\p"
+	.string "NORMAL motako POKéMONEKIN egiten badiozu\n"
+	.string "aurre, ez zabiltza bide onetik.\p"
+	.string "BORROKA motako POKéMONEK egurra\n"
+	.string "emango die NORMAL motako POKéMONEI,\l"
+	.string "kontuz ibili, beraz!\p"
+	.string "Are gehiago, GIMNASIO hau ozeanoaren\n"
+	.string "hondoa bezain iluna da.\p"
+	.string "Baina argitzen joango da bidean aurkitzen\n"
+	.string "dituzun ENTRENATZAILEAK garaitu heinean.\p"
+	.string "Ea, bada, aurrera!$"
 
 DewfordTown_Gym_Text_GymGuidePostVictory:
-	.string "Whoah! It's turned too bright in here!\p"
-	.string "Your future is bright, too!$"
+	.string "Uau! Hemen argi gehiagi dago!\p"
+	.string "Zure etorkizuna ere oso argitsua da!$"
 
 DewfordTown_Gym_Text_TakaoIntro:
-	.string "Might is right!\n"
-	.string "Come on!$"
+	.string "Indarra da bidea!\n"
+	.string "Goazen borrokara!$"
 
 DewfordTown_Gym_Text_TakaoDefeat:
-	.string "Not enough power…$"
+	.string "Ez dut nahikoa indar…$"
 
 DewfordTown_Gym_Text_TakaoPostBattle:
-	.string "Your skill overcame my strength!\n"
-	.string "Your technique is commendable!$"
+	.string "Zure abileziak nire indarra garaitu du!\n"
+	.string "ZUre teknikak ahaltsuak dira, gero!$"
 
 DewfordTown_Gym_Text_JocelynIntro:
-	.string "There's no need for BRAWLY to be\n"
-	.string "involved!\p"
-	.string "I'll crush you!$"
+	.string "Ez da beharrezkoa izango\n"
+	.string "MARTZIAL gogaitzea!\p"
+	.string "Nik txikituko zaitut!$"
 
 DewfordTown_Gym_Text_JocelynDefeat:
-	.string "But… How?\n"
-	.string "How could I lose so easily?$"
+	.string "Baina… Nola?\n"
+	.string "Nola galdu dut hain erraz?$"
 
 DewfordTown_Gym_Text_JocelynPostBattle:
-	.string "I'm not going to waste this loss.\n"
-	.string "I'll use it to motivate me to train!\p"
-	.string "One day I'll become a GYM LEADER…\p"
-	.string "No, I'll become the POKéMON LEAGUE\n"
-	.string "CHAMPION!$"
+	.string "Ez dut porrota alferrik galduko.\n"
+	.string "Entrenatzeko indarra emango dit!\p"
+	.string "Noizbait GIMNASIOKO LIDER izango naiz…\p"
+	.string "Ez, POKéMON LIGAKO TXAPELDUN\n"
+	.string "bihurtuko naiz!$"
 
 DewfordTown_Gym_Text_LauraIntro:
-	.string "Don't you dare brush me off!\n"
-	.string "It's not my fault if you cry!$"
+	.string "Ez pentsa erraz irabaziko didazunik!\n"
+	.string "Ez da nire errua negar egiten baduzu!$"
 
 DewfordTown_Gym_Text_LauraDefeat:
-	.string "Waaaaaaah!\n"
-	.string "I lost!$"
+	.string "Buaaaaaaaaa!\n"
+	.string "Galdu egin dut!$"
 
 DewfordTown_Gym_Text_LauraPostBattle:
-	.string "I battle in the dark to make my heart\n"
-	.string "stronger.\p"
-	.string "But because it's so dark, I can never\n"
-	.string "see BRAWLY's face…$"
+	.string "Ilunpean borrokatzen dut, nire\n"
+	.string "bihotza indartzeko.\p"
+	.string "Baina horren ilun dagoenez, ezin dut\n"
+	.string "inoiz MARTZIALEN aurpegia ikusi…$"
 
 DewfordTown_Gym_Text_LilithIntro:
 	.string "Ufufu…\n"
-	.string "Are you stumbling around in the dark?$"
+	.string "Ilunpean galduta al zabiltza?$"
 
 DewfordTown_Gym_Text_LilithDefeat:
-	.string "Oh, you…\n"
-	.string "I don't want to know you!$"
+	.string "Aizu…\n"
+	.string "Nik ez zintudan ezagutu nahi!$"
 
 DewfordTown_Gym_Text_LilithPostBattle:
-	.string "You deserve to stay lost and end up\n"
-	.string "back at the entrance again!$"
+	.string "Galduta jarraituko duzula espero\n"
+	.string "dut, eta hasieran agertuko zarela!$"
 
 DewfordTown_Gym_Text_BrendenIntro:
-	.string "I'll show you the gumption of\n"
-	.string "a sailing man!$"
+	.string "Itsasgizon baten benetako\n"
+	.string "indarra erakutsiko dizut!$"
 
 DewfordTown_Gym_Text_BrendenDefeat:
-	.string "How'd this happen?\n"
-	.string "It's not like me to lose this way!$"
+	.string "Nola gertatu ote da hau?\n"
+	.string "Nik ez dut horrela galtzen normalean!$"
 
 DewfordTown_Gym_Text_BrendenPostBattle:
-	.string "Oh, aye! You're worthy of seeing\n"
-	.string "our GYM LEADER.$"
+	.string "Ei, txo! Gure GIMNASIOKO LIDERRA\n"
+	.string "ezagutzea merezi duzu.$"
 
 DewfordTown_Gym_Text_CristianIntro:
-	.string "If you mean to pass, it has to be\n"
-	.string "through me!$"
+	.string "Hemendik pasatzeko, ni garaitu\n"
+	.string "beharko nauzu lehenengo!$"
 
 DewfordTown_Gym_Text_CristianDefeat:
 	.string "Grrrrr!\n"
-	.string "Vastly overpowered!$"
+	.string "Indar handiegia duzu!$"
 
 DewfordTown_Gym_Text_CristianPostBattle:
-	.string "You win!\n"
-	.string "Go after that BADGE!$"
+	.string "Irabazi egin didazu!\n"
+	.string "Segi DOMINAREN bila!$"
 
 DewfordTown_Gym_Text_BrawlyIntro:
-	.string "I'm BRAWLY!\n"
-	.string "DEWFORD's GYM LEADER!\p"
-	.string "I've been churned in the rough waves\n"
-	.string "of these parts, and I've grown tough\l"
-	.string "in the pitch-black cave!\p"
-	.string "So you wanted to challenge me?\n"
-	.string "Let me see what you're made of!$"
+	.string "MARTZIAL naiz!\n"
+	.string "IHINTZIBARREKO GIMNASIOKO LIDERRA!\p"
+	.string "Hemen inguruko olatu gogorretan hazi\n"
+	.string "naiz, eta kobazulo ilun-ilunean ere\l"
+	.string "zaildutakoa naiz!\p"
+	.string "Nire aurka borrokatu nahi al zenuen?\n"
+	.string "Ikus dezagun zure borrokarako ahalmena!$"
 
 DewfordTown_Gym_Text_BrawlyDefeat:
-	.string "Whoah, wow! You made a much bigger\n"
-	.string "splash than I expected!\p"
-	.string "You swamped me!\p"
-	.string "Okay, you've got me.\n"
-	.string "Take this GYM BADGE!$"
+	.string "Uau, ene bada! Espero baino askoz\n"
+	.string "zapla handiagoa eman didazu!\p"
+	.string "Txikitu egin nauzu!\p"
+	.string "Ongi, galdu egin dut.\n"
+	.string "Tori GIMNASIOKO DOMINA hau!$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
-	.string "{PLAYER} received the KNUCKLE BADGE\n"
-	.string "from BRAWLY.$"
+	.string "{PLAYER}(e)k UKABIL DOMINA jaso\n"
+	.string "du MARTZIALENGANDIK.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
-	.string "The KNUCKLE BADGE makes all POKéMON\n"
-	.string "up to Level 30, even those you get in\l"
-	.string "trades, obey without question.\p"
-	.string "And, you'll be able to use the HM move\n"
-	.string "FLASH outside of battle.\p"
-	.string "If you'd like, use this TECHNICAL\n"
-	.string "MACHINE, too.$"
+	.string "UKABIL DOMINAREKIN, 30. mailara arteko\n"
+	.string "POKéMONEK, baita trukean jaso dituzunek\l"
+	.string "ere, txit esan gabe obedituko dizute.\p"
+	.string "Gainera, borrokaz kanpo DISTIRA\n"
+	.string "MEa erabili ahal izango duzu.\p"
+	.string "Nahi baduzu, erabili MAKINA\n"
+	.string "TEKNIKO hau ere.$"
 
 DewfordTown_Gym_Text_ExplainBulkUp:
-	.string "That TM08 contains BULK UP.\p"
-	.string "It's a move that raises both ATTACK\n"
-	.string "and DEFENSE stats.\p"
+	.string "MT08 horrek INDARKETA du barruan.\p"
+	.string "ERASOA eta DEFENTSA, biak igotzen\n"
+	.string "dituen erasoa da.\p"
 	.string "… … … … … …$"
 
 DewfordTown_Gym_Text_RegisteredBrawly:
-	.string "Registered GYM LEADER BRAWLY\n"
-	.string "in the POKéNAV.$"
+	.string "MARTZIAL, GIMNASIOKO LIDERRA\n"
+	.string "erregistratu duzu POKéNAVEAN.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
-	.string "I can see your talent becoming a giant\n"
-	.string "wave to cause a storm of astonishment\l"
-	.string "among TRAINERS one day!$"
+	.string "ENTRENATZAILE guztiak txundituko\n"
+	.string "dituen ekaitza sortuko duzu zuk,\l"
+	.string "zure indar olatuarekin!$"
 
 DewfordTown_Gym_Text_GymStatue:
-	.string "DEWFORD TOWN POKéMON GYM$"
+	.string "IHINTZIBAR HERRIKO POKéMON GIMNASIOA$"
 
 DewfordTown_Gym_Text_GymStatueCertified:
-	.string "DEWFORD TOWN POKéMON GYM\p"
-	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
+	.string "IHINTZIBAR HERRIKO POKéMON GIMNASIOA\p"
+	.string "MARTZIALEK ZIURTATUTAKO ENTRENATZAILEAK:\n"
 	.string "{PLAYER}$"
 
 DewfordTown_Gym_Text_BrawlyPreRematch:
-	.string "BRAWLY: A wave may draw back, but it\n"
-	.string "always returns to the shore.\p"
-	.string "A giant wave of a talent like you…\n"
-	.string "I knew you would return!\p"
-	.string "Show me how much higher\n"
-	.string "you've gone!$"
+	.string "MARTZIAL: Olatuek atzera egiten badute\n"
+	.string "ere, beti itzultzen dira urertzera.\p"
+	.string "Zu bezalako olatu erraldoi trebea…\n"
+	.string "Banekien itzuliko zinela!\p"
+	.string "Erakutsi nolako tamaina\n"
+	.string "hartu duzun!$"
 
 DewfordTown_Gym_Text_BrawlyRematchDefeat:
-	.string "Wow!\n"
-	.string "Swamped again!$"
+	.string "Uau!\n"
+	.string "Berriro txikitu nauzu!$"
 
 DewfordTown_Gym_Text_BrawlyPostRematch:
-	.string "BRAWLY: Battling is vast and it's deep.\n"
-	.string "You can't see the bottom.\l"
-	.string "It's just like the sea of HOENN!$"
+	.string "MARTZIAL: Borrokatzea sakona eta zabala da.\n"
+	.string "Ezin duzu hondoa non dagoen ikusi.\l"
+	.string "HOENNEKO itsasoa bezalakoa da!$"
 
 DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons:
-	.string "BRAWLY: A wave may draw back, but it\n"
-	.string "always returns to the shore.\p"
-	.string "A giant wave of a talent like you…\n"
-	.string "I knew you would return!\p"
-	.string "Oh? You only have one POKéMON\n"
-	.string "that can battle.\p"
-	.string "I'm sorry, but I'd like you to come back\n"
-	.string "with at least two POKéMON.$"
+	.string "MARTZIAL: Olatuek atzera egiten badute\n"
+	.string "ere, beti itzultzen dira urertzera.\p"
+	.string "Zu bezalako olatu erraldoi trebea…\n"
+	.string "Banekien itzuliko zinela!\p"
+	.string "Zer? Borrokatu dezakeen\n"
+	.string "POKéMON bakarra duzu.\p"
+	.string "Sentitzen dut, baina, gutxienez bi\n"
+	.string "POKéMONEKIN itzuli behar duzu.$"

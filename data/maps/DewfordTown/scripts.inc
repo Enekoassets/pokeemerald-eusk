@@ -639,164 +639,164 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	end
 
 DewfordTown_Text_TinyIslandCommunity:
-	.string "DEWFORD is a tiny island community.\n"
-	.string "If something gets trendy here,\l"
-	.string "everyone picks up on it right away.$"
+	.string "IHINTZIBAR irla-komunitate ñimiñoa da.\n"
+	.string "Hemen zerbait modan jartzen bada,\l"
+	.string "mundu guztiak ziztuan bereganatzen du.$"
 
 DewfordTown_Text_TownSign:
-	.string "DEWFORD TOWN\n"
-	.string "“A tiny island in the blue sea.”$"
+	.string "IHINTZIBAR HERRIA\n"
+	.string "“Irla ñimiñoa itsaso urdinean.”$"
 
 DewfordTown_Text_GymSign:
-	.string "DEWFORD TOWN POKéMON GYM\n"
-	.string "LEADER: BRAWLY\l"
-	.string "“A big wave in fighting!”$"
+	.string "IHINTZIBAR HERRIKO POKéMON GIMNASIOA\n"
+	.string "LIDERRA: MARTZIAL\l"
+	.string "“Olatu erraldoi borrokalaria!”$"
 
 DewfordTown_Text_HallSign:
-	.string "DEWFORD HALL\n"
-	.string "“Everyone's information exchange!”$"
+	.string "IHINTZIBARREKO UDALETXEA\n"
+	.string "“Informazio bila etorri!”$"
 
 Route104_Text_LandedInDewfordDeliverLetter:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've hit land in DEWFORD.\p"
-	.string "I suppose you're off to deliver that\n"
-	.string "LETTER to, who was it now, STEVEN!$"
+	.string "SARDINZAR JN.: Aupa, txo!\n"
+	.string "Iritsi gara IHINTZIBARRERA.\p"
+	.string "Suposatzen dut GUTUN hori ematera\n"
+	.string "joango zarela, MIKEL delako horri!$"
 
 DewfordTown_Text_SetSailBackToPetalburg:
-	.string "MR. BRINEY: Have you delivered your\n"
-	.string "LETTER?\p"
-	.string "Or were you meaning to sail back to\n"
-	.string "PETALBURG?$"
+	.string "SARDINZAR JN.: Eman al duzu\n"
+	.string "GUTUNA azkenean?\p"
+	.string "Edo berriro PETALORERA\n"
+	.string "joan nahi al duzu bueltan?$"
 
 DewfordTown_Text_PetalburgWereSettingSail2:
-	.string "MR. BRINEY: PETALBURG it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "SARDINZAR JN.: PETALORERA, beraz!\p"
+	.string "Altxa aingura!\n"
+	.string "PEEKO, bagoaz martxan, maitea!$"
 
 DewfordTown_Text_GoDeliverIllBeWaiting:
-	.string "MR. BRINEY: Then you go on and deliver\n"
-	.string "the LETTER. I'll be waiting.$"
+	.string "SARDINZAR JN.: Segi, orduan, eta eman\n"
+	.string "GUTUNA. Hemen itxarongo dizut.$"
 
 DewfordTown_Text_BrineyLandedInDewford:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "We've hit land in DEWFORD!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
+	.string "SARDINZAR JN.: Aupa, txo!\n"
+	.string "Iritsi gara IHINTZIBARRERA!\p"
+	.string "Zuk segi, eta hemendik joan nahi\n"
+	.string "duzunean, abisatu!$"
 
 DewfordTown_Text_WhereAreWeBound:
-	.string "MR. BRINEY: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "SARDINZAR JN.: Aupa, txo!\n"
+	.string "Zuregatik, edonoiz joango naiz itxasora!\p"
+	.string "Esan, lagun, nora joango gara?$"
 
 DewfordTown_Text_PetalburgWereSettingSail:
-	.string "MR. BRINEY: PETALBURG, is it?\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "SARDINZAR JN.: PETALORERA, beraz?\p"
+	.string "Altxa aingura!\n"
+	.string "PEEKO, bagoaz martxan, maitea!$"
 
 DewfordTown_Text_SlateportWereSettingSail:
-	.string "MR. BRINEY: SLATEPORT, is it?\p"
-	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "SARDINZAR JN.: PORTUONDORA, beraz?\p"
+	.string "Altxa aingura!\n"
+	.string "PEEKO, bagoaz martxan, maitea!$"
 
 DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
-	.string "MR. BRINEY: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+	.string "SARDINZAR JN.: Berriz itsasoratu\n"
+	.string "nahi duzunean, abisatu!$"
 
 DewfordTown_Text_GettingItchToFish:
-	.string "This is a renowned fishing spot.\n"
-	.string "Are you getting the itch to fish?$"
+	.string "Hau arrantzarako izen handiko lekua da.\n"
+	.string "Ba al duzu arrantzarako gogorik?$"
 
 DewfordTown_Text_GiveYouOneOfMyRods:
-	.string "I hear you, and I like what\n"
-	.string "you're saying!\p"
-	.string "I'll give you one of my fishing RODS.$"
+	.string "Entzun dizut, eta gustoko dut\n"
+	.string "entzun dudana!\p"
+	.string "Nire KANABERETAKO bat emango dizut.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
-	.string "And, as an added bonus, I'll even throw\n"
-	.string "in a little fishing advice!\p"
-	.string "First, you want to face the water,\n"
-	.string "then use the ROD.\p"
-	.string "Focus your mind…\n"
-	.string "If you get a bite, pull on the ROD.\p"
-	.string "Sometimes you can snag something\n"
-	.string "immediately, but with bigger catches,\l"
-	.string "you need to time the pulls on your ROD\l"
-	.string "to haul them in.$"
+	.string "Eta, gainera, arrantzarako aholku\n"
+	.string "pare bat ere emango dizkizut!\p"
+	.string "Lehenik, urari begira jarri,\n"
+	.string "gero KANABERA erabili.\p"
+	.string "Kontzentratu zure adimena…\n"
+	.string "Hozka egiten badute, tira KANABERARI.\p"
+	.string "Batzuetan, lehenengoan harrapatuko\n"
+	.string "duzu arraina, baina handia bada,\l"
+	.string "denboran ondo neurtu KANABERARI noiz\l"
+	.string "egin tira, harrapatu ahal izateko.$"
 
 DewfordTown_Text_ThatsTooBadThen:
-	.string "Oh, is that so?\n"
-	.string "That's too bad, then.$"
+	.string "Zer, benetan ari al zara?\n"
+	.string "Pena handia, orduan.$"
 
 DewfordTown_Text_HowsYourFishing:
-	.string "Yo!\n"
-	.string "How's your fishing?$"
+	.string "Ei!\n"
+	.string "Zer moduz arrantza?$"
 
 DewfordTown_Text_GreatHaulInSomeBigOnes:
-	.string "Is that right! That's great!\n"
-	.string "Haul in some big ones!$"
+	.string "Benetan! Zeinen ondo!\n"
+	.string "Harrapatu arrain handiak!$"
 
 DewfordTown_Text_FishingAdvice:
-	.string "Oh, hey, don't get down on yourself!\n"
-	.string "I'll give you a little fishing advice.\p"
-	.string "First, you want to face the water,\n"
-	.string "then use the ROD.\p"
-	.string "Focus your mind…\n"
-	.string "If you get a bite, pull the ROD.\p"
-	.string "Sometimes you can snag something\n"
-	.string "immediately, but with bigger catches,\l"
-	.string "you need to time the pulls on your ROD\l"
-	.string "to haul them in.$"
+	.string "Ei, aizu, ez esan horrelakorik!\n"
+	.string "Aholku pare bat emango dizkizut.\p"
+	.string "Lehenik, urari begira jarri,\n"
+	.string "gero KANABERA erabili.\p"
+	.string "Kontzentratu zure adimena…\n"
+	.string "Hozka egiten badute, tira KANABERARI.\p"
+	.string "Batzuetan, lehenengoan harrapatuko\n"
+	.string "duzu arraina, baina handia bada,\l"
+	.string "denboran ondo neurtu KANABERARI noiz\l"
+	.string "egin tira, harrapatu ahal izateko.$"
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
-	.string "I like what's hip, happening, and trendy.\n"
-	.string "I'm always checking it out.\p"
-	.string "Listen, have you heard about this new\n"
-	.string "“{STR_VAR_1}”?\p"
-	.string "That's right!\n"
-	.string "Of course you know!\p"
-	.string "I mean, sheesh,\n"
+	.string "Modan, egunean, dagoena atsegin dut.\n"
+	.string "Beti nago modan dagoenari adi.\p"
+	.string "Aizu, entzun al duzu “{STR_VAR_1}”\n"
+	.string "berriaren inguruan?\p"
+	.string "Horixe bera!\n"
+	.string "Noski badakizula, bai!\p"
+	.string "Esan nahi dut, bada,\n"
 	.string "“{STR_VAR_1}”…\l"
-	.string "It's the hottest thing in cool!\p"
-	.string "Wherever you're from,\n"
+	.string "Modan dagoenaren artean modan dagoena da!\p"
+	.string "Edonongoa zarela ere,\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "is the biggest happening thing, right?$"
+	.string "da orain puri-purian dagoena, ezta?$"
 
 DewfordTown_Text_TellMeWhatsNewAndIn:
-	.string "Hunh?\n"
-	.string "It's not the hip and happening thing?\p"
-	.string "Well, hey, you have to tell me,\n"
-	.string "what's new and what's “in”?$"
+	.string "Zer?\n"
+	.string "Ez dela hori moda-modan dagoena?\p"
+	.string "Beno, aizu, orduan esan egin behar didazu,\n"
+	.string "zer dago orain “moda-modan”?$"
 
 DewfordTown_Text_OfCourseIKnowAboutThat:
-	.string "Hunh?\n"
+	.string "Zer?\n"
 	.string "“{STR_VAR_2}”?\p"
 	.string "… …\p"
-	.string "…Uh… Yeah! That's right!\n"
-	.string "Yeah, I knew that! Knew it all along!\p"
-	.string "Of course I know about that!\n"
-	.string "“{STR_VAR_2},” right?\p"
-	.string "Yeah, that's it, it's there!\n"
-	.string "Isn't “{STR_VAR_2}”\l"
-	.string "the coolest, or what?\p"
-	.string "It's the hippest thing in hip.\n"
-	.string "You think I'd not know about it?\p"
+	.string "…Ba… Bai! Horixe bera!\n"
+	.string "Bai, banekien! Hasieratik nekien, bai!\p"
+	.string "Noski banekiela!\n"
+	.string "“{STR_VAR_2},” ezta?\p"
+	.string "bai, hori da, horixe!\n"
+	.string "Ez al da “{STR_VAR_2}”\l"
+	.string "itzelena, e?\p"
+	.string "Modan dagoenaren artean modan dago.\n"
+	.string "Zer uste zenuen, ez nekiela?\p"
 	.string "“{STR_VAR_1}”…\n"
-	.string "It's, like, so five minutes ago.\p"
-	.string "Now, “{STR_VAR_2}” is\n"
-	.string "what's vital and in tune with the times!$"
+	.string "Duela bost minutuko kontua da hori.\p"
+	.string "Orain, “{STR_VAR_2}” da\n"
+	.string "puri-purian dagoena benetan!$"
 
 DewfordTown_Text_XHuhIThinkYIsCool:
 	.string "Hmm…\n"
-	.string "“{STR_VAR_2},” huh?\p"
-	.string "But personally, I think\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "is what's real in cool.$"
+	.string "“{STR_VAR_2},” ezta?\p"
+	.string "Nire ustez, ordea,\n"
+	.string "“{STR_VAR_1}” da\l"
+	.string "benetan moda-modan dagoena.$"
 
 DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
-	.string "Well, if you hear of any happening new\n"
-	.string "trends, come share them with me, okay?$"
+	.string "Beno, moda berriren bat ezagutzen\n"
+	.string "baduzu, etorri kontatzera, ados?$"
 
 DewfordTown_Text_YeahDefinitionOfInRightNow:
-	.string "Yeah, absolutely right!\p"
-	.string "“{STR_VAR_1}” is the\n"
-	.string "definition of “in” right now.$"
+	.string "Bai, horixe da!\p"
+	.string "“{STR_VAR_1}” da “moda-modan”\n"
+	.string "hitzaren definizioa oraintxe bertan.$"

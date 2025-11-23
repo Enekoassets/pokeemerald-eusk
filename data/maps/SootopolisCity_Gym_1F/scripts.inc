@@ -254,7 +254,7 @@ SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
 	.string "… … … … … …$"
 
 SootopolisCity_Gym_1F_Text_RegisteredJuan:
-	.string "XALANT GIMNASIOKO LIDERRA\n"
+	.string "XALANT, GIMNASIOKO LIDERRA\n"
 	.string "erregistratu duzu POKéNAVEAN.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle:

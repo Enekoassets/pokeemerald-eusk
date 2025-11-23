@@ -249,7 +249,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "… … … … … Klik!$"
 
 RustboroCity_Gym_Text_RegisteredRoxanne:
-	.string "HAITZIBER GIMNASIOKO LIDERRA\n"
+	.string "HAITZIBER, GIMNASIOKO LIDERRA\n"
 	.string "erregistratu duzu POKéNAVEAN.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:

@@ -27,13 +27,13 @@ DewfordTown_PokemonCenter_1F_EventScript_Man::
 	end
 
 DewfordTown_PokemonCenter_1F_Text_StoneCavern:
-	.string "There's a stone cavern at the edge\n"
-	.string "of town.\p"
-	.string "I've heard you can find rare stones\n"
-	.string "there.$"
+	.string "Haituzlo bat dago herri honen\n"
+	.string "amaieran.\p"
+	.string "Bertan harri bitxiak aurki\n"
+	.string "daitezkeela entzun dut.$"
 
 DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM:
-	.string "Even if a POKéMON faints and can't\n"
-	.string "battle, it can still use a move learned\l"
-	.string "from a HIDDEN MACHINE (HM).$"
+	.string "POKéMON bat ahultzen bada eta ezin\n"
+	.string "badu borrokatu, hala ere, erabili\l"
+	.string "ditzake MAKINA EZKUTUAK (ME).$"
 
