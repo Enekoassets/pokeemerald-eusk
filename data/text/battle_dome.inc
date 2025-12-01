@@ -65,13 +65,13 @@ BattleDome_Text_StyleUsesVeryRareMove::
 	.string "Batzuetan oso eraso arraro bat erabiltzen du.$"
 
 BattleDome_Text_StyleUsesStartlingMoves::
-	.string "Eraso harrigarri eta nahasgarriak erabiltzen ditu.$"
+	.string "Eraso nahasgarriak erabiltzen ditu.$"
 
 BattleDome_Text_StyleConstantlyWatchesHP::
 	.string "Denbora osoan BPei adi aritzen da.$"
 
 BattleDome_Text_StyleStoresAndLoosesPower::
-	.string "Indarra gorde eta bat-batean askatzen jaioa.$"
+	.string "Indarra gorde eta bat-batean askatzen iaioa.$"
 
 BattleDome_Text_StyleEnfeeblesFoes::
 	.string "Etsaiak ahultzen trebea.$"
@@ -86,25 +86,25 @@ BattleDome_Text_StylePowerfulLowPPMoves::
 	.string "EP gutxiko eraso indartsuak erabiltzen ditu.$"
 
 BattleDome_Text_StyleEnfeebleThenAttack::
-	.string "Lehengo etsaia ahultzen eta gero erasotzen jaioa.$"
+	.string "Lehengo etsaia ahultzen du, gero erasotzeko.$"
 
 BattleDome_Text_StyleBattlesWhileEnduring::
-	.string "Eraso guztiak jasaten dituelarik borrokatzen du.$"
+	.string "Eraso guztiak jasanez borrokatzen du.$"
 
 BattleDome_Text_StyleUpsetsFoesEmotionally::
-	.string "Etsaiak emozionalki mintzen jaioa da.$"
+	.string "Etsaiak emozionalki mintzen iaioa da.$"
 
 BattleDome_Text_StyleStrongAndStraightforward::
 	.string "Eraso indartsu eta zuzenak erabiltzen ditu.$"
 
 BattleDome_Text_StyleAggressivelyStrongMoves::
-	.string "Eraso gogorrak erabiltzen ditu era oldarkorrean.$"
+	.string "Eraso gogorrak erabiltzen ditu, oldarkor.$"
 
 BattleDome_Text_StyleCleverlyDodgesAttacks::
-	.string "Erasoak saihestuz burutsuki egiten du borrokan.$"
+	.string "Erasoak saihestuz burutsuki borrokatzen du.$"
 
 BattleDome_Text_StyleUsesUpsettingMoves::
-	.string "Eraso mingarriak erabiltzen jaioa da.$"
+	.string "Eraso mingarriak erabiltzen iaioa da.$"
 
 BattleDome_Text_StyleUsesPopularMoves::
 	.string "Eraso oso ezagunak erabili ohi ditu.$"
@@ -119,16 +119,16 @@ BattleDome_Text_StyleAggressivelySpectacularMoves::
 	.string "Eraso ikusgarri eta oldarkorrak erabiltzen ditu.$"
 
 BattleDome_Text_StyleEmphasizesOffenseOverDefense::
-	.string "Garrantzi handiagoa ematen dio erasoari defentsari baino.$"
+	.string "Nahiago du erasoa defentsa baino.$"
 
 BattleDome_Text_StyleEmphasizesDefenseOverOffense::
-	.string "Garrantzi handiagoa ematen dio defentsari erasoari baino.$"
+	.string "Nahiago du defentsa erasoa baino.$"
 
 BattleDome_Text_StyleAttacksQuicklyStrongMoves::
 	.string "Eraso indartsu eta azkarrekin erasotzen du.$"
 
 BattleDome_Text_StyleUsesAddedEffectMoves::
-	.string "Askotan efektu gehigarridun erasoak erabiltzen ditu.$"
+	.string "Efektu gehigarridun erasoak erabiltzen ditu.$"
 
 BattleDome_Text_StyleUsesBalancedMixOfMoves::
 	.string "Ondo orekatutako eraso sorta erabiltzen du.$"
@@ -155,10 +155,10 @@ BattleDome_Text_EmphasizesHPAndSpeed::
 	.string "BP eta ABIADURA azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesHPAndSpAtk::
-	.string "BP eta ER. BEREZIA azpimarratzen ditu.$"
+	.string "BP eta ER. BER. azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesHPAndSpDef::
-	.string "BP eta DEF. BEREZIA azpimarratzen ditu.$"
+	.string "BP eta DEF. BER. azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesAtkAndDef::
 	.string "ERASOA eta DEFENTSA azpimarratzen ditu.$"
@@ -167,28 +167,28 @@ BattleDome_Text_EmphasizesAtkAndSpeed::
 	.string "ERASOA eta ABIADURA azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesAtkAndSpAtk::
-	.string "ERASOA eta ERA. BEREZIA azpimarratzen ditu.$"
+	.string "ERASOA eta ER. BER. azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesAtkAndSpDef::
-	.string "ERASOA eta DEF. BEREZIA azpimarratzen ditu.$"
+	.string "ERASOA eta DEF. BER. azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesDefAndSpeed::
 	.string "DEFENTSA eta ABIADURA azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesDefAndSpAtk::
-	.string "DEFENTSA eta ERA. BEREZIA azpimarratzen ditu.$"
+	.string "DEFENTSA eta ER. BER. azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesDefAndSpDef::
-	.string "DEFENTSA eta DEF. BEREZIA azpimarratzen ditu.$"
+	.string "DEFENTSA eta DEF. BER. azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesSpeedAndSpAtk::
-	.string "ABIADURA eta ERA. BEREZIA azpimarratzen ditu.$"
+	.string "ABIADURA eta ER. BER. azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesSpeedAndSpDef::
-	.string "ABIADURA eta DEF. BEREZIA azpimarratzen ditu.$"
+	.string "ABIADURA eta DEF. BER. azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesSpAtkAndSpDef::
-	.string "ERA. BEREZIA eta DEF. BEREZIA azpimarratzen ditu.$"
+	.string "ER. BER. eta DEF. BER. azpimarratzen ditu.$"
 
 BattleDome_Text_EmphasizesHP::
 	.string "BP azpimarratzen du.$"
@@ -203,10 +203,10 @@ BattleDome_Text_EmphasizesSpeed::
 	.string "ABIADURA azpimarratzen du.$"
 
 BattleDome_Text_EmphasizesSpAtk::
-	.string "ERA. BEREZIA azpimarratzen du.$"
+	.string "ER. BER. azpimarratzen du.$"
 
 BattleDome_Text_EmphasizesSpDef::
-	.string "DEF. BEREZIA azpimarratzen du.$"
+	.string "DEF. BER. azpimarratzen du.$"
 
 BattleDome_Text_NeglectsHPAndAtk::
 	.string "BP eta ERASOA baztertzen ditu.$"
@@ -218,10 +218,10 @@ BattleDome_Text_NeglectsHPAndSpeed::
 	.string "BP eta ABIADURA baztertzen ditu.$"
 
 BattleDome_Text_NeglectsHPAndSpAtk::
-	.string "BP eta ERA. BEREZIA baztertzen ditu.$"
+	.string "BP eta ER. BER. baztertzen ditu.$"
 
 BattleDome_Text_NeglectsHPAndSpDef::
-	.string "BP eta DEF. BEREZIA baztertzen ditu.$"
+	.string "BP eta DEF. BER. baztertzen ditu.$"
 
 BattleDome_Text_NeglectsAtkAndDef::
 	.string "ERASOA eta DEFENTSA baztertzen ditu.$"
@@ -230,28 +230,28 @@ BattleDome_Text_NeglectsAtkAndSpeed::
 	.string "ERASOA eta ABIADURA baztertzen ditu.$"
 
 BattleDome_Text_NeglectsAtkAndSpAtk::
-	.string "ERASOA eta ERA. BEREZIA baztertzen ditu.$"
+	.string "ERASOA eta ER. BER. baztertzen ditu.$"
 
 BattleDome_Text_NeglectsAtkAndSpDef::
-	.string "ERASOA eta DEF. BEREZIA baztertzen ditu.$"
+	.string "ERASOA eta DEF. BER. baztertzen ditu.$"
 
 BattleDome_Text_NeglectsDefAndSpeed::
 	.string "DEFENTSA eta ABIADURA baztertzen ditu.$"
 
 BattleDome_Text_NeglectsDefAndSpAtk::
-	.string "DEFENTSA eta ERA. BEREZIA baztertzen ditu.$"
+	.string "DEFENTSA eta ER. BER. baztertzen ditu.$"
 
 BattleDome_Text_NeglectsDefAndSpDef::
-	.string "DEFENTSA eta DEF. BEREZIA baztertzen ditu.$"
+	.string "DEFENTSA eta DEF. BER. baztertzen ditu.$"
 
 BattleDome_Text_NeglectsSpeedAndSpAtk::
-	.string "ABIADURA eta ERA. BEREZIA baztertzen ditu.$"
+	.string "ABIADURA eta ER. BER. baztertzen ditu.$"
 
 BattleDome_Text_NeglectsSpeedAndSpDef::
-	.string "ABIADURA eta DEF. BEREZIA baztertzen ditu.$"
+	.string "ABIADURA eta DEF. BER. baztertzen ditu.$"
 
 BattleDome_Text_NeglectsSpAtkAndSpDef::
-	.string "ERA. BEREZIA eta DEF. BEREZIA baztertzen ditu.$"
+	.string "ER. BER. eta DEF. BER. baztertzen ditu.$"
 
 BattleDome_Text_NeglectsHP::
 	.string "BP baztertzen du.$"
@@ -266,10 +266,10 @@ BattleDome_Text_NeglectsSpeed::
 	.string "ABIADURA baztertzen du.$"
 
 BattleDome_Text_NeglectsSpAtk::
-	.string "ERA. BEREZIA baztertzen du.$"
+	.string "ER. BER. baztertzen du.$"
 
 BattleDome_Text_NeglectsSpDef::
-	.string "DEF. BEREZIA baztertzen du.$"
+	.string "DEF. BER. baztertzen du.$"
 
 BattleDome_Text_RaisesMonsWellBalanced::
 	.string "POKéMONAK era orekatuan hazten ditu.$"
@@ -290,10 +290,10 @@ BattleDome_Text_TrainerWonOutrightByDefault::
 	.string "{STR_VAR_1}(e)k automatikoki irabazi du zuzenean!$"
 
 BattleDome_Text_TrainerWonNoMoves::
-	.string "{STR_VAR_1}(e)k erasorik erabili gabe irabazi du!$"
+	.string "{STR_VAR_1}(e)k erasotu gabe irabazi du!$"
 
 BattleDome_Text_TrainerWonOutrightNoMoves::
-	.string "{STR_VAR_1}(e)k erasorik erabili gabe irabazi du zuzenean!$"
+	.string "{STR_VAR_1}(e)k erasotu gabe irabazi du zuzenean!$"
 
 BattleDome_Text_Round1Match1::
 	.string "1. txandako 1. norgehiagoka$"

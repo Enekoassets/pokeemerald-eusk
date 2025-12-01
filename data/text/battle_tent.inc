@@ -119,8 +119,8 @@ FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
 
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Ongi etorri BERDEZELAI HERRIKO\n"
-	.string "BORROKA DENDARA!\p"
-	.string "Hemen, ENTRENATZAILEAREN eta POKéMONAREN\n"
+	.string "BORROKA DENDARA! Hemen,\p"
+	.string "ENTRENATZAILEAREN eta POKéMONAREN\n"
 	.string "arteko konfiantza neurtzen da.$"
 
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:

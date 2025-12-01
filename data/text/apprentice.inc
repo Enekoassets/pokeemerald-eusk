@@ -1,65 +1,65 @@
 gText_ApprenticeChallenge0::
-	.string "Ein… {STR_VAR_1}ren {STR_VAR_2}garren ikaslea naiz.\n"
+	.string "Ein… {STR_VAR_1}(r)en {STR_VAR_2}garren ikaslea naiz.\n"
 	.string "Jope… Ezi dut tentsio honekin guztiarekin…$"
 
 gText_ApprenticeChallenge1::
-	.string "{STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz!\n"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz!\n"
 	.string "Banator!$"
 
 gText_ApprenticeChallenge2::
-	.string "{STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz!\n"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz!\n"
 	.string "Borrokatu dezagun!$"
 
 gText_ApprenticeChallenge3::
-	.string "Ein… {STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz…\n"
+	.string "Ein… {STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz…\n"
 	.string "Uset duzu inoiz irabaziko dudala?$"
 
 gText_ApprenticeChallenge4::
-	.string "{STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz!\n"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz!\n"
 	.string "Nire kontra borrokatzen utziko dizut!$"
 
 gText_ApprenticeChallenge5::
-	.string "Oso oso okupatuta nago, baina\n"
-	.string "kasualitatez, {STR_VAR_1}ren {STR_VAR_2}. ikaslea ere banaiz.$"
+	.string "Oso oso okupatuta nago, baina,\n"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}. ikaslea ere banaiz.$"
 
 gText_ApprenticeChallenge6::
-	.string "{STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz.\n"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz.\n"
 	.string "Urte askoan!$"
 
 gText_ApprenticeChallenge7::
-	.string "{STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz.\n"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz.\n"
 	.string "Has naiteke?$"
 
 gText_ApprenticeChallenge8::
-	.string "Ene! {STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz!\n"
+	.string "Ene! {STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz!\n"
 	.string "Ahalik ondoen borrokatuko dut!$"
 
 gText_ApprenticeChallenge9::
-	.string "Iuju! {STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz!\n"
+	.string "Iuju! {STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz!\n"
 	.string "Goazen ba!$"
 
 gText_ApprenticeChallenge10::
-	.string "{STR_VAR_1}ren 1000. ikaslea naiz!\n"
+	.string "{STR_VAR_1}(r)en 1000. ikaslea naiz!\n"
 	.string "Txantxa da, {STR_VAR_2}.a naiz! Goazen!$"
 
 gText_ApprenticeChallenge11::
-	.string "Bai, {STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz!\n"
+	.string "Bai, {STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz!\n"
 	.string "Egurra ematera!$"
 
 gText_ApprenticeChallenge12::
 	.string "Iujujuju! Esan daiteke\n"
-	.string "{STR_VAR_1}ren {STR_VAR_2}. ikaslea naizela!$"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naizela!$"
 
 gText_ApprenticeChallenge13::
-	.string "Tuju! {STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz.\n"
+	.string "Tuju! {STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz.\n"
 	.string "Pozten naiz ezagutzeaz! Tuju!$"
 
 gText_ApprenticeChallenge14::
 	.string "Urduriegi nago…\n"
-	.string "{STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz.$"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz.$"
 
 gText_ApprenticeChallenge15::
-	.string "{STR_VAR_1}ren {STR_VAR_2}. ikaslea naiz,\n"
+	.string "{STR_VAR_1}(r)en {STR_VAR_2}. ikaslea naiz,\n"
 	.string "bene-benetan.$"
 
 gText_ApprenticePleaseTeach0::
@@ -250,8 +250,8 @@ gText_ApprenticePleaseTeach5::
 	.string "Aupa kaixo! {PLAYER}{KUN}!\n"
 	.string "Ezagutzen zaitut, famatua zara!\l"
 	.string "{STR_VAR_1} naiz ni! Urte askoan!\p"
-	.string "TRIATLETA naiz, beraz, sasoian\n"
-	.string "mantentzen naiz, POKéMONAK entrenatzean ere.\p"
+	.string "TRIATLETA naiz, beraz, sasoian mantentzen\n"
+	.string "naiz POKéMONAK entrenatzean ere.\p"
 	.string "Gauza gehiago ere egiten ditut:\n"
 	.string "lana, siesta, aretoko dantzak…\p"
 	.string "Horren okupatuta nago, ezin\n"

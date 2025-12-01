@@ -21,7 +21,7 @@ gText_TuckerDefeatSilver::
 	.string "Baina nola…$"
 
 gText_TuckerWonGold::
-	.string "DOMOKO TXAPELDUN titulua ez da inolako txantxa!$"
+	.string "DOMOKO TXAPELDUN titulua ez da ez txantxa!$"
 
 gText_TuckerDefeatGold::
 	.string "Kar-kar-kar!\n"

@@ -489,8 +489,8 @@ SlateportCity_OceanicMuseum_1F_Text_InterviewRequest:
 	.string "zeozer kontatuko zenidake?$"
 
 SlateportCity_OceanicMuseum_1F_Text_InterviewRequestShort:
-	.string "Duela gutxi gertatu diren istorioak biltzen\n"
-	.string "ari naiz, POKéMON eta ENTRENATZAILEEN artekoak.\p"
+	.string "Arestian POKéMONEN eta ENTRENATZAILEEN\n"
+	.string "artean gertatutako istorioak biltzen ditut.\p"
 	.string "Inporta ez bazaizu, zure inguruko\n"
 	.string "zeozer kontatuko zenidake?$"
 
@@ -515,13 +515,13 @@ SlateportCity_OceanicMuseum_1F_Text_ThatsAllForInterview:
 
 SlateportCity_OceanicMuseum_1F_Text_BetterWriteUpStory:
 	.string "Hmmm…\n"
-	.string "Telebistako programa batentzako istorio ona dut.\p"
+	.string "Telebistako programa baterako istorio ona dut.\p"
 	.string "Hobe dut bizi-bizi idazten badut, ez ahazteko!$"
 
 gTVRecentHappeningsText00::
 	.string "Kaixo, ISTORIO BERRIEN garaia da.\p"
-	.string "POKéMON ENTRENATZAILEENTZAT egun bakoitza\n"
-	.string "ipuin berri bat bezala da.\p"
+	.string "POKéMON ENTRENATZAILEENTZAT egun\n"
+	.string "bakoitza ipuin berri bat bezala da.\p"
 	.string "Programa hauetan ipuin hauetako batzuk\n"
 	.string "kontatzen ditugu.\p"
 	.string "Gaurkoan dakarkizuegun istorioa\n"
@@ -577,7 +577,7 @@ gTV3CheersForPokeblocksText00::
 	.string "ZM: Gogotsu egongo zaretela espero dugu,\n"
 	.string "“3 GORA {POKEBLOCK}EI” iritsi zaigu!\p"
 	.string "Gaur, {STR_VAR_1} eta lagunek nahastutako\n"
-	.string "{POKEBLOCK}a aztertuko dugu.\p"
+	.string "{POKEBLOCK}A aztertuko dugu.\p"
 	.string "Gehiago luzatu gabe, nire gourmet\n"
 	.string "POKéMON GULPINI emango diot probatzeko.\p"
 	.string "… … … … … …\n"
@@ -591,9 +591,9 @@ gTV3CheersForPokeblocksText01::
 
 gTV3CheersForPokeblocksText02::
 	.string "{STR_VAR_1}(r)en nahasketa abilezia\n"
-	.string "pixka bat hobe zitekeen.\p"
-	.string "ENTRENATZAILE honek hobe nahastuko balu,\n"
-	.string "{POKEBLOCK}a askoz goxoagoa egongo litzateke.$"
+	.string "pixka bat hobetu zitekeen. ENTRENATZAILE\p"
+	.string "honek hobe nahastuko balu, {POKEBLOCK}A\n"
+	.string "askoz goxoagoa egongo litzateke.$"
 
 gTV3CheersForPokeblocksText03::
 	.string "GULPIN: Gubi! Gubii!\p"
@@ -609,8 +609,8 @@ gTV3CheersForPokeblocksText04::
 	.string "hobea emango du, ziur!$"
 
 gTV3CheersForPokeblocksText05::
-	.string "Hurrengora arte!\n"
-	.string "Gure eslogana gogoratu “3 GORA {POKEBLOCK}EI!”$"
+	.string "Hurrengora arte! Gogoratu\n"
+	.string "gure eslogana: “3 GORA {POKEBLOCK}EI!”$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WhatsYourOpinionOfTrainer::
 	.string "Kaixo!\p"
@@ -727,7 +727,7 @@ gTVNameRaterText01::
 
 gTVNameRaterText02::
 	.string "Ezizen hau oso ondo geratzen da\n"
-	.string "{STR_VAR_1}(r)ekin, ENTRENATZAILEAREN izenarekin.\p"
+	.string "{STR_VAR_1}, ENTRENATZAILEAREN izenarekin.\p"
 	.string "Denborarekin lankidetza-erlazio ederra\n"
 	.string "sortuko duzuela iradokitzen du.$"
 
@@ -765,7 +765,7 @@ gTVNameRaterText08::
 	.string "Ezizen erakargarria, POKéMONA\n"
 	.string "xarmangarria egiten du!\p"
 	.string "Ez daukat dudarik, POKéMON hau\n"
-	.string "POKéMON LEHIAKETETAN xarmantena izango da.$"
+	.string "LEHIAKETETAN xarmantena izango da.$"
 
 gTVNameRaterText09::
 	.string "{STR_VAR_1} ezizenaren erroan\n"
@@ -1119,8 +1119,8 @@ SmartShopper_Text_ClerkMax::
 	.string "Ez nuen inoiz pentsatuko bezero bakarrak\n"
 	.string "horrenbeste {STR_VAR_2}erosiko zituenik.\l"
 	.string "Zinez sinesgaitza da!\p"
-	.string "ELKARRIZKETATZAILEA: Zenbat erosi zituen 100\n"
-	.string "edo 200 inguru?\p"
+	.string "ELKARRIZKETATZAILEA: Zenbat erosi\n"
+	.string "zituen, 100 edo 200 inguru?\p"
 	.string "SALTZAILEA: Ez ez, askoz gehiago!\p"
 	.string "ELKARRIZKETATZAILEA: Ai ene!\n"
 	.string "{STR_VAR_1} bezero berezia da!\p"
@@ -2079,7 +2079,7 @@ gTVWhatsNo1InHoennTodayText08::
 	.string "{STR_VAR_1}!\n"
 	.string "Zu zara gaurko ENTRENATZAILE onena!\p"
 	.string "Ikusleok, ikusi {STR_VAR_1} eta ikasi!\n"
-	.string "Zuek ere izan zaitezkete onenak egunen batean!$"
+	.string "Zuek ere izango zarete onenak egunen batean!$"
 
 TVSecretBaseSecrets_Text_Intro::
 	.string "BASE SEKRETUEN SEKRETUAK!\p"

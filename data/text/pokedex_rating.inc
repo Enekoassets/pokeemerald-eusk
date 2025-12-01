@@ -70,9 +70,9 @@ gBirchDexRatingText_LessThan130::
 	.string "beste batzuekin trukatuz.$"
 
 gBirchDexRatingText_LessThan140::
-	.string "Entzun dudanaren arabera, badaude POKéMONAK\n"
-	.string "beraien ENTRENATZAILEA guztiz maite dutenean\l"
-	.string "eboluzionatzen direnak.$"
+	.string "Entzun dudanaren arabera, badaude\n"
+	.string "POKéMONAK beraien ENTRENATZAILEA asko\l"
+	.string "maite dutenean eboluzionatzen direnak.$"
 
 gBirchDexRatingText_LessThan150::
 	.string "Ez nekien hainbeste POKéMON espezie\n"
@@ -86,8 +86,8 @@ gBirchDexRatingText_LessThan160::
 	.string "aukera.$"
 
 gBirchDexRatingText_LessThan170::
-	.string "Norbaitek zure POKéDEXARI begiratua\n"
-	.string "emango balio, HOENN eskualdeko POKéMONEN\l"
+	.string "Norbaitek zure POKéDEXA begiratuko\n"
+	.string "balu, HOENN eskualdeko POKéMONEN\l"
 	.string "jakintza handia jasoko luke.$"
 
 gBirchDexRatingText_LessThan180::

@@ -559,8 +559,8 @@ Route106_Text_ElliotRematchDefeated:
 	.string "Berriz ere kale!$"
 
 Route106_Text_ElliotRematchPostBattle:
-	.string "Irabazi edo galdu, POKéMONAK onenak dira!\n"
-	.string "Ados al zaude nirekin?$"
+	.string "Irabazi ala galdu, POKéMONAK onenak\n"
+	.string "dira! Ados al zaude nirekin?$"
 
 Route106_Text_NedIntro:
 	.string "Zer egiten du jendeak komunera joan\n"
@@ -778,7 +778,7 @@ Route108_Text_CoryRegister:
 	.string "ditut! Erregistratu nazazu POKéNAVEAN!$"
 
 Route108_Text_CoryRematchIntro:
-	.string "Irabazi edo galdu, itzela da itsasoan borrokatzea!$"
+	.string "Irabazi ala galdu, ona da itsasoan borrokatzea!$"
 
 Route108_Text_CoryRematchDefeated:
 	.string "Uaaaa! Berriz galdu dut!\n"
@@ -1025,7 +1025,7 @@ Route110_Text_AnthonyDefeated:
 
 Route110_Text_AnthonyPostBattle:
 	.string "Abiadurak soilik ez dit lagunduko POKéMON\n"
-	.string "borrokak irabazten. Zeozer pentsatu behar dut…$"
+	.string "borrokak irabazten. Zeozer egin behar dut…$"
 
 Route110_Text_BenjaminIntro:
 	.string "Lasai hartu zure BIZIKLETA azkarra bada!$"
@@ -1555,7 +1555,7 @@ Route112_Text_TrentRematchDefeat:
 	.string "Indarrean garaitu al naute?$"
 
 Route112_Text_TrentRematchPostBattle:
-	.string "Entzun dut benetan ENTRENATZAILE indartsuak\n"
+	.string "Entzun dut oso ENTRENATZAILE indartsuak\n"
 	.string "daudela ERRAUTS MENDIAREN tontorrean.\p"
 	.string "Tontorreraino igoko naiz eta erronka\n"
 	.string "botako diet!$"
@@ -1568,8 +1568,8 @@ Route112_Text_LarryDefeat:
 	.string "Buaaaa!$"
 
 Route112_Text_LarryPostBattle:
-	.string "Ez naiz ari negarrez amatxorekin egon nahi dudalako!\n"
-	.string "Zintz…$"
+	.string "Ez naiz ari negarrez amatxorekin egon\n"
+	.string "nahi dudalako! Zintz…$"
 
 Route112_Text_CarolIntro:
 	.string "Piknik bat egiten duzunean, kantatzea\n"
@@ -1774,7 +1774,7 @@ Route113_Text_LawrencePostBattle:
 
 Route113_Text_WyattIntro:
 	.string "Ni-nire aurka borrokatu nahi duzu?\n"
-	.string "Nahiz eta orain harrapatu dudan nire POKéMONA?$"
+	.string "Nire POKéMONA orain harrapatu badut ere?$"
 
 Route113_Text_WyattDefeat:
 	.string "Po-pozik al zaude irabazi duzulako?\n"
@@ -2179,8 +2179,8 @@ Route116_Text_ClarkDefeat:
 	.string "Galtzeak nekatu egin nau…$"
 
 Route116_Text_ClarkPostBattle:
-	.string "Ez du axola tunelik ez badago.\n"
-	.string "MENDIZALEONTZAKO mendiak bide arruntak dira!$"
+	.string "Ez du axola tunelik ez badago. Mendiak\n"
+	.string "bide arruntak dira MENDIZALEONTZAKO!$"
 
 Route116_Text_JoeyIntro:
 	.string "Nire POKéMONAK onenak dira!\n"
@@ -2232,16 +2232,16 @@ Route116_Text_JerryPostBattle:
 	.string "Bestela HAITZIBER asko haserretuko da.$"
 
 Route116_Text_JerryRegister1:
-	.string "ENTRENATZAILE ESKOLAN ikasi dut POKéNAVEAN\n"
-	.string "ENTRENATZAILEAK erregistratu daitezkeela.\p"
-	.string "Ez dut oso ondo ulertzen zer esan nahi\n"
-	.string "duen, utziko zenidake probatzen?$"
+	.string "ENTRENATZAILE ESKOLAN ikasi dut\n"
+	.string "POKéNAVEAN ENTRENATZAILEAK erregistratu\p"
+	.string "daitezkeela. Ez dakit oso ondo zer esan\n"
+	.string "nahi duen, utziko zenidake probatzen?$"
 
 Route116_Text_JerryRegister2:
-	.string "ENTRENATZAILE ESKOLAN ikasi dut POKéNAVEAN\n"
-	.string "ENTRENATZAILEAK erregistratu daitezkeela.\p"
-	.string "Ez dut oso ondo ulertzen zer esan nahi\n"
-	.string "duen, utziko zenidake probatzen?$"
+	.string "ENTRENATZAILE ESKOLAN ikasi dut\n"
+	.string "POKéNAVEAN ENTRENATZAILEAK erregistratu\p"
+	.string "daitezkeela. Ez dakit oso ondo zer esan\n"
+	.string "nahi duen, utziko zenidake probatzen?$"
 
 Route116_Text_JerryRematchIntro:
 	.string "Oso serio aritu naiz ENTRENATZAILE\n"
@@ -2269,12 +2269,12 @@ Route116_Text_KarenPostBattle:
 	.string "entrenatzaile dotorea izango horrela!$"
 
 Route116_Text_KarenRegister1:
-	.string "Ene! Hori ez al da POKéNAV bat?\n"
-	.string "Nik ere badut bat! Erregistratu nazazu, mesedez!$"
+	.string "Ene! Hori ez al da POKéNAV bat? Nik ere\n"
+	.string "badut bat! Erregistratu nazazu, mesedez!$"
 
 Route116_Text_KarenRegister2:
-	.string "Ene! Hori ez al da POKéNAV bat?\n"
-	.string "Nik ere badut bat! Erregistratu nazazu, mesedez!$"
+	.string "Ene! Hori ez al da POKéNAV bat? Nik ere\n"
+	.string "badut bat! Erregistratu nazazu, mesedez!$"
 
 Route116_Text_KarenRematchIntro:
 	.string "Azkenengotik asko ikasi dut.\n"
@@ -2390,7 +2390,7 @@ Route117_Text_LydiaRematchDefeat:
 	.string "Bikainki ari dira hazten, bai.$"
 
 Route117_Text_LydiaPostRematch:
-	.string "POKéMONEI mota desberdinetako {POKEBLOCK}AK\n"
+	.string "POKéMONEI mota askotako {POKEBLOCK}AK\n"
 	.string "gustatzen zaizkie, izaeraren arabera.$"
 
 Route117_Text_DylanIntro:
@@ -2629,8 +2629,8 @@ Route118_Text_ChesterPostBattle:
 	.string "egingo lukete hegan…$"
 
 Route118_Text_BarnyIntro:
-	.string "ARRANTZALEA naiz, baita ENTRENATZAILEA ere.\n"
-	.string "Harrapatu ditudan POKéMONAK hazten ditut.$"
+	.string "ARRANTZALEA naiz, baita ENTRENATZAILEA\n"
+	.string "ere. Harrapatutako POKéMONAK hazten ditut.$"
 
 Route118_Text_BarnyDefeat:
 	.string "uste nuen ondo ari nintzela\n"
@@ -2643,15 +2643,15 @@ Route118_Text_BarnyPostBattle:
 
 Route118_Text_WadeIntro:
 	.string "ARRANTZALEONTZAT, tresneria da behinena.\p"
-	.string "ENTRENATZAILEENTZAT, ordea, garrantzitsuena\n"
-	.string "POKéMONAK eta bihotza dira!$"
+	.string "ENTRENATZAILEENTZAT, garrantzitsuena\n"
+	.string "POKéMONAK eta bihotza dira, ordea!$"
 
 Route118_Text_WadeDefeat:
 	.string "Bihotzez irabazi al didate?$"
 
 Route118_Text_WadePostBattle:
-	.string "Ondo pentsatuz gero, arrantza borroka bat da\n"
-	.string "ARRANTZALE baten eta POKéMON baten artean.$"
+	.string "Ondo pentsatuta, arrantza borroka bat da\n"
+	.string "ARRANTZALE eta POKéMON baten artean.$"
 
 Route118_Text_DaltonIntro:
 	.string "Utzi nire melodiak harrapa zaitzan!$"
@@ -2707,8 +2707,8 @@ Route119_Text_BrentPostBattle:
 	.string "Ez zenuke ulertuko…$"
 
 Route119_Text_DonaldIntro:
-	.string "Azkenean, ezagutu zaitut!\n"
-	.string "Nire ZOMORRO POKéMONEK lagun egingo dizute!$"
+	.string "Azkenean, ezagutu zaitut! Nire\n"
+	.string "ZOMORRO POKéMONEK lagun egingo dizute!$"
 
 Route119_Text_DonaldDefeat:
 	.string "Hobe elkar ezagutu izan ez bagenu…$"
@@ -4132,7 +4132,7 @@ Route127_Text_KojiRematchDefeat:
 
 Route127_Text_KojiPostRematch:
 	.string "Nahi duzu tarte batean oinutsik ibili?\n"
-	.string "Horrela zure KORRIKAKO ZAPATILAK probatzeko?$"
+	.string "Nik zure KORRIKAKO ZAPATILAK probatzeko?$"
 
 Route127_Text_AthenaIntro:
 	.string "Borroka motel eta metodiko bat izan\n"
@@ -4201,8 +4201,8 @@ Route128_Text_KatelynRematchDefeat:
 	.string "gupidagabeak dira…$"
 
 Route128_Text_KatelynPostRematch:
-	.string "Benetan pentsatu behar zenuke GARAIPENAREN\n"
-	.string "BIDEKO erronkaren inguruan.$"
+	.string "GARAIPENAREN BIDEKO erronkaren\n"
+	.string "inguruan pentsatu behar zenuke.$"
 
 Route128_Text_AlexaIntro:
 	.string "Oso gogor aritu gara lanean\n"
@@ -4218,7 +4218,7 @@ Route128_Text_AlexaPostBattle:
 	.string "ez dut lehenengoan amore emango.$"
 
 Route128_Text_RubenIntro:
-	.string "Ez dago ni baino ENTRENATZAILE indartsuagorik!$"
+	.string "Ez dago ni bezalako ENTRENATZAILERIK!$"
 
 Route128_Text_RubenDefeat:
 	.string "Ezin da izan!$"
@@ -4238,7 +4238,7 @@ Route128_Text_WayneDefeat:
 Route128_Text_WaynePostBattle:
 	.string "Ai ene!\p"
 	.string "Nire POKéMONAK badaki URJAUZIA, baina ez\n"
-	.string "daukat ARREZIPOLISEKO GIMNASIOKO DOMINA!$"
+	.string "dut ARREZIPOLISEKO GIMNASIOKO DOMINA!$"
 
 Route128_Text_HarrisonIntro:
 	.string "Izugarri indartsua dirudizu.\n"
