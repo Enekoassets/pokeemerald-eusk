@@ -539,376 +539,376 @@ const u8 gMukPokedexText[] = _(
     "ustelaren usaina emanez.");
 
 const u8 gShellderPokedexText[] = _(
-    "At night, it burrows a hole in the seafloor\n"
-    "with its broad tongue to make a place to\n"
-    "sleep. While asleep, it closes its shell,\n"
-    "but leaves its tongue hanging out.");
+    "Gauetan, zulo bat egiten du itsas hondoan\n"
+    "bere mihi zabalarekin, bertan lo egiteko.\n"
+    "Lo egiteko, bere oskola itxi egiten du,\n"
+    "baina mihia kanpoan geratzen zaio zintzilik.");
 
 const u8 gCloysterPokedexText[] = _(
-    "It swims in the sea by swallowing water,\n"
-    "then jetting it out toward the rear.\n"
-    "The CLOYSTER shoots spikes from its\n"
-    "shell using the same system.");
+    "Itsasoan igeri egiteko, ura xurgatu eta\n"
+    "atzeko aldetik zurrustan botatzen du.\n"
+    "CLOYSTERREK sistema bera erabili dezake\n"
+    "oskoletik arantzak jaurtitzeko.");
 
 const u8 gGastlyPokedexText[] = _(
-    "When exposed to a strong wind, a GASTLY's\n"
-    "gaseous body quickly dwindles away.\n"
-    "They cluster under the eaves of houses\n"
-    "to escape the ravages of wind.");
+    "Haize gogorra badago, GASTLYREN gasezko\n"
+    "gorputza mehetu eta desagertu egiten da.\n"
+    "Etxeetako teilatu hegalen azpian ezkutatzen\n"
+    "dira haize boladetatik babesteko.");
 
 const u8 gHaunterPokedexText[] = _(
-    "If a HAUNTER beckons you while it is\n"
-    "floating in darkness, don't approach it.\n"
-    "This POKéMON will try to lick you with its\n"
-    "tongue and steal your life away.");
+    "HAUNTER batek, ilunpetan flotatzen ari\n"
+    "dela, hurbiltzeko esaten badizu, ez egin\n"
+    "kasurik. POKéMON hau zu miazkatzen saiatuko\n"
+    "da zuri bizia kentzeko.");
 
 const u8 gGengarPokedexText[] = _(
-    "Deep in the night, your shadow cast by\n"
-    "a streetlight may suddenly overtake you.\n"
-    "It is actually a GENGAR running past\n"
-    "you, pretending to be your shadow.");
+    "Gau ilunean, farola baten albotik pasatzean,\n"
+    "itzal batek jauzi egin diezazuke.\n"
+    "Izatez, GENGAR bat da zure albotik pasatzen,\n"
+    "zure itzalaren itxura eginez.");
 
 const u8 gOnixPokedexText[] = _(
-    "There is a magnet in its brain that\n"
-    "prevents an ONIX from losing direction\n"
-    "while tunneling. As it grows older, its body\n"
-    "becomes steadily rounder and smoother.");
+    "ONIXEK iman bat dauka garunean, tunelak\n"
+    "zulatzen ari den bitartean norabidea ez\n"
+    "galtzeko. Zahartzen den heinean, bere gorputza\n"
+    "borobilagoa eta leunagoa bihurtzen da.");
 
 const u8 gDrowzeePokedexText[] = _(
-    "If your nose becomes itchy while you are\n"
-    "sleeping, it's a sure sign that a DROWZEE is\n"
-    "standing above your pillow and trying to\n"
-    "eat your dream through your nostrils.");
+    "Lotan ari zarela sudurreko azkura nabaritzen\n"
+    "baduzu, DROWZEE zure alboan zutik dagoenaren\n"
+    "seinale da, zure sudur-zuloetatik ametsak\n"
+    "jaten saiatzen.");
 
 const u8 gHypnoPokedexText[] = _(
-    "The arcing movement and glitter of the\n"
-    "pendulum in a HYPNO's hand lull the foe\n"
-    "into deep hypnosis. While searching for\n"
-    "prey, it polishes the pendulum.");
+    "HYPNOREN eskuko penduluaren distirak\n"
+    "eta balantzak etsaia sakon lokartzeko\n"
+    "gaitasuna daukate. Harrapakin bila ari\n"
+    "denean, penduluari distira ateratzen dio.");
 
 const u8 gKrabbyPokedexText[] = _(
-    "KRABBY live in holes dug into beaches.\n"
-    "On sandy shores with little in the way\n"
-    "of food, they can be seen squabbling with\n"
-    "each other over territory.");
+    "KRABBY hondartzan egindako zuloetan bizi da.\n"
+    "Janari gutxi dagoen itsasertz hondartsuetan,\n"
+    "elkarren aurka norgehiagokan ikus daitezke,\n"
+    "lurraldeengatik borrokan.");
 
 const u8 gKinglerPokedexText[] = _(
-    "It waves its huge, oversized claw in the\n"
-    "air to communicate with others.\n"
-    "But since the claw is so heavy, this\n"
-    "POKéMON quickly tires.");
+    "Bere pintza erraldoi izugarria astintzen\n"
+    "du airean, besteekin komunikatzeko.\n"
+    "Baina horren pintza handia denez, azkar\n"
+    "nekatzen da POKéMON hau.");
 
 const u8 gVoltorbPokedexText[] = _(
-    "It bears an uncanny and unexplained\n"
-    "resemblance to a POKé BALL. Because it\n"
-    "explodes at the slightest shock, even\n"
-    "veteran TRAINERS treat it with caution.");
+    "POKé BALL baten antza izugarria dauka,\n"
+    "oraingoz azaldu ezin izan dena. Oso erraz\n"
+    "lehertzen denez, ENTRENATZAILE trebeenak\n"
+    "ere kontu handiz ibiltzen dira berarekin.");
 
 const u8 gElectrodePokedexText[] = _(
-    "They appear in great numbers at electric\n"
-    "power plants. Because they feed on\n"
-    "electricity, they cause massive and\n"
-    "chaotic blackouts in nearby cities.");
+    "Instalazio elektrikoetan agertzen dira\n"
+    "talde handitan. Elikatzeko elektrizitatea\n"
+    "behar dutenez, inguruko hirietan itzalaldi\n"
+    "kaotikoak sortzen dituzte.");
 
 const u8 gExeggcutePokedexText[] = _(
-    "It consists of six eggs that care for each\n"
-    "other. The eggs attract each other and\n"
-    "spin around. When cracks increasingly\n"
-    "appear, it is close to evolution.");
+    "Elkar zaintzen duten sei arrautzak osatua\n"
+    "dago. Arrautzek elkar erakartzen dute, eta\n"
+    "baita bira egin ere. Azalean arrakalak agertzen\n"
+    "zaizkionean, eboluzionatzear dagoen seinale.");
 
 const u8 gExeggutorPokedexText[] = _(
-    "Originally from the tropics, EXEGGUTOR's\n"
-    "heads grow larger from exposure to strong\n"
-    "sunlight. It is said that when the heads\n"
-    "fall, they group to form an EXEGGCUTE.");
+    "Tropikoetatik etorria, EXEGGUTORREN burua\n"
+    "handitu egiten da eguzki izpi indartsuak\n"
+    "xurgatzean. Esaten denez, burua erortzen\n"
+    "zaionean, EXEGGCUTE bat eratzeko elkartzen dira.");
 
 const u8 gCubonePokedexText[] = _(
-    "It pines for the mother it will never see\n"
-    "again. Seeing a likeness of its mother in\n"
-    "the full moon, it cries. The stains on the\n"
-    "skull it wears are from its tears.");
+    "Berri ikusiko ez duen ama oroitzen du\n"
+    "saminez. Ilargi beteak ama gogorarazten\n"
+    "dionean, negar egiten du. Burezurreko markak\n"
+    "bere malkoen higadurak sortuak dira.");
 
 const u8 gMarowakPokedexText[] = _(
-    "A MAROWAK is the evolved form of a CUBONE\n"
-    "that has grown tough by overcoming the\n"
-    "grief of losing its mother. Its tempered\n"
-    "and hardened spirit is not easily broken.");
+    "MAROWAK CUBONEREN eboluzioa da, amaren\n"
+    "galera gainditzea lortuta, indartsu\n"
+    "hazi dena. Bere gogo indartsu eta gogorra\n"
+    "ez da batere erraz hausten.");
 
 const u8 gHitmonleePokedexText[] = _(
-    "Its legs freely stretch and contract.\n"
-    "Using these springlike limbs, it bowls over\n"
-    "foes with devastating kicks. After battle,\n"
-    "it rubs down its tired legs.");
+    "Hankak nahi bezala luzatzen eta uzkurtzen\n"
+    "ditu. Malguki formako gorputz-adar hauekin\n"
+    "ostikada izugarriak ematen ditu. Borrokatu\n"
+    "ostean, hanka nekatuak igurzten ditu.");
 
 const u8 gHitmonchanPokedexText[] = _(
-    "A HITMONCHAN is said to possess the\n"
-    "spirit of a boxer who aimed to become the\n"
-    "world champion. Having an indomitable\n"
-    "spirit means that it will never give up.");
+    "Esaten da HITMONCHANEK munduko txapelduna\n"
+    "bilakatu nahi zuen boxeolari baten\n"
+    "izpiritua duela. Izpiritu menderakaitz\n"
+    "honi esker, ez du inoiz amore ematen.");
 
 const u8 gLickitungPokedexText[] = _(
-    "Whenever it sees something unfamiliar,\n"
-    "it always licks the object because it\n"
-    "memorizes things by texture and taste.\n"
-    "It is somewhat put off by sour things.");
+    "Ezagutzen ez duen zerbait ikustean,\n"
+    "beti miazkatzen du objektua, zaporearen\n"
+    "testuraren arabera gogoratzen baitu dena.\n"
+    "Ez ditu oso atsegin gauza garratzak.");
 
 const u8 gKoffingPokedexText[] = _(
-    "Getting up close to a KOFFING will give\n"
-    "you a chance to observe, through its thin\n"
-    "skin, the toxic gases swirling inside. It\n"
-    "blows up at the slightest stimulation.");
+    "KOFFING batengana asko hurbilduz gero, bere\n"
+    "azal finean zehar ikusi ditzakezu barruan\n"
+    "biraka dituen gas toxikoak. Estimulazio\n"
+    "txikienarekin ere eztanda egiten du.");
 
 const u8 gWeezingPokedexText[] = _(
-    "By diluting its toxic gases with a special\n"
-    "process, the highest grade of perfume can\n"
-    "be extracted. To WEEZING, gases emanating\n"
-    "from garbage are the ultimate feast.");
+    "Bere gas toxikoak prozesu berezi batekin\n"
+    "diluituz, maila goreneko perfumea sor\n"
+    "daiteke. WEEZINGENTZAT, zaborretan sortzen\n"
+    "den gasa oturuntza paregabea da.");
 
 const u8 gRhyhornPokedexText[] = _(
-    "Once it starts running, it doesn't stop.\n"
-    "Its tiny brain makes it so stupid that it\n"
-    "can't remember why it started running in\n"
-    "the first place.");
+    "Behin korrika hasita, ez da geratzen.\n"
+    "Bere burmuin ñimiñoaren erruz horren\n"
+    "leloa denez, ez da gogoratu ere egiten\n"
+    "zergatik hasi zen korrika.");
 
 const u8 gRhydonPokedexText[] = _(
-    "Its horn, which rotates like a drill,\n"
-    "destroys tall buildings with one strike.\n"
-    "It stands on its hind legs, and its brain\n"
-    "is well developed.");
+    "Bere adarrak, daratulu baten antzera bira\n"
+    "egiten duenak, eraikuntzak kolpe bakarrean\n"
+    "hautsi ditzake. Atzeko hanken gainean zutik\n"
+    "jarri daiteke, eta burmuin garatua du.");
 
 const u8 gChanseyPokedexText[] = _(
-    "CHANSEY lay nutritionally excellent eggs\n"
-    "every day. The eggs are so delicious, they\n"
-    "are eagerly devoured by even those people\n"
-    "who have lost their appetite.");
+    "CHANSEYK egunero jartzen du arrautza oso\n"
+    "nutrizionalak. Arrautza hauek horren gozoak\n"
+    "direnez, jateko gogorik ez duen jendeak\n"
+    "ere irentsi egiten ditu.");
 
 const u8 gTangelaPokedexText[] = _(
-    "Its vines snap off easily and painlessly\n"
-    "if they are grabbed, allowing it to make a\n"
-    "quick getaway. The lost vines are replaced\n"
-    "by new growth the very next day.");
+    "Bere aihenak erraz eta minik gabe askatzen\n"
+    "dira helduz gero, ihes egiteko gaitasuna\n"
+    "emanez. Galdutako aihenak berriro hazten\n"
+    "dira hurrengo egunean bertan.");
 
 const u8 gKangaskhanPokedexText[] = _(
-    "If you come across a young KANGASKHAN\n"
-    "playing by itself, never try to catch it.\n"
-    "The baby's parent is sure to be in the area,\n"
-    "and it will become violently enraged.");
+    "KANGASKHAN gazte bat bere baitan jolasean\n"
+    "ikusten baduzu, inoiz ez saiatu harrapatzen.\n"
+    "Kumearen gurasoa inguruan egongo da ziur,\n"
+    "eta oldarkor eta haserre bizian jarriko da.");
 
 const u8 gHorseaPokedexText[] = _(
-    "By cleverly flicking the fins on its back\n"
-    "side to side, it moves in any direction\n"
-    "while facing forward. It spits ink to\n"
-    "escape if it senses danger.");
+    "Bizkarreko hegatsak aldeetara astinduz,\n"
+    "edozein norabidetan mugitu daiteke,\n"
+    "aurrera begira dagoen bitartean. Arriskua\n"
+    "nabaritzean, tinta isurtzen du.");
 
 const u8 gSeadraPokedexText[] = _(
-    "The poisonous barbs all over its body are\n"
-    "highly valued as ingredients for making\n"
-    "traditional herbal medicine. It shows no\n"
-    "mercy to anything approaching its nest.");
+    "Gorputzean zehar dituen arantza pozointsuak\n"
+    "oso preziatuak dira belarrekin sendagai\n"
+    "tradizionalak sortzeko. Ez dio errukirik\n"
+    "bere kabira hurbiltzen den ezeri.");
 
 const u8 gGoldeenPokedexText[] = _(
-    "In the springtime, schools of GOLDEEN\n"
-    "can be seen swimming up falls and rivers.\n"
-    "It metes out staggering damage with its\n"
-    "single horn.");
+    "Udaberrian, GOLDEEN sardak ikusi daitezke\n"
+    "ibai eta ur-jauzietan gora igerian.\n"
+    "Bere adar bakarrarekin min izugarria\n"
+    "egiteko gaitasuna dauka.");
 
 const u8 gSeakingPokedexText[] = _(
-    "It punches holes in boulders on stream-\n"
-    "beds. This is a clever innovation that\n"
-    "prevents its eggs from being attacked or\n"
-    "washed away by the current.");
+    "Ibaietako arroketan zuloak egiten ditu.\n"
+    "Berrikuntza harrigarri honekin, bere\n"
+    "arrautzei eraso egitea edo ur-lasterrek\n"
+    "arrautzak eramatea eragozten du.");
 
 const u8 gStaryuPokedexText[] = _(
-    "It gathers with others in the night and\n"
-    "makes its red core glow on and off with\n"
-    "the twinkling stars. It can regenerate\n"
-    "limbs if they are severed from its body.");
+    "Gauetan beste batzuekin elkartu ohi da,\n"
+    "bere nukleo gorria distiraz betetzeko,\n"
+    "izarrak bezala. Gorputzetik askatutako\n"
+    "gorputz-adarrak birsortu ditzake.");
 
 const u8 gStarmiePokedexText[] = _(
-    "People in ancient times imagined that\n"
-    "STARMIE were transformed from the\n"
-    "reflections of stars that twinkled on\n"
-    "gentle waves at night.");
+    "Garai batean, jendeak uste zuen\n"
+    "STARMIEAK izarrek gauetan, uretako\n"
+    "olatu leunetan egiten zituzten islada\n"
+    "argitsuetatik sortzen zirela.");
 
 const u8 gMrMimePokedexText[] = _(
-    "A MR. MIME is a master of pantomime. It can\n"
-    "convince others that something unseeable\n"
-    "actually exists. Once believed, the\n"
-    "imaginary object does become real.");
+    "MR. MIME pantomimetan aditua da. Ikusi\n"
+    "ezin daitekeen zerbait izatez hor dagoela\n"
+    "sinetsarazi diezaioke edonori. Behin\n"
+    "sinetsita, objektua benetakoa bihurtzen da.");
 
 const u8 gScytherPokedexText[] = _(
-    "Its blindingly fast speed adds to the\n"
-    "sharpness of its twin forearm scythes.\n"
-    "The scythes can slice through thick logs\n"
-    "in one wicked stroke.");
+    "Bere abiadura bizi itsugarria, besaurreetan\n"
+    "dituen sega arriskutsuei batu behar zaie.\n"
+    "Sega hauek enbor lodiak zatitu ditzakete\n"
+    "kolpe maltzur bakarrean.");
 
 const u8 gJynxPokedexText[] = _(
-    "A JYNX sashays rhythmically as if it were\n"
-    "dancing. Its motions are so bouncingly\n"
-    "alluring, people seeing it are compelled to\n"
-    "shake their hips without noticing.");
+    "JYNX erritmikoki ibiltzen da, harro, dantzan\n"
+    "balego bezala. Bere mugimenduak horren direnez\n"
+    "erakargarriak, jendea nahigabe gerria\n"
+    "astintzen hasten da, konturatu gabe.");
 
 const u8 gElectabuzzPokedexText[] = _(
-    "When a storm approaches, it competes with\n"
-    "others to scale heights that are likely to\n"
-    "be stricken by lightning. Some towns use\n"
-    "ELECTABUZZ in place of lightning rods.");
+    "Ekaitza datorrenean, besteekin lehiatzen du,\n"
+    "leku altuagora nor igoko, tximista batek\n"
+    "jo dezan. Herri batzuetan ELECTABUZZAK\n"
+    "erabiltzen dira tximistorratz gisan.");
 
 const u8 gMagmarPokedexText[] = _(
-    "In battle, it blows out intense flames from\n"
-    "all over its body to intimidate its foe.\n"
-    "These fiery bursts create heat waves that\n"
-    "ignite grass and trees in the area.");
+    "Borrokan, sugar izugarriak botatzen ditu\n"
+    "gorputzetik, etsaia beldurtzen saiatzeko.\n"
+    "Su eztanda hauek sortutako bero olatuek\n"
+    "inguruko belar eta zuhaitzak erretzen dituzte.");
 
 const u8 gPinsirPokedexText[] = _(
-    "Their pincers are strong enough to\n"
-    "shatter thick logs. Because they dislike\n"
-    "cold, PINSIR burrow and sleep under\n"
-    "the ground on chilly nights.");
+    "Beraien pintza indartsuekin enbor lodiak\n"
+    "txikitu ditzake. Hotza ez duenez atsegin,\n"
+    "PINSIRREK zuloak egiten ditu, gau hotzetan\n"
+    "lur azpian lo egiteko.");
 
 const u8 gTaurosPokedexText[] = _(
-    "It is not satisfied unless it is rampaging\n"
-    "at all times. If there is no opponent for\n"
-    "TAUROS to battle, it will charge at thick\n"
-    "trees and knock them down to calm itself.");
+    "Ez da pozik egongo, momentuoro triskantza\n"
+    "egiten ari ez bada. Ez badago TAUROSEN aurka\n"
+    "borrokatuko duen inor, zuhaitzen kontra\n"
+    "oldartu eta btoa egiten ditu, lasaitzeko.");
 
 const u8 gMagikarpPokedexText[] = _(
-    "Its swimming muscles are weak, so it is\n"
-    "easily washed away by currents. In places\n"
-    "where water pools, you can see many\n"
-    "MAGIKARP deposited there by the flow.");
+    "Igeri egiteko muskulu ahulak dituenez,\n"
+    "erraz eramaten dute ur-lasterrek. Ura\n"
+    "pilatzen den lekuetan, korronteak bertan\n"
+    "utzitako MAGIKARP asko ikus daitezke.");
 
 const u8 gGyaradosPokedexText[] = _(
-    "It is an extremely vicious and violent\n"
-    "POKéMON. When humans begin to fight,\n"
-    "it will appear and burn everything to the\n"
-    "ground with intensely hot flames.");
+    "Oso POKéMON basati eta oldarkorra da.\n"
+    "Pertsonak borrokan hasten direnean,\n"
+    "bat-batean agertuko da, guztia sugar\n"
+    "izugarri beroekin erretzera.");
 
 const u8 gLaprasPokedexText[] = _(
-    "People have driven LAPRAS almost to the\n"
-    "point of extinction. In the evenings,\n"
-    "it is said to sing plaintively as it seeks\n"
-    "what few others of its kind still remain.");
+    "Jendearen erruz, LAPRAS ia-ia desagertzera\n"
+    "heldu da. Gauetan, era errukarrian kantatzen\n"
+    "aritzen dela esaten da, oraindik bizirik\n"
+    "geratzen diren bere espezieko besteen bila.");
 
 const u8 gDittoPokedexText[] = _(
-    "A DITTO rearranges its cell structure to\n"
-    "transform itself. However, if it tries to\n"
-    "change based on its memory, it will get\n"
-    "details wrong.");
+    "A DITTOK bere zelulen egitura aldatu dezake\n"
+    "bere burua eraldatzeko. Hala ere, memorian\n"
+    "oinarrituta aldatzen saiatzen bada, gaizki\n"
+    "egiten ditu xehetasunak.");
 
 const u8 gEeveePokedexText[] = _(
-    "An EEVEE has an unstable genetic makeup\n"
-    "that suddenly mutates due to its\n"
-    "environment. Radiation from various\n"
-    "STONES causes this POKéMON to evolve.");
+    "EEVEEREN egitura genetiko ezegonkorra\n"
+    "bat-batean mutatu daiteke ingurunearen\n"
+    "arabera. HARRI batzuen erradiazioak\n"
+    "POKéMON hau eboluzionatzea eragin dezake.");
 
 const u8 gVaporeonPokedexText[] = _(
-    "VAPOREON underwent a spontaneous\n"
-    "mutation and grew fins and gills that\n"
-    "allow them to live underwater. They have\n"
-    "the ability to freely control water.");
+    "VAPOREONI, bat-bateko mutazio baten ondorioz,\n"
+    "hegatsak eta zakatzak hazi zitzaizkion eta\n"
+    "ur azpian bizi daitezke. Ura nahi bezala\n"
+    "kontrolatzeko gaitasuna dauka.");
 
 const u8 gJolteonPokedexText[] = _(
-    "Its cells generate weak power that is\n"
-    "amplified by its fur's static electricity\n"
-    "to drop thunderbolts. The bristling fur is\n"
-    "made of electrically charged needles.");
+    "Bere zelulek energia ahula sortu, eta\n"
+    "larruaren elektrizitate estatikoarekin\n"
+    "handitu eta tximistak bota ditzake. Bere\n"
+    "ilajea ezten elektrikoz osatua dago.");
 
 const u8 gFlareonPokedexText[] = _(
-    "FLAREON's fluffy fur releases heat into\n"
-    "the air so that its body does not get\n"
-    "excessively hot. Its body temperature can\n"
-    "rise to a maximum of 1,650 degrees F.");
+    "FLAREONEN ilaje harroa gehiegizko beroa\n"
+    "askatzeko gai da, gorputza ez gehiegi\n"
+    "berotzeko. Gorputzaren tenperatura 900\n"
+    "gradutaraino iritsi daiteke.");
 
 const u8 gPorygonPokedexText[] = _(
-    "It is capable of reverting itself entirely\n"
-    "back to program data in order to enter\n"
-    "cyberspace. A PORYGON is copy-\n"
-    "protected so it cannot be duplicated.");
+    "Bere gorputza atzera programa datu\n"
+    "bihurtu dezake, ziberespazioan sartzeko.\n"
+    "PORYGONEK kopiak ez egiteko babes berezia\n"
+    "daukanez, ezinezkoa da bikoiztea.");
 
 const u8 gOmanytePokedexText[] = _(
-    "One of the ancient and long-since-extinct\n"
-    "POKéMON that have been regenerated\n"
-    "from fossils by humans. If attacked,\n"
-    "it withdraws into its hard shell.");
+    "Antzina-antzina desagertutako POKéMONA\n"
+    "da, gizakiek fosiletatik berreskuratu\n"
+    "dutenetako bat. Eraso egiten bazaio,\n"
+    "bere oskol gogorrean sartzen da.");
 
 const u8 gOmastarPokedexText[] = _(
-    "An OMASTAR uses its tentacles to capture\n"
-    "its prey. It is believed to have become\n"
-    "extinct because its shell grew too large,\n"
-    "making its movements slow and ponderous.");
+    "OMASTARREK bere tentakulu luzeekin lortzen\n"
+    "ditu harrapakinak. Oskola gehiegi hazi\n"
+    "zitzaiolako desagertu zela uste da, bere\n"
+    "mugimenduak asko moteldu zituelako.");
 
 const u8 gKabutoPokedexText[] = _(
-    "It is a POKéMON that has been regenerated\n"
-    "from a fossil. However, in rare cases, living\n"
-    "examples have been discovered. KABUTO\n"
-    "have not changed for 300 million years.");
+    "Fosil batetik berregin den POKéMONA da.\n"
+    "Hala ere, kasu berezi batzuetan, izaki\n"
+    "bizidun batzuk ere aurkitu dira. KABUTO\n"
+    "ez da aldatu 300 milioi urtetan.");
 
 const u8 gKabutopsPokedexText[] = _(
-    "KABUTOPS once swam underwater to hunt \n"
-    "for prey. It was apparently evolving from\n"
-    "being a water dweller to living on land as\n"
-    "evident from changes in its gills and legs.");
+    "KABUTOPSEK ur azpian igeri eginda harrapatzen\n"
+    "zituen ehizakiak. Dirudienez, uretako izaki\n"
+    "izatetik lurtarra izatera igaro zen, zakatz\n"
+    "eta hanketako aldaketek erakusten dutenez.");
 
 const u8 gAerodactylPokedexText[] = _(
-    "AERODACTYL is a POKéMON from the age\n"
-    "of dinosaurs. It was regenerated from DNA\n"
-    "extracted from amber. It is imagined to\n"
-    "have been the king of the skies.");
+    "AERODACTYL dinosauroen garaiko POKéMONA\n"
+    "da. Anbarretik ateratako ADNa erabilita\n"
+    "berregin zen. Zeruetako erregea zela\n"
+    "uste da.");
 
 const u8 gSnorlaxPokedexText[] = _(
-    "SNORLAX's typical day consists of nothing\n"
-    "more than eating and sleeping. It is such\n"
-    "a docile POKéMON that there are children\n"
-    "who use its big belly as a place to play.");
+    "SNORLAXEK jan eta lo besterik ez du egiten\n"
+    "egun arrutetan. Horren POKÉMON lasaia\n"
+    "denez, haurrek bere sabel handia\n"
+    "jolastoki gisan erabiltzen dute.");
 
 const u8 gArticunoPokedexText[] = _(
-    "ARTICUNO is a legendary bird POKéMON that\n"
-    "can control ice. The flapping of its wings\n"
-    "chills the air. As a result, it is said that\n"
-    "when this POKéMON flies, snow will fall.");
+    "ARTICUNO izotza kontrolatzen duen elezaharretako\n"
+    "txori POKéMONA da. Hegoak astintzen dituenean,\n"
+    "airea hozten du. Ondorioz, esaten da POKéMON\n"
+    "honek hegan egitean, elurra egiten du.");
 
 const u8 gZapdosPokedexText[] = _(
-    "ZAPDOS is a legendary bird POKéMON that\n"
-    "has the ability to control electricity.\n"
-    "It usually lives in thunderclouds. It gains\n"
-    "power if it is stricken by lightning bolts.");
+    "ZAPDOS elektrizitatea kontrolatzen duen\n"
+    "elezaharretako txori POKéMONA da. Ekaitz\n"
+    "hodeietan bizi ohi da. Tximistek jotzen\n"
+    "dutenean, energia bereganatzen du.");
 
 const u8 gMoltresPokedexText[] = _(
-    "MOLTRES is a legendary bird POKéMON\n"
-    "that can control fire. If injured, it is said\n"
-    "to dip its body in the molten magma of\n"
-    "a volcano to burn and heal itself.");
+    "MOLTRES sua kontrolatzen duen elezaharretako\n"
+    "txori POKéMONA da. Kaltetu egiten badute,\n"
+    "sumendietako laban sartzen omen da\n"
+    "bere burua erre eta sendatzeko.");
 
 const u8 gDratiniPokedexText[] = _(
-    "A DRATINI continually molts and sloughs\n"
-    "off its old skin. It does so because the\n"
-    "life energy within its body steadily builds\n"
-    "to reach uncontrollable levels.");
+    "DRATINIK etengabe aldatzen du bere azal\n"
+    "zaharra. Hala egiten omen du, bere barnean\n"
+    "biltzen den bizi-energia kontrolatu ezin\n"
+    "daitekeen mailara iristen delako.");
 
 const u8 gDragonairPokedexText[] = _(
-    "A DRAGONAIR stores an enormous amount of\n"
-    "energy inside its body. It is said to alter\n"
-    "the weather around it by loosing energy\n"
-    "from the crystals on its neck and tail.");
+    "DRAGONAIRREK energia kantitate itzela\n"
+    "gordetzen du gorputzean. Bere lepo eta\n"
+    "buztaneko kristaletako energia askatuz,\n"
+    "eguraldia alda dezakeela esaten da.");
 
 const u8 gDragonitePokedexText[] = _(
-    "It can circle the globe in just 16 hours.\n"
-    "It is a kindhearted POKéMON that leads\n"
-    "lost and foundering ships in a storm\n"
-    "to the safety of land.");
+    "Lur planetari bira eman diezaioke 16\n"
+    "ordutan. Bihotz oneko POKéMON honek,\n"
+    "itsasoko ekaitzetan galdu diren ontziak\n"
+    "lurrera eramaten ditu, salbu egoteko.");
 
 const u8 gMewtwoPokedexText[] = _(
-    "A POKéMON that was created by genetic\n"
-    "manipulation. However, even though the\n"
-    "scientific power of humans made its body,\n"
-    "they failed to give it a warm heart.");
+    "Manipulazio genetiko bitartez sortu zen\n"
+    "POKéMONA. Hala ere, gizakien indar\n"
+    "zientifikoak gorputza eman bazion ere, ez\n"
+    "zuten bihotz epelik ematea lortu.");
 
 const u8 gMewPokedexText[] = _(
-    "A MEW is said to possess the genes of all\n"
-    "POKéMON. It is capable of making itself\n"
-    "invisible at will, so it entirely avoids\n"
-    "notice even if it approaches people.");
+    "MEWK POKéMON guztien geneak dituela uste\n"
+    "da. Nahi duenean ikusezina bihur dezake\n"
+    "bere burua, jendea hurbiltzen denean ere\n"
+    "ez dezaten nabaritu.");
 
 const u8 gChikoritaPokedexText[] = _(
     "It waves its leaf around to keep foes\n"
