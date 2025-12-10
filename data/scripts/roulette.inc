@@ -24,44 +24,44 @@ Roulette_EventScript_Play::
 	end
 
 Roulette_Text_PlayMinimumWagerIsX::
-	.string "The minimum wager at this table\n"
-	.string "is {STR_VAR_1}. Do you want to play?$"
+	.string "Mahai honetako gutxieneko apustua\n"
+	.string "{STR_VAR_1} da. Jokatu nahi al duzu?$"
 
 Roulette_Text_NotEnoughCoins::
-	.string "You don't have enough COINS.$"
+	.string "Ez duzu nahikoa TXANPON.$"
 
 Roulette_Text_SpecialRateTable::
-	.string "Special rate table right now!$"
+	.string "Apustu bereziko mahaia oraintxe!$"
 
 Roulette_Text_ControlsInstruction::
-	.string "Place your wager with the + Control\n"
-	.string "Pad, then press the A Button.$"
+	.string "Egin apustu + Kontrol Gurutzea\n"
+	.string "erabiliz, gero sakatu A Botoia.$"
 
 Roulette_Text_ItsAHit::
-	.string "It's a hit!$"
+	.string "Asmatu duzu!$"
 
 Roulette_Text_Jackpot::
-	.string "Jackpot!$"
+	.string "Zakua!$"
 
 Roulette_Text_NothingDoing::
-	.string "Nothing doing!$"
+	.string "Kale!$"
 
 Roulette_Text_YouveWonXCoins::
-	.string "You've won {STR_VAR_1} COINS!$"
+	.string "{STR_VAR_1} TXANPON lortu dituzu!$"
 
 Roulette_Text_NoCoinsLeft::
-	.string "No COINS left…$"
+	.string "Ez duzu TXANPONIK…$"
 
 Roulette_Text_KeepPlaying::
-	.string "Keep playing?$"
+	.string "Jokatzen jarraitu?$"
 
 Roulette_Text_BoardWillBeCleared::
-	.string "The ROULETTE board will be cleared.$"
+	.string "ERRULETAKO mahaia hustu egingo da.$"
 
 @ Unused
 Roulette_Text_YouDontHaveACoinCase::
-	.string "You don't have a COIN CASE.$"
+	.string "Ez daukazu DIRU ZORRORIK.$"
 
 Roulette_Text_CoinCaseIsFull::
-	.string "Your COIN CASE is full!\n"
-	.string "Coins can be exchanged for prizes.$"
+	.string "Zure DIRU ZORROA beteta dago!\n"
+	.string "Txanponak opari truke alda ditzakezu.$"

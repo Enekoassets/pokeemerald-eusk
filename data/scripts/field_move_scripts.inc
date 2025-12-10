@@ -46,16 +46,16 @@ EventScript_CancelCut::
 	end
 
 Text_WantToCut:
-	.string "This tree looks like it can be\n"
-	.string "CUT down!\p"
-	.string "Would you like to CUT it?$"
+	.string "Zuhaitz hau MOZTU egin\n"
+	.string "daitekeela dirudi!\p"
+	.string "MOZKETA erabili nahi al duzu?$"
 
 Text_MonUsedFieldMove:
-	.string "{STR_VAR_1} used {STR_VAR_2}!$"
+	.string "{STR_VAR_1}(e)k {STR_VAR_2} erabili du!$"
 
 Text_CantCut:
-	.string "This tree looks like it can be\n"
-	.string "CUT down!$"
+	.string "Zuhaitz hau MOZTU egin\n"
+	.string "daitekeela dirudi!$"
 
 @ Interact with smashable rock
 EventScript_RockSmash::
@@ -114,12 +114,12 @@ EventScript_CancelSmash::
 	end
 
 Text_WantToSmash:
-	.string "This rock appears to be breakable.\n"
-	.string "Would you like to use ROCK SMASH?$"
+	.string "Haitz hau hautsi daitekeela dirudi.\n"
+	.string "HAITZ KOLPEA erabili nahi al duzu?$"
 
 Text_CantSmash:
-	.string "It's a rugged rock, but a POKéMON\n"
-	.string "may be able to smash it.$"
+	.string "Haitz gogorra da, baina POKéMON\n"
+	.string "batek hautsi dezake.$"
 
 EventScript_StrengthBoulder::
 	lockall
@@ -165,22 +165,22 @@ EventScript_CancelStrength::
 	end
 
 Text_WantToStrength:
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.\p"
-	.string "Would you like to use STRENGTH?$"
+	.string "Harri handia da, baina POKéMON\n"
+	.string "bat bultzatzeko gai izan daiteke.\p"
+	.string "INDARRA erabili nahi al duzu?$"
 
 Text_MonUsedStrength:
-	.string "{STR_VAR_1} used STRENGTH!\p"
-	.string "{STR_VAR_1}'s STRENGTH made it\n"
-	.string "possible to move boulders around!$"
+	.string "{STR_VAR_1}(e)k INDARRA erabili du!\p"
+	.string "{STR_VAR_1}(r)en INDARRARI esker\n"
+	.string "harria bultzatu dezakezu!$"
 
 Text_CantStrength:
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.$"
+	.string "Harri handia da, baina POKéMON\n"
+	.string "bat bultzatzeko gai izan daiteke.$"
 
 Text_StrengthActivated:
-	.string "STRENGTH made it possible to move\n"
-	.string "boulders around.$"
+	.string "INDARRARI esker harriak bultzatu\n"
+	.string "ditzakezu.$"
 
 EventScript_UseWaterfall::
 	lockall
@@ -205,15 +205,15 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "A wall of water is crashing down with\n"
-	.string "a mighty roar.$"
+	.string "Urezko horma izugarri bat erortzen\n"
+	.string "ari da, burrunda izugarriarekin.$"
 
 Text_WantToWaterfall:
-	.string "It's a large waterfall.\n"
-	.string "Would you like to use WATERFALL?$"
+	.string "Ur-jauzi handi bat da.\n"
+	.string "UR-JAUZIA erabili nahi al duzu?$"
 
 Text_MonUsedWaterfall:
-	.string "{STR_VAR_1} used WATERFALL.$"
+	.string "{STR_VAR_1}(e)k UR-JAUZIA erabili du.$"
 
 EventScript_UseDive::
 	lockall
@@ -263,27 +263,27 @@ EventScript_EndSurface::
 	end
 
 Text_CantDive:
-	.string "The sea is deep here. A POKéMON\n"
-	.string "may be able to go underwater.$"
+	.string "Itsasoa sakona da hemen. POKéMON bat\n"
+	.string "ur azpira sartzeko gai izan daiteke.$"
 
 Text_WantToDive:
-	.string "The sea is deep here.\n"
-	.string "Would you like to use DIVE?$"
+	.string "Itsasoa sakona da hemen.\n"
+	.string "URPERAKETA erabili nahi al duzu?$"
 
 Text_MonUsedDive:
-	.string "{STR_VAR_1} used DIVE.$"
+	.string "{STR_VAR_1}(e)k URPERAKETA erabili du.$"
 
 Text_CantSurface:
-	.string "Light is filtering down from above.\n"
-	.string "A POKéMON may be able to surface.$"
+	.string "Argia sartzen da goiko zulotik.\n"
+	.string "POKéMON bat gai izan daiteke igotzeko.$"
 
 Text_WantToSurface:
-	.string "Light is filtering down from above.\n"
-	.string "Would you like to use DIVE?$"
+	.string "Argia sartzen da goiko zulotik.\n"
+	.string "URPERAKETA erabili nahi al duzu?$"
 
 EventScript_FailSweetScent::
 	msgbox Text_FailSweetScent, MSGBOX_SIGN
 	end
 
 Text_FailSweetScent:
-	.string "Looks like there's nothing here…$"
+	.string "Hemen ezer ez dagoela dirudi…$"

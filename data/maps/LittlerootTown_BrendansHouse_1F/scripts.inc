@@ -292,8 +292,8 @@ PlayersHouse_1F_Text_IsntItNiceInHere:
 	.string "Hau ere leku ederra da, ezta?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "Etxe-aldaketako gizonaren POKéMONEK egiten\n"
-	.string "dute lan guztia, baita garbitu ere.\l"
+	.string "Etxe-aldaketako gizonaren POKéMONEK\n"
+	.string "egiten dute guztia, baita garbitu ere.\l"
 	.string "Benetan dira erabilgarriak!\p"
 	.string "{PLAYER}, zure gela goiko pisuan dago.\n"
 	.string "Joan ikustera, laztana!\p"

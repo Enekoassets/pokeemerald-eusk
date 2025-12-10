@@ -1,26 +1,26 @@
 SecretBase_Text_TreeCanBeClimbed:
-	.string "If some vines drop down, this tree can\n"
-	.string "be climbed.$"
+	.string "Aihen batzuen laguntzaz, zuhaitz\n"
+	.string "hau eskalatu daiteke.$"
 
 SecretBase_Text_TreeUseSecretPower:
-	.string "If some vines drop down, this tree can\n"
-	.string "be climbed.\p"
-	.string "Use the SECRET POWER?$"
+	.string "Aihen batzuen laguntzaz, zuhaitz\n"
+	.string "hau eskalatu daiteke.\p"
+	.string "BOTERE EZKUTUA erabili?$"
 
 SecretBase_Text_VineDroppedDown:
-	.string "A thick vine dropped down!$"
+	.string "Aihen lodi bat erori da!$"
 
 SecretBase_Text_ClumpOfGrass:
-	.string "If this clump of grass can be moved,\n"
-	.string "it might be possible to go inside.$"
+	.string "Belar multzo hau mugituta, posible\n"
+	.string "izango litzateke barrura sartzea.$"
 
 SecretBase_Text_ClumpUseSecretPower:
-	.string "If this clump of grass can be moved,\n"
-	.string "it might be possible to go inside.\p"
-	.string "Use the SECRET POWER?$"
+	.string "Belar multzo hau mugituta, posible\n"
+	.string "izango litzateke barrura sartzea.\p"
+	.string "BOTERE EZKUTUA erabili nahi al duzu?$"
 
 SecretBase_Text_DiscoveredSmallEntrance:
-	.string "Discovered a small entrance!$"
+	.string "Sarrera txiki bat aurkitu duzu!$"
 
 	.include "data/text/secret_base_trainers.inc"
 
@@ -672,66 +672,66 @@ SecretBase_EventScript_CushionInteract::
 	end
 
 SecretBase_Text_AllDecorationsWillBeReturned:
-	.string "All decorations and furniture in your\n"
-	.string "SECRET BASE will be returned to your PC.\p"
-	.string "Is that okay?$"
+	.string "Zure BASE SEKRETUKO apaingarri eta\n"
+	.string "altzari guztiak PCra itzuliko dira.\p"
+	.string "Ados al zaude?$"
 
 SecretBase_Text_WantToRegisterSecretBase:
-	.string "Do you want to register\n"
-	.string "{STR_VAR_1}'s SECRET BASE?$"
+	.string "{STR_VAR_1}(r)en BASE SEKRETUA\n"
+	.string "erregistratu nahi al duzu?$"
 
 SecretBase_Text_AlreadyRegisteredDelete:
-	.string "This data is already registered.\n"
-	.string "Would you like to delete it?$"
+	.string "Datu hauek erregistratuta daude jada.\n"
+	.string "Ezabatu nahi al dituzu?$"
 
 SecretBase_Text_TooManyBasesDeleteSome:
-	.string "Up to 10 locations can be registered.\p"
-	.string "Delete a location if you want to\n"
-	.string "register another location.$"
+	.string "10 leku erregistra daitezke gehienez.\p"
+	.string "Ezabatu leku bat beste leku\n"
+	.string "bat erregistratu nahi baduzu.$"
 
 SecretBase_Text_RegistrationCompleted:
-	.string "Registration completed.$"
+	.string "Erregistroa eginda.$"
 
 SecretBase_Text_DataUnregistered:
-	.string "Data has been unregistered.$"
+	.string "Datuak kendu dira.$"
 
 SecretBase_Text_BootUpPC:
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER}(e)k PCa piztu du.$"
 
 SecretBase_Text_WhatWouldYouLikeToDo:
-	.string "What would you like to do?$"
+	.string "Zer egin nahi zenuke?$"
 
 SecretBase_Text_RegistryInfo:
-	.string "Once registered, a SECRET BASE will not\n"
-	.string "disappear unless the other TRAINER\l"
-	.string "moves it to a different location.\p"
-	.string "If a SECRET BASE is deleted from the\n"
-	.string "registered list, another one may take\l"
-	.string "its place.\p"
-	.string "Up to ten SECRET BASE locations\n"
-	.string "may be registered.$"
+	.string "Behin erregistratuta, BASE SEKRETUA\n"
+	.string "ez da ezabatuko ENTRENATZAILEAK\l"
+	.string "lekuz aldatzen ez badu.\p"
+	.string "BASE SEKRETU bat zerrendatik kentzen\n"
+	.string "bada, beste bat jarri daiteke\l"
+	.string "bere lekuan.\p"
+	.string "10 BASE SEKRETU gorde daitezke\n"
+	.string "gehienez.$"
 
 SecretBase_Text_BattleTowerShield:
-	.string "A shield of {STR_VAR_2} that marks winning\n"
-	.string "{STR_VAR_1} times in a row at the BATTLE TOWER.$"
+	.string "{STR_VAR_2} EZKUTU bat, BORROKA DORREAN\n"
+	.string "{STR_VAR_1} garaipen segidan markatzen dituena.$"
 
 SecretBase_Text_ToyTV:
-	.string "A realistic toy TV. It could be easily\n"
-	.string "mistaken for the real thing.$"
+	.string "Jostailuzko telebista errealista.\n"
+	.string "Benetakoa dirudi.$"
 
 SecretBase_Text_SeedotTV:
-	.string "A toy TV shaped like a SEEDOT.\n"
-	.string "It looks ready to roll away on its own…$"
+	.string "SEEDOTEN formako jostailuzko telebista.\n"
+	.string "Ibiltzen hasiko dela dirudi…$"
 
 SecretBase_Text_SkittyTV:
-	.string "A toy TV shaped like a SKITTY.\n"
-	.string "It looks ready to stroll away…$"
+	.string "SKITTYREN formako jostailuzko telebista.\n"
+	.string "Lekutik mugitzeko prest dagoela dirudi…$"
 
 SecretBase_Text_WouldYouLikeToMoveBases:
-	.string "You may only make one SECRET BASE.\p"
-	.string "Would you like to move from the SECRET\n"
-	.string "BASE near {STR_VAR_1}?$"
+	.string "BASE SEKRETU bakarra egin dezakezu.\p"
+	.string "{STR_VAR_1} inguruan duzun BASE\n"
+	.string "SEKTRETUA hona mugitu nahi al duzu?$"
 
 SecretBase_Text_MovingCompletedUseSecretPower:
-	.string "Moving completed.\p"
-	.string "Would you like to use the SECRET POWER?$"
+	.string "Aldaketa eginda.\p"
+	.string "BOTERE EZKUTUA erabili nahi al duzu?$"

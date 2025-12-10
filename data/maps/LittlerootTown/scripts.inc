@@ -918,8 +918,8 @@ LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "Hau da gure etxe berria!\p"
 	.string "Herri bitxia dirudi, baina lasai\n"
 	.string "bizitzeko leku erraza ere bai, ezta?\p"
-	.string "Gainera, zure gela propioa duzu, {PLAYER}!\n"
-	.string "Goazen barrura.$"
+	.string "Gainera, zure gela propioa duzu,\n"
+	.string "{PLAYER}! Goazen barrura.$"
 
 LittlerootTown_Text_WaitPlayer:
 	.string "AMA: Itxaron, {PLAYER}!$"

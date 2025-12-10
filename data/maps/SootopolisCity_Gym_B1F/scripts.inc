@@ -69,7 +69,7 @@ SootopolisCity_Gym_B1F_Text_CrissyIntro:
 
 SootopolisCity_Gym_B1F_Text_CrissyDefeat:
 	.string "Indartsua zara!\n"
-	.string "ZUre itxura ederrak engainatu nau!$"
+	.string "Zure itxura ederrak engainatu nau!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyPostBattle:
 	.string "Agian nahikoa ona zara XALANTEK\n"

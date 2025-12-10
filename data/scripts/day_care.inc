@@ -273,144 +273,143 @@ EventScript_EggHatch::
 	end
 
 Route117_Text_SeeWifeIfYoudLikeMeToRaiseMon:
-	.string "I'm the DAY-CARE MAN.\p"
-	.string "I help take care of the precious\n"
-	.string "POKéMON of TRAINERS.\p"
-	.string "If you'd like me to raise your POKéMON,\n"
-	.string "have a word with my wife.$"
+	.string "ZAINDEGIKO GIZONA naiz.\p"
+	.string "ENTRENATZAILEEN POKéMON\n"
+	.string "maiteak zaintzen ditut.\p"
+	.string "Zure POKéMONAK zaintze nahi baduzu,\n"
+	.string "hitz egin nire emaztearekin, mesedez.$"
 
 Route117_Text_DoYouWantEgg:
-	.string "Ah, it's you!\p"
-	.string "We were raising your POKéMON,\n"
-	.string "and my goodness, were we surprised!\p"
-	.string "Your POKéMON had an EGG!\p"
-	.string "We don't know how it got there,\n"
-	.string "but your POKéMON had it.\p"
-	.string "You do want it, yes?$"
+	.string "Ene, zu zara eta!\p"
+	.string "Zure POKéMONA zaintzen ari ginen,\n"
+	.string "eta, ene bada, harrituta geratu gara!\p"
+	.string "Zure POKéMONAK ARRAUTZA bat zuen!\p"
+	.string "Ez dakigu nola iritsi den horra,\n"
+	.string "baina zure POKéMONAK zeukan.\p"
+	.string "Nahi duzu, ezta?$"
 
 Route117_Text_YourMonIsDoingFine:
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your {STR_VAR_1}'s doing fine.$"
+	.string "Ene, zu zara eta! Pozten naiz zu ikusita.\n"
+	.string "Zure {STR_VAR_1} ondo dago.$"
 
 Route117_Text_IllKeepIt:
-	.string "Well then, I'll keep it.\n"
-	.string "Thanks!$"
+	.string "Beno, orduan, nik gordeko dut.\n"
+	.string "Esker mila!$"
 
 Route117_Text_YouHaveNoRoomForIt:
-	.string "You have no room for it…\n"
-	.string "Come back when you've made room.$"
+	.string "Ez daukazu gordetzeko lekurik…\n"
+	.string "Itzuli lekua egin ondoren.$"
 
 Route117_Text_ReceivedEgg:
-	.string "{PLAYER} received the EGG from\n"
-	.string "the DAY-CARE MAN.$"
+	.string "{PLAYER}(e)k ARRAUTZA jaso du\n"
+	.string "ZAINDEGIKO GIZONARENGANDIK.$"
 
 Route117_Text_TakeGoodCareOfIt:
-	.string "Take good care of it.$"
+	.string "Ondo zaindu ezazu.$"
 
 Route117_Text_FriendlyWithOtherTrainersMon:
-	.string "By the way, about your {STR_VAR_1},\n"
-	.string "it seemed to be friendly with\l"
-	.string "{STR_VAR_2}'s {STR_VAR_3}.\p"
-	.string "I may even have seen it receiving\n"
-	.string "a piece of MAIL.$"
+	.string "Bestalde, zure {STR_VAR_1},\n"
+	.string "oso lagun on du {STR_VAR_2}(r)en\l"
+	.string "{STR_VAR_3}.\p"
+	.string "GUTUN bat jaso duela ere\n"
+	.string "esango nuke.$"
 
 @ Unused
 Route117_Text_SeeWifeIfYouWantToPickUpMon:
-	.string "If you want to pick up your POKéMON,\n"
-	.string "have a word with my wife.$"
+	.string "Zure POKéMONA jaso nahi baduzu,\n"
+	.string "hitz egin nire emaztearekin.$"
 
 Route117_Text_YourMonsAreDoingFine:
-	.string "Ah, it's you! Your {STR_VAR_1} and\n"
-	.string "{STR_VAR_2} are doing fine.$"
+	.string "Ene, zu zara eta! Zure {STR_VAR_1} eta\n"
+	.string "{STR_VAR_2} ondo daude.$"
 
 Route117_Text_IWillKeepDoYouWantIt:
-	.string "I really will keep it.\n"
-	.string "You do want this, yes?$"
+	.string "Oso ondo gordeko dut.\n"
+	.string "Nahi duzu hau, ezta?$"
 
 Route117_PokemonDayCare_Text_WouldYouLikeUsToRaiseAMon:
-	.string "I'm the DAY-CARE LADY.\p"
-	.string "We can raise POKéMON for you.\p"
-	.string "Would you like us to raise one?$"
+	.string "ZAINDEGIKO EMAKUMEA naiz.\p"
+	.string "Zure POKéMONAK zain ditzakegu.\p"
+	.string "Nahi al duzu bat zaintzea?$"
 
 Route117_PokemonDayCare_Text_WhichMonShouldWeRaise:
-	.string "Which POKéMON should we raise for\n"
-	.string "you?$"
+	.string "Zein POKéMON zaindu behar\n"
+	.string "genuke zure partez?$"
 
 Route117_PokemonDayCare_Text_WellRaiseYourMon:
-	.string "Fine, we'll raise your {STR_VAR_1}\n"
-	.string "for a while.\p"
-	.string "Come back for it later.$"
+	.string "Ongi, zure {STR_VAR_1} zainduko\n"
+	.string "dugu aldi baterako.\p"
+	.string "Itzuli bere bila nahi duzunean.$"
 
 Route117_PokemonDayCare_Text_WeCanRaiseOneMore:
-	.string "We can raise two of your POKéMON.\n"
-	.string "Would you like us to raise one more?$"
+	.string "Zure bi POKéMON zain ditzakegu.\n"
+	.string "Nahi al duzu beste bat zaintzea?$"
 
 Route117_PokemonDayCare_Text_HusbandWasLookingForYou:
-	.string "My husband was looking for you.$"
+	.string "Nire senarra zure bila dabil.$"
 
 Route117_PokemonDayCare_Text_FineThenComeAgain:
-	.string "Oh, fine, then.\n"
-	.string "Come again.$"
+	.string "Ongi, orduan.\n"
+	.string "Itzuli nahi duzunean.$"
 
 Route117_PokemonDayCare_Text_NotEnoughMoney:
-	.string "You don't have enough money…$"
+	.string "Ez duzu nahikoa diru…$"
 
 Route117_PokemonDayCare_Text_TakeOtherOneBackToo:
-	.string "Will you take back the other one,\n"
-	.string "too?$"
+	.string "Nahi al duzu bestea ere jaso?$"
 
 Route117_PokemonDayCare_Text_ComeAgain:
-	.string "Fine.\n"
-	.string "Come again.$"
+	.string "Ongi.\n"
+	.string "Itzuli nahi duzunean.$"
 
 Route117_PokemonDayCare_Text_GoodToSeeYou:
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your POKéMON can only be doing good!$"
+	.string "Ene, zu zara eta! Pozten naiz zu ikusita.\n"
+	.string "Zure POKéMONA ederki dabil!$"
 
 Route117_PokemonDayCare_Text_YourMonHasGrownXLevels:
-	.string "By level, your {STR_VAR_1} has\n"
-	.string "grown by {STR_VAR_2}.$"
+	.string "Zure {STR_VAR_1}(e)k {STR_VAR_2}\n"
+	.string "maila igo ditu.$"
 
 Route117_PokemonDayCare_Text_YourTeamIsFull:
-	.string "Your POKéMON team is full.\n"
-	.string "Make room, then come see me.$"
+	.string "Zure POKéMON taldea betea dago.\n"
+	.string "Egin tokia, eta itzuli.$"
 
 @ Unused
 Route117_PokemonDayCare_Text_TakeBackWhichMon:
-	.string "Which POKéMON will you take back?$"
+	.string "Zein POKéMON jasoko duzu?$"
 
 Route117_PokemonDayCare_Text_ItWillCostX:
-	.string "If you want your {STR_VAR_1} back,\n"
-	.string "it will cost ¥{STR_VAR_2}.$"
+	.string "Zure {STR_VAR_1} jaso nahi baduzu,\n"
+	.string "{STR_VAR_2}¥ izango dira guztira.$"
 
 Route117_PokemonDayCare_Text_HeresYourMon:
-	.string "Perfect!\n"
-	.string "Here's your POKéMON.$"
+	.string "Bikain!\n"
+	.string "Tori zure POKéMONA.$"
 
 Route117_PokemonDayCare_Text_TookBackMon:
-	.string "{PLAYER} took back {STR_VAR_1} from\n"
-	.string "the DAY-CARE LADY.$"
+	.string "{PLAYER}(e)k {STR_VAR_1} jaso du\n"
+	.string "ZAINDEGIKO EMAKUMEARENGANDIK.$"
 
 Route117_PokemonDayCare_Text_YouHaveJustOneMon:
-	.string "Oh? But you have just one\n"
-	.string "POKéMON.\p"
-	.string "Come back another time.$"
+	.string "Nola? Baina POKéMON bakarra\n"
+	.string "duzu eta.\p"
+	.string "Etorri beste batean.$"
 
 Route117_PokemonDayCare_Text_TakeYourMonBack:
-	.string "Will you take your POKéMON back?$"
+	.string "Zure POKéMONA jaso nahi al duzu?$"
 
 Route117_PokemonDayCare_Text_WhatWillYouBattleWith:
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?\p"
-	.string "Come back another time.$"
+	.string "POKéMON hori ematen badidazu,\n"
+	.string "norekin egingo duzu borrokan?\p"
+	.string "Itzuli beste batean.$"
 
 Text_EggHatchHuh:
-	.string "Huh?$"
+	.string "Nola?$"
 
 Route117_PokemonDayCare_Text_YoullBeLeftWithJustOne:
-	.string "Huh?\n"
-	.string "Now, now.\p"
-	.string "If you leave that POKéMON with\n"
-	.string "me, you'll be left with just one.\p"
-	.string "You will be better off if you catch\n"
-	.string "some more, I dare say.$"
+	.string "Nola?\n"
+	.string "Ea, ea.\p"
+	.string "POKéMON hori ematen badidazu,\n"
+	.string "bakarrarekin geratuko zara.\p"
+	.string "Hobe beste POKéMON batzuk ere\n"
+	.string "harrapatzen badituzu.$"

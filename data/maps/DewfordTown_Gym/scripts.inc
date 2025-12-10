@@ -311,7 +311,7 @@ DewfordTown_Gym_Text_TakaoDefeat:
 
 DewfordTown_Gym_Text_TakaoPostBattle:
 	.string "Zure abileziak nire indarra garaitu du!\n"
-	.string "ZUre teknikak ahaltsuak dira, gero!$"
+	.string "Zure teknikak ahaltsuak dira, gero!$"
 
 DewfordTown_Gym_Text_JocelynIntro:
 	.string "Ez da beharrezkoa izango\n"

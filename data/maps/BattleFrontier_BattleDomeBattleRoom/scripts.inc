@@ -1138,7 +1138,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed:
 	.string "Inoiz ez! Ez dut inoiz galdu nire indar\n"
 	.string "guztia askatu dudanean.\p"
 	.string "Bai, benetan itzela!\n"
-	.string "ZUre FRONTE PASEA, mesedez?$"
+	.string "Zure FRONTE PASEA, mesedez?$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine:
 	.string "Taktika Sinboloak urre koloreko\n"

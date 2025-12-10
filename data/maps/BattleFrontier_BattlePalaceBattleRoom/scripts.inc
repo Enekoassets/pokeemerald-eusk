@@ -448,32 +448,32 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
-	.string "Excellent…\n"
-	.string "Let me restore your POKéMON.$"
+	.string "Bikain…\n"
+	.string "Utzi zure POKéMONAK sendatzen.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
-	.string "The 2nd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "2. aurkaria da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent:
-	.string "The 3rd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "3. aurkaria da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent:
-	.string "The 4th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "4. aurkaria da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor5thOpponent:
-	.string "The 5th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "5. aurkaria da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor6thOpponent:
-	.string "The 6th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "6. aurkaria da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
-	.string "The 7th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "7. aurkaria da hurrengoa.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
 	.string "Would you like to save and quit\n"

@@ -9,238 +9,238 @@
 .set NUM_OPPONENTS, VAR_0x8009
 
 BerryBlender_Text_WantToMakePokeblocks:
-	.string "Oh? Did you want to make some {POKEBLOCK}S\n"
-	.string "with this old-timer?$"
+	.string "Zer? {POKEBLOCK} batzuk egin nahi\n"
+	.string "al zenituen zahartxo honekin?$"
 
 BerryBlender_Text_Excellent:
-	.string "Excellent!$"
+	.string "Bikain!$"
 
 BerryBlender_Text_MadeOldTimerSad:
-	.string "Oh…\n"
-	.string "You've made this old-timer sad…$"
+	.string "Beno…\n"
+	.string "Tristetu egin duzu zahartxo hau…$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks:
-	.string "Do you know how to make a {POKEBLOCK}?$"
+	.string "Badakizu nola egni {POKEBLOCK} bat?$"
 
 BerryBlender_Text_LetsBerryBlender:
-	.string "Let's get started, then!\p"
-	.string "Let's BERRY BLENDER!$"
+	.string "has gaitezen, orduan!\p"
+	.string "BIRRINDU ditzagun BAIAK!$"
 
 BerryBlender_Text_ExplainBerryBlending:
-	.string "Okay, a little explanation, then.\p"
-	.string "Oh, don't worry, it's quite simple.\p"
-	.string "When the BLENDER's arrow comes to\n"
-	.string "your marker, just press the A Button.\p"
-	.string "That's all you have to do.\n"
-	.string "You'll see how easy it is when you try.$"
+	.string "Ongi, azaldu egingo dizut, beraz.\p"
+	.string "Ez kezaktu, nahikoa erraza da.\p"
+	.string "BIRRINTZAILEAREN gezia zure markan\n"
+	.string "dagoenean, sakatu A botoia.\p"
+	.string "Horixe besterik ez duzu egin behar.\n"
+	.string "Probatu, ikusiko duzu zeinen erraza den.$"
 
 BerryBlender_Text_DontHaveAnyBerries:
-	.string "Oh?\n"
-	.string "You don't have any BERRIES?\p"
-	.string "If you don't have any BERRIES,\n"
-	.string "you can't make any {POKEBLOCK}S.$"
+	.string "Nola?\n"
+	.string "Ez al daukazu BAIARIK?\p"
+	.string "BAIARIK gabe, ezin duzu,\n"
+	.string "{POKEBLOCK}IK egin.$"
 
 BerryBlender_Text_CanHaveOneOfMyBerries:
-	.string "Well, that won't do at all now, will it?\p"
-	.string "If you don't mind leftovers, you can\n"
-	.string "have one of my BERRIES.\p"
-	.string "That way, we could make some {POKEBLOCK}S\n"
-	.string "together using the BERRY BLENDER.$"
+	.string "Beno, horrela ezin da, ezta?\p"
+	.string "Nire BAIA bat emango dizut, gaizki\n"
+	.string "iruditzen ez bazaizu.\p"
+	.string "Horrela, {POKEBLOCK}AK egin ditzakegu\n"
+	.string "batera, BAIA BIRRINTZAILEAREKIN.$"
 
 BerryBlender_Text_DontHaveAnyBerriesToSpare:
-	.string "If I had some BERRIES left over,\n"
-	.string "I'd gladly give you one…\p"
-	.string "But, I don't have any to spare today.\n"
-	.string "We'll have to do this another time.$"
+	.string "BAIAREN bat soberan banu,\n"
+	.string "gustora emango nizuke…\p"
+	.string "Baina, gaur ez dut bat bera ere.\n"
+	.string "Beste batean egin beharko dugu.$"
 
 BerryBlender_Text_PokeblockCaseIsFull:
-	.string "But your {POKEBLOCK} CASE is full.\p"
-	.string "You should use some {POKEBLOCK}S before\n"
-	.string "you come see me again.$"
+	.string "Baina {POKEBLOCK} KUTXA betea dago.\p"
+	.string "Erabili {POKEBLOCK} batzuk nigana\n"
+	.string "berriro etorri aurretik.$"
 
 BerryBlender_Text_DontHavePokeblockCase:
-	.string "But you don't have a {POKEBLOCK} CASE.\p"
-	.string "You should get a {POKEBLOCK} CASE and then\n"
-	.string "come see me.$"
+	.string "Baina ez duzu {POKEBLOCK} KUTXARIK.\p"
+	.string "Lortu {POKEBLOCK} KUTXA bat eta\n"
+	.string "etorri nigana.$"
 
 BerryBlender_Text_LetsGetBlendingAlready:
-	.string "Let's get blending already!$"
+	.string "Has gaitezen birrintzen!$"
 
 BerryBlender_Text_WhatKindOfPokeblockWillIGet:
-	.string "I wonder what kind of {POKEBLOCK} I'll get?\n"
-	.string "This is so exciting!$"
+	.string "Ze motatako {POKEBLOCK}A lortuko ote dut?\n"
+	.string "Hau zirraragarria da!$"
 
 BerryBlender_Text_WantToBlendPokeblocksWithUs:
-	.string "Hi, there! Did you want to blend some\n"
-	.string "{POKEBLOCK}S with us?$"
+	.string "Kaixo! Nahi dituzu gurekin\n"
+	.string "{POKEBLOCK}AK egin?$"
 
 BerryBlender_Text_Okay:
-	.string "Okay!$"
+	.string "Ongi!$"
 
 BerryBlender_Text_ThatsTooBad:
-	.string "That's too bad…\p"
-	.string "But we'll always be around whenever\n"
-	.string "you get the urge to blend!$"
+	.string "Beno, ba…\p"
+	.string "Hemendik ibiliko gara, baiak\n"
+	.string "birrindu nahi badituzu!$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks2:
-	.string "Of course, you do know how to\n"
-	.string "blend {POKEBLOCK}S, don't you?$"
+	.string "Noski, badakizu {POKEBLOCK}AK\n"
+	.string "birrintzen, ezta?$"
 
 BerryBlender_Text_LetsBerryBlender2:
-	.string "Let's get started, then!\p"
-	.string "Let's BERRY BLENDER!$"
+	.string "Has gaitezen, orduan!\p"
+	.string "BIRRINDU ditzagun BAIAK!$"
 
 BerryBlender_Text_ExplainBerryBlending2:
-	.string "Okay!\n"
-	.string "Let me explain it to you!\p"
-	.string "When the spinning BLENDER's arrow\n"
-	.string "reaches your marker, just press\l"
-	.string "the A Button.\p"
-	.string "That's all it takes.\n"
-	.string "Pretty easy, don't you think?$"
+	.string "Ongi!\n"
+	.string "Nik azalduko dizut!\p"
+	.string "BIRRINTZAILEAREN gezia zure\n"
+	.string "markan dagoenean, sakatu\l"
+	.string "A Botoia.\p"
+	.string "Horixe besterik ez duzu egin behar.\n"
+	.string "Nahiko erraza, ezta?$"
 
 BerryBlender_Text_DontHaveAnyBerries2:
-	.string "Oh, but wait a second here…\n"
-	.string "You don't have any BERRIES.\p"
-	.string "You can't make any {POKEBLOCK}S without\n"
-	.string "BERRIES…\p"
-	.string "We'll always be around whenever you\n"
-	.string "get hold of some BERRIES to blend.$"
+	.string "Baina, itxaron segundu bat…\n"
+	.string "Ez daukazu BAIARIK.\p"
+	.string "Ezin da {POKEBLOCK}IK egin\n"
+	.string "BAIARIK gabe…\p"
+	.string "Hemen izango gara birrintzeko\n"
+	.string "BAIAK lortzen badituzu.$"
 
 BerryBlender_Text_PokeblockCaseIsFull2:
-	.string "Oh, but wait a second here…\n"
-	.string "Your {POKEBLOCK} CASE is full.\p"
-	.string "You should use some {POKEBLOCK}S and\n"
-	.string "then come back.$"
+	.string "Baina, itxaron segundu bat…\n"
+	.string "Zure {POKEBLOCK} KUTXA betea dago.\p"
+	.string "Erabili {POKEBLOCK} batzuk eta\n"
+	.string "itzuli, atzera.$"
 
 BerryBlender_Text_DontHavePokeblockCase2:
-	.string "Oh, but wait a second here…\n"
-	.string "You don't have a {POKEBLOCK} CASE.\p"
-	.string "You should get a {POKEBLOCK} CASE and\n"
-	.string "then come back.$"
+	.string "Baina, itxaron segundu bat…\n"
+	.string "Ez daukazu {POKEBLOCK} KUTXARIK.\p"
+	.string "Lortu {POKEBLOCK} KUTXA bat eta\n"
+	.string "itzuli, atzera.$"
 
 @ Unused
 BerryBlender_Text_MakePokeblocksWithOurGroup:
-	.string "Oh, hello! Did you want to make some\n"
-	.string "{POKEBLOCK}S with our little group?$"
+	.string "Kaixo! Nahi al dituzu gure talde\n"
+	.string "txikiarekin {POKEBLOCK}AK egin?$"
 
 BerryBlender_Text_OhDear:
-	.string "Oh, dear!$"
+	.string "Ai, maitea!$"
 
 BerryBlender_Text_LeftUsInShock:
-	.string "Oh, dear me…\p"
-	.string "You've left us in shock!$"
+	.string "Ai, maitea…\p"
+	.string "Txundituta utzi gaituzu!$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks3:
-	.string "Naturally, you know how to make\n"
-	.string "{POKEBLOCK}S, don't you?$"
+	.string "Noski, badakizu {POKEBLOCK}AK\n"
+	.string "egiten, ezta?$"
 
 BerryBlender_Text_LetsBerryBlender3:
-	.string "Okay, dear!\n"
-	.string "Let's get started!\p"
-	.string "Let's BERRY BLENDER!$"
+	.string "Ados, bada!\n"
+	.string "Has gaitezen!\p"
+	.string "BIRRINDU ditzagun BAIAK!$"
 
 BerryBlender_Text_ExplainBerryBlending3:
-	.string "Oh, dear!\p"
-	.string "Then, I'll explain it to you nicely.\p"
-	.string "When the BLENDER's arrow spins to\n"
-	.string "your marker, press the A Button.\p"
-	.string "That's all it takes.\n"
-	.string "Isn't it simple?$"
+	.string "Ai, maitea!\p"
+	.string "Lasai, nik azalduko dizut.\p"
+	.string "BIRRINTZAILEAREN gezia zure markan\n"
+	.string "dagoenean, sakatu A Botoia.\p"
+	.string "Horixe egin behar da, besterik ez.\n"
+	.string "Erraza, ezta?$"
 
 BerryBlender_Text_DontHaveAnyBerries3:
-	.string "You don't have any BERRIES,\n"
-	.string "do you?\p"
-	.string "If you don't have any BERRIES,\n"
-	.string "you can't make any {POKEBLOCK}S.\p"
-	.string "We'll always be making {POKEBLOCK}S here,\n"
-	.string "so let's make some together when\l"
-	.string "you get a BERRY or two.$"
+	.string "Ez daukazu BAIARIK, ez\n"
+	.string "da hala?\p"
+	.string "BAIARIK ez baduzu, ezin duzu\n"
+	.string "{POKEBLOCK}IK egin.\p"
+	.string "Beti egon ohi gara {POKEBLOCK}AK\n"
+	.string "egiten, beraz, egingo ditugu BAIA\l"
+	.string "pare bat lortzen dituzunean.$"
 
 BerryBlender_Text_PokeblockCaseIsFull3:
-	.string "Your {POKEBLOCK} CASE is full,\n"
-	.string "it looks like.\p"
-	.string "You should use some {POKEBLOCK}S up\n"
-	.string "and then come back.$"
+	.string "Zure {POKEBLOCK} KUTXA betea dago,\n"
+	.string "dirudienez.\p"
+	.string "{POKEBLOCK} batzuk erabili ondoren\n"
+	.string "itzuli behar zenuke.$"
 
 BerryBlender_Text_DontHavePokeblockCase3:
-	.string "You haven't gotten a {POKEBLOCK} CASE\n"
-	.string "yet, it looks like.\p"
-	.string "You need to get a {POKEBLOCK} CASE before\n"
-	.string "you come back.$"
+	.string "Ez duzu {POKEBLOCK} KUTXARIK\n"
+	.string "oraindik, dirudienez.\p"
+	.string "{POKEBLOCK} KUTXA bat beharko\n"
+	.string "duzu lehenengo.$"
 
 BerryBlender_Text_SetNewBlenderRecord:
-	.string "Okay! Today's going to be the day that\n"
-	.string "I set a new BLENDER speed record!$"
+	.string "Ongi! Gaur da eguna BIRRINTZAILEAREKIN\n"
+	.string "abiadura errekor berria egiteko!$"
 
 BerryBlender_Text_LookGoodAtBlendingJoinUs:
-	.string "Oh, dear!\n"
-	.string "You look as if you're good at blending.\l"
-	.string "Would you like to join us?$"
+	.string "Ai, maitea!\n"
+	.string "Birrintzen ona zarela dirudi.\l"
+	.string "Nahi duzu gugana batu?$"
 
 BerryBlender_Text_MakeDeliciousPokeblocks:
-	.string "I'm going to make delicious {POKEBLOCK}S\n"
-	.string "and make my POKéMON cuter.$"
+	.string "{POKEBLOCK} gozo-gozoak egingo ditut,\n"
+	.string "nire POKéMONA politagoa izateko.$"
 
 BerryBlender_Text_SaveGameBeforeBerryBlenderLink:
-	.string "{POKEBLOCK}S will be made with your friends \n"
-	.string "from BERRIES in the BERRY BLENDER.\p"
-	.string "Is it okay to save the game before\n"
-	.string "linking with your friends?$"
+	.string "{POKEBLOCK}AK egingo dituzu zure lagunekin\n"
+	.string "BIRRINTZAILEAN, BAIAK erabilita.\p"
+	.string "Gorde nahi al duzu partida zure\n"
+	.string "lagunekin konektatu aurretik?$"
 
 BerryBlender_Text_SearchingForFriends:
-	.string "Searching for your friends…\n"
-	.string "… … B Button: Cancel$"
+	.string "Zure lagunak bilatzen…\n"
+	.string "… … B Botoia: Ezeztatu$"
 
 BerryBlender_Text_Player1Arrived:
-	.string "{STR_VAR_1} arrived.$"
+	.string "{STR_VAR_1} iritsi da.$"
 
 BerryBlender_Text_Player1And2Arrived:
-	.string "{STR_VAR_1} and {STR_VAR_2} arrived.$"
+	.string "{STR_VAR_1} eta {STR_VAR_2} iritsi dira.$"
 
 BerryBlender_Text_AllPlayersArrived:
-	.string "{STR_VAR_1}, {STR_VAR_2}, and\n"
-	.string "{STR_VAR_3} arrived.$"
+	.string "{STR_VAR_1}, {STR_VAR_2}, eta\n"
+	.string "{STR_VAR_3} iritsi dira.$"
 
 BerryBlender_Text_NoBerriesLink:
-	.string "You have no BERRIES.\n"
-	.string "The BERRY BLENDER can't be used.$"
+	.string "Ez duzu BAIARIK.\n"
+	.string "Ezin duzu BAIA BIRRINTZAILEA erabili.$"
 
 BerryBlender_Text_PokeblockCaseIsFullLink:
-	.string "Your {POKEBLOCK} CASE is full.\n"
-	.string "The BERRY BLENDER can't be used.$"
+	.string "Zure {POKEBLOCK} KUTXA betea dago.\n"
+	.string "Ezin duzu BAIA BIRRINTZAILEA erabili.$"
 
 BerryBlender_Text_DontHavePokeblockCaseLink:
-	.string "You don't have a {POKEBLOCK} CASE.\n"
-	.string "The BERRY BLENDER can't be used.$"
+	.string "Ez duzu {POKEBLOCK} KUTXARIK.\n"
+	.string "Ezin duzu BAIA BIRRINTZAILEA erabili.$"
 
 BerryBlender_Text_LoveMakingPokeblocks:
-	.string "I love making {POKEBLOCK}S.\p"
-	.string "I always have some BERRIES with me.$"
+	.string "Atsegin dut {POKEBLOCK}AK egitea.\p"
+	.string "Beti dut BAIAREN bat aldean.$"
 
 BerryBlender_Text_MakePokeblocksUsingBerryBlender:
-	.string "If you'd like, we could make some\n"
-	.string "{POKEBLOCK}S together using the\l"
-	.string "BERRY BLENDER.$"
+	.string "Nahi baduzu, {POKEBLOCK} batzuk egin\n"
+	.string "ditzakegu elkarrekin, BAIA\l"
+	.string "BIRRINTZAILEA erabilita.$"
 
 BerryBlender_Text_DontHaveAnyBerriesHaveOne:
-	.string "Oh?\n"
-	.string "You don't have any BERRIES?\p"
-	.string "Well, that won't do at all now, will it?\p"
-	.string "If you don't mind leftovers, you can\n"
-	.string "have one of my BERRIES.$"
+	.string "Zer?\n"
+	.string "Ez al duzu BAIARIK?\p"
+	.string "Beno, orduan ezin da, ezta?\p"
+	.string "BAIA bat emango dizut, ondo\n"
+	.string "iruditzen bazaizu.$"
 
 BerryBlender_Text_UseItToMakePokeblocksTogether:
-	.string "We'll use it to make {POKEBLOCK}S together\n"
-	.string "using the BERRY BLENDER.$"
+	.string "Elkarrekin {POKEBLOCK}AK egiteko\n"
+	.string "erabiliko dugu.$"
 
 BerryBlender_Text_DontHaveAnyBerriesNoneToSpare:
-	.string "Oh?\n"
-	.string "You don't have any BERRIES?\p"
-	.string "If I had some left over, I'd gladly\n"
-	.string "give you one…\p"
-	.string "But, I don't have any to spare today.\n"
-	.string "Sorry about that.$"
+	.string "Zer?\n"
+	.string "Ez al duzu BAIARIK?\p"
+	.string "BAIARIK izango banu, gustora\n"
+	.string "emango nizuke bat, baina…\p"
+	.string "Gaur ez zait bat ere geratzen.\n"
+	.string "Sentitzen dut.$"
 
 BerryBlender_EventScript_BerryBlender1::
 	lockall

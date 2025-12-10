@@ -92,75 +92,75 @@ ProfileMan_EventScript_Ret::
 	return
 
 ProfileMan_Text_CollectTrainerProfiles:
-	.string "Hello there, TRAINER!\n"
-	.string "You've got a wonderful smile, there.\p"
-	.string "I have a hobby--collecting the profiles\n"
-	.string "of POKéMON TRAINERS.$"
+	.string "Kaixo, ENTRENATZAILE!\n"
+	.string "Irribarre ederra duzu, alajaina.\p"
+	.string "Zaletasun bat dut: POKéMON\n"
+	.string "ENTRENATZAILEEN profilak biltzea.$"
 
 ProfileMan_Text_MayISeeYourProfile:
-	.string "So, how about it?\n"
-	.string "May I see your profile?$"
+	.string "Eta, zer iruditzen zaizu?\n"
+	.string "Ikusi al dezaket zure profila?$"
 
 ProfileMan_Text_EasyChatExplanation:
-	.string "You make your own profile by putting\n"
-	.string "together four words or phrases.\p"
-	.string "Here, I'll show you an example of a\n"
-	.string "profile using four pieces of text.\p"
-	.string "You can switch those four pieces with\n"
-	.string "other text pieces any which way you\l"
-	.string "like to make your own profile.\p"
-	.string "There are a lot of text pieces that\n"
-	.string "you can use.\p"
-	.string "They are arranged in groups like\n"
-	.string "POKéMON, lifestyles, and hobbies so\l"
-	.string "it is easier to look them up.\p"
-	.string "So, first, choose the group of text\n"
-	.string "pieces to display a list of choices.\p"
-	.string "Then, pick the choice you want.\p"
-	.string "Repeat for the remaining text choices,\n"
-	.string "and you'll have your very own profile.$"
+	.string "Lau hitz edo esaldi aukeratuta\n"
+	.string "egin dezakezu zure profila.\p"
+	.string "Entzun, adibide bat emango dizut\n"
+	.string "lau testu zati erabilita.\p"
+	.string "Lau zati horiek beste edozein\n"
+	.string "zatirekin trukatu ditzakezu zure\l"
+	.string "profil propioa egiteko.\p"
+	.string "Testu zati desberdin asko\n"
+	.string "erabili ditzakezu.\p"
+	.string "Taldetan banatuta daude, hala nola,\n"
+	.string "POKéMONAK, bizi-estiloak edo\l"
+	.string "zaletasunak, bilatzeko errazagoak izateko.\p"
+	.string "Beraz, lehenengo, aukeratu hitz\n"
+	.string "talde bat, aukerak ikusteko.\p"
+	.string "Ondoren, nahi duzun testua aukeratu.\p"
+	.string "Errepikatu testu zati guztiekin,\n"
+	.string "eta zure profil propioa izango duzu.$"
 
 ProfileMan_Text_LetsSeeItThen:
-	.string "Yes! Thank you!\n"
-	.string "So, let's see it, then.$"
+	.string "Bai! Eskerrik asko!\n"
+	.string "Ikus dezagun, orduan.$"
 
 ProfileMan_Text_ImagineYouWouldHaveWonderfulProfile:
-	.string "Oh, no, really?\p"
-	.string "I imagine someone like you would have\n"
-	.string "a wonderful profile…$"
+	.string "Ai, ez, benetan?\p"
+	.string "Zu bezalako batek profil bikaina\n"
+	.string "izango du, ziur…$"
 
 ProfileMan_Text_NotIntoItRightNow:
-	.string "Oh? You're not into it right now?\p"
-	.string "Well, anytime is good by me!$"
+	.string "Zer? Ez duzula nahi orain?\p"
+	.string "Beno, edozein momentutan itzuli!$"
 
 ProfileMan_Text_YouHaveWonderfulSmile:
-	.string "Hello there, TRAINER!\n"
-	.string "You've got a wonderful smile.$"
+	.string "Kaixo, ENTRENATZAILE!\n"
+	.string "Irribarre ederra daukazu.$"
 
 ProfileMan_Text_MayISeeYourNewProfile:
-	.string "May I see your new profile?$"
+	.string "Ikusi al dezaket zure profil berria?$"
 
 ProfileMan_Text_EvenBetterThanLastProfile:
-	.string "Yes! Thank you!\p"
-	.string "I hope it's even better than the profile\n"
-	.string "you showed me before.$"
+	.string "Bai! Eskerrik asko!\p"
+	.string "Lehengoa baino are profil hobea\n"
+	.string "izango duzula espero dut.$"
 
 ProfileMan_Text_LikeProfileWayItIs:
-	.string "Oh, you like your profile the way it is.\p"
-	.string "I don't blame you--it's a wonderful\n"
-	.string "profile the way it is now.$"
+	.string "Zure profila den bezelakoa izatea nahi duzu.\p"
+	.string "Normala iruditzen zait, zure profila\n"
+	.string "bikaina da orain dagoen bezala.$"
 
 ProfileMan_Text_FantasticProfile:
-	.string "F-fantastic!\p"
-	.string "Your profile, it's wonderful!\n"
-	.string "It really says what you're about.\p"
-	.string "Why, anyone hearing this profile would\n"
-	.string "be captivated by you!\p"
-	.string "Thank you!$"
+	.string "B-Bikaina!\p"
+	.string "Zure profila izugarria da!\n"
+	.string "Nolakoa zaren adierazten du.\p"
+	.string "Profil hau entzungo lukeen edonor\n"
+	.string "txundituta geratuko litzateke!\p"
+	.string "Eskerrik asko!$"
 
 @ Unused
 ProfileMan_Text_YouKnowSecretSaying:
-	.string "Oh?\n"
-	.string "You know the secret saying!\p"
-	.string "That means you're now a fellow member\n"
-	.string "of the MYSTERY EVENT CLUB!$"
+	.string "Zer?\n"
+	.string "Badakizu esaera sekretua!\p"
+	.string "Horrek esan nahi du GERTAKARI\n"
+	.string "MISTERIOTSUAREN KLUBEKOA zarela!$"

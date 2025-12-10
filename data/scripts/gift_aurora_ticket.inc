@@ -35,23 +35,23 @@ AuroraTicket_Obtained:
 	end
 
 sText_AuroraTicketForYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
-	.string "There is a ticket here for you.$"
+	.string "Eskerrik asko OPARI MISTERIOTSUAREN\n"
+	.string "Sistema erabiltzeagatik.\p"
+	.string "{PLAYER} izango zara.\n"
+	.string "Tiket bat dago hemen zuretzat.$"
 
 sText_AuroraTicketUseAtPort:
-	.string "It appears to be for use at the\n"
-	.string "LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "UR-LILI HIRIKO portuan erabili\n"
+	.string "behar dela uste dut.\p"
+	.string "Zergatik ez duzu proba\n"
+	.string "egiten?$"
 
 sText_AuroraTicketThankYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "Eskerrik asko OPARI MISTERIOTSUAREN\n"
+	.string "Sistema erabiltzeagatik.$"
 
 sText_AuroraTicketBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
-	.string "Your BAG's KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "Sentitzen dut, {PLAYER}.\n"
+	.string "Zure ITEM GAKOEN POLTSIKOA betea dago.\p"
+	.string "Gorde zerbait zure PCan, mesedez,\n"
+	.string "eta itzuli honen bila.$"

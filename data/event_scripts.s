@@ -835,122 +835,122 @@ Common_EventScript_PlayerHandedOverTheItem::
 
 @ The below and surf.inc could be split into some text/notices.inc
 gText_PokemartSign::
-	.string "“Selected items for your convenience!”\n"
-	.string "POKéMON MART$"
+	.string "“Item erabilgarriak, zuretzat!”\n"
+	.string "POKéMON DENDA$"
 
 gText_PokemonCenterSign::
-	.string "“Rejuvenate your tired partners!”\n"
-	.string "POKéMON CENTER$"
+	.string "“Sendatu zure kide nekatuak!”\n"
+	.string "POKéMON ZENTROA$"
 
 gText_MomOrDadMightLikeThisProgram::
-	.string "{STR_VAR_1} might like this program.\n"
+	.string "{STR_VAR_1}(e)ri gustatuko zaio programa hau.\n"
 	.string "… … … … … … … … … … … … … … … …\p"
-	.string "Better get going!$"
+	.string "Hobe joatea!$"
 
 gText_WhichFloorWouldYouLike::
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\p"
-	.string "Which floor would you like?$"
+	.string "Ongi etorri UR-LILIKO ZENTRO KOMERTZIALERA.\p"
+	.string "Zein solairutara joan nahi duzu?$"
 
 gText_SandstormIsVicious::
-	.string "The sandstorm is vicious.\n"
-	.string "It's impossible to keep going.$"
+	.string "Harea-ekaitzak oso gogor jotzen du.\n"
+	.string "Ezinezkoa da aurrera jarraitzea.$"
 
 gText_SelectWithoutRegisteredItem::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "POLTSAKO item bat SELECT botoian\n"
+	.string "jar daiteke, errazago erabiltzeko.$"
 
 gText_PokemonTrainerSchoolEmail::
-	.string "There's an e-mail from POKéMON TRAINER\n"
-	.string "SCHOOL.\p"
+	.string "POKéMON ENTRENATZAILEEN ESKOLAKO\n"
+	.string "e-mail bat dago.\p"
 	.string "… … … … … …\p"
-	.string "A POKéMON may learn up to four moves.\p"
-	.string "A TRAINER's expertise is tested on the\n"
-	.string "move sets chosen for POKéMON.\p"
+	.string "POKéMON batek 4 eraso ikasi ditzake gehienez.\p"
+	.string "ENTRENATZAILEAREN abileziak eraso\n"
+	.string "hauek ondo aukeratzean datza.\p"
 	.string "… … … … … …$"
 
 gText_PlayerHouseBootPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER}(e)k PCa piztu du.$"
 
 gText_PokeblockLinkCanceled::
-	.string "The link was canceled.$"
+	.string "Lotura bertan behera utzi da.$"
 
 gText_UnusedNicknameReceivedPokemon::
-	.string "Want to give a nickname to\n"
-	.string "the {STR_VAR_2} you received?$"
+	.string "Nahi al diozu ezizena jarri\n"
+	.string "jasotako {STR_VAR_2} honi?$"
 
 gText_PlayerWhitedOut::
-	.string "{PLAYER} is out of usable\n"
-	.string "POKéMON!\p{PLAYER} whited out!$"
+	.string "{PLAYER}(e)ri ez zaio POKéMONIK geratzen!\n"
+	.string "{PLAYER} zorabiatu egin da!$"
 
 gText_RegisteredTrainerinPokeNav::
-	.string "Registered {STR_VAR_1} {STR_VAR_2}\n"
-	.string "in the POKéNAV.$"
+	.string "{STR_VAR_2} {STR_VAR_1} POKéNAVEAN\n"
+	.string "erregistratu duzu.$"
 
 gText_ComeBackWithSecretPower::
-	.string "Do you know the TM SECRET POWER?\p"
-	.string "Our group, we love the TM SECRET\n"
-	.string "POWER.\p"
-	.string "One of our members will give it to you.\n"
-	.string "Come back and show me if you get it.\p"
-	.string "We'll accept you as a member and sell\n"
-	.string "you good stuff in secrecy.$"
+	.string "Ezagutzen al duzu BOTERE EZKUTUA MTa?\p"
+	.string "Gure taldean, oso atsegin dugu\n"
+	.string "BOTERE EZKUTUA.\p"
+	.string "Gutako batek emango dizu.\n"
+	.string "Itzuli eta erakutsi lortzen duzunean.\p"
+	.string "Taldekide egingo zaitugu eta gauza\n"
+	.string "bereziak salduko dizkizugu ezkutuan.$"
 
 gText_PokerusExplanation::
-	.string "Your POKéMON may be infected with\n"
-	.string "POKéRUS.\p"
-	.string "Little is known about the POKéRUS\n"
-	.string "except that they are microscopic life-\l"
-	.string "forms that attach to POKéMON.\p"
-	.string "While infected, POKéMON are said to\n"
-	.string "grow exceptionally well.$"
+	.string "Zure POKéMONA POKéRUSAK infektatu\n"
+	.string "duela dirudi.\p"
+	.string "Nahikoa ezezaguna da POKéRUSA,\n"
+	.string "POKéMONEI lotzen zaien organismo\l"
+	.string "bizi mikroskopikoak direla soilik dakigu.\p"
+	.string "Infektatuta badaude, POKéMONAK\n"
+	.string "bereziki ondo hazten omen dira.$"
 
 	.include "data/text/surf.inc"
 
 gText_DoorOpenedFarAway::
-	.string "It sounded as if a door opened\n"
-	.string "somewhere far away.$"
+	.string "Nonbait ate bat ireki dela\n"
+	.string "dirudi.$"
 
 gText_BigHoleInTheWall::
-	.string "There is a big hole in the wall.$"
+	.string "Zulo handi bat dago horman.$"
 
 gText_SorryWirelessClubAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "Sentitzen dut.\n"
+	.string "HARI GABEKO POKéMON KLUBEAN\l"
+	.string "doikuntza batzuk egiten ari gara.$"
 
 gText_UndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "Doikuntzak egiten ari\n"
+	.string "direla dirudi…$"
 
 @ Unused
 gText_SorryTradeCenterInspections::
-	.string "I'm terribly sorry. The TRADE CENTER\n"
-	.string "is undergoing inspections.$"
+	.string "Sentitzen dut. TRUKE ZENTROA\n"
+	.string "aztertzen ari dira orain.$"
 
 @ Unused
 gText_SorryRecordCornerPreparation::
-	.string "I'm terribly sorry. The RECORD CORNER\n"
-	.string "is under preparation.$"
+	.string "Sentitzen dut. ERREKORREN TXOKOA\n"
+	.string "prestatzen ari gara.$"
 
 gText_PlayerHandedOverTheItem::
-	.string "{PLAYER} handed over the\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}(e)k {STR_VAR_1}A\n"
+	.string "eman du.$"
 
 gText_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+	.string "Eskerrik asko OPARI MISTERIOTSUAREN\n"
+	.string "Sistemara sartzeagatik.$"
 
 gText_PlayerFoundOneTMHM::
-	.string "{PLAYER} found one {STR_VAR_1}\n"
-	.string "{STR_VAR_2}!$"
+	.string "{PLAYER}(e)k {STR_VAR_1}\n"
+	.string "{STR_VAR_2} bat aurkitu du!$"
 
 gText_Sudowoodo_Attacked::
-	.string "The weird tree doesn't like the\n"
-	.string "WAILMER PAIL!\p"
-	.string "The weird tree attacked!$"
+	.string "Zuhaitz arraroak ez du atsegin\n"
+	.string "WAILMER ONTZIA!\p"
+	.string "Zuhaitz arraroak eraso egin du!$"
 
 gText_LegendaryFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "{STR_VAR_1} basatiak ihes egin du!$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/questionnaire.inc"

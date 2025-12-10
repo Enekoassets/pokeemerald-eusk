@@ -530,177 +530,177 @@ LilycoveCity_PokemonCenter_1F_EventScript_Pikachu::
 	end
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheFavorLady:
-	.string "I'm the FAVOR LADY…$"
+	.string "FABOREEN ANDEREÑOA naiz…$"
 
 LilycoveCity_PokemonCenter_1F_Text_ObsessedWithThing:
-	.string "I've recently developed an obsession\n"
-	.string "for {STR_VAR_1} things…$"
+	.string "Azkenaldian txoratuta nago\n"
+	.string "{STR_VAR_1} gauzekin…$"
 
 LilycoveCity_PokemonCenter_1F_Text_ThankYouForLastTime:
-	.string "Oh…\n"
-	.string "Thank you for last time…$"
+	.string "Aizu…\n"
+	.string "Eskerrik asko aurrekoagatik…$"
 
 LilycoveCity_PokemonCenter_1F_Text_PlayerGaveMeBadThing:
-	.string "Before, I think it was {STR_VAR_3}…\p"
-	.string "{STR_VAR_3} gave me one {STR_VAR_2},\n"
-	.string "saying it was {STR_VAR_1}.\p"
-	.string "But it wasn't {STR_VAR_1}.\n"
-	.string "Not in the least bit.$"
+	.string "Lehen, {STR_VAR_3} zela uste nuen…\p"
+	.string "{STR_VAR_3}(e)k {STR_VAR_2} bat eman zidan,\n"
+	.string "{STR_VAR_1} zela esanez.\p"
+	.string "Baina ez zen {STR_VAR_1}.\n"
+	.string "Inondik inora.$"
 
 LilycoveCity_PokemonCenter_1F_Text_PlayerGaveMeGreatThing:
-	.string "Before, {STR_VAR_3} gave me a very\n"
-	.string "{STR_VAR_1} {STR_VAR_2}.\p"
-	.string "I cherish it now.$"
+	.string "Lehen, {STR_VAR_3}(e)k {STR_VAR_2}\n"
+	.string "{STR_VAR_1} bat eman dit.\p"
+	.string "Asko maite dut orain.$"
 
 LilycoveCity_PokemonCenter_1F_Text_WillYouShareThing:
-	.string "Listen, if you have anything that\n"
-	.string "is {STR_VAR_1}, will you share it\l"
-	.string "with me?$"
+	.string "Aizu, {STR_VAR_1} den zerbait\n"
+	.string "baduzu, partekatuko al zenuke\l"
+	.string "nirekin?$"
 
 LilycoveCity_PokemonCenter_1F_Text_WhatWillYouGiveMe:
-	.string "…Really?\n"
-	.string "What will you give me?$"
+	.string "…Benetan?\n"
+	.string "Zer emango didazu?$"
 
 LilycoveCity_PokemonCenter_1F_Text_IsThatSoGoodbye:
-	.string "Is that so?\n"
-	.string "Then, it's good-bye…$"
+	.string "Zer diozu?\n"
+	.string "Beno, agur, orduan…$"
 
 LilycoveCity_PokemonCenter_1F_Text_NotWillingToShare:
-	.string "Oh…\n"
-	.string "You're not willing to share?$"
+	.string "Beno…\n"
+	.string "Ez duzu partekatu nahi?$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllTryToCherishIt:
-	.string "Oh?\n"
-	.string "That {STR_VAR_2} is {STR_VAR_1}?\p"
-	.string "…Oh, is that right?\p"
-	.string "Well, I owe you a thanks anyway.\n"
-	.string "I'll try to cherish it…$"
+	.string "Zer?\n"
+	.string "{STR_VAR_2} hori {STR_VAR_1} da?\p"
+	.string "…Benetan?\p"
+	.string "Beno, eskerrik asko, dena dela.\n"
+	.string "Maitatzen saiatuko naiz…$"
 
 LilycoveCity_PokemonCenter_1F_Text_IWillCherishThis:
-	.string "Oh…\p"
-	.string "That's a quite {STR_VAR_1}\n"
-	.string "{STR_VAR_2}…\p"
-	.string "Isn't it nice?\n"
-	.string "It's so dreamy…\p"
-	.string "Thank you…\n"
-	.string "I will cherish this…$"
+	.string "Beno…\p"
+	.string "Hori nahikoa {STR_VAR_2}\n"
+	.string "{STR_VAR_1} da…\p"
+	.string "Ez al da polita?\n"
+	.string "Ametsetakoa bezala da…\p"
+	.string "Eskerrik asko…\n"
+	.string "Asko maitatuko dut…$"
 
 LilycoveCity_PokemonCenter_1F_Text_IWillTreasureThis:
-	.string "…Oh, oh, oh…\p"
-	.string "This is amazing!\n"
-	.string "This really is {STR_VAR_1}!\p"
-	.string "I never knew that one {STR_VAR_2}\n"
-	.string "could be this {STR_VAR_1}!\p"
-	.string "Thank you!\p"
-	.string "I will treasure this for the rest\n"
-	.string "of my life!$"
+	.string "…Ene, ene, ene…\p"
+	.string "Hau itzela da!\n"
+	.string "Benetan da {STR_VAR_1}!\p"
+	.string "Ez nekien {STR_VAR_2} bat\n"
+	.string "horren {STR_VAR_1} izan zitekeenik!\p"
+	.string "Eskerrik asko!\p"
+	.string "Nire altxorra izango da nire\n"
+	.string "bizi osoan zehar!$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllGiveYouThisInReturn:
-	.string "I'll give you this wonderful item in\n"
-	.string "return for your fabulous gift.\p"
-	.string "I hope you will cherish it…$"
+	.string "Item bikain hau emango dizut zure\n"
+	.string "opariaren truke.\p"
+	.string "Maitatuko duzula espero dut…$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouDontHaveSpaceForIt:
-	.string "Oh, you can't have it if you don't have\n"
-	.string "the space for it.\p"
-	.string "Please come see me when you get\n"
-	.string "your BAG organized…$"
+	.string "Ezin duzu hartu, beretzat lekurik\n"
+	.string "ez baduzu.\p"
+	.string "Ordenatu zure POLTSA eta itzuli\n"
+	.string "nigana berriro…$"
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheQuizLady:
-	.string "I'm the QUIZ LADY!\n"
-	.string "I love quizzes!$"
+	.string "GALDE-GALDE ANDEREÑOA naiz!\n"
+	.string "Maite ditut galdetegiak!$"
 
 LilycoveCity_PokemonCenter_1F_Text_WaitingToTakeYourQuiz:
-	.string "Oh?\p"
-	.string "I'm waiting for a challenger to answer\n"
-	.string "the quiz you made.\p"
-	.string "We can chat another time, okay?$"
+	.string "Nola?\p"
+	.string "Zuk egindako galdetegia nork\n"
+	.string "erantzungo itxaroten ari naiz.\p"
+	.string "Beste batean hitz egingo dugu, bai?$"
 
 LilycoveCity_PokemonCenter_1F_Text_WaitingForChallenger:
-	.string "I'm waiting for someone to challenge\n"
-	.string "a quiz this {STR_VAR_1} thought up!$"
+	.string "{STR_VAR_1} honek egindako galdetegia\n"
+	.string "nork erantzungo itxaroten ari naiz!$"
 
 LilycoveCity_PokemonCenter_1F_Text_TakeQuizChallenge:
-	.string "If you answer correctly, you can win\n"
-	.string "fabulous prizes!\p"
-	.string "Would you like to take the quiz\n"
-	.string "challenge?$"
+	.string "Ondo erantzuten baduzu, opari\n"
+	.string "bikainak irabaziko dituzu!\p"
+	.string "Nahi al diozu galdetegiaren\n"
+	.string "erronkari aurre egin?$"
 
 LilycoveCity_PokemonCenter_1F_Text_WaitForAnswer:
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 
 LilycoveCity_PokemonCenter_1F_Text_HowBoringBye:
-	.string "Oh, how boring!\n"
-	.string "Bye-bye!$"
+	.string "Zu bai aspergarria!\n"
+	.string "Aio!$"
 
 LilycoveCity_PokemonCenter_1F_Text_YoureGoingToQuit:
-	.string "Awww!\n"
-	.string "You're going to quit?$"
+	.string "Eneee!\n"
+	.string "Irten egingo al zara?$"
 
 LilycoveCity_PokemonCenter_1F_Text_TakeTheQuizAnotherTime:
-	.string "Please take the quiz challenge\n"
-	.string "another time!$"
+	.string "Mesedez, egin galdetegiaren\n"
+	.string "erronka beste batean!$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouGotItRight:
-	.string "You're amazing! You've got it right!\n"
-	.string "You're one sharp customer!$"
+	.string "Bikaina zara! Asmatu duzu!\n"
+	.string "Bezero azkarra zara, gero!$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouGotItRightYouveWonPersonsPrize:
-	.string "Congratulations!\n"
-	.string "You've got the quiz right!\p"
-	.string "You've won a prize provided by\n"
-	.string "{STR_VAR_1}!$"
+	.string "Zorionak!\n"
+	.string "Asmatu duzu galdetegia!\p"
+	.string "Saria irabazi duzu,\n"
+	.string "{STR_VAR_1}(e)k emanda!$"
 
 @ Unused
 LilycoveCity_PokemonCenter_1F_Text_XReceivedOneY:
-	.string "{STR_VAR_1} received\n"
-	.string "one {STR_VAR_2}!$"
+	.string "{STR_VAR_1}(e)k\n"
+	.string "{STR_VAR_2} bat jaso du!$"
 
 LilycoveCity_PokemonCenter_1F_Text_YourBagIsFilledUp:
-	.string "Oh? Your BAG is filled up!\n"
-	.string "Come see me when you have room.$"
+	.string "Zer? POLTSA betea daukazu!\n"
+	.string "Itzuli lekua duzunean.$"
 
 LilycoveCity_PokemonCenter_1F_Text_WrongTheCorrectAnswerIs:
-	.string "Hmm… Wrong!\n"
-	.string "The correct answer is “{STR_VAR_3}”!$"
+	.string "Hmm… Oker!\n"
+	.string "Erantzun zuzena “{STR_VAR_3}” da!$"
 
 LilycoveCity_PokemonCenter_1F_Text_IGetToKeepPrize:
-	.string "Too bad!\p"
-	.string "I get to keep the quiz prize\n"
-	.string "{STR_VAR_1} now!$"
+	.string "Pena!\p"
+	.string "Niretzat da {STR_VAR_1}\n"
+	.string "saria orain!$"
 
 LilycoveCity_PokemonCenter_1F_Text_MakeYourOwnQuiz:
-	.string "Listen, listen!\n"
-	.string "Would you like to make your own quiz?$"
+	.string "Entzun, entzun! Nahi duzu\n"
+	.string "zure galdetegi propioa egin?$"
 
 LilycoveCity_PokemonCenter_1F_Text_MaybeNextTime:
-	.string "Oh, I see…\n"
-	.string "Well, maybe next time!$"
+	.string "Ados…\n"
+	.string "Beno, ea hurrengo batean!$"
 
 LilycoveCity_PokemonCenter_1F_Text_PickYourPrize:
-	.string "Okay, the first thing you have to do\n"
-	.string "is pick the prize for the person that\l"
-	.string "answers your quiz correctly.\p"
-	.string "But beware, if the person taking\n"
-	.string "the quiz can't get it right, I get to\l"
-	.string "keep the prize!$"
+	.string "Ongi, lehenik eta behin, aukeratu\n"
+	.string "galdetegia ondo erantzuten duen\l"
+	.string "pertsonarentzako saria.\p"
+	.string "Baina knotuz, galdetegia erantzuten\n"
+	.string "duenak ez badu asmatzen, saria niretzat\l"
+	.string "izango da!$"
 
 LilycoveCity_PokemonCenter_1F_Text_QuitChoosingPrize:
-	.string "If you don't choose a prize,\n"
-	.string "your quiz can't be made.\p"
-	.string "Are you going to quit making\n"
-	.string "your quiz?$"
+	.string "Ez baduzu saririk aukeratzen,\n"
+	.string "ezin duzu galdetegia egin.\p"
+	.string "Galdetegia osatzea alde\n"
+	.string "batera utzi nahi al duzu?$"
 
 LilycoveCity_PokemonCenter_1F_Text_WriteYourQuiz:
-	.string "Oh, how nice!\n"
-	.string "That's a wonderful prize!\p"
-	.string "Next, you need to write your quiz\n"
-	.string "question and its answer.$"
+	.string "Ene, zeinen ederra!\n"
+	.string "Hori sari itzela da!\p"
+	.string "Jarraian, zure galdera eta\n"
+	.string "erantzuna aukeratu behar dituzu.$"
 
 LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizQuestion:
-	.string "Are you going to quit writing\n"
-	.string "your quiz question?$"
+	.string "Zure galdetegiko galderaren\n"
+	.string "idazketa alde batera utzi?$"
 
 @ Unused
 LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizAnswer:
@@ -708,77 +708,77 @@ LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizAnswer:
 	.string "your quiz answer?$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllLookForAChallenger:
-	.string "Thank you!\n"
-	.string "You've put together a nice quiz.\p"
-	.string "I'll go look for someone who'll take\n"
-	.string "your quiz challenge right away.$"
+	.string "Eskerrik asko!\n"
+	.string "Galdetegi ederra osatu duzu.\p"
+	.string "Zure galdetegia erantzungo duen\n"
+	.string "norbait bialtuko dut.$"
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheContestLady:
-	.string "I'm the CONTEST LADY!\n"
-	.string "I sure do love CONTESTS!$"
+	.string "TXAPELKETEN ANDEREÑOA naiz!\n"
+	.string "Oso atsgein ditut TXAPELKETAK!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ThankForPokeblock:
-	.string "Thanks for your {POKEBLOCK} before!$"
+	.string "Eskerrik asko lehen {POKEBLOCK}A emateagatik!$"
 
 LilycoveCity_PokemonCenter_1F_Text_MyFriendDisplaysQuality:
-	.string "This is my friend {STR_VAR_1}!\n"
-	.string "It's the epitome of {STR_VAR_2}!\p"
-	.string "But I think that it will display\n"
-	.string "even more {STR_VAR_2}!$"
+	.string "Hau nire lagun {STR_VAR_1} da!\n"
+	.string "{STR_VAR_2} gorena da!\p"
+	.string "Baina uste dut are {STR_VAR_2}\n"
+	.string "gehiago erakutsiko duela!$"
 
 LilycoveCity_PokemonCenter_1F_Text_DontHaveAPokeblockCase:
-	.string "So, I need your help!\p"
-	.string "Please, may I have one {POKEBLOCK}?\n"
-	.string "All I'm asking for is one!\p"
-	.string "…Oh, but…\n"
-	.string "Don't you have a {POKEBLOCK} CASE?\l"
-	.string "That's no good. Next time, then!$"
+	.string "Zure laguntza behar dut!\p"
+	.string "Mesedez, emango {POKEBLOCK} bat?\n"
+	.string "Bakarra behar dut!\p"
+	.string "…Baina, baina…\n"
+	.string "Ez al duzu {POKEBLOCK} KUTXARIK?\l"
+	.string "Pena handia. Hurrengoan, orduan!$"
 
 LilycoveCity_PokemonCenter_1F_Text_AskingForOnePokeblock:
-	.string "So, I need your help!\p"
-	.string "Please, may I have one {POKEBLOCK}?\n"
-	.string "All I'm asking for is one!$"
+	.string "Zure laguntza behar dut!\p"
+	.string "Mesedez, emango {POKEBLOCK} bat?\n"
+	.string "Bakarra behar dut!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ICantHaveOnePokeblock:
-	.string "Awww!\n"
-	.string "I can't have one {POKEBLOCK}?!$"
+	.string "Oooh!\n"
+	.string "Ez al didazu {POKEBLOCK} bat emango?!$"
 
 LilycoveCity_PokemonCenter_1F_Text_WhatACheapskate:
-	.string "Sheesh!\n"
-	.string "What a cheapskate!$"
+	.string "Bleh!\n"
+	.string "Zu bai zu xuhurra!$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllUseYourPokeblock:
-	.string "Yay!\n"
-	.string "Thank you!\p"
-	.string "I'll feed my POKéMON your {POKEBLOCK}\n"
-	.string "right away.$"
+	.string "Bai!\n"
+	.string "Eskerrik asko!\p"
+	.string "Nire POKéMONARI zure {POKEBLOCK}A\n"
+	.string "emango diot oraintxe bertan.$"
 
 LilycoveCity_PokemonCenter_1F_Text_NoChangeThanks:
-	.string "…It doesn't seem to have changed\n"
-	.string "in any way at all…\p"
+	.string "…Ez dirudi inolaz ere aldatu\n"
+	.string "denik, bada…\p"
 	.string "Hmm…\p"
-	.string "Oh, well!\n"
-	.string "Thank you very much!$"
+	.string "Beno ba!\n"
+	.string "Eskerrik asko benetan!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ReallyImprovedThanks:
-	.string "Oh, yay!\n"
-	.string "It's really delighted!\p"
-	.string "I think it really improved {STR_VAR_1}'s\n"
-	.string "{STR_VAR_2} quality, too.\p"
-	.string "Thank you so much!$"
+	.string "Ene, bai!\n"
+	.string "Oso pozik dago!\p"
+	.string "Badirudi {STR_VAR_1}(r)en\n"
+	.string "{STR_VAR_2} kalitatea igo egin duela.\p"
+	.string "Eskerrik asko benetan!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ReadyToEnterContests:
 	.string "Hmm…\p"
-	.string "I think we may be ready to enter\n"
-	.string "some CONTESTS.\p"
-	.string "If you see us in one somewhere,\n"
-	.string "I hope you'll cheer for us.$"
+	.string "Uste dut prest nagoela TXAPELKETA\n"
+	.string "batean parte hartzeko.\p"
+	.string "Nonbait ikusten bagaituzu,\n"
+	.string "egin gure alde.$"
 
 LilycoveCity_PokemonCenter_1F_Text_Zigzagoon:
-	.string "{STR_VAR_1}: Guguuh!$"
+	.string "{STR_VAR_1}: Guguu!$"
 
 LilycoveCity_PokemonCenter_1F_Text_Kecleon:
-	.string "{STR_VAR_1}: Igigigiiih!$"
+	.string "{STR_VAR_1}: Igigigiii!$"
 
 LilycoveCity_PokemonCenter_1F_Text_Poochyena:
 	.string "{STR_VAR_1}: Baaarun…$"
@@ -787,4 +787,4 @@ LilycoveCity_PokemonCenter_1F_Text_Pikachu:
 	.string "{STR_VAR_1}: Pikka!$"
 
 LilycoveCity_PokemonCenter_1F_Text_Skitty:
-	.string "{STR_VAR_1}: Umyaaaan!$"
+	.string "{STR_VAR_1}: Umiaaaan!$"

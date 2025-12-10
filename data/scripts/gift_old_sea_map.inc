@@ -35,24 +35,24 @@ OldSeaMap_Obtained:
 	end
 
 sText_MysteryGiftOldSeaMapForYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "Let me confirm--you are {PLAYER}?\p"
-	.string "We received this OLD SEA MAP\n"
-	.string "addressed to you.$"
+	.string "Eskerrik asko OPARI MISTERIOTSUAREN\n"
+	.string "Sistema erabiltzeagatik.\p"
+	.string "Utzi baieztatzen: {PLAYER} al zara?\p"
+	.string "Zuretzako ANTZINAKO MAPA\n"
+	.string "hau jaso dugu.$"
 
 sText_MysteryGiftOldSeaMapUseAtPort:
-	.string "It appears to be for use at the\n"
-	.string "LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "UR-LILI HIRIKO portuan erabili\n"
+	.string "behar dela uste dut.\p"
+	.string "Zergatik ez duzu proba\n"
+	.string "egiten?$"
 
 sText_MysteryGiftOldSeaMapThankYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "Eskerrik asko OPARI MISTERIOTSUAREN\n"
+	.string "Sistema erabiltzeagatik.$"
 
 sText_MysteryGiftOldSeaMapBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
-	.string "Your BAG's KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "Sentitzen dut, {PLAYER}.\n"
+	.string "Zure ITEM GAKOEN POLTSIKOA betea dago.\p"
+	.string "Gorde zerbait zure PCan, mesedez,\n"
+	.string "eta itzuli honen bila.$"

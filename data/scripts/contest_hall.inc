@@ -1372,38 +1372,38 @@ LilycoveCity_ContestLobby_EventScript_DelayForRSPlayer::
 	return
 
 LilycoveCity_ContestLobby_Text_ReceptionDontHavePokeblockCase:
-	.string "Hello!\p"
-	.string "This is the reception counter for\n"
-	.string "POKéMON CONTESTS.\p"
-	.string "Oh? It appears that you don't have\n"
-	.string "a {POKEBLOCK} CASE yet.\p"
-	.string "In that case, we need to provide you\n"
-	.string "with this!$"
+	.string "Kaixo!\p"
+	.string "Hau POKéMON TXAPELKETETAN\n"
+	.string "izena emateko harrera da.\p"
+	.string "Zer? badirudi ez duzula\n"
+	.string "{POKEBLOCK} KUTXARIK.\p"
+	.string "Orduan, honako hau emango\n"
+	.string "dizugu!$"
 
 LilycoveCity_ContestLobby_Text_NowThatWeveClearedThatUp:
-	.string "Okay, now that we've cleared that\n"
-	.string "up…\p"
-	.string "Hello!\p"
-	.string "This is the reception counter for\n"
-	.string "POKéMON CONTESTS.$"
+	.string "Ongi, orain hori eginda\n"
+	.string "utzi dugunez…\p"
+	.string "Kaixo!\p"
+	.string "Hau POKéMON TXAPELKETETAN\n"
+	.string "izena emateko harrera da.$"
 
 LilycoveCity_ContestLobby_Text_ContestReception:
-	.string "Hello!\p"
-	.string "This is the reception counter for\n"
-	.string "POKéMON CONTESTS.$"
+	.string "Kaixo!\p"
+	.string "Hau POKéMON TXAPELKETETAN\n"
+	.string "izena emateko harrera da.$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_CounterOnlyFor4PlayerContests:
-	.string "Hello!\p"
-	.string "This reception counter is only\n"
-	.string "for 4-player POKéMON CONTESTS.$"
+	.string "Kaixo!\p"
+	.string "Harrera mahai hau 4 jokalariko\n"
+	.string "POKéMON TXAPELKETETARAKO soilik da.$"
 
 LilycoveCity_ContestLobby_Text_EnterContest1:
-	.string "Would you like to enter your POKéMON\n"
-	.string "in our CONTESTS?$"
+	.string "Nahi al duzu zure POKéMONAREKIN\n"
+	.string "TXAPELKETA batean parte hartu?$"
 
 LilycoveCity_ContestLobby_Text_WhichTopic1:
-	.string "Which topic would you like?$"
+	.string "Zein mota nahi zenuke?$"
 
 LilycoveCity_ContestLobby_Text_ExplainContests:
 	.string "A POKéMON CONTEST involves four\n"
@@ -1450,144 +1450,144 @@ LilycoveCity_ContestLobby_Text_ExplainContestRanks:
 	.string "often as its TRAINER wants.$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichRank:
-	.string "Which Rank would you like to enter?$"
+	.string "Zein Mailatan sartu nahi zenuke?$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichContest1:
-	.string "Which CONTEST would you like to enter?$"
+	.string "Zein TXAPELKETATAN sartu nahi zenuke?$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichPokemon1:
-	.string "Which POKéMON would you like to enter?$"
+	.string "Zein POKéMON sartu nahi zenuke?$"
 
 LilycoveCity_ContestLobby_Text_MonNotQualifiedForRank:
-	.string "I'm terribly sorry, but your POKéMON\n"
-	.string "is not qualified to compete at this\l"
-	.string "Rank yet…$"
+	.string "Sentitzen dut, baina zure POKéMONA\n"
+	.string "ezin da Maila honetako TXAPELKETA\l"
+	.string "batean sartu oraindik…$"
 
 LilycoveCity_ContestLobby_Text_EggCannotTakePart:
-	.string "I'm sorry, but an EGG cannot take part\n"
-	.string "in a POKéMON CONTEST.$"
+	.string "Sentitzen dut, baina ARRAUTZA batek\n"
+	.string "ezin du TXAPELKETETAN parte hartu.$"
 
 LilycoveCity_ContestLobby_Text_MonInNoConditionForContest:
-	.string "Your POKéMON appears to be in no\n"
-	.string "condition to take part in a CONTEST…$"
+	.string "Zure POKéMONA ez dago TXAPELKETA\n"
+	.string "batean parte hartzeko moduan…$"
 
 LilycoveCity_ContestLobby_Text_AlreadyWonEnterAnyway:
-	.string "Oh, but that RIBBON…\p"
-	.string "Your POKéMON has won this CONTEST\n"
-	.string "before, hasn't it?\p"
-	.string "Would you like to enter it in this\n"
-	.string "CONTEST anyway?$"
+	.string "Ene, baina, ZINTA hori…\p"
+	.string "Zure POKéMONAK jada irabazi du TXAPELKETA\n"
+	.string "hau lehenago, ezta?\p"
+	.string "Nahi duzu TXAPELKETA honetan\n"
+	.string "parte hartu, hala ere?$"
 
 LilycoveCity_ContestLobby_Text_ConfirmContestMon:
-	.string "Is that your CONTEST POKéMON?$"
+	.string "Hori da zure TXAPELKETA POKéMONA?$"
 
 LilycoveCity_ContestLobby_Text_YourMonIsEntryNum4:
-	.string "Okay, your POKéMON will be entered\n"
-	.string "in this CONTEST.\p"
-	.string "Your POKéMON is Entry No. 4.\n"
-	.string "The CONTEST will begin shortly.$"
+	.string "Ongi, zure POKéMONA TXAPELKETAN\n"
+	.string "sartu dugu.\p"
+	.string "Zure POKéMONA 4. parte hartzailea da.\n"
+	.string "TXAPELKETA laister hasiko da.$"
 
 LilycoveCity_ContestLobby_Text_ComeThroughHere:
-	.string "Please come in through here.\n"
-	.string "Good luck!$"
+	.string "Pasa zaitez hemendik, mesedez.\n"
+	.string "Zorte on!$"
 
 LilycoveCity_ContestLobby_Text_PokemonWonWeHavePrize:
-	.string "Congratulations! Your POKéMON is the\n"
-	.string "CONTEST winner!\p"
-	.string "We have your prize right here.\n"
-	.string "Please, right this way!$"
+	.string "Zorionak! Zure POKéMONAK irabazi\n"
+	.string "du TXAPELKETA!\p"
+	.string "Hementxe dugu zure saria.\n"
+	.string "Mesedez, etorri hemendik!$"
 
 LilycoveCity_ContestLobby_Text_ComeBackForPrizeLater:
-	.string "Please come back for your prize\n"
-	.string "later on.$"
+	.string "Etorri zure sariaren bila\n"
+	.string "beranduago, mesedez.$"
 
 ContestHall_Text_GettingStartedParticipantsAsFollows:
-	.string "MC: Hello! We're just getting started\n"
-	.string "with a {STR_VAR_3} Rank POKéMON\l"
+	.string "ZM: Kaixo! Oraintxe hasiko dugu\n"
+	.string "{STR_VAR_3} Mailako POKéMON\l"
 	.string "{STR_VAR_2}!\p"
-	.string "The participating TRAINERS and their\n"
-	.string "POKéMON are as follows:$"
+	.string "Hauek dira parte hartuko duten\n"
+	.string "ENTRENATZAILE eta POKéMONAK:$"
 
 ContestHall_Text_GettingStartedParticipantsAsFollowsLink:
-	.string "MC: Hello! We're just getting started\n"
-	.string "with a 4-player linked POKéMON\l"
+	.string "ZM: Kaixo! Oraintxe hasiko dugu\n"
+	.string "4 jokalariko POKéMON\l"
 	.string "{STR_VAR_2}!\p"
-	.string "The participating TRAINERS and their\n"
-	.string "POKéMON are as follows:$"
+	.string "Hauek dira parte hartuko duten\n"
+	.string "ENTRENATZAILE eta POKéMONAK:$"
 
 ContestHall_Text_EntryXTrainersMon:
-	.string "MC: Entry No. {STR_VAR_2}!\n"
-	.string "{STR_VAR_1}'s {STR_VAR_3}!$"
+	.string "ZM: {STR_VAR_2}. Parte hartzailea!\n"
+	.string "{STR_VAR_1} eta {STR_VAR_3}!$"
 
 ContestHall_Text_SeenContestantsAudienceWillVote:
-	.string "MC: We've just seen the four POKéMON\n"
-	.string "contestants.\p"
-	.string "Now it's time for primary judging!\p"
-	.string "The audience will vote on their\n"
-	.string "favorite POKéMON contestants.\p"
-	.string "Without any further ado, let the\n"
-	.string "voting begin!$"
+	.string "ZM: Ikusi berri ditugu gure POKéMON\n"
+	.string "parte hartzaileak.\p"
+	.string "Has dadila lehen epaiketa!\p"
+	.string "Ikusleek botoa emango dute beraien\n"
+	.string "POKéMON gustukoena aukeratzeko.\p"
+	.string "Gehiago luzatu gabe, has\n"
+	.string "dadila boto ematea!$"
 
 ContestHall_Text_VotingUnderWay:
-	.string "Voting under way…$"
+	.string "Botoak ematen ari dira…$"
 
 ContestHall_Text_VotingCompleteLetsAppeal:
-	.string "Voting is now complete!\p"
-	.string "While the votes are being tallied,\n"
-	.string "let's move on to secondary judging!\p"
-	.string "The second stage of judging is the\n"
-	.string "much anticipated appeal time!\p"
-	.string "May the contestants amaze us with\n"
-	.string "superb appeals of dazzling moves!\p"
-	.string "Let's see a little enthusiasm!\n"
-	.string "Let's appeal!$"
+	.string "Botoak emanda daude!\p"
+	.string "Botoak kontatu bitartean, has\n"
+	.string "dadila bigarren epaiketa!\p"
+	.string "Epaiketaren bigarren zatiko erakustaldi\n"
+	.string "ikusgarrien unea heldu da!\p"
+	.string "Txundi gaitzatela parte hartzaileek\n"
+	.string "beraien eraso harrigarriekin!\p"
+	.string "Ikus dezagun gogo pixka bat!\n"
+	.string "Has dadila erakustaldia!$"
 
 ContestHall_Text_ThatsItForJudging:
-	.string "MC: That's it for judging!$"
+	.string "ZM: Amaitu da epaiketa!$"
 
 ContestHall_Text_ThankYouForAppeals:
-	.string "Thank you all for a most wonderful\n"
-	.string "display of quality appeals!\p"
-	.string "This concludes all judging!\n"
-	.string "Thank you for your fine efforts!$"
+	.string "Eskerrik asko denoi horrelako\n"
+	.string "tamainako erakustaldiagatik!\p"
+	.string "Horrela amaitu da epaia!\n"
+	.string "Eskerrik asko zuen esfortzuagatik!$"
 
 ContestHall_Text_JudgeLooksReady:
-	.string "Now, all that remains is the pulse-\n"
-	.string "pounding proclamation of the winner.\p"
-	.string "The JUDGE looks ready to make\n"
-	.string "the announcement!$"
+	.string "Orain, irabazlea nor den esatea\n"
+	.string "falta da, soilik. Adi egon!\p"
+	.string "Badirudi EPAILEA prest dagoela\n"
+	.string "garailea nor den jakinarazteko!$"
 
 ContestHall_Text_WeWillNowDeclareWinner:
-	.string "JUDGE: We will now declare the winner!$"
+	.string "EPAILEA: Garailea nor den esango dugu!$"
 
 ContestHall_Text_CongratsTrainerXandMon:
-	.string "MC: Entry No. {STR_VAR_2}!\p"
-	.string "{STR_VAR_3} and {STR_VAR_1},\n"
-	.string "congratulations!$"
+	.string "ZM: {STR_VAR_2}. Parte hartzailea!\p"
+	.string "{STR_VAR_3} eta {STR_VAR_1},\n"
+	.string "zorionak!$"
 
 ContestHall_Text_CongratsPleaseCompeteAgain:
-	.string "MC: Congratulations!\n"
-	.string "Please do compete again!$"
+	.string "ZM: Zorionak!\n"
+	.string "Parte hartu berriz, nahi duzunean!$"
 
 ContestHall_Text_AcceptYourPrize:
-	.string "MC: Here you are!\n"
-	.string "Please accept your prize!$"
+	.string "ZM: Tori!\n"
+	.string "Hementxe zure saria!$"
 
 ContestHall_Text_ConferRibbonAsPrize:
-	.string "We confer on you this RIBBON\n"
-	.string "as your prize!$"
+	.string "ZINTA hau emango dizugu\n"
+	.string "sari bezala!$"
 
 ContestHall_Text_ReceivedRibbon:
-	.string "{PLAYER} received a RIBBON.$"
+	.string "{PLAYER}(e)k ZINTA bat jaso du.$"
 
 ContestHall_Text_PutRibbonOnMon:
-	.string "{PLAYER} put the RIBBON on\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}(e)k {STR_VAR_1}(e)ri\n"
+	.string "jarri dio ZINTA.$"
 
 ContestHall_Text_PickUpPrizeAtCounterLater:
-	.string "Please pick up your prize at\n"
-	.string "the reception counter later.\l"
-	.string "Please do compete again!$"
+	.string "Mesedez, jaso zure saria\n"
+	.string "harrerako mahaian gero.\l"
+	.string "Parte hartu berriz, nahi duzunean!$"
 
 @ Unused
 ContestHall_Text_OnlyRegister4Players:
@@ -1598,16 +1598,16 @@ ContestHall_Text_OnlyRegister4Players:
 	.string "Would you like to take part?$"
 
 LilycoveCity_ContestLobby_Text_ProgressWillBeSaved:
-	.string "Before entering a CONTEST, your\n"
-	.string "progress will be saved.$"
+	.string "TXAPELKETAN Parte hartu aurretik,\n"
+	.string "zure partida gordeko da.$"
 
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime:
-	.string "We hope you will participate another\n"
-	.string "time.$"
+	.string "Berriro parte hartuko duzula espero\n"
+	.string "dugu.$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_EnterContest2:
-	.string "Would you like to enter a CONTEST?$"
+	.string "TXAPELKETA batean parte hartu nahi duzu?$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_Explain4PlayerContest:
@@ -1623,123 +1623,123 @@ LilycoveCity_ContestLobby_Text_Explain4PlayerContest:
 
 @ Unused
 LilycoveCity_ContestLobby_Text_EnterWhichContest2:
-	.string "Which CONTEST would you like to enter?$"
+	.string "Zein TXAPELKETATAN sartu nahi zenuke?$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_EnterWhichPokemon2:
-	.string "Which POKéMON would you like to enter?$"
+	.string "Zein POKéMON sartu nahi zenuke?$"
 
 LilycoveCity_ContestLobby_Text_Transmitting:
-	.string "Transmitting…$"
+	.string "Bidaltzen…$"
 
 LilycoveCity_ContestLobby_Text_TransmissionError:
-	.string "Transmission error…$"
+	.string "Akatsa bidalketan…$"
 
 LilycoveCity_ContestLobby_Text_PlayersChoseDifferentContest:
-	.string "You may have chosen a different\n"
-	.string "CONTEST than another player.$"
+	.string "Beste jokalari baten TXAPELKETA\n"
+	.string "desberdina aukeratu duzu.$"
 
 LilycoveCity_ContestLobby_Text_PlayersMadeDifferentChoice:
-	.string "You may have made a different\n"
-	.string "choice than another player.$"
+	.string "Beste jokalari baten aukeraketa\n"
+	.string "desberdina egin duzu.$"
 
 LilycoveCity_ContestLobby_Text_PleaseWaitBButtonCancel:
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "Itxaron, mesedez.\n"
+	.string "… … B Botoia: Ezeztatu$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime2:
-	.string "We hope you will participate another\n"
-	.string "time.$"
+	.string "Berriz parte hartuko duzula espero\n"
+	.string "dugu.$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_TransmissionErrorTryAgain:
-	.string "Transmission error.\n"
-	.string "Please try again.$"
+	.string "Akatsa bidalketan.\n"
+	.string "Saiatu berriro, mesedez.$"
 
 LilycoveCity_ContestLobby_Text_YourMonIsEntryNumX:
-	.string "Your POKéMON will be entered in\n"
-	.string "the CONTEST.\p"
-	.string "Your POKéMON is Entry No. {STR_VAR_2}.$"
+	.string "Ongi, zure POKéMONA TXAPELKETAN\n"
+	.string "sartu dugu.\p"
+	.string "Zure POKéMONA 4. parte hartzailea da.$"
 
 LilycoveCity_ContestLobby_Text_ContestBeginShortly:
-	.string "The CONTEST will begin shortly.$"
+	.string "TXAPELKETA laister hasiko da.$"
 
 LilycoveCity_ContestLobby_Text_LinkContestReception:
-	.string "Welcome! This is the POKéMON CONTEST\n"
-	.string "link reception counter.\p"
-	.string "You may enter CONTESTS together with\n"
-	.string "one or more friends.$"
+	.string "Ongi etorri! Hau TXAPELKETETARAKO\n"
+	.string "lotura harrera mahaia da.\p"
+	.string "Lagun bat edo gehiagorekin har\n"
+	.string "dezakezu parte TXAPELKETETAN.$"
 
 LilycoveCity_ContestLobby_Text_WhichTopic2:
-	.string "Which topic would you like?$"
+	.string "Zein mota nahi zenuke?$"
 
 LilycoveCity_ContestLobby_Text_EnterContest3:
-	.string "Would you like to enter a CONTEST?$"
+	.string "TXAPELKETA batean parte hartu nahi duzu?$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichContest3:
-	.string "Which CONTEST would you like to enter?$"
+	.string "Zein TXAPELKETATAN sartu nahi zenuke?$"
 
 LilycoveCity_ContestLobby_Text_MonInNoCondition2:
-	.string "Your POKéMON appears to be in no\n"
-	.string "condition to take part in a CONTEST…$"
+	.string "Zure POKéMONA ez dago TXAPELKETA\n"
+	.string "batean parte hartzeko moduan…$"
 
 LilycoveCity_ContestLobby_Text_EggCannotTakePart2:
-	.string "I'm sorry, but an EGG cannot take part\n"
-	.string "in a POKéMON CONTEST.$"
+	.string "Sentitzen dut, baina ARRAUTZA batek\n"
+	.string "ezin du TXAPELKETETAN parte hartu.$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichPokemon3:
-	.string "Which POKéMON would you like to enter?$"
+	.string "Zein POKéMON sartu nahi zenuke?$"
 
 LilycoveCity_ContestLobby_Text_PleaseDecideLinkLeader:
-	.string "Please decide which of you will\n"
-	.string "become the GROUP LEADER.\p"
-	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "Mesedez, aukeratu zuetako nor\n"
+	.string "izango den TALDEKO LIDERRA.\p"
+	.string "Beste jokalariek “BATU TALDERA”\n"
+	.string "aukera autatu behar dute.$"
 
 LilycoveCity_ContestLobby_Text_PlayerAt4PCounterUseGMode:
-	.string "At least one player has entered using\n"
-	.string "the 4-player reception counter.\p"
-	.string "There must be four players connected\n"
-	.string "using a GBA Game Link cable.\p"
-	.string "When the four players are ready,\n"
-	.string "select G-MODE (GLOBAL MODE),\l"
-	.string "then register to enter again, please.$"
+	.string "Gutxienez jokalari bat sartu da\n"
+	.string "4 jokalariko harrera mahaia erabilita.\p"
+	.string "Lau jokalari egon behar dira konektatuta\n"
+	.string "GBA Link Joko kablea erabiliz.\p"
+	.string "Lau jokalariak prest daudenean,\n"
+	.string "aukeratu G-MODUA (MODU GLOBALA),\l"
+	.string "eta erregistratu berriro sartzeko, mesedez.$"
 
 LilycoveCity_ContestLobby_Text_ExplainLinkContest:
-	.string "This is a CONTEST for two to four\n"
-	.string "players linked using a Wireless\l"
-	.string "Adapter or a GBA Game Link cable.\p"
-	.string "Participants are first asked to choose\n"
-	.string "the mode they wish to enter.\p"
-	.string "There are two different modes.\p"
-	.string "E-MODE (EMERALD MODE) is for\n"
-	.string "two to four players, each with a\l"
-	.string "POKéMON Emerald Game Pak.\p"
-	.string "G-MODE (GLOBAL MODE) is only for\n"
-	.string "four players, each with a POKéMON\l"
-	.string "Emerald, Ruby, or Sapphire Game Pak.\p"
-	.string "The players should discuss which mode\n"
-	.string "they want, then choose the same mode.\p"
-	.string "Once all the players have chosen\n"
-	.string "the same CONTEST in the same mode,\l"
-	.string "the entry registration is complete.\p"
-	.string "After that, a CONTEST will start in\n"
-	.string "the usual manner.$"
+	.string "TXAPELKETA honetan 2-4 jokalarik parte\n"
+	.string "hartu dezakete, Hari Gabeko Egokitzailea\l"
+	.string "edo GBA Link Joko kablea erabiliz.\p"
+	.string "Parte hartzaileei zein modu nahi\n"
+	.string "duten galdetuko zaie hasieran.\p"
+	.string "Bi modu daude.\p"
+	.string "E-MODUA (ESMERALDA MODUA) 2-4\n"
+	.string "jokalarik jolastu dezakete, bakoitzak\l"
+	.string "POKéMON Esmeralda Joko Kartutxo bat badu.\p"
+	.string "G-MODUA (MODU GLOBALA) soilik lau\n"
+	.string "jokalarirentzat da, bakoitzak POKéMON\l"
+	.string "Esmeralda, Errubi, edo Zafiro Kartutxoa\p"
+	.string "badu. Jokalariek modua erabaki eta,\n"
+	.string "ondoren, modu hori aukeratu behar dute.\p"
+	.string "Jokalari guztiek TXAPELKETA bera modu\n"
+	.string "berean aukeratu ostean, erregistroa\l"
+	.string "amaitu egingo da. Horren ostean,\p"
+	.string "TXAPELKETA bat hasiko da, ohiko\n"
+	.string "moduan.$"
 
 LilycoveCity_ContestLobby_Text_ExplainEMode:
-	.string "In E-MODE (EMERALD MODE),\n"
-	.string "a LINK CONTEST can be held with\l"
-	.string "two to four players. Each player must\l"
-	.string "have a POKéMON Emerald Game Pak.\p"
-	.string "The players must be linked with each\n"
-	.string "other using Wireless Adapters or\l"
-	.string "GBA Game Link cables.\p"
-	.string "If there are fewer than four players,\n"
-	.string "TRAINERS in the hall will join to fill\l"
-	.string "the 4-player CONTEST lineup.\p"
-	.string "Please be aware that E-MODE is not\n"
-	.string "available in POKéMON Ruby or Sapphire.$"
+	.string "E-MODUAN (ESMERALDA MODUAN),\n"
+	.string "LOTURA TXAPELKETA bat egin daiteke, 2-4\l"
+	.string "jokalarirekin. Jokalari bakoitzak POKéMON\l"
+	.string "Esmeralda Joko Kartutxo bat behar du.\p"
+	.string "Jokalariak elkarri konektatuta egon behar\n"
+	.string "dira Hari Gabeko Egokitzailea edo GBA\l"
+	.string "Link Joko kablea erabiliz.\p"
+	.string "Lau jokalari baino gutxiago badaude,\n"
+	.string "atondoko ENTRENATZAILEAK sartuko\l"
+	.string "dira 4 jokalariko TXAPELKETA izateko.\p"
+	.string "Kontuan izan E-MODUA ezin dela\n"
+	.string "erabili POKéMON Errubia edo Zafiroan.$"
 
 LilycoveCity_ContestLobby_Text_ExplainGMode:
 	.string "G-MODE (GLOBAL MODE) is specifically\n"
@@ -1760,42 +1760,42 @@ LilycoveCity_ContestLobby_Text_NoWirelessAdapterInGMode:
 	.string "again using a GBA Game Link cable.$"
 
 LilycoveCity_ContestLobby_Text_WhichContestMode:
-	.string "Which CONTEST MODE would you like\n"
-	.string "to enter?$"
+	.string "Zein TXAPELKETA MOTATAN nahi\n"
+	.string "duzu parte hartu?$"
 
 ContestHall_Text_GettingStartedWireless:
-	.string "MC: Hello! We're just getting started\n"
-	.string "with a 4-player linked POKéMON\l"
+	.string "ZM: Kaixo! Oraintxe hasiko dugu 4\n"
+	.string "jokalariko Lotura POKéMON\l"
 	.string "{STR_VAR_2}!$"
 
 ContestHall_Text_ParticipantsAsFollows:
-	.string "The participating TRAINERS and their\n"
-	.string "POKéMON are as follows:$"
+	.string "Hauek dira parte hartuko duten\n"
+	.string "ENTRENATZAILE eta POKéMONAK:$"
 
 ContestHall_Text_WeveSeenContestants:
-	.string "MC: We've just seen the four POKéMON\n"
-	.string "contestants.\p"
-	.string "Now it's time for primary judging!$"
+	.string "ZM: Ikusi berri ditugu lau POKéMON\n"
+	.string "parte hartzaileak.\p"
+	.string "Has dadila lehen epaiketa!$"
 
 ContestHall_Text_AudienceWillVote:
-	.string "The audience will vote on their\n"
-	.string "favorite POKéMON contestants.$"
+	.string "Ikusleek botoa emango dute beraien\n"
+	.string "POKéMON gustukoena aukeratzeko.$"
 
 ContestHall_Text_LetVotingBegin:
-	.string "Without any further ado,\n"
-	.string "let the voting begin!$"
+	.string "Gehiago luzatu gabe, has\n"
+	.string "dadila boto ematea!$"
 
 ContestHall_Text_VotingComplete:
-	.string "Voting is now complete!\p"
-	.string "While the votes are being tallied,\n"
-	.string "let's move on to secondary judging!$"
+	.string "Botoak emanda daude!\p"
+	.string "Botoak kontatu bitartean, has\n"
+	.string "dadila bigarren epaiketa!$"
 
 ContestHall_Text_SecondStageOfJudging:
-	.string "The second stage of judging is\n"
-	.string "the much-anticipated appeal time!\p"
-	.string "May the contestants amaze us with\n"
-	.string "superb appeals of dazzling moves!$"
+	.string "Epaiketaren bigarren zatiko erakustaldi\n"
+	.string "ikusgarrien unea heldu da!\p"
+	.string "Txundi gaitzatela parte hartzaileek\n"
+	.string "beraien eraso harrigarriekin!$"
 
 ContestHall_Text_LetsAppeal:
-	.string "Let's see a little enthusiasm!\n"
-	.string "Let's appeal!$"
+	.string "Ikus dezagun gogo pixka bat!\n"
+	.string "Has dadila erakustaldia!$"
