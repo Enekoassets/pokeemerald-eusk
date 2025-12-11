@@ -91,8 +91,8 @@ MauvilleCity_PokemonCenter_1F_Text_WantToTradeDecor:
 	.string "Want to trade decorations with me?$"
 
 MauvilleCity_PokemonCenter_1F_Text_TraderFeelingTheBlues:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Beno…\n"
+	.string "Erdi triste utzi nauzu, bai…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WeveAlreadyTraded:
 	.string "But we've traded decorations already,\n"
@@ -233,42 +233,42 @@ MauvilleCity_PokemonCenter_1F_EventScript_NoRoomForDecor::
 
 @ Storyteller
 MauvilleCity_PokemonCenter_1F_Text_WillYouHearMyTale:
-	.string "I'm the STORYTELLER.\n"
-	.string "I'll tell you tales of legendary\l"
-	.string "TRAINERS.\p"
-	.string "Will you hear my tale?$"
+	.string "IPUIN KONTALARIA naiz.\n"
+	.string "Elezaharretako ENTRENATZAILEEN\l"
+	.string "istorioak kontatzen ditut.\p"
+	.string "Entzun nahi al duzu nire istorioa?$"
 
 MauvilleCity_PokemonCenter_1F_Text_StorytellerFeelingTheBlues:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Beno…\n"
+	.string "Erdi triste utzi nauzu, bai…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WhichTaleToTell:
-	.string "I know of these legends.\n"
-	.string "Which tale will you have me tell?$"
+	.string "Elezahar hauek ezagutzen ditut.\n"
+	.string "Zein nahi duzu kontatzea?$"
 
 MauvilleCity_PokemonCenter_1F_Text_IKnowNoTales:
-	.string "But, I know of no legendary TRAINERS.\n"
-	.string "Hence, I know no tales.\p"
-	.string "Where does one find a TRAINER worthy\n"
-	.string "of a legendary tale?$"
+	.string "Baina ez dut elezaharretako ENTRENATZAILERIK\n"
+	.string "ezagutzen. Ondorioz, ez dut istoriorik.\p"
+	.string "Non aurki daitezke elezaharretarako\n"
+	.string "modukoak diren ENTRENATZAILEAK?$"
 
 MauvilleCity_PokemonCenter_1F_Text_YouDidStatXTimes:
-	.string "What's that?!\n"
-	.string "You… You…\p"
+	.string "Zer diozu?!\n"
+	.string "Zu… Zu…\p"
 	.string "{STR_VAR_2}\n"
-	.string "{STR_VAR_1} time(s)?!\p"
-	.string "That is indeed magnificent!\n"
-	.string "It's the birth of a new legend!$"
+	.string "{STR_VAR_1} aldiz?!\p"
+	.string "Hori izugarria da!\n"
+	.string "Mito berria jaio da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_CouldThereBeOtherLegends:
-	.string "It gets me thinking, could there be\n"
-	.string "other TRAINERS with more impressive\l"
-	.string "legends awaiting discovery?$"
+	.string "Pentsarazi egiten dit: egongo ote da\n"
+	.string "ENTRENATZAILE gehiago kondairetan\l"
+	.string "agertzeko modukorik?$"
 
 MauvilleCity_PokemonCenter_1F_Text_HaveYouAnyLegendaryTales:
-	.string "Are you a TRAINER?\p"
-	.string "Then tell me, have you any tales that\n"
-	.string "are even remotely legendary?$"
+	.string "ENTRENATZAILEA al zara?\p"
+	.string "Esan, orduan, ezagutzen al duzu\n"
+	.string "kondaira izan daitekeen istoriorik?$"
 
 @ Unused
 MauvilleCity_PokemonCenter_1F_Text_HearAnotherLegendaryTale:
@@ -277,516 +277,516 @@ MauvilleCity_PokemonCenter_1F_Text_HearAnotherLegendaryTale:
 
 MauvilleCity_PokemonCenter_1F_Text_NotWorthyOfLegend:
 	.string "Hmm…\n"
-	.string "I'm not satisfied…\p"
-	.string "I wish you would bring me news worthy\n"
-	.string "of being called a legend.$"
+	.string "Ez da nahikoa…\p"
+	.string "Mito dei diezaiekedan istorioak\n"
+	.string "ekartzea behra dut.$"
 
 MauvilleCity_PokemonCenter_1F_Text_IWishMorePeopleWereInterested:
-	.string "I wish more people would be interested\n"
-	.string "in hearing my epic tales of legendary\l"
-	.string "TRAINERS.$"
+	.string "Jendeak nire ENTRENATZAILE mitikoen\n"
+	.string "istorioei kasu gehiago egitea\l"
+	.string "nahi nuke.$"
 
 MauvilleCity_PokemonCenter_1F_Text_SavedGameTitle::
-	.string "The Save-Happy TRAINER$"
+	.string "Gorde-gorde ENTRENATZAILEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_SavedGameAction::
-	.string "Saved the game$"
+	.string "Partida gorde$"
 
 MauvilleCity_PokemonCenter_1F_Text_SavedGameStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER saved the game\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "A more cautious TRAINER than\n"
-	.string "{STR_VAR_3} one will never find!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "gorde zuen bere partida!\p"
+	.string "Ez dago inon {STR_VAR_3} baino\n"
+	.string "ENTRENATZAILE zuhurragorik!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrendsStartedTitle::
-	.string "The Trendsetter TRAINER$"
+	.string "ENTRENATZAILE Moda Ezarlea$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrendsStartedAction::
-	.string "Started trends$"
+	.string "Ezarritako modak$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrendsStartedStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER started new trends\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is setting trends for all\n"
-	.string "the HOENN region!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1}\n"
+	.string "hasi zituen modak!\p"
+	.string "{STR_VAR_3} HOENN osoan moda berriak\n"
+	.string "ezartzen ari da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedTitle::
-	.string "The BERRY-Planting TRAINER$"
+	.string "ENTRENATZAILE BAIA landatzailea$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedAction::
-	.string "Planted BERRIES$"
+	.string "Landatutako BAIAK$"
 
 MauvilleCity_PokemonCenter_1F_Text_BerriesPlantedStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER planted BERRIES\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a legendary lover of\n"
-	.string "BERRIES!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1}\n"
+	.string "aldiz landatu zituen BAIAK!\p"
+	.string "{STR_VAR_3} BAIEN maitale\n"
+	.string "mitikoa da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BikeTradesTitle::
-	.string "The BIKE-Loving TRAINER$"
+	.string "ENTRENATZAILE txirrinduzalea$"
 
 MauvilleCity_PokemonCenter_1F_Text_BikeTradesAction::
-	.string "Traded BIKES$"
+	.string "Trukatutako BIZIKLETAK$"
 
 MauvilleCity_PokemonCenter_1F_Text_BikeTradesStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER swapped BIKES\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must love BIKES deeply\n"
-	.string "and passionately!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1}\n"
+	.string "aldiz trukatu zituen BIZIKLETAK!\p"
+	.string "{STR_VAR_3} honek bene-benetan\n"
+	.string "maite ditu BIZIKLETAK!$"
 
 MauvilleCity_PokemonCenter_1F_Text_InterviewsTitle::
-	.string "The Interviewed TRAINER$"
+	.string "Elkarrizketatutako ENTRENATZAILEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_InterviewsAction::
-	.string "Got interviewed$"
+	.string "Elkarrizketatu zuten$"
 
 MauvilleCity_PokemonCenter_1F_Text_InterviewsStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER got interviewed\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER who's\n"
-	.string "attracting much attention!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE hau {STR_VAR_1}\n"
+	.string "aldiz elkarrizketatu zuten!\p"
+	.string "{STR_VAR_3} atentzio asko ematen\n"
+	.string "duen ENTRENATZAILEA izango da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesTitle::
-	.string "The Battle-Happy TRAINER$"
+	.string "ENTRENATZAILE borrokalaria$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesAction::
-	.string "Battled$"
+	.string "Borrokatu zuen$"
 
 MauvilleCity_PokemonCenter_1F_Text_TrainerBattlesStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER battled {STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER who can\n"
-	.string "never refuse a chance to battle!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "{STR_VAR_1} aldiz borrokatu zuen!\p"
+	.string "{STR_VAR_3} honek ez dio inoiz\n"
+	.string "ezetz esaten borroka on bati!$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtTitle::
-	.string "The POKéMON-Catching TRAINER$"
+	.string "ENTRENATZAILE POKéMON harrapatzailea$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtAction::
-	.string "Caught POKéMON$"
+	.string "Harrapatutako POKéMONAK$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonCaughtStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER caught\n"
-	.string "{STR_VAR_1} POKéMON!\p"
-	.string "{STR_VAR_3} is a legendary catcher of\n"
-	.string "wild POKéMON!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} POKéMON\n"
+	.string "harrapatu zituen!\p"
+	.string "{STR_VAR_3} kondairetako POKéMON\n"
+	.string "harraptzaile onena da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtTitle::
-	.string "The Fishing TRAINER$"
+	.string "ENTRENATZAILE arrantzalea$"
 
 MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtAction::
-	.string "Caught POKéMON with a ROD$"
+	.string "Arrantzatutako POKéMONAK$"
 
 MauvilleCity_PokemonCenter_1F_Text_FishingPokemonCaughtStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER caught\n"
-	.string "{STR_VAR_1} POKéMON while fishing!\p"
-	.string "{STR_VAR_3} is a legendary fishing\n"
-	.string "expert!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} POKéMON\n"
+	.string "harrapatu zituen arrantza eginda!\p"
+	.string "{STR_VAR_3} kondairetako arrantzale\n"
+	.string "adituena da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_EggsHatchedTitle::
-	.string "The EGG-Warming TRAINER$"
+	.string "ENTRENATZAILE ARRAUTZA-jagolea$"
 
 MauvilleCity_PokemonCenter_1F_Text_EggsHatchedAction::
-	.string "Hatched EGGS$"
+	.string "Zaindutako ARRAUTZAK$"
 
 MauvilleCity_PokemonCenter_1F_Text_EggsHatchedStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER hatched {STR_VAR_1} POKéMON\n"
-	.string "from EGGS!\p"
-	.string "{STR_VAR_3} is a legendary warmer\n"
-	.string "of EGGS!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} POKéMON\n"
+	.string "jaioarazi zituen ARRAUTZETATIK!\p"
+	.string "{STR_VAR_3} kondairetako ARRAUTZA\n"
+	.string "jagolea da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedTitle::
-	.string "The Evolver TRAINER$"
+	.string "ENTRENATZAILE eboluzionatzailea$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedAction::
-	.string "Evolved POKéMON$"
+	.string "Eboluzionatutako POKéMONAK$"
 
 MauvilleCity_PokemonCenter_1F_Text_PokemonEvolvedStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER made {STR_VAR_1} POKéMON\n"
-	.string "evolve!\p"
-	.string "{STR_VAR_3} is the ultimate evolver\n"
-	.string "of POKéMON!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} POKéMON\n"
+	.string "eboluzionatu zituen!\p"
+	.string "{STR_VAR_3} munduko POKéMON\n"
+	.string "eboluzionatzaile onena da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterTitle::
-	.string "The POKéMON CENTER-Loving TRAINER$"
+	.string "ENTRENATZAILE POKéMON ZENTROZALEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterAction::
-	.string "Used POKéMON CENTERS$"
+	.string "Erabilitako POKéMON ZENTROAK$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedPokemonCenterStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER healed POKéMON\n"
-	.string "{STR_VAR_1} times at POKéMON CENTERS!\p"
-	.string "There could be no greater lover of\n"
-	.string "POKéMON CENTERS than {STR_VAR_3}!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "sendatu zituen POKéMONAK ZENTROETAN!\p"
+	.string "Ez dago {STR_VAR_3} baino POKéMON\n"
+	.string "ZENTROEN maitale handiagorik!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeTitle::
-	.string "The Homebody TRAINER$"
+	.string "ENTRENATZAILE etxekoia$"
 
 MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeAction::
-	.string "Rested POKéMON at home$"
+	.string "Etxean sendatutako POKéMONAK$"
 
 MauvilleCity_PokemonCenter_1F_Text_RestedAtHomeStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER healed POKéMON\n"
-	.string "{STR_VAR_1} times at home!\p"
-	.string "There could be no more of a homebody\n"
-	.string "than {STR_VAR_3}!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "sendatu zituen POKéMONAK etxean!\p"
+	.string "Ez dago {STR_VAR_3} baino\n"
+	.string "ENTRENATZAILE etxekoiagorik!$"
 
 MauvilleCity_PokemonCenter_1F_Text_SafariGamesTitle::
-	.string "The SAFARI-Loving TRAINER$"
+	.string "ENTRENATZAILE SAFARIZALEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_SafariGamesAction::
-	.string "Entered the SAFARI ZONE$"
+	.string "SAFARI GUNEAN sartu$"
 
 MauvilleCity_PokemonCenter_1F_Text_SafariGamesStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER went into the SAFARI ZONE\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER whose wild side\n"
-	.string "must come out in the SAFARI ZONE!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE hau {STR_VAR_1} aldiz\n"
+	.string "sartu zen SAFARI GUNEAN!\p"
+	.string "{STR_VAR_3} ENTRENATZAILEAREN zati\n"
+	.string "basatia SAFARI GUNEAN agertzen da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutTitle::
-	.string "The CUT-Frenzy TRAINER$"
+	.string "ENTRENATZAILE EBAKITZAILEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutAction::
-	.string "Used CUT$"
+	.string "EBAKIA erabili$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedCutStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER used CUT\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER who just must\n"
-	.string "love to CUT!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "erabili zuen EBAKIA!\p"
+	.string "{STR_VAR_3} EBAKITZEA benetan\n"
+	.string "atsegin duen ENTRENATZAILEA da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashTitle::
-	.string "The ROCK-SMASHING TRAINER$"
+	.string "ENTRENATZAILE HAITZ APURLEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashAction::
-	.string "Smashed rocks$"
+	.string "Puskatutako haitzak$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedRockSmashStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER used ROCK SMASH\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER who\n"
-	.string "can't leave a stone unsmashed!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "puskatu ditu haitzak!\p"
+	.string "{STR_VAR_3} haitz bat hautsi gabe\n"
+	.string "utzi ezin duen ENTRENATZAILEA da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MovedBasesTitle::
-	.string "The Move-Loving TRAINER$"
+	.string "ENTRENATZAILE etxe aldaketazalea$"
 
 MauvilleCity_PokemonCenter_1F_Text_MovedBasesAction::
-	.string "Moved the SECRET BASE$"
+	.string "BASE SEKRETUA aldatu$"
 
 MauvilleCity_PokemonCenter_1F_Text_MovedBasesStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER moved the SECRET BASE\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER who loves\n"
-	.string "to move houses often!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "aldatu du BASE SEKRETUA lekuz!\p"
+	.string "{STR_VAR_3} etxe aldaketak atsegin\n"
+	.string "dituen ENTRENATZAILEA da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedSplashTitle::
-	.string "The SPLASH-Happy TRAINER$"
+	.string "ENTRENATZAILE ZIPRIZTINLARIA$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedSplashAction::
-	.string "Used SPLASH$"
+	.string "ZIPRIZTINA erabili$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedSplashStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER used SPLASH\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER who must love\n"
-	.string "SPLASHING around!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "erabili du ZIPRIZTINA!\p"
+	.string "{STR_VAR_3} dena ZIPRIZTINTZEA\n"
+	.string "gustoko duen ENTRENATZAILEA da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedStruggleTitle::
-	.string "The Tenacious TRAINER$"
+	.string "ENTRENATZAILE nekaezina$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedStruggleAction::
-	.string "Resorted to using STRUGGLE$"
+	.string "BORROKA erabili behar izan$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedStruggleStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER had to rely on STRUGGLE\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a tenacious TRAINER\n"
-	.string "who never gives in to adversity!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "erabili behar izan du BORROKA!\p"
+	.string "{STR_VAR_3} guztiari aurre egiten\n"
+	.string "dion ENTRENATZAILE nekaezina da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsTitle::
-	.string "The SLOT Champ$"
+	.string "TXANPONJALEEN Aditua$"
 
 MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsAction::
-	.string "Won the jackpot on the SLOTS$"
+	.string "MAKINA TXANPONJALEETAN irabazi$"
 
 MauvilleCity_PokemonCenter_1F_Text_SlotJackpotsStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won the jackpot on\n"
-	.string "the SLOTS {STR_VAR_1} times.\p"
-	.string "{STR_VAR_3} is a TRAINER who was lucky\n"
-	.string "on the SLOTS!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "irabazi du MAKINA TXANPONJALEETAN.\p"
+	.string "{STR_VAR_3} MAKINA TXANPONJALEETAN\n"
+	.string "zortea duen ENTRENATZAILEA da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RouletteWinsTitle::
-	.string "The ROULETTE Champ$"
+	.string "ERRULETAKO Txapelduna$"
 
 MauvilleCity_PokemonCenter_1F_Text_RouletteWinsAction::
-	.string "Had consecutive ROULETTE wins of$"
+	.string "ERRULETAN jarraian irabazi$"
 
 MauvilleCity_PokemonCenter_1F_Text_RouletteWinsStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won in ROULETTE\n"
-	.string "{STR_VAR_1} times in a row.\p"
-	.string "{STR_VAR_3} was lucky when the ball\n"
-	.string "bounced in ROULETTE!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "irabazi zuen jarraian ERRULETAN\p"
+	.string "{STR_VAR_3} zortekoa izan zen bolak\n"
+	.string "ERRULETAN jauzi egin zuenean!$"
 
 MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesTitle::
-	.string "The BATTLE TOWER Challenger$"
+	.string "BORROKA DORREKO Erronkaria$"
 
 MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesAction::
-	.string "Took the BATTLE TOWER challenge$"
+	.string "BORROKA DORREKO erronkari aurre egin$"
 
 MauvilleCity_PokemonCenter_1F_Text_BattleTowerChallengesStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER took the BATTLE TOWER\n"
-	.string "challenge {STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} is a TRAINER who aspires\n"
-	.string "for excellence in the BATTLE TOWER!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "egin zion aurre BORROKA DORREARI!\p"
+	.string "{STR_VAR_3} BORROKA DORREAN bikaintasuna\n"
+	.string "bilatzen duen ENTRENATZAILEA da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksTitle::
-	.string "The Blend-Loving TRAINER$"
+	.string "ENTRENATZAILE BIRRINTZAILEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksAction::
-	.string "Made {POKEBLOCK}S$"
+	.string "{POKEBLOCK}AK egin$"
 
 MauvilleCity_PokemonCenter_1F_Text_MadePokeblocksStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER made {POKEBLOCK}S\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "There is none better at using a BERRY\n"
-	.string "BLENDER than {STR_VAR_3}!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "egin ditu {POKEBLOCK}AK!\p"
+	.string "Ez dago {STR_VAR_3} baino hoberik\n"
+	.string "BAIA BIRRINTZAILEA erabiltzen!$"
 
 MauvilleCity_PokemonCenter_1F_Text_EnteredContestsTitle::
-	.string "The CONTEST-Loving TRAINER$"
+	.string "ENTRENATZAILE TXAPELKETAZALEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_EnteredContestsAction::
-	.string "Entered CONTESTS$"
+	.string "TXAPELKETETAN parte hartu$"
 
 MauvilleCity_PokemonCenter_1F_Text_EnteredContestsStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER entered CONTESTS\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must love showing off\n"
-	.string "POKéMON to others!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "hartu du parte TXAPELKETETAN!\p"
+	.string "{STR_VAR_3} bere POKéMONAK besteei\n"
+	.string "erakusten onena da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonContestsTitle::
-	.string "The CONTEST Master$"
+	.string "TXAPELKETEN ADITUA$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonContestsAction::
-	.string "Won CONTESTS$"
+	.string "TXAPELKETAK irabazi$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonContestsStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won CONTESTS\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be an incredible\n"
-	.string "CONTEST master!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "irabazi ditu TXAPELKETAK!\p"
+	.string "{STR_VAR_3} TXAPELKETETAN inongo\n"
+	.string "ADITUENA izango da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesShoppedTitle::
-	.string "The Happy Shopper$"
+	.string "Erosle alaia$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesShoppedAction::
-	.string "Shopped$"
+	.string "Erosi$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesShoppedStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER bought items in shops\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be one of those\n"
-	.string "people who are born to shop.$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "erosi ditu itemak dendetan!\p"
+	.string "{STR_VAR_3} guztia erosteko jaio\n"
+	.string "zen horietakoa da.$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderTitle::
-	.string "The Item-Finding TRAINER$"
+	.string "ENTRENATZAILE item bilatzailea$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderAction::
-	.string "Used an ITEMFINDER$"
+	.string "ZAHORIA erabili$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedItemFinderStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER used an ITEMFINDER\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must enjoy scouring the\n"
-	.string "ground for hidden items!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "erabili du ZAHORIA!\p"
+	.string "{STR_VAR_3} lurra item bila ondo\n"
+	.string "aztertzen duen horietakoa da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesRainedTitle::
-	.string "The Rain-Soaked TRAINER$"
+	.string "Blai egindako ENTRENATZAILEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesRainedAction::
-	.string "Got rained on$"
+	.string "Euriak harrapatu$"
 
 MauvilleCity_PokemonCenter_1F_Text_TimesRainedStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER got soaked by rain\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3}'s charisma must even\n"
-	.string "attract rain!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE hau {STR_VAR_1} aldiz\n"
+	.string "harrapatu du euriak!\p"
+	.string "{STR_VAR_3}(r)en izaerak euria\n"
+	.string "ere erakartzen du!$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexTitle::
-	.string "The Avid POKéDEX Reader$"
+	.string "POKéDEX Irakurlea$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexAction::
-	.string "Checked a POKéDEX$"
+	.string "POKéDEXA begiratu$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedPokedexStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER checked a POKéDEX\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must love inspecting\n"
-	.string "POKéMON in a POKéDEX!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "begiratu du POKéDEXA!\p"
+	.string "{STR_VAR_3} POKéDEXA ondo aztertzen\n"
+	.string "duen horietako da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsTitle::
-	.string "The RIBBON Collector$"
+	.string "ZINTA Bildumagilea$"
 
 MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsAction::
-	.string "Received RIBBONS$"
+	.string "ZINTAK jaso$"
 
 MauvilleCity_PokemonCenter_1F_Text_ReceivedRibbonsStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER received RIBBONS\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER who\n"
-	.string "loves to collect RIBBONS!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "jaso ditu zintak!\p"
+	.string "{STR_VAR_3} ZINTAK biltzea atsegin\n"
+	.string "duen ENTRENATZAILEA da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedTitle::
-	.string "The Ledge-Jumping TRAINER$"
+	.string "ENTRENATZAILE koska-saltaria$"
 
 MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedAction::
-	.string "Jumped down ledges$"
+	.string "Koskak saltatu$"
 
 MauvilleCity_PokemonCenter_1F_Text_LedgesJumpedStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER jumped down ledges\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "If there's a ledge to be jumped,\n"
-	.string "{STR_VAR_3} can't ignore it!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "saltatu ditu koskak!\p"
+	.string "Saltatzeko koska bat badago,\n"
+	.string "{STR_VAR_3} hortxe izango da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_TVWatchedTitle::
-	.string "The Legendary TV Viewer$"
+	.string "TELEBISTA Ikuslea$"
 
 MauvilleCity_PokemonCenter_1F_Text_TVWatchedAction::
-	.string "Watched TV$"
+	.string "TELEBISTA ikusi$"
 
 MauvilleCity_PokemonCenter_1F_Text_TVWatchedStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER watched TV\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must love watching TV!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "ikusi du TELEBISTA!\p"
+	.string "{STR_VAR_3} TELEBISTA zale porrokatua da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedClockTitle::
-	.string "The Time-Conscious TRAINER$"
+	.string "ENTRENATZAILE Neurlea$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedClockAction::
-	.string "Checked the time$"
+	.string "Ordua begiratu$"
 
 MauvilleCity_PokemonCenter_1F_Text_CheckedClockStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER checked the time\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a punctual TRAINER\n"
-	.string "who's conscious of the time.$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "begiratu du ordua!\p"
+	.string "{STR_VAR_3} garaiz iristen den\n"
+	.string "ENTRENATZAILE puntuala da.$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonLotteryTitle::
-	.string "The POKéMON LOTTERY Wizard$"
+	.string "POKéMON LOTERIAKO Aztia$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonLotteryAction::
-	.string "Won POKéMON LOTTERIES$"
+	.string "POKéMON LOTERIA irabazi$"
 
 MauvilleCity_PokemonCenter_1F_Text_WonLotteryStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER won POKéMON LOTTERIES\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must have many friends\n"
-	.string "to trade POKéMON with!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "irabazi du POKéMON LOTERIA!\p"
+	.string "{STR_VAR_3} honek lagun asko ditu\n"
+	.string "haiekin POKéMONAK trukatzeko!$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedDaycareTitle::
-	.string "The DAY CARE-Using Trainer$"
+	.string "ZAINDEGI erabiltzeailea$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedDaycareAction::
-	.string "Left POKéMON at the DAY CARE$"
+	.string "POKéMONAK ZAINDEGIAN utzi$"
 
 MauvilleCity_PokemonCenter_1F_Text_UsedDaycareStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER left POKéMON with the\n"
-	.string "DAY CARE {STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a real go-getter\n"
-	.string "who raises POKéMON aggressively!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE honek {STR_VAR_1} aldiz\n"
+	.string "utzi ditu POKéMONAK ZAINDEGIAN!\p"
+	.string "{STR_VAR_3} POKéMONAK azkar hazten\n"
+	.string "dituen ENTRENATZAILEA da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RodeCableCarTitle::
-	.string "The CABLE CAR-Loving TRAINER$"
+	.string "ENTRENATZAILE TELEFERIKOZALEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_RodeCableCarAction::
-	.string "Rode the CABLE CAR$"
+	.string "TELEFERIKOAN ibili$"
 
 MauvilleCity_PokemonCenter_1F_Text_RodeCableCarStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER rode the CABLE CAR\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a busy TRAINER\n"
-	.string "who's up and down all the time!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE hau {STR_VAR_1} aldiz\n"
+	.string "ibili da TELEFERIKOAN!\p"
+	.string "{STR_VAR_3} gora eta behera ibiltzen\n"
+	.string "den ENTRENATZAILE lanpetua da!$"
 
 MauvilleCity_PokemonCenter_1F_Text_HotSpringsTitle::
-	.string "The Hot Spring-Loving TRAINER$"
+	.string "ENTRENATZAILE TERMAZALEA$"
 
 MauvilleCity_PokemonCenter_1F_Text_HotSpringsAction::
-	.string "Bathed in hot springs$"
+	.string "Ur termaletan bainatu$"
 
 MauvilleCity_PokemonCenter_1F_Text_HotSpringsStory::
-	.string "This is a tale of a TRAINER\n"
-	.string "named {STR_VAR_3}.\p"
-	.string "This TRAINER bathed in hot springs\n"
-	.string "{STR_VAR_1} times!\p"
-	.string "{STR_VAR_3} must be a TRAINER with\n"
-	.string "baby-smooth skin!$"
+	.string "Hau {STR_VAR_3} izeneko ENTRENATZAILE\n"
+	.string "baten istorioa da.\p"
+	.string "ENTRENATZAILE hau {STR_VAR_1} aldiz\n"
+	.string "bainatu da ur-termaletan!\p"
+	.string "{STR_VAR_3} ume azala duen\n"
+	.string "ENTRENATZAILEA da!$"
 
 
 MauvilleCity_PokemonCenter_1F_EventScript_Storyteller::
@@ -856,21 +856,21 @@ MauvilleCity_PokemonCenter_1F_EventScript_StorytellerEnd::
 
 @ Giddy
 MauvilleCity_PokemonCenter_1F_Text_HearMyStory:
-	.string "I'm GIDDY!\n"
-	.string "I have a scintillating story for you!\p"
-	.string "Would you like to hear my story?$"
+	.string "HITZONTZI naiz!\n"
+	.string "Zuretzat istorio zirraragarria dut!\p"
+	.string "Entzun nahi al duzu nire istorioa?$"
 
 MauvilleCity_PokemonCenter_1F_Text_GiddyFeelingTheBlues:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Beno…\n"
+	.string "Erdi triste utzi nauzu, bai…$"
 
 MauvilleCity_PokemonCenter_1F_Text_AlsoIWasThinking:
-	.string "Also, I was thinking…$"
+	.string "Pentsatzen ari nintzen…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WeShouldChatAgain:
-	.string "That's about it, I think…\p"
-	.string "We should chat again!\n"
-	.string "Bye-bye!$"
+	.string "Horixe da, esango nuke…\p"
+	.string "Berriro hitz egin behar genuke!\n"
+	.string "Aio-aio!$"
 
 MauvilleCity_PokemonCenter_1F_EventScript_Giddy::
 	lock
@@ -919,58 +919,58 @@ MauvilleCity_PokemonCenter_1F_EventScript_ToldEnoughTales::
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToHearMySong:
-	.string "Hi, I'm the BARD.\n"
-	.string "Would you like to hear my song?$"
+	.string "Kaixo, BARDOA naiz.\n"
+	.string "Entzun nahi al duzu nire abestia?$"
 
 MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues1:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Beno…\n"
+	.string "Erdi triste utzi nauzu, bai…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WishICouldPlaySongForOthers:
-	.string "Oh, what a moving song…\n"
-	.string "I wish I could play it for others…$"
+	.string "Ene, hori bai abesti hunkigarria…\n"
+	.string "Besteei jo nahiko nieke…$"
 
 MauvilleCity_PokemonCenter_1F_Text_WouldYouLikeToWriteSomeLyrics:
-	.string "So?\n"
-	.string "How do you like my song?\p"
-	.string "But I'm none too happy about\n"
-	.string "the lyrics.\p"
-	.string "How would you like to write some\n"
-	.string "new lyrics for me?$"
+	.string "Eta?\n"
+	.string "Gustatu al zaizu abestia?\p"
+	.string "Ez zaizkit hitzak gustatzen,\n"
+	.string "ordea.\p"
+	.string "Idatziko zenituzke hitz berriak\n"
+	.string "niretzat?$"
 
 MauvilleCity_PokemonCenter_1F_Text_BardFeelingTheBlues2:
-	.string "Oh…\n"
-	.string "You've left me feeling the blues…$"
+	.string "Beno…\n"
+	.string "Erdi triste utzi nauzu, bai…$"
 
 MauvilleCity_PokemonCenter_1F_Text_LetMeSingItForYou:
-	.string "Thank you kindly!\n"
-	.string "Let me sing it for you.$"
+	.string "Eskerrik asko bihotzez!\n"
+	.string "Utzi iezadazu abesten.$"
 
 MauvilleCity_PokemonCenter_1F_Text_ThatHowYouWantedSongToGo:
-	.string "Was that how you wanted your song\n"
-	.string "to go?$"
+	.string "Abestia halakoa izatea nahi\n"
+	.string "al zenuen?$"
 
 MauvilleCity_PokemonCenter_1F_Text_IllSingThisSongForAWhile:
-	.string "Okay! That's it, then.\n"
-	.string "I'll sing this song for a while.$"
+	.string "Ongi! Hala bedi, orduan.\n"
+	.string "Hau kantatuko dut tarte batean.$"
 
 MauvilleCity_PokemonCenter_1F_Text_TeachWhatsHipAndHappening:
-	.string "Hey, yo! They call me the HIPSTER.\n"
-	.string "I'll teach you what's hip and happening.$"
+	.string "Ei, zu! HIPSTERRA naiz ni.\n"
+	.string "Modan zer dagoen erakutsiko dizut.$"
 
 MauvilleCity_PokemonCenter_1F_Text_IAlreadyTaughtYou:
-	.string "But, hey, I taught you what's hip and\n"
-	.string "happening already.\p"
-	.string "I'd like to spread the good word to\n"
-	.string "other folks.$"
+	.string "Baina, aizu, jada erakutsi dizut\n"
+	.string "zer dagoen modan.\p"
+	.string "Mundu guztiari irakatsi nahi nioke\n"
+	.string "zer den modan dagoena.$"
 
 MauvilleCity_PokemonCenter_1F_Text_IveGotNothingNewToTeach:
-	.string "But, hey, you already know a lot about\n"
-	.string "what's hip and happening.\p"
-	.string "I've got nothing new to teach you!$"
+	.string "Baina, aizu, zuk jada badakizu\n"
+	.string "ondo zer dagoen modan.\p"
+	.string "Ezin dizut ezer gehiago irakatsi!$"
 
 MauvilleCity_PokemonCenter_1F_Text_HaveYouHeardOfWord:
-	.string "Hey, have you heard about\n"
+	.string "Ei, entuzn al duzu zer den\n"
 	.string "“{STR_VAR_1}”?\p"
-	.string "What's it mean? Well…\n"
-	.string "Ask your daddy or mommy, okay?$"
+	.string "Zer esan nahi duen? Beno…\n"
+	.string "Galdetu aitatxori eta amatxori, bai?$"
