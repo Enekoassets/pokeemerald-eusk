@@ -926,15 +926,15 @@ BattleFrontier_BattleTowerLobby_Text_DirectYouToBattleRoom:
 	.string "I'll direct you to your BATTLE ROOM now.$"
 
 BattleFrontier_BattleTowerLobby_Text_DidntSaveBeforeQuitting:
-	.string "Excuse me!\p"
-	.string "You didn't save before you quit your\n"
-	.string "challenge last time.\p"
-	.string "Because of that, your challenge so far\n"
-	.string "has been disqualified. Sorry!$"
+	.string "Barkatu!\p"
+	.string "Sentitzen dut, baina badirudi ez zenuela\n"
+	.string "partida gorde azkenengoan.\p"
+	.string "Horren ondorioz, erronkatik deskalifikatu\n"
+	.string "egin zaitugu.$"
 
 BattleFrontier_BattleTowerLobby_Text_CongratsBeatenSeven:
-	.string "Congratulations!\n"
-	.string "You've beaten all seven TRAINERS!\p"
+	.string "Zorionak!\n"
+	.string "Zazpi ENTRENATZAILEAK garaitu dituzu!\p"
 	.string "$"
 
 @ Unused
@@ -944,8 +944,8 @@ BattleFrontier_BattleTowerLobby_Text_EarnedFabulousPrize:
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER}(e)k {STR_VAR_1} jaso du\n"
+	.string "du sari gisan.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_BagFullMakeRoom:
@@ -954,28 +954,28 @@ BattleFrontier_BattleTowerLobby_Text_BagFullMakeRoom:
 	.string "see me.$"
 
 BattleFrontier_BattleTowerLobby_Text_ThankYouForPlaying:
-	.string "Thank you for playing!\p"
+	.string "Eskerrik asko jolasteagatik!\p"
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_RecordWillBeSaved:
-	.string "Your record will be saved.\n"
-	.string "Please wait.$"
+	.string "Zure errekorra gorde egingo da.\n"
+	.string "Itxaron, mesedez.$"
 
 BattleFrontier_BattleTowerLobby_Text_WeveBeenWaitingForYou:
-	.string "We've been waiting for you!\p"
+	.string "Zure zain egon gara!\p"
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved:
-	.string "Before entering a BATTLE ROOM, your\n"
-	.string "progress will be saved. Please wait.$"
+	.string "BORROKA GELA batean sartu aurretik,\n"
+	.string "partida gordeko da. Itxaron, mesedez.$"
 
 BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer:
-	.string "You're finally about to face the\n"
-	.string "50th TRAINER.\p"
-	.string "From here on, every time you beat seven\n"
-	.string "TRAINERS in a row, your POKéMON will\l"
-	.string "receive a commemorative RIBBON.\p"
-	.string "Good luck!$"
+	.string "50. ENTRENATZAILEAREN aurka egiteko\n"
+	.string "garaia iritsi da, azkenean.\p"
+	.string "Hemendik aurrera, zazpi ENTRENATZAILE\n"
+	.string "garaitzen dituzun bakoitzean, zure\l"
+	.string "POKéMONEK ZINTA bat lortuko dute.\p"
+	.string "Zorte on!$"
 
 BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons:
 	.string "Here are some RIBBONS for beating\n"
@@ -1354,7 +1354,7 @@ BattleFrontier_BattleTowerLobby_Text_RulesAreListed:
 	.string "The BATTLE TOWER rules are listed.$"
 
 BattleFrontier_BattleTowerLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Zein atal irakurri nahi duzu?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainTowerRules:
 	.string "The BATTLE TOWER is a facility where\n"

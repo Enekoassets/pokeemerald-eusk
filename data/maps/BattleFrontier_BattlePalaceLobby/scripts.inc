@@ -596,7 +596,7 @@ BattleFrontier_BattlePalaceLobby_Text_RulesAreListed:
 	.string "The BATTLE HALL rules are listed.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Zein atal irakurri nahi duzu?$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesBasics:
 	.string "Here, POKéMON are required to think\n"

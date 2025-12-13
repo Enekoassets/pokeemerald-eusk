@@ -865,7 +865,7 @@ BattleFrontier_BattlePyramidLobby_Text_RulesAreListed:
 	.string "The Battle Quest rules are listed.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Zein atal irakurri nahi duzu?$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules:
 	.string "When the PYRAMID is conquered,\n"

@@ -413,7 +413,7 @@ BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
 	.string "The Battle Choice's rules are listed.$"
 
 BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Zein atal irakurri nahi duzu?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
 	.string "The BAG and POKéNAV may not be used\n"

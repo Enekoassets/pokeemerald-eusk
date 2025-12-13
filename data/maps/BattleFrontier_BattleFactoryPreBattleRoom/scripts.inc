@@ -450,198 +450,198 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
-	.string "First, we will hold your POKéMON for\n"
-	.string "safekeeping.\p"
-	.string "You may then choose from our\n"
-	.string "selection of POKéMON.$"
+	.string "Lehenik eta behin, zure POKéMONAK\n"
+	.string "gordeko ditugu.\p"
+	.string "Ondoren, gure aukeren artean\n"
+	.string "aukeratu ditzakezu POKéMONAK.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-	.string "Thank you for competing!\n"
-	.string "Let us restore your POKéMON!$"
+	.string "Eskerrik asko parte hartzeagatik!\n"
+	.string "Hartu berriro zure POKéMONAK!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "The 2nd match is next!\n"
-	.string "Are you ready?$"
+	.string "2. borroka da hurrengoa!\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "The 3rd match is next!\n"
-	.string "Are you ready?$"
+	.string "3. borroka da hurrengoa!\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent:
-	.string "The 4th match is next!\n"
-	.string "Are you ready?$"
+	.string "4. borroka da hurrengoa!\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent:
-	.string "The 5th match is next!\n"
-	.string "Are you ready?$"
+	.string "5. borroka da hurrengoa!\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent:
-	.string "The 6th match is next!\n"
-	.string "Are you ready?$"
+	.string "6. borroka da hurrengoa!\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Finally, the 7th match is next!\n"
-	.string "Are you ready?$"
+	.string "Azkenik, 7. borroka da hurrengoa!\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Nahi al duzu partida gorde\n"
+	.string "eta atera?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Swap challenge?$"
+	.string "Nahi al duzu Truke Borroka\n"
+	.string "erronkatik atera?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
-	.string "I've conducted a little investigation\n"
-	.string "about your upcoming opponent.$"
+	.string "Zure hurrengo aurkariaren inguruko\n"
+	.string "ikerketa txiki bat egin dut.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the NORMAL type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "NORMAL motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIRE type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "SU motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the WATER type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "UR motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ELECTRIC type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "ELEKTRIKO motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GRASS type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "LANDARE motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ICE type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "IZOTZ motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIGHTING type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "BORROKA motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the POISON type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "POZOI motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GROUND type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "LUR motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FLYING type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "HEGALARI motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the PSYCHIC type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "PSIKIKO motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the BUG type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "ZOMORRO motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ROCK type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "HAITZ motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GHOST type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "MAMU motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DRAGON type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "DRAGOI motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DARK type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "ILUN motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the STEEL type.$"
+	.string "Dirudienez, ENTRENATZAILEA abila da\n"
+	.string "ALTZAIRU motako POKéMONEKIN.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-	.string "The TRAINER appears to have no clear\n"
-	.string "favorites when it comes to type.$"
+	.string "Badirudi ENTRENATZAILEAK ez daukala\n"
+	.string "borrokarako mota gustukoenik.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
-	.string "The favorite battle style appears to\n"
-	.string "be slow and steady.$"
+	.string "Dirudienez, bere borrokarako estiloa\n"
+	.string "apurka apurka aritzekoa da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance:
-	.string "The favorite battle style appears to\n"
-	.string "be one of endurance.$"
+	.string "Dirudienez, bere borrokarako estiloa\n"
+	.string "asko jasaten saiatzekoa da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk:
-	.string "The favorite battle style appears to\n"
-	.string "be high risk, high return.$"
+	.string "Dirudienez, bere borrokarako estiloa\n"
+	.string "arrisku eta irabazi askokoa da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow:
-	.string "The favorite battle style appears to\n"
-	.string "depend on the battle's flow.$"
+	.string "Dirudienez, bere borrokarako estiloa\n"
+	.string "borrokaren araberakoa da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation:
-	.string "The favorite battle style appears to\n"
-	.string "be one based on total preparation.$"
+	.string "Dirudienez, bere borrokarako estiloa\n"
+	.string "guztiz prestatuta egotekoa da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe:
-	.string "The favorite battle style appears\n"
-	.string "to be weakening the foe to start.$"
+	.string "Dirudienez, bere borrokarako estiloa\n"
+	.string "etsaia hasieratik ahultzekoa da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible:
-	.string "The favorite battle style appears to\n"
-	.string "be flexibly adaptable to the situation.$"
+	.string "Dirudienez, bere borrokarako estiloa\n"
+	.string "egoera desberdinetara moldatzekoa da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict:
-	.string "The favorite battle style appears to\n"
-	.string "be impossible to predict.$"
+	.string "Dirudienez, bere borrokarako estiloa\n"
+	.string "aurreikustea ezinezkoa da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
-	.string "The favorite battle style appears to\n"
-	.string "be free-spirited and unrestrained.$"
+	.string "Dirudienez, bere borrokarako estiloa\n"
+	.string "espiritu librekoa eta mugarik gabekoa da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-	.string "Before starting the battle, would you\n"
-	.string "like to swap a POKéMON?$"
+	.string "Borroka hasi aurretik, POKéMON\n"
+	.string "bat trukatu nahi al duzu?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-	.string "Thank you!\n"
-	.string "Your POKéMON swap is complete.$"
+	.string "Eskerrik asko!\n"
+	.string "POKéMON trukea amaitu da.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please!$"
+	.string "Pasa hemendik, mesedez!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Datuak gordetzen ari naiz.\n"
+	.string "Itxaron, mesedez.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
-	.string "Would you like to record your latest\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "Nahi duzu zure azken borroka\n"
+	.string "FRONTE PASEAN grabatu?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
-	.string "Excuse me! Excuse me, please!\n"
-	.string "May I get you to wait a few moments?$"
+	.string "Aizu! Barkatu, entzun, mesedez!\n"
+	.string "Itxaron dezakezu apur batean?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
-	.string "…Uh-huh? What?! …Whoa!\n"
-	.string "Understood, sir! Will do!$"
+	.string "…Bai? Zer?! …uau!\n"
+	.string "Ulertuta, jauna! Egingo dut!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
-	.string "Oh, my…\n"
-	.string "Sorry to keep you waiting!\p"
-	.string "I have a message from this facility's\n"
-	.string "boss, the FACTORY HEAD.\p"
-	.string "He says, “We're going to do it!\n"
-	.string "Come here right now!”$"
+	.string "Ai ene…\n"
+	.string "Barkatu itxaroten eduki izana!\p"
+	.string "Instalazio honetako nagusiaren mezua\n"
+	.string "dut zuretzat, FABRIKAKO BURUARENA.\p"
+	.string "Dioenez, “Egin egingo dugu!\n"
+	.string "Etorri hona oraintxe bertan!”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:
-	.string "The FACTORY HEAD is demanding you.\n"
-	.string "Are you prepared to face him?$"
+	.string "FABRIKAKO BURUA zure bila dabil.\n"
+	.string "Prest al zaude bere aurka egiteko?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead:
-	.string "I'm terribly sorry, but I can't tell you\n"
-	.string "anything about the FACTORY HEAD.$"
+	.string "Asko sentitzen dut, baina ezin dizut\n"
+	.string "ezer esan FABRIKAKO BURUAREN inguruan.$"

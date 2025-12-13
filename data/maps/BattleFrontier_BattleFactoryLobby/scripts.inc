@@ -323,44 +323,44 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Single Tournament.$"
+	.string "ENTRENATZAILEEN azkartasuna\n"
+	.string "neurtzen den tokira!\p"
+	.string "Ongi etorri BORROKA FABRIKARA!\p"
+	.string "Banakako Truke Borroka Txapelketarako\n"
+	.string "zure gida izango naiz.$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap Single challenge?$"
+	.string "Nahi al duzu Banakako Truke Borroka\n"
+	.string "txapelketan parte hartu?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge:
-	.string "The Battle Swap Single Tournament\n"
-	.string "is a SINGLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a SINGLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save, you will be\n"
-	.string "disqualified from your challenge.$"
+	.string "Banakako Truke Borroka Txapelketa\n"
+	.string "BANAKAKO BORROKA txapelketa da,\l"
+	.string "alokatutako POKéMONEKIN egina.\p"
+	.string "Lehenik, hiru POKéMON utziko dizkizugu,\n"
+	.string "txapelketa honetarako soilik.\p"
+	.string "Utzitako POKéMONAK erabiliz,\n"
+	.string "BANAKAKO BORROKA bat egingo duzu.\p"
+	.string "Irabazten baduzu, utzitako\n"
+	.string "POKéMONETAKO bat trukatu dezakezu.\p"
+	.string "Errepikatu borroka eta trukatze hau,\n"
+	.string "eta zazpi aldiz jarraian irabazten\l"
+	.string "baduzu, Borroka Puntuak emango dizkizugu.\p"
+	.string "Erronka gelditu nahi baduzu, gorde\n"
+	.string "partida lehenengo, mesedez.\p"
+	.string "Ez baduzu gordetzen, txapelketatik\n"
+	.string "deskalifikatuko zaitugu.$"
 
 BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit:
-	.string "We look forward to your next visit.$"
+	.string "Berriz etorriko zarela espero dugu.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode:
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Open Level?$"
+	.string "Zein mailatan nahi duzu parte hartu?\n"
+	.string "50. Mailan edo Maila irekian?$"
 
 BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Before you begin your challenge,\n"
-	.string "I need to save the game. Is that okay?$"
+	.string "Erronka hasi aurretik, zure partida\n"
+	.string "gorde behar dut. Ados al zaude?$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
@@ -368,14 +368,14 @@ BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
 	.string "safekeeping while you compete.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "Pasa hemendik, mesedez.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults:
-	.string "Thank you for participating!\p"
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.\p"
-	.string "I must also save the event results.\n"
-	.string "Please wait.$"
+	.string "Eskerrik asko parte hartzeagatik!\p"
+	.string "Zure POKéMONAK itzuliko dizkizut\n"
+	.string "guk utzitako POKéMONEN truke.\p"
+	.string "Txapelketako emaitza ere gorde behar dut.\n"
+	.string "Itxaron, mesedez.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
@@ -383,8 +383,8 @@ BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
 	.string "for our rental POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
-	.string "Congratulations! You've won seven\n"
-	.string "straight Battle Swap matches!$"
+	.string "Zorionak! Zazpi Truke Borroka\n"
+	.string "jarraian irabazi dituzu!$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak:
@@ -399,15 +399,15 @@ BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
 	.string "some Battle Points.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
-	.string "We've been waiting for you!\p"
-	.string "Before we resume your challenge,\n"
-	.string "I must save the game.$"
+	.string "Zure zain egon gara!\p"
+	.string "Erronkarekin jarraitu aurretik,\n"
+	.string "partida gorde behar dut.$"
 
 BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
-	.string "I'm sorry to say this, but you didn't\n"
-	.string "save before you quit playing last time.\p"
-	.string "As a result, you have been disqualified\n"
-	.string "from your challenge.$"
+	.string "Sentitzen dut, baina ez zenuen partida\n"
+	.string "gorde aurrekoan, erronka amaitu aurretik.\p"
+	.string "Ondorioz, txapelketatik\n"
+	.string "deskalifikatu zaitugu.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
@@ -419,84 +419,84 @@ BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
-	.string "Where the intelligence of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE FACTORY!\p"
-	.string "I am your guide to the Battle Swap\n"
-	.string "Double Tournament.$"
+	.string "ENTRENATZAILEEN azkartasuna\n"
+	.string "neurtzen den tokira!\p"
+	.string "Ongi etorri BORROKA FABRIKARA!\p"
+	.string "Binakako Truke Borroka Txapelketarako\n"
+	.string "zure gida izango naiz.$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Swap Double challenge?$"
+	.string "Nahi al duzu Binakako Truke Borroka\n"
+	.string "txapelketan parte hartu?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
-	.string "The Battle Swap Double Tournament\n"
-	.string "is a DOUBLE BATTLE competition using\l"
-	.string "only rental POKéMON.\p"
-	.string "First, you will be loaned three\n"
-	.string "POKéMON specifically for this event.\p"
-	.string "Using the supplied rental POKéMON,\n"
-	.string "you must conduct a DOUBLE BATTLE.\p"
-	.string "If you win, you are permitted to trade\n"
-	.string "one of your rental POKéMON.\p"
-	.string "Repeat this cycle of battling and\n"
-	.string "trading--if you win seven times in\l"
-	.string "a row, you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Binakako Truke Borroka Txapelketa\n"
+	.string "BINAKAKO BORROKA txapelketa da,\l"
+	.string "alokatutako POKéMONEKIN egina.\p"
+	.string "Lehenik, hiru POKéMON utziko dizkizugu,\n"
+	.string "txapelketa honetarako soilik.\p"
+	.string "Utzitako POKéMONAK erabiliz,\n"
+	.string "BINAKAKO BORROKA bat egingo duzu.\p"
+	.string "Irabazten baduzu, utzitako\n"
+	.string "POKéMONETAKO bat trukatu dezakezu.\p"
+	.string "Errepikatu borroka eta trukatze hau,\n"
+	.string "eta zazpi aldiz jarraian irabazten\l"
+	.string "baduzu, Borroka Puntuak emango dizkizugu.\p"
+	.string "Erronka gelditu nahi baduzu, gorde\n"
+	.string "partida lehenengo, mesedez.\p"
+	.string "Ez baduzu gordetzen, txapelketatik\n"
+	.string "deskalifikatuko zaitugu.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
-	.string "Congratulations for defeating\n"
-	.string "the FACTORY HEAD and winning\l"
-	.string "seven matches in a row!$"
+	.string "Zorionak FABRIKAKO BURUA garaitu\n"
+	.string "eta zazpi borroka jarraian\l"
+	.string "irabaztea lortzeagatik!$"
 
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
-	.string "In recognition of your wealth of\n"
-	.string "knowledge and keen intelligence,\l"
-	.string "we award you these Battle Point(s).$"
+	.string "Zure jakinduriaren maila eta zure\n"
+	.string "azkartasunaren sari gisan, Borroka\l"
+	.string "Puntu hauek zuretzat dira.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
-	.string "Let me exchange your POKéMON\n"
-	.string "for our rental POKéMON.\p"
-	.string "I need to save the battle data,\n"
-	.string "so please wait.$"
+	.string "Zure POKéMONAK itzuliko dizkizut\n"
+	.string "guk utzitako POKéMONEN truke.\p"
+	.string "Txapelketako emaitza ere gorde behar dut.\n"
+	.string "Itxaron, mesedez.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch:
-	.string "Would you like to record your last\n"
-	.string "BATTLE FACTORY match on your\l"
-	.string "FRONTIER PASS?$"
+	.string "Nahi al duzu zure azken BORROKA\n"
+	.string "FABRIKAKO borroka zure FRONTE\l"
+	.string "PASEAN grabatu?$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
-	.string "Hi!\n"
-	.string "You, there!\p"
-	.string "Are you thinking that the events here\n"
-	.string "are easy since you don't need to have\l"
-	.string "a raised team of POKéMON?\p"
-	.string "I wouldn't be too sure about winning\n"
-	.string "that easily.\p"
-	.string "If you don't have thorough knowledge\n"
-	.string "about POKéMON and their moves,\l"
-	.string "it will be tough to keep winning.$"
+	.string "Kaixo!\n"
+	.string "Bai, zu!\p"
+	.string "Hemengo borrokak errazak direla uste\n"
+	.string "al duzu, ez duzulako zure POKéMON\l"
+	.string "talde propioa hazi eta ekarri behar?\p"
+	.string "Ez pentsa horren erraza denik\n"
+	.string "borroka hauetan irabaztea.\p"
+	.string "Ez baduzu POKéMONEN eta beraien erasoen\n"
+	.string "inguruko jakinduria zabalik, ez da\l"
+	.string "erraza izango behin eta berriz irabaztea.$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
-	.string "I swapped for a weak POKéMON…\n"
-	.string "I thought it was a good kind to have…\p"
-	.string "They wiped the floor with us…$"
+	.string "POKéMON ahul bat hartu dut trukean…\n"
+	.string "Uste nuen ona izango zela nire talderako…\p"
+	.string "Egurra eman digute…$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons:
-	.string "Things haven't been going my way\n"
-	.string "at all.\p"
-	.string "You need to check your opponent's\n"
-	.string "POKéMON during battle to see if\l"
-	.string "they're any good.$"
+	.string "Gauzak ez zaizkit oso ondo\n"
+	.string "joan hemen.\p"
+	.string "ZUre aurkariaren POKéMONAK aztertu\n"
+	.string "behar dituzu borrokan zehar, ea onak\l"
+	.string "diren edo ez jakiteko.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
-	.string "You know how the staff here give you\n"
-	.string "a few hints about your next opponent?\p"
-	.string "Well, I'm a full-grown man, but I have\n"
-	.string "trouble figuring out their hints.$"
+	.string "Badakizu hemengo langileek zure hurrengo\n"
+	.string "aurkariaren inguruko pistak ematen dituztela?\p"
+	.string "Beno, ni gizon heldua naiz, baina ez\n"
+	.string "ditut beti pistak ulertzen.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
@@ -508,44 +508,44 @@ BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
 	.string "varied the rental POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
-	.string "The Battle Swap rules are listed.$"
+	.string "Truke Borrokako arauak daude.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Zein atal irakurri nahi duzu?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules:
-	.string "In a Battle Swap event, you may use\n"
-	.string "only three POKéMON.\p"
-	.string "Whether you are renting or swapping,\n"
-	.string "your team may not have two or more\l"
-	.string "of the same POKéMON.$"
+	.string "Truke Borroka batean, hiru POKéMON\n"
+	.string "soilik erabili ditzakezu.\p"
+	.string "Alokatu edo trukatu badituzu ere,\n"
+	.string "ezin duzu POKéMON berdina bi aldiz\l"
+	.string "eduki zure taldean.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules:
-	.string "You may swap POKéMON only with\n"
-	.string "the TRAINER you have just defeated.\p"
-	.string "You may swap for only those POKéMON\n"
-	.string "used by the beaten TRAINER.$"
+	.string "Garaitu berri duzun ENTRENATZAILEAREKIN\n"
+	.string "soilik trukatu dezakezu POKéMONA.\p"
+	.string "Garaitutako ENTRENATZAILEAK zeuzkan\n"
+	.string "POKéMONETAKO bat har dezakezu soilik.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules:
-	.string "After every battle you win, you may\n"
-	.string "swap for one of your defeated\l"
-	.string "opponent's POKéMON.\p"
-	.string "You will not be able to swap POKéMON\n"
-	.string "with the seventh TRAINER in the event.$"
+	.string "Irabazten duzun borroka bakoitzaren\n"
+	.string "ostean, zure POKéMON bat aurkariaren\l"
+	.string "POKéMON baten truke alda dezakezu.\p"
+	.string "Ezingo duzu POKéMONIK trukatu erronkako\n"
+	.string "zazpigarren ENTRENATZAILEAREKIN.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
-	.string "There are two key points to be aware\n"
-	.string "of when swapping POKéMON.\p"
-	.string "First, when swapping, you can't check\n"
-	.string "the stats of the POKéMON you are\l"
-	.string "about to receive.\p"
-	.string "Second, the POKéMON on your team\n"
-	.string "are lined up in sequence, depending on\l"
-	.string "the order in which you rented them.\p"
-	.string "This sequence remains unchanged\n"
-	.string "even when swaps are made.$"
+	.string "Bi kontu garrantzitsu daude\n"
+	.string "POKéMONAK trukatzen ari zarenean.\p"
+	.string "Lehenik eta behin, ezin dituzu trukean\n"
+	.string "jasotzen ari zaren POKéMONAREN\l"
+	.string "estatistikak ikusi.\p"
+	.string "Bigarren,zure taldeko POKéMONAK ordenan\n"
+	.string "jarrita daude, alokatzean hartu dituzun\l"
+	.string "ordena berean, zehazki.\p"
+	.string "Ordena hau ez da aldatzen\n"
+	.string "trukeak eginda ere.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules:
-	.string "In the Open Level, the rental POKéMON\n"
-	.string "and the opposing TRAINERS' POKéMON\l"
-	.string "are all Level 100.$"
+	.string "Maila Irekian, alokairuko POKéMONAK eta\n"
+	.string "beste ENTRENATZAILEAREN POKéMONAK\l"
+	.string "100. mailan daude denak.$"
