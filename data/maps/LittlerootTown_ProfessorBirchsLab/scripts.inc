@@ -685,7 +685,7 @@ LittlerootTown_ProfessorBirchsLab_Text_BirchIsntOneForDeskWork:
 LittlerootTown_ProfessorBirchsLab_Text_BirchEnjoysRivalsHelpToo:
 	.string "URKI DOKTOREA POKéMONEN banaketa\n"
 	.string "eta habitatak aztertzen ari da.\p"
-	.string "{RIVAL}(r)ek laguntzea gustatzen zaio.\n"
+	.string "{RIVAL}(e)k laguntzea gustatzen zaio.\n"
 	.string "Asko maite dute elkar.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_LikeYouToHavePokemon:
@@ -709,7 +709,7 @@ LittlerootTown_ProfessorBirchsLab_Text_WhyNotGiveNicknameToMon:
 
 LittlerootTown_ProfessorBirchsLab_Text_MightBeGoodIdeaToGoSeeRival:
 	.string "URKI DOKT.: POKéMONAK aztertu eta\n"
-	.string "esperientzia lortzen baduzu, ENTRENATZAILE\l"
+	.string "esperientzia lortuta, ENTRENATZAILE\l"
 	.string "bikaina bihurtuko zarela uste dut.\p"
 	.string "Nire haurra, {RIVAL}, POKéMONAK aztertzen\n"
 	.string "aritzen da niri lagundu bitartean.\p"

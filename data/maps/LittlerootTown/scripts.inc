@@ -911,13 +911,13 @@ LittlerootTown_EventScript_GiveRunningShoes::
 
 LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "AMA: {PLAYER}, iritsi gara, laztana!\p"
-	.string "Nekagarria izango da gure gauzekin\n"
+	.string "Nekagarria izango zen gure gauzekin\n"
 	.string "kamioi barruan etortzea.\p"
 	.string "Beno, hau ERROTXIKI HERRIA da.\p"
 	.string "Gustatzen al zaizu?\n"
 	.string "Hau da gure etxe berria!\p"
 	.string "Herri bitxia dirudi, baina lasai\n"
-	.string "bizitzeko leku erraza ere bai, ezta?\p"
+	.string "bizitzeko leku egokia ere bai, ezta?\p"
 	.string "Gainera, zure gela propioa duzu,\n"
 	.string "{PLAYER}! Goazen barrura.$"
 
@@ -960,12 +960,12 @@ LittlerootTown_Text_ComeHomeIfAnythingHappens:
 LittlerootTown_Text_CanUsePCToStoreItems:
 	.string "PC bat erabilita itemak eta\n"
 	.string "POKéMONAK gorde ditzakezu.\p"
-	.string "ZIentziaren boterea harrigarria da!$"
+	.string "Zientziaren boterea harrigarria da!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
 	.string "URKI DOKTOREAK egunak ematen ditu\n"
-	.string "LABORATEGIAN ikertzen, eta gero, bat-batean,\l"
-	.string "kanpora joan eta ikertzen jarraitu…\p"
+	.string "LABORATEGIAN ikertzen, eta gero,\l"
+	.string "kanpora joan eta ikertzen jarraitzen du…\p"
 	.string "Noiz egoten ote da URKI DOKTOREA\n"
 	.string "etxean?$"
 

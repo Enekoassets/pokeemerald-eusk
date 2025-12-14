@@ -476,36 +476,36 @@ BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
 	.string "Prest al zaude?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Nahi duzu partida gorde\n"
+	.string "eta irten?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
-	.string "Do you wish to quit your challenge?$"
+	.string "Erronkatik atera nahi al duzu?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
-	.string "Saving the data.\n"
-	.string "Have patience…$"
+	.string "Datuak gordetzen.\n"
+	.string "Itxaron pixka bat…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
-	.string "Do you wish to record your latest\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "Nahi al duzu zure azken borroka\n"
+	.string "FRONTE PASEAN gorde?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
-	.string "And now…\p"
-	.string "By winning consistently, you have\n"
-	.string "earned the privilege of challenging\l"
-	.string "our master, the PALACE MAVEN…$"
+	.string "Eta orain…\p"
+	.string "Behineta berriz irabaziz, gure\n"
+	.string "maisu PALAZIOKO ADITUAREN aurka\l"
+	.string "borrokatzeko pribilegioa irabazi duzu…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
-	.string "I shall send for the PALACE MAVEN.\n"
-	.string "Are you ready?$"
+	.string "PALAZIOKO ADITUA sartuko da orain.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
-	.string "Let great fanfare announce the arrival\n"
-	.string "of the PALACE MAVEN, SPENSER!$"
+	.string "Sar dadila, fanfarrearekin\n"
+	.string "ZUHAITZ, PALAZIOKO ADITUA!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "SPENSER: My physical being is with\n"
+	.string "ZUHAITZ: My physical being is with\n"
 	.string "POKéMON always!\p"
 	.string "My heart beats as one with\n"
 	.string "POKéMON always!\p"
@@ -521,7 +521,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
 	.string "Prove it to me here!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
-	.string "SPENSER: Gwahahah!\p"
+	.string "ZUHAITZ: Gwahahah!\p"
 	.string "Hah, you never fell for my bluster!\n"
 	.string "Sorry for trying that stunt!\p"
 	.string "Here!\n"
@@ -538,13 +538,13 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
 	.string "the FRONTIER PASS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-	.string "SPENSER: Your POKéMON's eyes are \n"
+	.string "ZUHAITZ: Your POKéMON's eyes are \n"
 	.string "truly clear and unclouded.\p"
 	.string "I will eagerly await the next\n"
 	.string "opportunity to see you.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "SPENSER: Gwahahah!\n"
+	.string "ZUHAITZ: Gwahahah!\n"
 	.string "You've battled your way up again?\p"
 	.string "You must have developed a truly\n"
 	.string "formidable bond with your POKéMON.\p"
@@ -558,7 +558,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
 	.string "… … …Kaaah!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "SPENSER: Well, that was some display!\n"
+	.string "ZUHAITZ: Well, that was some display!\n"
 	.string "Even fully unleashed, my brethren\l"
 	.string "could not overpower you.\p"
 	.string "Your team spirit is truly admirable!\p"
@@ -576,6 +576,6 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
 	.string "a golden shine!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
-	.string "SPENSER: Gwahahah!\p"
+	.string "ZUHAITZ: Gwahahah!\p"
 	.string "Come see me time and again!\n"
 	.string "My brethren and I will be waiting!$"
