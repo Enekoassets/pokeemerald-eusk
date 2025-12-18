@@ -407,8 +407,8 @@ static const u8 sText_PkmnGoodComeBack[] = _("{B_BUFF1}, ongi!\nItzuli!");
 static const u8 sText_Trainer1WithdrewPkmn[] = _("{B_TRAINER1_NAME} {B_TRAINER1_CLASS}K\n{B_BUFF1} jaso du!");
 static const u8 sText_LinkTrainer1WithdrewPkmn[] = _("{B_LINK_OPPONENT1_NAME}(E)K {B_BUFF1}\njaso du!");
 static const u8 sText_LinkTrainer2WithdrewPkmn[] = _("{B_LINK_SCR_TRAINER_NAME}(E)K {B_BUFF1}\njaso du!");
-static const u8 sText_WildPkmnPrefix[] = _("Basatia ");
-static const u8 sText_FoePkmnPrefix[] = _("Etsaia ");
+static const u8 sText_WildPkmnPrefix[] = _(" basatia");
+static const u8 sText_FoePkmnPrefix[] = _(" etsaia");
 static const u8 sText_EmptyString8[] = _("");
 static const u8 sText_FoePkmnPrefix2[] = _("Etsaia");
 static const u8 sText_AllyPkmnPrefix[] = _("Laguna");
@@ -416,7 +416,7 @@ static const u8 sText_FoePkmnPrefix3[] = _("Etsaia");
 static const u8 sText_AllyPkmnPrefix2[] = _("Laguna");
 static const u8 sText_FoePkmnPrefix4[] = _("Etsaia");
 static const u8 sText_AllyPkmnPrefix3[] = _("Laguna");
-static const u8 sText_AttackerUsedX[] = _("{B_ATK_NAME_WITH_PREFIX} used\n{B_BUFF2}");
+static const u8 sText_AttackerUsedX[] = _("{B_ATK_NAME_WITH_PREFIX} {B_BUFF2}\n erabili du");
 static const u8 sText_ExclamationMark[] = _("!");
 static const u8 sText_ExclamationMark2[] = _("!");
 static const u8 sText_ExclamationMark3[] = _("!");
@@ -2803,6 +2803,8 @@ static void ExpandBattleTextBuffPlaceholders(const u8 *src, u8 *dst)
             srcID += 2;
             break;
         case B_BUFF_MON_NICK_WITH_PREFIX: // poke nick with prefix
+            StringGet_Nickname(nickname);
+            StringAppend(dst, nickname);
             if (GetBattlerSide(src[srcID + 1]) == B_SIDE_PLAYER)
             {
                 GetMonData(&gPlayerParty[src[srcID + 2]], MON_DATA_NICKNAME, nickname);
@@ -2816,8 +2818,7 @@ static void ExpandBattleTextBuffPlaceholders(const u8 *src, u8 *dst)
 
                 GetMonData(&gEnemyParty[src[srcID + 2]], MON_DATA_NICKNAME, nickname);
             }
-            StringGet_Nickname(nickname);
-            StringAppend(dst, nickname);
+            
             srcID += 3;
             break;
         case B_BUFF_STAT: // stats
