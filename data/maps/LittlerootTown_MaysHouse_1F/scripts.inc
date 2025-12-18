@@ -342,7 +342,7 @@ RivalsHouse_1F_Text_LikeChildLikeFather:
 RivalsHouse_1F_Text_TooBusyToNoticeVisit:
 	.string "{RIVAL} hori!\p"
 	.string "Badirudi gure txikia POKéMONETAN\n"
-	.string "zentratuegia dagoela etorri zarela\l"
+	.string "zentratuegi dagoela etorri zarela\l"
 	.string "konturatzeko ere, {PLAYER}{KUN}.$"
 
 RivalsHouse_1F_Text_WentOutToRoute103:

@@ -438,130 +438,130 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_RetireChallenge::
 	end
 
 BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth:
-	.string "We will restore your POKéMON to\n"
-	.string "full health.$"
+	.string "Zure POKéMONAK guztiz sendatuko\n"
+	.string "ditugu.$"
 
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent:
-	.string "You will be facing opponent no. {STR_VAR_1}.\n"
-	.string "Are you ready?$"
+	.string "{STR_VAR_1}. aurkariaren kontra egingo duzu orain.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "You will be facing opponent no. 2.\n"
-	.string "Are you ready?$"
+	.string "2. aurkariaren kontra egingo duzu orain.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "You will be facing opponent no. 3.\n"
-	.string "Are you ready?$"
+	.string "3. aurkariaren kontra egingo duzu orain.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor4thOpponent:
-	.string "You will be facing opponent no. 4.\n"
-	.string "Are you ready?$"
+	.string "4. aurkariaren kontra egingo duzu orain.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor5thOpponent:
-	.string "You will be facing opponent no. 5.\n"
-	.string "Are you ready?$"
+	.string "5. aurkariaren kontra egingo duzu orain.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor6thOpponent:
-	.string "You will be facing opponent no. 6.\n"
-	.string "Are you ready?$"
+	.string "6. aurkariaren kontra egingo duzu orain.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent:
-	.string "You will be facing opponent no. 7.\n"
-	.string "Are you ready?$"
+	.string "7. aurkariaren kontra egingo duzu orain.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle:
-	.string "Record your battle on your\n"
-	.string "FRONTIER PASS?$"
+	.string "Borroka zure FRONTE PASEAN\n"
+	.string "grabatu nahi al duzu?$"
 
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass:
-	.string "{PLAYER}'s battle was recorded\n"
-	.string "on the FRONTIER PASS.$"
+	.string "{PLAYER}(r)en borroka FRONTE\n"
+	.string "PASEAN grabatu da.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and\n"
-	.string "quit the game?$"
+	.string "Nahi duzu partida gorde\n"
+	.string "eta irten?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait:
-	.string "Saving your battle data.\n"
-	.string "Please wait.$"
+	.string "Zure borrokako datuak gordetzen.\n"
+	.string "Itxaron, mesedez.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge:
-	.string "Would you like to cancel your BATTLE\n"
-	.string "ROOM challenge?$"
+	.string "Nahi duzu zure BORROKA GELAKO\n"
+	.string "erornka bertan behera utzi?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved::
-	.string "There was an error of some sort.\n"
-	.string "Your record could not be saved.$"
+	.string "Erroreren bat gertatu da.\n"
+	.string "Ezin izan da zure errekorra gorde.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay:
-	.string "Excuse me, but…\p"
-	.string "Our leader, the SALON MAIDEN, is on\n"
-	.string "her way here in hopes of battling you.\p"
-	.string "She should be arriving very shortly.$"
+	.string "Barkatu, baina…\p"
+	.string "Gure liderra, ARETOKO DONTZEILA, zure\n"
+	.string "aurka bororkatzeko honaka dator.\p"
+	.string "Laister iritsi behar luke.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden:
-	.string "You will be facing the SALON MAIDEN.\n"
-	.string "Are you prepared?$"
+	.string "ARETOKO DONTZEILAREN aurka egingo duzu.\n"
+	.string "Prest al zaude?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel:
-	.string "Greetings…\n"
-	.string "My name is ANABEL.\p"
-	.string "I am the SALON MAIDEN, and I am in\n"
-	.string "charge of running the BATTLE TOWER…\p"
-	.string "I have heard several rumors\n"
-	.string "about you…\p"
-	.string "In all honesty, what I have heard does\n"
-	.string "not seem attractive in any way…\p"
-	.string "The reason I've come to see you…\n"
-	.string "Well, there is but one reason…$"
+	.string "Kaixo…\n"
+	.string "Nire izena AINTZIRA da.\p"
+	.string "ARETOKO DONTZEILA naiz, eta BORROKA\n"
+	.string "DORREA nire kargu dago…\p"
+	.string "Zutaz hainbat zurrumurru\n"
+	.string "entzun ditut…\p"
+	.string "Egia esanda, entzun dudanetik ezer\n"
+	.string "ez da oso erakargarria izan…\p"
+	.string "ZU ikustera etortzeko arrazoia…\n"
+	.string "Beno, arrazoi bakarra dago…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent:
-	.string "Let me see your talent in\n"
-	.string "its entirety…$"
+	.string "Utzi zure talentua bere\n"
+	.string "osotasunean ikusten…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized:
-	.string "ANABEL: Fufufu, nicely done…\p"
-	.string "Your FRONTIER PASS, please…\n"
-	.string "Your talent shall be recognized.$"
+	.string "AINTZIRA: Fufufu, ongo egina…\p"
+	.string "Zure FRONTE PASEA, mesedez…\n"
+	.string "Zure talentuak aitorpena merezi du.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
-	.string "The Ability Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Abilezia Sinboloa grabatu da\n"
+	.string "FRONTE PASEAN!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime:
 	.string "… … … … … …\p"
-	.string "You have confidence in your POKéMON\n"
-	.string "battling talent, don't you?\p"
-	.string "I urge you to keep battling and\n"
-	.string "keep on winning.\p"
-	.string "I will be waiting for you.\n"
-	.string "Until the next time we meet…$"
+	.string "Konfidantza duzu zure POKéMONEN\n"
+	.string "bororkarako talentuan, ezta?\p"
+	.string "Bororkan segi dezazun gomendatzen\n"
+	.string "dizut, eta irabazten jarraitu.\p"
+	.string "Zure zain egongo naiz.\n"
+	.string "Hurrengora arte…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack:
-	.string "ANABEL: You really did come back to\n"
-	.string "see me…\p"
+	.string "AINTZIRA: Azkenean etorri zara ni\n"
+	.string "berriro ikustera…\p"
 	.string "… … … … … …\p"
-	.string "You've won straight matches to see me…\n"
-	.string "I won't have to hold back against you…\p"
-	.string "It's been too long now…\p"
-	.string "Too long since I've been able to battle\n"
-	.string "without thinking about anything…$"
+	.string "Borroka asko irabazi dituzu nigana iristeko…\n"
+	.string "Indar guztiz borrokatuko dut orain…\p"
+	.string "Denbora asko igaro da…\p"
+	.string "Denbora gehiegi ezertan pentsatu\n"
+	.string "gabe borrokatu dudanetik…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe:
-	.string "Let's begin, shall we?$"
+	.string "Has gaitezen, ados?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease:
-	.string "ANABEL: Fufu, congratulations…\n"
-	.string "Your FRONTIER PASS, please…$"
+	.string "AINTZIRA: Fufu, zorionak…\n"
+	.string "Zure FRONTE PASEA, mesedez…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine:
-	.string "The Ability Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Abilezia Sinboloak urre koloreko\n"
+	.string "distira hartu du!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain:
-	.string "That was fun…\p"
-	.string "I have never had a POKéMON battle\n"
-	.string "so enjoyable before…\p"
-	.string "I wish I could battle with you again…$"
+	.string "Dibertigarria izan da…\p"
+	.string "Ez dut inoiz horren POKéMON\n"
+	.string "borroka dibertigarririk izan…\p"
+	.string "Berriz borrokatu nahi nuke zure aurka…$"
 

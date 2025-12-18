@@ -1142,7 +1142,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed:
 
 BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine:
 	.string "Taktika Sinboloak urre koloreko\n"
-	.string "distira bat hartu du!$"
+	.string "distira hartu du!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
 	.string "Indartsua zara, baina, batez ere,\n"

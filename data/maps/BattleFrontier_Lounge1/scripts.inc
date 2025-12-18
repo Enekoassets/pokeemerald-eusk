@@ -151,83 +151,83 @@ BattleFrontier_Lounge1_EventScript_Boy2::
 	end
 
 BattleFrontier_Lounge1_Text_PokemonBreederIntro:
-	.string "For 70 years I have raised POKéMON!\n"
-	.string "I am the man they revere as\l"
-	.string "the legendary top POKéMON BREEDER!\p"
-	.string "If you ever become as seasoned as me,\n"
-	.string "you'll see the abilities of POKéMON\l"
-	.string "at a glance.\p"
-	.string "You're a TRAINER. Doesn't it interest\n"
-	.string "you to know your own POKéMON's\l"
-	.string "abilities?\p"
-	.string "Here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "70 urtez hazi ditut POKéMONAK!\n"
+	.string "Ni naiz POKéMON HAZLE famatua,\l"
+	.string "munduko POKéMON HAZLE onena!\p"
+	.string "Ni bezain aditua bihurtzen bazara,\n"
+	.string "POKéMONEN abileziak ziztu batean\l"
+	.string "ikusteko gai izango zara.\p"
+	.string "ENTRENATZAILEA zara. Ez al zaizu\n"
+	.string "interesgarria iruditzen zure POKéMONEN\l"
+	.string "abileziak jakin ahal izatea?\p"
+	.string "Ea ba!\n"
+	.string "Ikus dezagun zure POKéMONA!$"
 
 BattleFrontier_Lounge1_Text_AverageAbility:
 	.string "…Hmm…\p"
-	.string "This one, overall, I would describe\n"
-	.string "as being of average ability.$"
+	.string "Honek, labur esanda, bataz-besteko\n"
+	.string "abilezia duela esango nuke.$"
 
 BattleFrontier_Lounge1_Text_BetterThanAverageAbility:
 	.string "…Hmm…\p"
-	.string "This one, overall, I would describe as\n"
-	.string "having better-than-average ability.$"
+	.string "Honek, labur esanda, bataz-bestekoa\n"
+	.string "baino abilezia gehiago duela esango nuke.$"
 
 BattleFrontier_Lounge1_Text_ImpressiveAbility:
 	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "quite impressive in ability!$"
+	.string "Honek, labur esanda, abilezia\n"
+	.string "nahikoa handia duela esango nuke.$"
 
 BattleFrontier_Lounge1_Text_OutstandingAbility:
 	.string "…Hmm…\p"
-	.string "This one, overall, I would say is\n"
-	.string "wonderfully outstanding in ability!$"
+	.string "Honek, labur esanda, abilezia\n"
+	.string "izugarria duela esango nuke!$"
 
 BattleFrontier_Lounge1_Text_BestAspectHP:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its HP…$"
+	.string "Batez ere, bere alderdi onena,\n"
+	.string "esango nuke, BPak direla…$"
 
 BattleFrontier_Lounge1_Text_BestAspectAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its ATTACK…$"
+	.string "Batez ere, bere alderdi onena,\n"
+	.string "esango nuke, ERASOA dela…$"
 
 BattleFrontier_Lounge1_Text_BestAspectDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its DEFENSE…$"
+	.string "Batez ere, bere alderdi onena,\n"
+	.string "esango nuke, DEFENTSA dela…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpAtk:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL ATTACK…$"
+	.string "Batez ere, bere alderdi onena,\n"
+	.string "esango nuke, ERASO BEREZIA dela…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpDef:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPECIAL DEFENSE…$"
+	.string "Batez ere, bere alderdi onena,\n"
+	.string "esango nuke, DEFENTSA BEREZIA dela…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpeed:
-	.string "Incidentally, the best aspect of it,\n"
-	.string "I would say, is its SPEED…$"
+	.string "Batez ere, bere alderdi onena,\n"
+	.string "esango nuke, ABIADURA dela…$"
 
 BattleFrontier_Lounge1_Text_StatRelativelyGood:
-	.string "That stat is relatively good.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Estatistika hori nahikoa ona da.\n"
+	.string "…Hm… Halaxe esango nuke.$"
 
 BattleFrontier_Lounge1_Text_StatImpressive:
-	.string "That stat is quite impressive.\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Estatistika hori oso ona da.\n"
+	.string "…Hm… Halaxe esango nuke.$"
 
 BattleFrontier_Lounge1_Text_StatOutstanding:
-	.string "That stat is outstanding!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Estatistika hori harrigarria da.\n"
+	.string "…Hm… Halaxe esango nuke.$"
 
 BattleFrontier_Lounge1_Text_StatFlawless:
-	.string "It's flawless! A thing of perfection!\n"
-	.string "…Hm… That's how I call it.$"
+	.string "Ezinhobea da! Guztiz perfektua!\n"
+	.string "…Hm… Halaxe esango nuke.$"
 
 BattleFrontier_Lounge1_Text_NoTimeForMyAdvice:
-	.string "What?\n"
-	.string "You have no time for my advice?\p"
-	.string "You should always be eager to learn\n"
-	.string "from the experiences of your elders!$"
+	.string "Zer?\n"
+	.string "Ez duzula nire aholkurik behar?\p"
+	.string "Beti egon behar zinateke prest\n"
+	.string "zaharrongandik ikasteko!$"
 
 @ Unused
 BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
@@ -236,23 +236,23 @@ BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
 	.string "Save it for next time!$"
 
 BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon:
-	.string "Ah, youngster! Do your POKéMON's\n"
-	.string "abilities intrigue you?\p"
-	.string "Here, here!\n"
-	.string "Let's have a look at your POKéMON!$"
+	.string "Aizu, gazte! Nahi al duzu zure\n"
+	.string "POKéMONEN abilezia jakin?\p"
+	.string "Etorri, orduan!\n"
+	.string "Ikus dezagun zure POKéMONA!$"
 
 BattleFrontier_Lounge1_Text_EvenICantTell:
-	.string "An expert I am, but even I can't tell\n"
-	.string "anything about an unhatched POKéMON!\p"
-	.string "Show me a POKéMON!\n"
-	.string "A POKéMON is what I need to see!$"
+	.string "Aditua naiz, bai, baina ez dakit ezer\n"
+	.string "jaio ez den POKéMON baten inguruan!\p"
+	.string "Eraskutsi POKéMON bat!\n"
+	.string "POKéMON bat ekarri behar didazu!$"
 
 BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "I'm glad I raised it carefully!$"
+	.string "Nire POKéMONA izugarria dela esan dit!\n"
+	.string "Eskerrak ondo hazi dudan!$"
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:
-	.string "He said my POKéMON is outstanding!\n"
-	.string "But I didn't do anything special\l"
-	.string "raising it…$"
+	.string "Nire POKéMONA izugarria dela esan dit!\n"
+	.string "Baina ez dut ezer berezirik egin\l"
+	.string "ondo hazteko…$"
 

@@ -53,9 +53,9 @@ EWRAM_DATA struct BattleMsgData *gBattleMsgDataPtr = NULL;
 // todo: make some of those names less vague: attacker/target vs pkmn, etc.
 
 static const u8 sText_Trainer1LoseText[] = _("{B_TRAINER1_LOSE_TEXT}");
-static const u8 sText_PkmnGainedEXP[] = _("{B_BUFF1}(e)k {B_BUFF2} ESP. Puntu\n{B_BUFF3} irabazi ditu!\p");
+static const u8 sText_PkmnGainedEXP[] = _("{B_BUFF1}(e)k {B_BUFF3} {B_BUFF2} ESP. Puntu\nirabazi ditu!\p");
 static const u8 sText_EmptyString4[] = _("");
-static const u8 sText_ABoosted[] = _(" a boosted");
+static const u8 sText_ABoosted[] = _(" gehitutako");
 static const u8 sText_PkmnGrewToLv[] = _("{B_BUFF1} {B_BUFF2}. ML.ra\nigo da!{WAIT_SE}\p");
 static const u8 sText_PkmnLearnedMove[] = _("{B_BUFF1}(e)k {B_BUFF2}\nikasi du!{WAIT_SE}\p");
 static const u8 sText_TryToLearnMove1[] = _("{B_BUFF1} {B_BUFF2} ikasten\nsaiatzen ari da.\p");

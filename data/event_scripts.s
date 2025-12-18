@@ -843,7 +843,7 @@ gText_PokemonCenterSign::
 	.string "POKéMON ZENTROA$"
 
 gText_MomOrDadMightLikeThisProgram::
-	.string "{STR_VAR_1}(e)ri gustatuko zaio programa hau.\n"
+	.string "{STR_VAR_1}RI gustatuko zaio programa hau.\n"
 	.string "… … … … … … … … … … … … … … … …\p"
 	.string "Hobe joatea!$"
 

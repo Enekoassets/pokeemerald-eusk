@@ -682,7 +682,7 @@ LilycoveCity_PokemonCenter_1F_Text_PickYourPrize:
 	.string "Ongi, lehenik eta behin, aukeratu\n"
 	.string "galdetegia ondo erantzuten duen\l"
 	.string "pertsonarentzako saria.\p"
-	.string "Baina knotuz, galdetegia erantzuten\n"
+	.string "Baina kontuz, galdetegia erantzuten\n"
 	.string "duenak ez badu asmatzen, saria niretzat\l"
 	.string "izango da!$"
 
