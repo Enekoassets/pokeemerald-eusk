@@ -73,222 +73,222 @@ SafariZone_EventScript_PokeblockPresent::
 	end
 
 SafariZone_Text_WouldYouLikeToExit:
-	.string "Would you like to exit the SAFARI\n"
-	.string "ZONE right now?$"
+	.string "Nahi al duzu SAFARI GUNETIK\n"
+	.string "atera oraintxe bertan?$"
 
 SafariZone_Text_TimesUp:
-	.string "Ding-dong! Time's up!\n"
-	.string "Your SAFARI Game is over.$"
+	.string "Din-don! Denbora amaitu da!\n"
+	.string "Zure SAFARI Partida amaitu da.$"
 
 SafariZone_Text_OutOfBalls:
-	.string "You've run out of SAFARI BALLS.\n"
-	.string "Your SAFARI Game is over.$"
+	.string "SAFARI BALLIK gabe geratu zara.\n"
+	.string "Zure SAFARI Partida amaitu da.$"
 
 SafariZone_Text_PlacePokeblockOnFeeder:
-	.string "Would you like to place a {POKEBLOCK}\n"
-	.string "on the {POKEBLOCK} FEEDER?$"
+	.string "Nahi duzu {POKEBLOCK} bat jarri\n"
+	.string "{POKEBLOCK} ELIKAGAILUAN?$"
 
 SafariZone_Text_PokeblockStillHere:
-	.string "The {STR_VAR_1} you left\n"
-	.string "before is still here.$"
+	.string "Lehen jarri duzun {STR_VAR_1}\n"
+	.string "hemen dago oraindik.$"
 
 SafariZone_Text_PokeblockWasPlaced:
-	.string "The {STR_VAR_1} was placed\n"
-	.string "on the {POKEBLOCK} FEEDER.$"
+	.string "{STR_VAR_1} bat jarri duzu\n"
+	.string "{POKEBLOCK} ELIKAGAILUAN.$"
 
 Route121_SafariZoneEntrance_Text_WelcomeToSafariZone:
-	.string "Welcome to the SAFARI ZONE!\p"
-	.string "Here, you may witness many kinds of\n"
-	.string "POKéMON rarely seen in HOENN.\p"
-	.string "And, you'll see them in their wild,\n"
-	.string "untamed state in natural habitats.\p"
-	.string "What's more, we've thrown open the\n"
-	.string "gates to POKéMON TRAINERS.\p"
-	.string "You're encouraged to catch POKéMON\n"
-	.string "for keeps!\p"
-	.string "Come in and enjoy the SAFARI ZONE!$"
+	.string "Ongi etorri SAFARI GUNERA!\p"
+	.string "Hemen, HOENNEN gutxi ikusten diren\n"
+	.string "POKéMONAK aurkituko dituzu.\p"
+	.string "Eta, beraien egoera basatian\n"
+	.string "ikusiko dituzu, habitat naturalean.\p"
+	.string "Gainera, ENTRENATZAILEENTZAKO\n"
+	.string "sarrera ireki dugu.\p"
+	.string "POKéMONAK harraptu ditzakezu,\n"
+	.string "eta zuretzat izango dira!\p"
+	.string "Sartu eta gozatu SAFARI GUNEAZ!$"
 
 Route121_SafariZoneEntrance_Text_WelcomeFirstTime:
-	.string "Welcome to the SAFARI ZONE!\n"
-	.string "Is it your first time here?$"
+	.string "Ongi etorri SAFARI GUNERA!\n"
+	.string "Zure lehen aldia al da hemen?$"
 
 Route121_SafariZoneEntrance_Text_ComeInAndEnjoy:
-	.string "Come in and enjoy the SAFARI ZONE!$"
+	.string "Sartu eta gozatu SAFARI GUNEAZ!$"
 
 Route121_SafariZoneEntrance_Text_FirstTimeInfo:
-	.string "When you enter the SAFARI ZONE, you\n"
-	.string "start with 30 SAFARI BALLS for\l"
-	.string "catching POKéMON.\p"
-	.string "The SAFARI Game is over when you run\n"
-	.string "out of SAFARI BALLS, or when you've\l"
-	.string "walked 500 steps.\p"
-	.string "Come in and enjoy the SAFARI ZONE!$"
+	.string "SAFARI GUNERA sartzen zarenean,\n"
+	.string "30 SAFARI BALL emango dizkizugu\l"
+	.string "POKéMONAK harrapatzeko.\p"
+	.string "SAFARI Partida amaitu egingo da\n"
+	.string "SAFARI BALL gabe geratzen zarenean,\l"
+	.string "edo 500 pausu ematen dituzunean.\p"
+	.string "Pasa eta gozatu SAFARI GUNEAZ!$"
 
 Route121_SafariZoneEntrance_Text_WouldYouLikeToPlay:
-	.string "Welcome to the SAFARI ZONE!\p"
-	.string "All you can catch for just ¥500!\n"
-	.string "Would you like to play a SAFARI Game?$"
+	.string "Ongi etorri SAFARI GUNERA Harrapatu!\p"
+	.string "ahal duzun guztia 500¥ren truke!\n"
+	.string "Nahi al duzu SAFARI Partida bat egin?$"
 
 Route121_SafariZoneEntrance_Text_PlayAnotherTime:
-	.string "Okay.\n"
-	.string "Please play another time!$"
+	.string "Ados.\n"
+	.string "Etorri beste batean, mesedez!$"
 
 Route121_SafariZoneEntrance_Text_NotEnoughMoney:
-	.string "You don't have enough money.\n"
-	.string "Sorry.$"
+	.string "Ez daukazu nahikoa diru sartzeko.\n"
+	.string "Barkatu.$"
 
 Route121_SafariZoneEntrance_Text_ThatWillBe500Please:
-	.string "That will be ¥500, please.$"
+	.string "500¥ izango lirateke, mesedez.$"
 
 Route121_SafariZoneEntrance_Text_HereAreYourSafariBalls:
-	.string "Here are your SAFARI BALLS.$"
+	.string "Tori zure SAFARI BALLAK.$"
 
 Route121_SafariZoneEntrance_Text_Received30SafariBalls:
-	.string "{PLAYER} received 30 SAFARI BALLS.$"
+	.string "{PLAYER}(r)ek 30 SAFARI BALL jaso ditu.$"
 
 Route121_SafariZoneEntrance_Text_PleaseEnjoyYourself:
-	.string "We'll let you know when your game\n"
-	.string "is over.\p"
-	.string "So, until then, enjoy yourself, please!\n"
-	.string "Off you go on your wild excursion!$"
+	.string "Abisatuko dizugu zure partida\n"
+	.string "amaitzen denean.\p"
+	.string "Beraz, ondo pasa ordura arte!\n"
+	.string "Aurrera, segi zure abentura basatira!$"
 
 Route121_SafariZoneEntrance_Text_PCIsFull:
-	.string "Excuse me!\n"
-	.string "Your PC BOX is full.$"
+	.string "Barkatu!\n"
+	.string "Zure PC KUTXA betea dago.$"
 
 Route121_SafariZoneEntrance_Text_YouNeedPokeblockCase:
-	.string "Excuse me!\n"
-	.string "You seem to be without a {POKEBLOCK} CASE.\p"
-	.string "Your SAFARI Game will be much more\n"
-	.string "fruitful if you use {POKEBLOCK}S.\p"
-	.string "Please come back with a {POKEBLOCK} CASE.\p"
-	.string "You may obtain a {POKEBLOCK} CASE from\n"
-	.string "the LILYCOVE CONTEST HALL.$"
+	.string "Barkatu!\n"
+	.string "Badirudi ez duzula {POKEBLOCK} KUTXARIK.\p"
+	.string "Zure SAFARI Partida askoz aberasgarriagoa\n"
+	.string "izango da {POKEBLOCK}AK erabilita.\p"
+	.string "Mesedez, itzuli {POKEBLOCK} KUTXA batekin.\p"
+	.string "{POKEBLOCK} KUTXA bat lor dezakezu\n"
+	.string "UR-LILIKO TXAPELKETA ARETOAN.$"
 
 SafariZone_South_Text_StillHaveTimeExit:
-	.string "You still have time left. Would you like\n"
-	.string "to exit the SAFARI ZONE now?$"
+	.string "Denbora duzu oraindik. Nahi duzu\n"
+	.string "SAFARI GUNETIK atera hala ere?$"
 
 SafariZone_South_Text_EnjoyTheRestOfYourAdventure:
-	.string "Please enjoy the rest of your wild\n"
-	.string "adventure!$"
+	.string "Gozatu zure abentura basatitik\n"
+	.string "geratzen zaizuna!$"
 
 SafariZone_South_Text_ExitEarlyThankYouForPlaying:
-	.string "Okay.\p"
-	.string "I'll take back your remaining SAFARI\n"
-	.string "BALLS.\p"
-	.string "Thank you for playing.\n"
-	.string "We hope to see you again.$"
+	.string "Ados.\p"
+	.string "Geratu zaikizun SAFARI BALLAK\n"
+	.string "jasoko ditut.\p"
+	.string "Eskerrik asko jolasteagatik.\n"
+	.string "Berriz etorriko zarela espero dugu.$"
 
 SafariZone_South_Text_GoodLuck:
-	.string "Good luck!\p"
-	.string "If you need anything, don't hesitate\n"
-	.string "to tell me, please!$"
+	.string "Zorte on!\p"
+	.string "Zeozer behar baduzu, esan niri\n"
+	.string "lasai, mesedez!$"
 
 SafariZone_South_Text_Boy:
-	.string "Did you know?\p"
-	.string "If you put a {POKEBLOCK} in that square box,\n"
-	.string "POKéMON gather around.$"
+	.string "Ba al zenekien?\p"
+	.string "{POKEBLOCK} bat jartzen baduzu kutxa karratu\n"
+	.string "horretan, POKéMONAK hurbiltzen dira.$"
 
 SafariZone_South_Text_Man:
-	.string "I want to keep going deeper, but I\n"
-	.string "forgot to bring a BIKE.\p"
-	.string "Something tells me that rare POKéMON\n"
-	.string "live in the outlying areas.$"
+	.string "Aurrera jarraitu nahi dut, baina\n"
+	.string "BIZIKLETA ekartzea ahaztu zait.\p"
+	.string "Iruditzen zait POKéMON arraroak egongo\n"
+	.string "direla kanpoaldeko guneetan.$"
 
 SafariZone_Southwest_Text_Woman:
-	.string "Sometimes, when I toss a {POKEBLOCK} at \n"
-	.string "POKéMON, it gets ignored.\p"
-	.string "Do POKéMON have likes and dislikes\n"
-	.string "about what they eat?$"
+	.string "Batzuetan POKéMON bati {POKEBLOCK} bat\n"
+	.string "botatzen badiot, ez dit kasurik egiten.\p"
+	.string "POKéMONEK atsegin dituzten eta ez\n"
+	.string "dituzten janariak al dituzte, ba?$"
 
 SafariZone_Northwest_Text_Man:
-	.string "Gasp… Gasp…\n"
-	.string "I…made it out here…but…\p"
-	.string "I'm exhausted… I don't have the\n"
-	.string "energy to catch POKéMON…$"
+	.string "Ufff… Ufff…\n"
+	.string "Ni…honaino iritsi naiz…baina…\p"
+	.string "Akituta nago… Ez dut energiarik\n"
+	.string "POKéMONAK harrapatzen jarraitzeko…$"
 
 SafariZone_North_Text_Fisherman:
-	.string "I'm on a mission to find WATER POKéMON\n"
-	.string "you don't see in HOENN.\p"
-	.string "Do you have any idea where the lake is?$"
+	.string "HOENNEN agertzen ez diren UR POKéMONAK\n"
+	.string "harrapatzea da nire misioa.\p"
+	.string "Ba al dakizu non dagoen lakua?$"
 
 SafariZone_North_Text_Man:
-	.string "I'm going to catch a lot of rare POKéMON\n"
-	.string "here and trade them with my friends!$"
+	.string "POKéMON arraro pila bat harrapatuko\n"
+	.string "ditut nire lagunekin trukatzeko!$"
 
 SafariZone_South_Text_Youngster:
-	.string "I put a {POKEBLOCK} on the {POKEBLOCK} FEEDER.\n"
-	.string "But it seems to have disappeared.\p"
-	.string "I guess POKéMON must have eaten it\n"
-	.string "without me noticing.$"
+	.string "{POKEBLOCK} bat jarri dut ELIKAGAILUAN.\n"
+	.string "Baina desagertu egin dela dirudi.\p"
+	.string "Agian POKéMONEK jan dute ni konturatu\n"
+	.string "ere egin gabe.$"
 
 Route121_SafariZoneEntrance_Text_TrainerTip:
-	.string "SAFARI ZONE TRAINER TIP!\p"
-	.string "Throw {POKEBLOCK}S at wild POKéMON to make\n"
-	.string "them less likely to flee.$"
+	.string "SAFARI ENTRENATZAILEENTZAKO PISTA!\p"
+	.string "Bota {POKEBLOCK}AK POKéMON BASATIEI\n"
+	.string "gutxiagotan egin dezaten ihes.$"
 
 SafariZone_Southwest_Text_RestHouseSign:
-	.string "“Relieve your tired feet.”\n"
-	.string "REST HOUSE$"
+	.string "“Deskantsatu zure oin nekatuak.”\n"
+	.string "ATSEDEN ETXEA$"
 
 SafariZone_RestHouse_Text_Youngster:
-	.string "I don't have any {POKEBLOCK}S, but I caught\n"
-	.string "a good number of POKéMON.\p"
-	.string "You can improve your chances of making\n"
-	.string "a catch by getting closer to them\l"
-	.string "before throwing a SAFARI BALL.$"
+	.string "Ez dut {POKEBLOCK}IK, baina POKéMON\n"
+	.string "asko harrapatu ditut jada.\p"
+	.string "Harrapatzea errazagoa da SAFARI BALLA\n"
+	.string "bota aurretik POKéMONARENGANA\l"
+	.string "hurbiltzen bazara.$"
 
 SafariZone_RestHouse_Text_PsychicM:
-	.string "If you use {POKEBLOCK}S, wild POKéMON won't\n"
-	.string "be so quick to run away.\p"
-	.string "It's not much use to give {POKEBLOCK}S to\n"
-	.string "POKéMON that don't flee easily.$"
+	.string "{POKEBLOCK}AK erabiltzen badituzu, POKéMON\n"
+	.string "basatiek ez dute horren erraz ihes egingo.\p"
+	.string "Ez du zentzu handirik gutxitan ihes egiten\n"
+	.string "duten POKéMONEI {POKEBLOCK}AK emateak.$"
 
 SafariZone_RestHouse_Text_FatMan:
-	.string "If you put a {POKEBLOCK} on the FEEDER,\n"
-	.string "POKéMON are attracted to it.\p"
-	.string "I think POKéMON with the same sort of\n"
-	.string "nature are drawn by a certain {POKEBLOCK}.$"
+	.string "ELIKAGAILUAN {POKEBLOCK} bat jartzen\n"
+	.string "baduzu, POKéMONAK hurbiltzen dira.\p"
+	.string "Uste dut izaera jakin bateko POKéMONAK\n"
+	.string "{POKEBLOCK} batzuetara hurbiltzen direla.$"
 
 SafariZone_South_Text_AreaOffLimits1:
-	.string "This area is still under construction.\n"
-	.string "It's off-limits, sorry!$"
+	.string "Oraindik gune hau eraikitzen ari gara.\n"
+	.string "Ezin duzu pasa, barkatu!$"
 
 SafariZone_Southeast_Text_ExpansionIsFinished:
-	.string "The SAFARI ZONE's expansion project\n"
-	.string "is finished now.\p"
-	.string "We hope you will enjoy the new area.$"
+	.string "SAFARI GUNEKO zabalketa proiektua\n"
+	.string "amaitu berri dago.\p"
+	.string "Gune berria gozatzea espero dugu.$"
 
 SafariZone_South_Text_AreaOffLimits2:
-	.string "This area is still under construction.\n"
-	.string "It's off-limits, sorry!$"
+	.string "Oraindik gune hau eraikitzen ari gara.\n"
+	.string "Ezin duzu pasa, barkatu!$"
 
 SafariZone_Southeast_Text_LittleGirl:
-	.string "Wow! Whee! I haven't seen any of\n"
-	.string "these POKéMON before!$"
+	.string "Uau! Aizu! Ez dut inoiz hemengoak\n"
+	.string "bezalako POKéMONIK ikusi!$"
 
 SafariZone_Southeast_Text_FatMan:
-	.string "The POKéMON in this area are all\n"
-	.string "new to me.\p"
-	.string "And I'm allowed to catch these rare\n"
-	.string "POKéMON! Too cool!$"
+	.string "Gune honetako POKéMONAK guztiz berriak\n"
+	.string "dira niretzat.\p"
+	.string "Eta POKéMON arraro hauek harrapatu\n"
+	.string "ditzaket, gainera! Itzela!$"
 
 SafariZone_Southeast_Text_RichBoy:
-	.string "The POKéMON around here seem to be\n"
-	.string "from somewhere other than HOENN.$"
+	.string "Hemen inguruko POKéMONAK ez dira\n"
+	.string "HOENNEKOAK, beste nonbaitekoak baizik.$"
 
 SafariZone_Northeast_Text_Boy:
-	.string "I only have a couple SAFARI BALLS left.\p"
-	.string "I'm having a hard time trying to\n"
-	.string "decide what I should catch.$"
+	.string "Pare bat SAFARI BALL geratzen zaizkit.\p"
+	.string "Asko ari zait kostatzen zer harrapatu\n"
+	.string "erabakitzea.$"
 
 SafariZone_Northeast_Text_Woman:
-	.string "I heard that you can see PIKACHU here.\n"
-	.string "Where might one be?$"
+	.string "Entzun dut PIKACHUAK daudela hemen.\n"
+	.string "Non egongo ote dira?$"
 
 SafariZone_Northeast_Text_Girl:
-	.string "Oh, boo!\n"
-	.string "I can't seem to catch anything!\p"
-	.string "I'll end up wasting the admission\n"
-	.string "price if I don't catch something!$"
+	.string "Ene, kaka!\n"
+	.string "Ezin dut ezer harrapatu!\p"
+	.string "Sarrerako dirua alferrik galduko\n"
+	.string "dut ez badut ezer harrapatzen!$"
