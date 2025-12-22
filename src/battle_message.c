@@ -53,7 +53,7 @@ EWRAM_DATA struct BattleMsgData *gBattleMsgDataPtr = NULL;
 // todo: make some of those names less vague: attacker/target vs pkmn, etc.
 
 static const u8 sText_Trainer1LoseText[] = _("{B_TRAINER1_LOSE_TEXT}");
-static const u8 sText_PkmnGainedEXP[] = _("{B_BUFF1}(e)k {B_BUFF3} {B_BUFF2} ESP. Puntu\nirabazi ditu!\p");
+static const u8 sText_PkmnGainedEXP[] = _("{B_BUFF1}(e)k {B_BUFF2} {B_BUFF3} ESP. Puntu\nirabazi ditu!\p");
 static const u8 sText_EmptyString4[] = _("");
 static const u8 sText_ABoosted[] = _(" gehitutako");
 static const u8 sText_PkmnGrewToLv[] = _("{B_BUFF1} {B_BUFF2}. ML.ra\nigo da!{WAIT_SE}\p");
@@ -410,13 +410,13 @@ static const u8 sText_LinkTrainer2WithdrewPkmn[] = _("{B_LINK_SCR_TRAINER_NAME}(
 static const u8 sText_WildPkmnPrefix[] = _(" basatia");
 static const u8 sText_FoePkmnPrefix[] = _(" etsaia");
 static const u8 sText_EmptyString8[] = _("");
-static const u8 sText_FoePkmnPrefix2[] = _("Etsaia");
-static const u8 sText_AllyPkmnPrefix[] = _("Laguna");
-static const u8 sText_FoePkmnPrefix3[] = _("Etsaia");
-static const u8 sText_AllyPkmnPrefix2[] = _("Laguna");
-static const u8 sText_FoePkmnPrefix4[] = _("Etsaia");
-static const u8 sText_AllyPkmnPrefix3[] = _("Laguna");
-static const u8 sText_AttackerUsedX[] = _("{B_ATK_NAME_WITH_PREFIX} {B_BUFF2}\n erabili du");
+static const u8 sText_FoePkmnPrefix2[] = _("Etsaiaren");
+static const u8 sText_AllyPkmnPrefix[] = _("Lagunaren");
+static const u8 sText_FoePkmnPrefix3[] = _("Etsaiaren");
+static const u8 sText_AllyPkmnPrefix2[] = _("Lagunaren");
+static const u8 sText_FoePkmnPrefix4[] = _("Etsaiaren");
+static const u8 sText_AllyPkmnPrefix3[] = _("Lagunaren");
+static const u8 sText_AttackerUsedX[] = _("{B_ATK_NAME_WITH_PREFIX}(e)k {B_BUFF2}\n erabili du");
 static const u8 sText_ExclamationMark[] = _("!");
 static const u8 sText_ExclamationMark2[] = _("!");
 static const u8 sText_ExclamationMark3[] = _("!");
@@ -2285,25 +2285,34 @@ static const u8 *TryGetStatusString(u8 *src)
 
 #define HANDLE_NICKNAME_STRING_CASE(battler, monIndex)                \
     if (GetBattlerSide(battler) != B_SIDE_PLAYER)                     \
-    {                                                                   \
-        if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)                     \
-            toCpy = sText_FoePkmnPrefix;                                \
-        else                                                            \
-            toCpy = sText_WildPkmnPrefix;                               \
-        while (*toCpy != EOS)                                           \
-        {                                                               \
-            dst[dstID] = *toCpy;                                        \
-            dstID++;                                                    \
-            toCpy++;                                                    \
-        }                                                               \
-        GetMonData(&gEnemyParty[monIndex], MON_DATA_NICKNAME, text);    \
-    }                                                                   \
-    else                                                                \
-    {                                                                   \
-        GetMonData(&gPlayerParty[monIndex], MON_DATA_NICKNAME, text);   \
-    }                                                                   \
-    StringGet_Nickname(text);                                           \
-    toCpy = text;
+    {                                                                 \
+        GetMonData(&gEnemyParty[monIndex], MON_DATA_NICKNAME, text);  \
+    }                                                                 \
+    else                                                              \
+    {                                                                 \
+        GetMonData(&gPlayerParty[monIndex], MON_DATA_NICKNAME, text); \
+    }                                                                 \
+                                                                      \
+    StringGet_Nickname(text);                                         \
+    toCpy = text;                                                     \
+    while (*toCpy != EOS)                                             \
+    {                                                                 \
+        dst[dstID++] = *toCpy;                                        \
+        toCpy++;                                                      \
+    }                                                                 \
+                                                                      \
+    if (GetBattlerSide(battler) != B_SIDE_PLAYER)                     \
+    {                                                                 \
+        if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)                   \
+            toCpy = sText_FoePkmnPrefix;                              \
+        else                                                          \
+            toCpy = sText_WildPkmnPrefix;                             \
+        while (*toCpy != EOS)                                         \
+        {                                                             \
+            dst[dstID++] = *toCpy;                                    \
+            toCpy++;                                                  \
+        }                                                             \
+    }
 
 // Ensure the defined length for an item name can contain the full defined length of a berry name.
 // This ensures that custom Enigma Berry names will fit in the text buffer at the top of BattleStringExpandPlaceholders.
