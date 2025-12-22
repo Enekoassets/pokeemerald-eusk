@@ -1073,166 +1073,166 @@ const u8 gXatuPokedexText[] = _(
     "direla uste izan dute luzaroan.");
 
 const u8 gMareepPokedexText[] = _(
-    "Its fluffy wool rubs together and builds\n"
-    "a static charge. The more energy is\n"
-    "charged, the more brightly the lightbulb\n"
-    "at the tip of its tail glows.");
+    "Bere artilea igurzten bada energia\n"
+    "estatikoa biltzen du. Zenbat eta energia\n"
+    "gehiago kargatu, buztaneko bonbilak\n"
+    "orduan eta argi gehiago egiten du.");
 
 const u8 gFlaaffyPokedexText[] = _(
-    "Its fleece quality changes to generate\n"
-    "strong static electricity with a small\n"
-    "amount of wool. The bare, slick parts of its\n"
-    "hide are shielded against electricity.");
+    "Bere artilearen kalitatea aldatu egiten\n"
+    "da, artile gutxirekin elektrizitate estatiko\n"
+    "asko sortuz. Ilerik ez duen larruaren zatiak\n"
+    "elektrizitatearen aurka babestuta daude.");
 
 const u8 gAmpharosPokedexText[] = _(
-    "It gives off so much light that it can be\n"
-    "seen even from space. People in the old\n"
-    "days used its light to send signals back\n"
-    "and forth with others far away.");
+    "Horrenbeste argi botatzen du, espaziotik\n"
+    "ere ikus daitekeela. Antzina, jendeak\n"
+    "argi bitartezko mezuak bidaltzeko\n"
+    "erabiltzen zuen urruti zeudenei.");
 
 const u8 gBellossomPokedexText[] = _(
-    "Its flower petals deepen in color through\n"
-    "exposure to sunlight. When cloudy weather\n"
-    "persists, it does a dance that is thought\n"
-    "to be a ritual for summoning the sun.");
+    "Petaloek kolore sakonagoa hartzen dute\n"
+    "eguzki izpiekin. Eguraldi lainotsua baldin\n"
+    "badago denbora luzez, eguzkiari deitzeko\n"
+    "errituala den dantza bat egiten du.");
 
 const u8 gMarillPokedexText[] = _(
-    "Its body is covered with water-repellent\n"
-    "fur. Because of the fur, it can swim\n"
-    "through water at high speed without being\n"
-    "slowed by the water's resistance.");
+    "Ura uxatzen duen larruz estalita dauka\n"
+    "gorputza. Larruari esker, uretan igeri\n"
+    "egin dezake oso bizkor, ez baitio\n"
+    "uraren marruskadurak eragiten.");
 
 const u8 gAzumarillPokedexText[] = _(
-    "It lives in water virtually all day long.\n"
-    "Its body color and pattern act as\n"
-    "camouflage that makes it tough for\n"
-    "enemies to spot in water.");
+    "Uretan egoten da ia egun osoan. Bere\n"
+    "gorputzaren kolore eta itxurak kamuflaje\n"
+    "gisan funtzionatzen dute, etsaiek uretan\n"
+    "dagoenean ikusi ez dezaten.");
 
 const u8 gSudowoodoPokedexText[] = _(
-    "It mimics a tree to avoid being attacked\n"
-    "by enemies. But since its forelegs\n"
-    "remain green throughout the year, it is\n"
-    "easily identified as a fake in the winter.");
+    "Zuhaitz baten itxura dauka, etsaiek ez\n"
+    "diezaioten eraso egin. Baina hankak urte\n"
+    "osoan zehar berdeak dituenez, neguan oso\n"
+    "erraza da gezurrezkoa dela ikustea.");
 
 const u8 gPolitoedPokedexText[] = _(
-    "The curled hair on its head proves its\n"
-    "status as a king. It is said that the\n"
-    "longer and curlier the hair, the more\n"
-    "respect it earns from its peers.");
+    "Buruan duen ile kiribilak bere errege\n"
+    "egoera adierazten du. Zenbat eta ile\n"
+    "luze eta kiribilagoa, orduan eta errespetu\n"
+    "gehiago diote bere kideek.");
 
 const u8 gHoppipPokedexText[] = _(
-    "This POKéMON drifts and floats with the\n"
-    "wind. If it senses the approach of strong\n"
-    "winds, a HOPPIP links leaves with others\n"
-    "to prepare against being blown away.");
+    "POKéMON hau haizeak flotatzen eta mugitzen\n"
+    "du. Haize gogorra datorrela nabaritzen badu,\n"
+    "HOPPIPEK besteekin lotzen ditu hostoak, ez\n"
+    "daitezen hegan atera urrutira.");
 
 const u8 gSkiploomPokedexText[] = _(
-    "It blossoms when the temperature rises\n"
-    "above 64 degrees F. Because its flower's\n"
-    "blooming changes with the temperature,\n"
-    "it is sometimes used as a thermometer.");
+    "Tenperatura 18 gradutik gora igotzen denean\n"
+    "loratzen da. Bere lorearen itxura aldatu\n"
+    "egiten denez tenperaturaren arabera,\n"
+    "batzuetan termometro gisan erabiltzen da.");
 
 const u8 gJumpluffPokedexText[] = _(
-    "JUMPLUFF ride warm southern winds to\n"
-    "cross the sea and fly to foreign lands.\n"
-    "This POKéMON lands when it encounters\n"
-    "cold air while it is floating.");
+    "JUMPLUFFEK hego haize epeletan egiten du\n"
+    "hegan, itsasoa zeharkatuz urrutira joateko.\n"
+    "POKéMON honek lur hartzen du hegan doanean\n"
+    "aire hotza nabaritzen badu.");
 
 const u8 gAipomPokedexText[] = _(
-    "Its tail ends with a dexterous, handlike\n"
-    "appendage. However, because it uses the\n"
-    "tail so much, AIPOM's real hands have\n"
-    "become rather clumsy.");
+    "Buztanaren puntan esku formako gorputz adar\n"
+    "trebea du. Hala ere, buztana horrenbeste\n"
+    "erabiltzen duenez, AIPOMEN benetako eskuak\n"
+    "nahikoa traketsak bilakatu dira.");
 
 const u8 gSunkernPokedexText[] = _(
-    "SUNKERN try to minimize movement to\n"
-    "conserve the nutrients they have stored\n"
-    "in their bodies for evolution. They will\n"
-    "not eat, subsisting only on morning dew.");
+    "SUNKERN mugimendua minimizatzen saiatzen\n"
+    "da, gorputzean biltzen duten energia\n"
+    "eboluziorako gordetzeko. Ez dute jaten,\n"
+    "goizeko ihintzarekin soilik bizi dira.");
 
 const u8 gSunfloraPokedexText[] = _(
-    "SUNFLORA convert solar energy into\n"
-    "nutrition. They are highly active in the\n"
-    "warm daytime but suddenly stop moving as\n"
-    "soon as the sun sets.");
+    "SUNFLORAK eguzki izpiak elikagai bihurtzeko\n"
+    "gaitasuna du. Oso aktiboak dira egun epelean\n"
+    "zehar, baina geratu egiten dira eguzkia\n"
+    "ezkutatzen den unean.");
 
 const u8 gYanmaPokedexText[] = _(
-    "It can see 360 degrees without moving\n"
-    "its eyes. It is a great flier capable of\n"
-    "making sudden stops and turning midair to\n"
-    "quickly chase down targeted prey.");
+    "360 graduko ikusmena dauka burua mugitu\n"
+    "gabe. Oso trebea da hegan, bat-batean\n"
+    "gelditu eta bira eman dezake airean,\n"
+    "ehizakinak harrapatu ahal izateko.");
 
 const u8 gWooperPokedexText[] = _(
-    "WOOPER usually live in water but come\n"
-    "out onto land seeking food occasionally.\n"
-    "On land, they coat their bodies with a\n"
-    "gooey, toxic film.");
+    "WOOPER uretan bizi da normalean, baina\n"
+    "baztuetan lurrera joan ohi da janari bila.\n"
+    "Lurrean daudenean, gorputza babes likatsu\n"
+    "pozointsu batekin bildu ohi dute.");
 
 const u8 gQuagsirePokedexText[] = _(
-    "A QUAGSIRE hunts by leaving its mouth wide\n"
-    "open in water and waiting for its prey to\n"
-    "blunder in. Because it doesn't move, it\n"
-    "does not get very hungry.");
+    "QUAGSIREK ahoa irekita uzten du uretan\n"
+    "ehiza egiteko, harrapakinak barrura sartzeko\n"
+    "itxaronez. Ez denez batere mugitzen, ez\n"
+    "du gose handirik izaten.");
 
 const u8 gEspeonPokedexText[] = _(
-    "An ESPEON is extremely loyal to any\n"
-    "TRAINER it considers to be worthy. It is\n"
-    "said to have developed precognitive\n"
-    "powers to protect its TRAINER from harm.");
+    "ESPEON izugarri leiala da merezi duela\n"
+    "uste duen edozein ENTRENATZAILERI. Esaten\n"
+    "da botere aurrekognitiboak garatu dituela\n"
+    "ENTRENATZAILEA edozein minetatik babesteko.");
 
 const u8 gUmbreonPokedexText[] = _(
-    "UMBREON evolved from exposure to the\n"
-    "moon's energy pulses. It lurks in darkness\n"
-    "and waits for its foes to move. The rings\n"
-    "on its body glow when it leaps to attack.");
+    "UMBREON ilargiaren energia pultsuetatik\n"
+    "eboluzionatu zen. Ilunetan egoten da zelatan,\n"
+    "etsaia mugitu arte itxaroten. Gorputzeko\n"
+    "eraztunek distira egiten dute erasotzean.");
 
 const u8 gMurkrowPokedexText[] = _(
-    "MURKROW were feared as the alleged\n"
-    "bearers of ill fortune. It shows strong\n"
-    "interest in anything that sparkles. It will\n"
-    "even try to steal rings from women.");
+    "MURKROWEK zorte txarra ekartzen zuela\n"
+    "esaten zen. Interes handia du distira\n"
+    "egiten duten objektuekiko. Emakumeei\n"
+    "eraztunak lapurtzen ere saiatzen da.");
 
 const u8 gSlowkingPokedexText[] = _(
-    "It undertakes research every day to\n"
-    "solve the mysteries of the world.\n"
-    "However, it apparently forgets everything\n"
-    "if the SHELLDER on its head comes off.");
+    "Egunero ikerketan aritzen da munduaren\n"
+    "misterioak argitzen saiatzeko. Hala ere,\n"
+    "guztia ahazten omen du bere buruko\n"
+    "SHELLDERRA askatzen den momentuan.");
 
 const u8 gMisdreavusPokedexText[] = _(
-    "A MISDREAVUS frightens people with a\n"
-    "creepy, sobbing cry. It apparently uses\n"
-    "its red spheres to absorb the fear of foes\n"
-    "as its nutrition.");
+    "MISDREAVUSEK jendea beldurtzen du negar\n"
+    "izugarri batekin. Dirudienez, bere esfera\n"
+    "gorriak erabiliz, etsaiaren izua xurgatzen\n"
+    "du elikagai gisan erabiltzeko.");
 
 const u8 gUnownPokedexText[] = _(
-    "This POKéMON is shaped like ancient text\n"
-    "characters. Although research is ongoing,\n"
-    "it is a mystery as to which came first,\n"
-    "the ancient writings or the various UNOWN.");
+    "POKéMON honek antzinako karaktereen forma\n"
+    "dauka. Ikerketa aktibo badago ere, misterioa\n"
+    "da oraindik zein agertu zen lehenago,\n"
+    "antzinako idatziak edo UNOWNAK.");
 
 const u8 gWobbuffetPokedexText[] = _(
-    "Usually docile, a WOBBUFFET strikes back\n"
-    "ferociously if its black tail is attacked.\n"
-    "It makes its lair in caves where it waits\n"
-    "for nightfall.");
+    "Berez otzana bada ere, WOBBUFFETEK bortizki\n"
+    "erasotzen du, bere buztan beltzari eraso\n"
+    "eginez gero. Bere etxea kobazuloetan egiten\n"
+    "du, eta bertan gauari itxaroten dio.");
 
 const u8 gGirafarigPokedexText[] = _(
-    "A GIRAFARIG is an herbivore--it eats\n"
-    "grass and tree shoots. While it is eating,\n"
-    "its tail makes chewing and swallowing\n"
-    "motions as if it were also eating.");
+    "GIRAFARIG belarjalea da: belarra eta zuhaitz\n"
+    "kimuak jaten ditu. Jaten duen bitartean,\n"
+    "bere buztanak ere murtxikatu eta irensteko\n"
+    "keinuak egiten ditu, jaten ari balitz bezala.");
 
 const u8 gPinecoPokedexText[] = _(
-    "A PINECO hangs from a tree branch and\n"
-    "waits for prey. While eating, if it is\n"
-    "disturbed by someone shaking its tree, it\n"
-    "falls on the ground and suddenly explodes.");
+    "PINECO zuhaitz adarretan eskegitzen da\n"
+    "ehizakinei itxaroteko. Jaten ari dela\n"
+    "norbaitek bere zuhaitza astintzen badu,\n"
+    "lurrera erori eta lehertu egiten da.");
 
 const u8 gForretressPokedexText[] = _(
-    "It keeps itself inside its steel shell.\n"
-    "The shell is opened when it is catching\n"
-    "prey, but it is so quick that the shell's\n"
-    "inside cannot be seen.");
+    "Bere altzairuzko oskolaren barruan dago\n"
+    "beti. Oskola ireki egiten da ehizan dagoen\n"
+    "bitartean, baina horren azkar irekitzen da,\n"
+    "barrualdea ezin dela ikusi ere egin.");
 
 const u8 gDunsparcePokedexText[] = _(
     "Its drill-tipped tail is used to burrow into\n"
