@@ -267,10 +267,10 @@ BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers:
 
 BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain:
 	.string "TRIKI: Ezagutu al duzu jada\n"
-	.string "FRONTEKO BURMUINIK?\p"
+	.string "FRONTEKO BURURIK?\p"
 	.string "Are gehiago, lortu al duzu\n"
 	.string "sinbolorik haiengandik?\p"
-	.string "Nik aukeratu ditut FRONTEKO BURMUINAK,\n"
+	.string "Nik aukeratu ditut FRONTEKO BURUAK,\n"
 	.string "leku guztietako ENTRENATZAILE indartsuenak.\p"
 	.string "Baina zure indarra ikusita, ziur haiek\n"
 	.string "ere txunditzeko gai izango zarela!$"

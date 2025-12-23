@@ -312,7 +312,7 @@ SlateportCity_BattleTentLobby_Text_ReceivedPrize:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_RulesAreListed:
-	.string "Truke Borrokako arauak ikus daitezke.$"
+	.string "Truke Borrokako arauak dira.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReadWhichHeading:

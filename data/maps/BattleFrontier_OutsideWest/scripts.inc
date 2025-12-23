@@ -308,45 +308,45 @@ BattleFrontier_OutsideWest_EventScript_PokefanF::
 	end
 
 BattleFrontier_OutsideWest_Text_BattleDomeSign:
-	.string "This is the BATTLE DOME!\n"
-	.string "Your path to the invincible superstar!$"
+	.string "Hau BORROKA DOMOA da! Egin\n"
+	.string "superizar garaiezinarenganako bidea!$"
 
 BattleFrontier_OutsideWest_Text_BattleFactorySign:
-	.string "This is the BATTLE FACTORY!\n"
-	.string "Seek out the toughest POKéMON!$"
+	.string "Hau BORROKA FABRIKA da!\n"
+	.string "Aurkitu POKéMON indartsuenak!$"
 
 BattleFrontier_OutsideWest_Text_BattlePikeSign:
-	.string "This is the BATTLE PIKE!\n"
-	.string "Choose one of three paths!$"
+	.string "Hau BORROKA SUGEA da!\n"
+	.string "Aukeratu hiru bideetako bat!$"
 
 BattleFrontier_OutsideWest_Text_ThisIsBattleTower:
-	.string "This is the BATTLE TOWER.\p"
-	.string "TRAINERS bring their best-raised\n"
-	.string "POKéMON for elimination-style matches.$"
+	.string "Hau BORROKA DORREA da.\p"
+	.string "ENTRENATZAILEEK beraien POKéMON\n"
+	.string "indartsuenak dakartzate borrokarako.$"
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "Kaixo, ferryagatik etorri al zara?\n"
+	.string "Ikus al dezaket zure TIKETA?$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
-	.string "{PLAYER} doesn't have the TICKET…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a TICKET to board\n"
-	.string "the ferry.$"
+	.string "{PLAYER}(e)k ez dauka TIKETIK…\p"
+	.string "Asko sentitzen dut.\p"
+	.string "TIKET bat behar duzu ferryra\n"
+	.string "igo ahal izateko.$"
 
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo:
-	.string "{PLAYER} flashed the TICKET.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.string "{PLAYER}(e)k TIKETA erakutsi du.\p"
+	.string "Bikain! Hori besterik ez duzu behar!\p"
+	.string "Eta nora joan nahi duzu?$"
 
 BattleFrontier_OutsideWest_Text_SlateportItIs:
-	.string "SLATEPORT CITY it is, then!$"
+	.string "PORTUONDO HIRIRA, beraz!$"
 
 BattleFrontier_OutsideWest_Text_LilycoveItIs:
-	.string "LILYCOVE CITY it is, then!$"
+	.string "UR-LILI HIRIRA, beraz!$"
 
 BattleFrontier_OutsideWest_Text_SailWithUsAnotherTime:
-	.string "Please sail with us another time!$"
+	.string "Nabigatu gurekin berriz, mesedez!$"
 
 BattleFrontier_OutsideWest_Text_PleaseBoardFerry:
 	.string "Please board the ferry and wait for\n"

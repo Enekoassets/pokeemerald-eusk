@@ -512,7 +512,7 @@ BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
 	.string "bat osatuko duzula.$"
 
 BattleFrontier_BattleArenaLobby_Text_RulesAreListed:
-	.string "KO Txapelketako arauak daude.$"
+	.string "KO Txapelketako arauak dira.$"
 
 BattleFrontier_BattleArenaLobby_Text_ReadWhichHeading:
 	.string "Zein irakurri nahi duzu?$"

@@ -46,32 +46,32 @@ BattleFrontier_Lounge6_EventScript_TradeCompleted::
 	end
 
 BattleFrontier_Lounge6_Text_WouldYouLikeToTrade:
-	.string "My POKéMON is a {STR_VAR_2}.\n"
-	.string "Do you know it?\l"
-	.string "It's quite cute and rather nice.\p"
-	.string "This little one, I could trade with\n"
-	.string "pride!\p"
-	.string "Would you like to trade me a {STR_VAR_1}\n"
-	.string "for my {STR_VAR_2}?$"
+	.string "Nire POKéMONA {STR_VAR_2} bat da.\n"
+	.string "Ezagutzen al duzu?\l"
+	.string "Oso polita eta jatorra da.\p"
+	.string "Harrotasun handiz trukatu nezake\n"
+	.string "txikitxo hau!\p"
+	.string "Trukatu nahi duzu {STR_VAR_1} bat\n"
+	.string "nire {STR_VAR_2} honen truke?$"
 
 BattleFrontier_Lounge6_Text_PromiseIllBeGoodToIt:
-	.string "Oh, it's adorable!\n"
-	.string "Thank you!\l"
-	.string "I promise I'll be good to it!\p"
-	.string "Oh! I hope you'll be good to\n"
-	.string "my {STR_VAR_2}, too!$"
+	.string "Ene, oso polita da!\n"
+	.string "Eskerrik asko!\l"
+	.string "Ondo zainduko dut, benetan!\p"
+	.string "Bai! Zuk ere nire {STR_VAR_2}\n"
+	.string "ondo zainduko duzula espero dut!$"
 
 BattleFrontier_Lounge6_Text_DontTradeForAnythingButMon:
-	.string "Oh, I'm sorry!\n"
-	.string "I don't intend to trade for anything\l"
-	.string "but a {STR_VAR_1}.$"
+	.string "Ene, sentitzen dut!\n"
+	.string "{STR_VAR_1} baten truke soilik\l"
+	.string "trukatuko nuke txikitxo hau.$"
 
 BattleFrontier_Lounge6_Text_WellThatsFineToo:
-	.string "Oh, you won't?\n"
-	.string "Well, that's fine, too.\l"
-	.string "Please come visit us again.$"
+	.string "Zer, ez al duzu nahi?\n"
+	.string "Beno, hori ere ondo dago.\l"
+	.string "Etorri nahi duzunean.$"
 
 BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined:
-	.string "Giggle!\n"
-	.string "A SKITTY is so much cuter than I had\l"
-	.string "imagined. I'm delighted!$"
+	.string "Bai!\n"
+	.string "SKITTY uste nuena baino askoz ere\l"
+	.string "politagoa da. A zer poza!$"

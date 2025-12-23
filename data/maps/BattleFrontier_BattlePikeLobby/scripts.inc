@@ -268,92 +268,92 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain::
 	return
 
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
-	.string "Where the luck of TRAINERS\n"
-	.string "is put to the test…\p"
-	.string "Welcome to the BATTLE PIKE…\p"
-	.string "I am your guide to the BATTLE PIKE…$"
+	.string "ENTRENATZAILEEN zortea jokoan\n"
+	.string "jartzen den tokira…\p"
+	.string "Ongi etorri BORROKA SUGERA…\p"
+	.string "Zure BORROKA SUGEKO gida izango naiz…$"
 
 BattleFrontier_BattlePikeLobby_Text_TakeChallenge:
-	.string "Would you like to take the Battle\n"
-	.string "Choice challenge?$"
+	.string "Nahi al duzu Aukera Borrokaren\n"
+	.string "erronkan parte hartu?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
-	.string "Here we conduct an event we call\n"
-	.string "the Battle Choice.\p"
-	.string "The Battle Choice rules are very\n"
-	.string "simple…\p"
-	.string "Choose one of three paths and make\n"
-	.string "your way to the goal room at the end\l"
-	.string "of the BATTLE PIKE. It's that simple.\p"
-	.string "However, what happens on the chosen\n"
-	.string "path depends entirely on the luck\l"
-	.string "of the challenger…\p"
-	.string "If you reach the goal, you will be\n"
-	.string "rewarded with Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please have a word with\l"
-	.string "our staff in the big rooms on the way.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "Hemen Aukera Borroka deitzen diogun\n"
+	.string "ekitaldi bat egin ohi dugu.\p"
+	.string "Aukera Borrokaren arauak oso\n"
+	.string "errazak dira…\p"
+	.string "Aukeratu hiru bideetako bat eta\n"
+	.string "iritsi BORROKA SUGEKO azken\l"
+	.string "gelara. Oso erraza da.\p"
+	.string "Hala ere, aukeratutako bidean\n"
+	.string "gertatzen dena erronkariaren\l"
+	.string "zortean araberakoa da…\p"
+	.string "Helburua lortzen baduzu, Borroka\n"
+	.string "Puntuak emango dizkizugu.\p"
+	.string "Erronka eten nahi baduzu, mesedez,\n"
+	.string "hitz egin BORROKA SUGEKO langileekin\l"
+	.string "bidean dauden gela handietan.\p"
+	.string "Ez baduzu gordetzen atera aurretik,\n"
+	.string "deskalifikatu egingo zaitugu.$"
 
 BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou:
-	.string "We look forward to seeing you\n"
-	.string "on another occasion…$"
+	.string "Beste batean etorriko zarela\n"
+	.string "espero dugu…$"
 
 BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode:
-	.string "You have the choice of two courses,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which will you challenge?$"
+	.string "Bi aukera dauzkazu BORROKA SUGEAN,\n"
+	.string "50. Maila eta Maila Irekia.\l"
+	.string "Zein aukeratu nahi duzu?$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50:
-	.string "I beg your pardon, but…\p"
-	.string "You do not have three eligible\n"
-	.string "POKéMON for the Battle Choice event.\p"
-	.string "You must have three different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when\n"
-	.string "you are ready…$"
+	.string "Sentitzen dut, baina…\p"
+	.string "Ez dauzkazu hiru POKéMON egoki\n"
+	.string "Aukera Borrokan parte hartzeko.\p"
+	.string "50 Maila edo gutxiagoko hiru\n"
+	.string "POKéMON behar dituzu.\p"
+	.string "Gainera, ezin dute item\n"
+	.string "berdinik eduki.\p"
+	.string "ARRAUTZAK ezin dira erabili.\p"
+	.string "Mesedez, itzuli berriro\n"
+	.string "prest zaudenean…$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "I beg your pardon, but…\p"
-	.string "You do not have three eligible\n"
-	.string "POKéMON for the Battle Choice event.\p"
-	.string "You must have three different\n"
-	.string "POKéMON to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when\n"
-	.string "you are ready…$"
+	.string "Sentitzen dut, baina…\p"
+	.string "Ez dauzkazu hiru POKéMON egoki\n"
+	.string "Aukera Borrokan parte hartzeko.\p"
+	.string "Hiru POKéMON desberdin behar\n"
+	.string "dituzu parte hartzeko.\p"
+	.string "Gainera, ezin dute item\n"
+	.string "berdinik eduki.\p"
+	.string "ARRAUTZAK ezin dira erabili.\p"
+	.string "Mesedez, itzuli berriro\n"
+	.string "prest zaudenean…$"
 
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
-	.string "Please choose the three POKéMON\n"
-	.string "you wish to enter in the challenge…$"
+	.string "Mesedez, aukeratu hiru POKéMON\n"
+	.string "erronkan parte hartzeko…$"
 
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge:
-	.string "Before starting your Battle Choice\n"
-	.string "challenge, I must save the game.\l"
-	.string "Is that acceptable?$"
+	.string "Aukera Borrokan parte hartu aurretik,\n"
+	.string "partida gorde behar dut.\l"
+	.string "Ados al zaude?$"
 
 BattleFrontier_BattlePikeLobby_Text_StepThisWay:
-	.string "Please step this way…$"
+	.string "Pasa hemendik, mesedez…$"
 
 BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults:
-	.string "Your challenge has ended…\p"
-	.string "I shall record your results.\n"
-	.string "Please wait…$"
+	.string "Zure erronka amaitu da…\p"
+	.string "Emaitzak gorde behar ditut.\n"
+	.string "Itxaron, mesedez…$"
 
 BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance:
-	.string "You have completed the challenge…\p"
-	.string "I must say… You seem to possess luck\n"
-	.string "in abundance…$"
+	.string "Erronka bete duzu…\p"
+	.string "Esan behar dut… Oso zorte onekoa\n"
+	.string "zarela dirudi…$"
 
 BattleFrontier_BattlePikeLobby_Text_ShallRecordResults:
-	.string "I shall record your results.\n"
-	.string "Please wait…$"
+	.string "Emaitzak gorde behar ditut.\n"
+	.string "Itxaron, mesedez…$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2:
@@ -369,37 +369,37 @@ BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit:
 	.string "for prizes, then return…$"
 
 BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
-	.string "I beg your pardon, but…\p"
-	.string "You failed to save before you quit\n"
-	.string "your challenge the last time.\p"
-	.string "Because of that, your challenge so far\n"
-	.string "has been disqualified. I am sorry…$"
+	.string "Sentitzen dut, baina…\p"
+	.string "Ez zenuen partida gorde aurrekoan\n"
+	.string "erronka amaitu aurretik.\p"
+	.string "Ondorioz, zure erronkatik deskalifikatu\n"
+	.string "zaitugu. Sentitzen dut…$"
 
 BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
-	.string "Congratulations…\p"
-	.string "You have snatched victory from the\n"
-	.string "PIKE QUEEN and cleared the event…$"
+	.string "Zorionak…\p"
+	.string "SUGEKO ERREGINA garaitu eta\n"
+	.string "erronka amaitzea lortu duzu…$"
 
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints:
-	.string "In recognition of your amazing luck,\n"
-	.string "we award you these Battle Point(s)…$"
+	.string "Zure zorte onaren oroigarri,\n"
+	.string "tori Borroka Puntu hauek…$"
 
 BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
-	.string "Arrgh! I blew my chance!\n"
-	.string "I was one room away from the goal!\p"
-	.string "In this place, you'd better watch out\n"
-	.string "for poison, freezing, and so on.$"
+	.string "Kaka! Alferrik galdu dut aukera!\n"
+	.string "Amaieratik gela atera geratu naiz!\p"
+	.string "Toki honetan, hobe duzu pozoinari\n"
+	.string "izozteari eta halakoei adi egon.$"
 
 BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer:
-	.string "I've completed the challenge 10 times\n"
-	.string "now, but I've never had to battle\l"
-	.string "a TRAINER once.$"
+	.string "10 aldiz irabazi dut erronka jada,\n"
+	.string "baina inoiz ez dut ENTRENATZAILE baten\l"
+	.string "aurka borrokatu behar izan.$"
 
 BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
-	.string "Listen! Listen!\p"
-	.string "Don't you think that the special\n"
-	.string "abilities of POKéMON will be useful\l"
-	.string "here?$"
+	.string "Entzun! Entzun!\p"
+	.string "Ez al zaizu iruditzen POKéMONEN\n"
+	.string "abilezia bereziak erabilgarriak\l"
+	.string "izango direla hemen?$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
@@ -410,24 +410,24 @@ BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
 	.string "TRAINERS whichever path I choose.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
-	.string "The Battle Choice's rules are listed.$"
+	.string "Aukera Borrokako arauak dira.$"
 
 BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
 	.string "Zein atal irakurri nahi duzu?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-	.string "The BAG and POKéNAV may not be used\n"
-	.string "during a Battle Choice challenge.$"
+	.string "POLTSA eta POKéNAVA ezin dira erabili\n"
+	.string "Aukera Borroka egin bitartean.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
-	.string "During a Battle Choice challenge,\n"
-	.string "any BERRY or HERB held by POKéMON\l"
-	.string "will be effective only once.$"
+	.string "Aukera Borroka egin bitartean,\n"
+	.string "POKéMON batek duen edozein BAIA edo\l"
+	.string "BELAR behin bakarrik erabili daiteke.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:
-	.string "During a Battle Choice challenge,\n"
-	.string "the sequence of POKéMON cannot be\l"
-	.string "changed.\p"
-	.string "The sequence must be set before\n"
-	.string "starting your challenge.$"
+	.string "Aukera Borroka egin bitartean,\n"
+	.string "POKéMONEN ordena ezin da\l"
+	.string "aldatu.\p"
+	.string "Ordena hau erronka hasi aurretik\n"
+	.string "ezarri behar duzu.$"
 

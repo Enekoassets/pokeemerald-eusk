@@ -501,81 +501,81 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
 	.string "Prest al zaude?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
-	.string "Sar dadila, fanfarrearekin\n"
+	.string "Sar dadila, fanfarrearekin,\n"
 	.string "ZUHAITZ, PALAZIOKO ADITUA!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "ZUHAITZ: My physical being is with\n"
-	.string "POKéMON always!\p"
-	.string "My heart beats as one with\n"
-	.string "POKéMON always!\p"
-	.string "Young one of a TRAINER!\n"
-	.string "Do you believe in your POKéMON?\p"
-	.string "Can you believe them through\n"
-	.string "and through?\p"
-	.string "If your bonds of trust are frail,\n"
-	.string "you will never beat my brethren!$"
+	.string "ZUHAITZ: Nire zati fisikoa beti\n"
+	.string "dago POKéMONEKIN!\p"
+	.string "Nire bihotzaren taupadak beti\n"
+	.string "daude POKéMONEKIN!\p"
+	.string "ENTRENATZAILE gazte!\n"
+	.string "Sinisten duzu zure POKéMONENGAN?\p"
+	.string "Konfidantza al duzu haiengan\n"
+	.string "gertatzen dena gertatzen dela?\p"
+	.string "Zuen lotura ahula bada, ez duzu\n"
+	.string "ez dituzu nire anaiak garaituko!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
-	.string "The bond you share with your POKéMON!\n"
-	.string "Prove it to me here!$"
+	.string "Zure POKéMONEKIN daukazun lotura!\n"
+	.string "Frogatu ezazu orain!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
-	.string "ZUHAITZ: Gwahahah!\p"
-	.string "Hah, you never fell for my bluster!\n"
-	.string "Sorry for trying that stunt!\p"
-	.string "Here!\n"
-	.string "Bring me the thing!$"
+	.string "ZUHAITZ: Uajajaja!\p"
+	.string "Ez diezu nire hitzei kasurik egin!\n"
+	.string "Barkatu hori guztia esateagatik!\p"
+	.string "Ea, ba!\n"
+	.string "Eman iezadazu gauza hori!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
-	.string "My, my, if only you could maintain that\n"
-	.string "facade of distinguished authority…\p"
-	.string "Here!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "Ene bada, autoritate aurpegi hori\n"
+	.string "beti jartzeko gai izango bazina…\p"
+	.string "Ea, ba!\n"
+	.string "Ikus dezagun zure FRONTE PASEA!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
-	.string "The Spirits Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Espiritu Sinboloa FRONTE PASEAN\n"
+	.string "grabatu da!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-	.string "ZUHAITZ: Your POKéMON's eyes are \n"
-	.string "truly clear and unclouded.\p"
-	.string "I will eagerly await the next\n"
-	.string "opportunity to see you.$"
+	.string "ZUHAITZ: Zure POKéMONEN begiak\n"
+	.string "benetan dira argi eta biziak.\p"
+	.string "Gogo handiz itxarongo dut berriz\n"
+	.string "elkar ikusiko dugun unea.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "ZUHAITZ: Gwahahah!\n"
-	.string "You've battled your way up again?\p"
-	.string "You must have developed a truly\n"
-	.string "formidable bond with your POKéMON.\p"
-	.string "So be it!\p"
-	.string "This time, I won't bluster or hold back.\n"
-	.string "This time, there's no fooling around.\p"
-	.string "Ready now?\n"
-	.string "Prepare to lose!$"
+	.string "ZUHAITZ: Uajajaja!\n"
+	.string "Berriro iritsi al zara honaino?\p"
+	.string "Zure POKéMONEKIN benetan lotura\n"
+	.string "indartsua garatuko zenuen.\p"
+	.string "Ondo, orduan!\p"
+	.string "Oraingoan, ez naiz kikilduko.\n"
+	.string "Oraingoan, ez naiz txantxetan arituko.\p"
+	.string "Prest al zaude?\n"
+	.string "Presta zaitez galtzeko!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
-	.string "… … …Kaaah!$"
+	.string "… … …Kaaaa!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "ZUHAITZ: Well, that was some display!\n"
-	.string "Even fully unleashed, my brethren\l"
-	.string "could not overpower you.\p"
-	.string "Your team spirit is truly admirable!\p"
-	.string "Here!\n"
-	.string "Bring me that thing, will you?$"
+	.string "ZUHAITZ: Beno, hori bai abilezia, hori!\n"
+	.string "Indar guztiarekin ere, nire anaiek\l"
+	.string "ezin izan zaituzte garaitu.\p"
+	.string "Zure talde espiritua izugarria da!\p"
+	.string "Tori!\n"
+	.string "Eman iezadazu gauza hori, bai?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
-	.string "My, my, if only you could maintain\n"
-	.string "a certain level of decorum…\p"
-	.string "Gaaah, here!\n"
-	.string "Hurry with that FRONTIER PASS, you!$"
+	.string "Ene, ene, begirunea pixka bat\n"
+	.string "mantendu ahal bazenu, bederen…\p"
+	.string "Beeeno, tori!\n"
+	.string "Ekarri FRONTE PASEA, bizkor!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
-	.string "The Spirits Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Espiritu Sinboloak urre koloreko\n"
+	.string "distira egiten du orain!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
-	.string "ZUHAITZ: Gwahahah!\p"
-	.string "Come see me time and again!\n"
-	.string "My brethren and I will be waiting!$"
+	.string "ZUHAITZ: Uajajaja!\p"
+	.string "Etorri berriz nahi duzunean!\n"
+	.string "Nire anaiak eta ni zain egongo gara!$"

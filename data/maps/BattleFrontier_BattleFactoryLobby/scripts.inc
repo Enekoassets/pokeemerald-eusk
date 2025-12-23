@@ -508,7 +508,7 @@ BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
 	.string "varied the rental POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
-	.string "Truke Borrokako arauak daude.$"
+	.string "Truke Borrokako arauak dira.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
 	.string "Zein atal irakurri nahi duzu?$"
