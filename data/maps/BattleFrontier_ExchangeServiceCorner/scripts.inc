@@ -435,291 +435,290 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Girl::
 	end
 
 BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
-	.string "Hello, this is the EXCHANGE SERVICE\n"
-	.string "CORNER.\p"
-	.string "We exchange the Battle Points you\n"
-	.string "have collected for lovely prizes.\p"
-	.string "Please choose a prize from this list.$"
+	.string "Kaixo, hau TRUKE ZERBITZUA da.\p"
+	.string "Lortu dituzun Borroka Puntuak opari\n"
+	.string "bikainen truke aldatzen ditugu hemen.\p"
+	.string "Aukeratu zerrendako opari bat, mesedez.$"
 
 @ Unused
 BattleFrontier_ExchangeServiceCorner_Text_PleaseChoosePrize:
-	.string "Please choose a prize from this list.$"
+	.string "Aukeratu zerrendako opari bat, mesedez.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissPoster:
-	.string "You've chosen the KISS POSTER.\n"
-	.string "Is that correct?$"
+	.string "MUSU POSTERRA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissCushion:
-	.string "You've chosen the KISS CUSHION.\n"
-	.string "Is that correct?$"
+	.string "MUSU KUXINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmSmoochumDoll:
-	.string "You've chosen the SMOOCHUM DOLL.\n"
-	.string "Is that correct?$"
+	.string "SMOOCHUM PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmTogepiDoll:
-	.string "You've chosen the TOGEPI DOLL.\n"
-	.string "Is that correct?$"
+	.string "TOGEPI PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMeowthDoll:
-	.string "You've chosen the MEOWTH DOLL.\n"
-	.string "Is that correct?$"
+	.string "MEOWTH PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmClefairyDoll:
-	.string "You've chosen the CLEFAIRY DOLL.\n"
-	.string "Is that correct?$"
+	.string "CLEFAIRY PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmDittoDoll:
-	.string "You've chosen the DITTO DOLL.\n"
-	.string "Is that correct?$"
+	.string "DITTO PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCyndaquilDoll:
-	.string "You've chosen the CYNDAQUIL DOLL.\n"
-	.string "Is that correct?$"
+	.string "CYNDAQUIL PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmChikoritaDoll:
-	.string "You've chosen the CHIKORITA DOLL.\n"
-	.string "Is that correct?$"
+	.string "CHIKORITA PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmTotodileDoll:
-	.string "You've chosen the TOTODILE DOLL.\n"
-	.string "Is that correct?$"
+	.string "TOTODILE PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmLaprasDoll:
-	.string "You've chosen the LAPRAS DOLL.\n"
-	.string "Is that correct?$"
+	.string "LAPRAS PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmSnorlaxDoll:
-	.string "You've chosen the SNORLAX DOLL.\n"
-	.string "Is that correct?$"
+	.string "SNORLAX PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmVenusaurDoll:
-	.string "You've chosen the VENUSAUR DOLL.\n"
-	.string "Is that correct?$"
+	.string "VENUSAUR PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCharizardDoll:
-	.string "You've chosen the CHARIZARD DOLL.\n"
-	.string "Is that correct?$"
+	.string "CHARIZARD PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmBlastoiseDoll:
-	.string "You've chosen the BLASTOISE DOLL.\n"
-	.string "Is that correct?$"
+	.string "BLASTOISE PANPINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmProtein:
-	.string "You've chosen the PROTEIN.\n"
-	.string "Is that correct?$"
+	.string "PROTEINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCalcium:
-	.string "You've chosen the CALCIUM.\n"
-	.string "Is that correct?$"
+	.string "KALTZIOA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmIron:
-	.string "You've chosen the IRON.\n"
-	.string "Is that correct?$"
+	.string "BURDINA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmZinc:
-	.string "You've chosen the ZINC.\n"
-	.string "Is that correct?$"
+	.string "ZINKA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCarbos:
-	.string "You've chosen the CARBOS.\n"
-	.string "Is that correct?$"
+	.string "KARBOAK aukeratu dituzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmHPUp:
-	.string "You've chosen the HP UP.\n"
-	.string "Is that correct?$"
+	.string "BP GEHIAGO aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmBrightpowder:
-	.string "You've chosen the BRIGHTPOWDER.\n"
-	.string "Is that correct?$"
+	.string "DISTIRHAUTSA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmWhiteHerb:
-	.string "You've chosen the WHITE HERB.\n"
-	.string "Is that correct?$"
+	.string "BELAR ZURIA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmQuickClaw:
-	.string "You've chosen the QUICK CLAW.\n"
-	.string "Is that correct?$"
+	.string "ATZAPAR AZKARRA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMentalHerb:
-	.string "You've chosen the MENTAL HERB.\n"
-	.string "Is that correct?$"
+	.string "BELAR MENTALA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmChoiceBand:
-	.string "You've chosen the CHOICE BAND.\n"
-	.string "Is that correct?$"
+	.string "AUKERA ZINTA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKingsRock:
-	.string "You've chosen the KING'S ROCK.\n"
-	.string "Is that correct?$"
+	.string "ERREGE ARROKA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmFocusBand:
-	.string "You've chosen the FOCUS BAND.\n"
-	.string "Is that correct?$"
+	.string "FOKUS ZINTA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmScopeLens:
-	.string "You've chosen the SCOPE LENS.\n"
-	.string "Is that correct?$"
+	.string "PERISKOPIOA aukeratu duzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmLeftovers:
-	.string "You've chosen the LEFTOVERS.\n"
-	.string "Is that correct?$"
+	.string "HONDARRAK aukeratu dituzu.\n"
+	.string "Ados al zaude?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WellSendItToPC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "Eskerrik asko!\n"
+	.string "Etxeko PCra bidaliko dizugu oparia.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HereIsYourPrize:
-	.string "Here is your prize!$"
+	.string "Hementxe duzu zure oparia!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveEnoughPoints:
-	.string "I'm so sorry…\n"
-	.string "You don't have enough Battle Points…$"
+	.string "Sentitzen dut…\n"
+	.string "Ez duzu nahikoa Borroka Puntu…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_PCIsFull:
-	.string "I'm so sorry…\n"
-	.string "Your PC appears to be full…$"
+	.string "Sentitzen dut…\n"
+	.string "Zure PCa beteta dago…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt:
-	.string "I'm so sorry…\n"
-	.string "You don't have space to hold it…$"
+	.string "Sentitzen dut…\n"
+	.string "Ez duzu espaziorik honentzat…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ThankYouVisitWithPoints:
-	.string "Thank you very much.\p"
-	.string "Please visit us when you have\n"
-	.string "saved up Battle Points.$"
+	.string "Mila esker.\p"
+	.string "Itzuli Borroka Puntu gehiago\n"
+	.string "bildu dituzunean, mesedez.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
-	.string "Oh, they're so nice!\n"
-	.string "I wish I had them!\l"
-	.string "Cute cushions!\l"
-	.string "Big plush DOLLS!\l"
-	.string "Little plush DOLLS!\l"
-	.string "I wish I had them all!$"
+	.string "Ene, itzelak dira!\n"
+	.string "Niretzat nahi ditut!\l"
+	.string "Kuxin politak!\l"
+	.string "PANPINA handiak!\l"
+	.string "PANPINA txikiak!\l"
+	.string "Guztiak nahi ditut!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
-	.string "Leave it to your mommy!\p"
-	.string "If it's anything you want, I'll go\n"
-	.string "through anything to get it, honey!$"
+	.string "Utzi zure amatxori!\p"
+	.string "Zerbait nahi baduzu, direnak eta ez\n"
+	.string "direnak egingo ditut lortzeko, txiki!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
-	.string "If I can get hold of the items here,\n"
-	.string "my POKéMON will get tougher.\p"
-	.string "You bet they will!\n"
-	.string "No question about it!$"
+	.string "Hemengo itemak lortzen baditut, nire\n"
+	.string "POKéMONAK indartsuagoak izango dira.\p"
+	.string "Egon zaitez ziur!\n"
+	.string "Ez dago duda izpirik!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
-	.string "Hah?\n"
-	.string "What are you gawking at?\p"
-	.string "I don't like you staring at my plush\n"
-	.string "doll like that.\p"
-	.string "If you want it, go get one yourself!\n"
-	.string "Isn't that right, SMOOCHUM?$"
+	.string "Zer?\n"
+	.string "Zeri begira ari zara?\p"
+	.string "Ez zait gustatzen inor nire PANPINARI\n"
+	.string "begira egotea.\p"
+	.string "Nahi baduzu, lortu bat zuk zeuk!\n"
+	.string "Ez al da hala, SMOOCHUM?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
-	.string "Did you know?\p"
-	.string "If you stretch your record at any of\n"
-	.string "the BATTLE facilities, they start\l"
-	.string "giving you more and more Battle Points.$"
+	.string "Ba al zenekien?\p"
+	.string "Zure errekorra pasatzen baduzu edozein\n"
+	.string "BORROKA eraikinetan, gero eta Borroka\l"
+	.string "Puntu gehiago ematen hasiko zaizkizu.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
-	.string "A large poster with a SMOOCHUM print.$"
+	.string "SMOOCHUM baten irudia duen poster handia.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc::
-	.string "A SMOOCHUM cushion.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "SMOOCHUM kuxina.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc::
-	.string "A SMOOCHUM DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "SMOOCHUM PANPINA.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TogepiDollDesc::
-	.string "A TOGEPI DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "TOGEPI PANPINA.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MeowthDollDesc::
-	.string "A MEOWTH DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "MEOWTH PANPINA.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc::
-	.string "A CLEFAIRY DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "CLEFAIRY PANPINA.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc::
-	.string "A DITTO DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "DITTO PANPINA.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc::
-	.string "A CYNDAQUIL DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "CYNDAQUIL PANPINA.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChikoritaDollDesc::
-	.string "A CHIKORITA DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "CHIKORITA PANPINA.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
-	.string "A TOTODILE DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "TOTODILE PANPINA.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "A large DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "PANPINA handia.\n"
+	.string "Ipini mahai edo mantel batean.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
-	.string "Raises the stat ATTACK of one\n"
-	.string "POKéMON.$"
+	.string "POKéMON baten ERASOA\n"
+	.string "igotzen du.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CalciumDesc::
-	.string "Raises the stat SP. ATK of one\n"
-	.string "POKéMON.$"
+	.string "POKéMON baten ERASO BEREZIA\n"
+	.string "igotzen du.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_IronDesc::
-	.string "Raises the stat DEFENSE of one\n"
-	.string "POKéMON.$"
+	.string "POKéMON baten DEFENTSA\n"
+	.string "igotzen du.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ZincDesc::
-	.string "Raises the stat SP. DEF of one\n"
-	.string "POKéMON.$"
+	.string "POKéMON baten DEFENTSA BEREZIA\n"
+	.string "igotzen du.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc::
-	.string "Raises the stat SPEED of one\n"
-	.string "POKéMON.$"
+	.string "POKéMON baten ABIADURA\n"
+	.string "igotzen du.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc::
-	.string "Raises the HP of one POKéMON.$"
+	.string "POKéMON baten BPak igotzen ditu.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
-	.string "A hold item that gradually restores\n"
-	.string "HP in battle.$"
+	.string "Edukitzeko itema, pixkanaka BPak\n"
+	.string "sendatzen ditu borrokan.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc::
-	.string "A hold item that restores any\n"
-	.string "lowered stat.$"
+	.string "Edukitzeko itema, jaitsitako edozein\n"
+	.string "estatistika osatzen du.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc::
-	.string "A hold item that occasionally allows\n"
-	.string "the first strike.$"
+	.string "Edukitzeko itema, batzuetan lehenengo\n"
+	.string "erasotzea baimentzen du.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MentalHerbDesc::
-	.string "A hold item that snaps POKéMON out\n"
-	.string "of infatuation.$"
+	.string "Edukitzeko itema, POKéMONAK\n"
+	.string "maitemintzetik ateratzen ditu.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_BrightpowderDesc::
-	.string "A hold item that casts a glare to\n"
-	.string "reduce accuracy.$"
+	.string "Edukitzeko itema, distira egiten\n"
+	.string "du zehaztasuna jaisteko.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChoiceBandDesc::
-	.string "Raises a move's power, but permits\n"
-	.string "only that move.$"
+	.string "Eraso baten indarra handitzen du, baina\n"
+	.string "eraso hori bakarrik erabili daiteke.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KingsRockDesc::
-	.string "A hold item that may cause flinching\n"
-	.string "when the foe is hit.$"
+	.string "Edukitzeko itema, etsaia jotzean\n"
+	.string "atzera eragin diezaioke.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_FocusBandDesc::
-	.string "A hold item that occasionally\n"
-	.string "prevents fainting.$"
+	.string "Edukitzeko itema, batzuetan POKéMONA\n"
+	.string "ahultzea saihesten du.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ScopeLensDesc::
-	.string "A hold item that raises the\n"
-	.string "critical-hit rate.$"
+	.string "Edukitzeko itema, kolpe kritikoak\n"
+	.string "emateko aukera igotzen du.$"

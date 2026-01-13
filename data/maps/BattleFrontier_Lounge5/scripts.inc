@@ -42,162 +42,162 @@ BattleFrontier_Lounge5_EventScript_LittleBoy::
 	end
 
 BattleFrontier_Lounge5_Text_NatureGirlGreeting::
-	.string "Ehehe!\n"
-	.string "I can tell what POKéMON are thinking!\p"
-	.string "Please!\n"
-	.string "Can I see your POKéMON?$"
+	.string "Kar-kar-kar!\n"
+	.string "POKéMONEK pentsatzen dutena irakur\p"
+	.string "dezaket! Mesedez!\n"
+	.string "Ikus dezaket zure POKéMONA?$"
 
 BattleFrontier_Lounge5_Text_NatureGirlNoneShown::
-	.string "Boo!\n"
-	.string "Cheapie!$"
+	.string "Buu!\n"
+	.string "Ez dakizu ezer!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlHardy::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "It will battle even if it has a lot\l"
-	.string "of ouchies!$"
+	.string "Honi borrokatzea gustatzen zaio!\n"
+	.string "Min asko badu ere borrokan\l"
+	.string "jarraituko du!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlLonely::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "Honi ezkutuan ibiltzea gustatzen zaio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "bueltan egingo du eraso!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlBrave::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "Honi borrokatzea gustatzen zaio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "bere buruaz kezkatuko da!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAdamant::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "It will battle even if it has a lot\l"
-	.string "of ouchies!$"
+	.string "Honi borrokatzea gustatzen zaio!\n"
+	.string "Min asko badu ere borrokan\l"
+	.string "jarraituko du!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlNaughty::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "Honek bere burua zaintzen duela dio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "bueltan egingo du eraso!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlBold::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "Honi ezkutuan ibiltzea gustatzen zaio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "bere buruaz kezkatuko da!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlDocileNaiveQuietQuirky::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "It will battle even if it has a lot\l"
-	.string "of ouchies!$"
+	.string "Honi borrokatzea gustatzen zaio!\n"
+	.string "Min asko badu ere borrokan\l"
+	.string "jarraituko du!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlRelaxed::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "Honi ezkutuan ibiltzea gustatzen zaio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "bueltan egingo du eraso!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlImpish::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "Honi borrokatzea gustatzen zaio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "bere buruaz kezkatuko da!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlLax::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "It says it likes to be sneaky even\l"
-	.string "if it has a lot of ouchies!$"
+	.string "Honi ezkutuan ibiltzea gustatzen zaio!\n"
+	.string "Ezkutuan ibiliko da min\l"
+	.string "handia hartu badu ere!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlTimid::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "Honi borrokatzea gustatzen zaio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "ezkutuan ibiltzen hasiko da!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlHasty::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "It will battle even if it has a lot\l"
-	.string "of ouchies!$"
+	.string "Honi borrokatzea gustatzen zaio!\n"
+	.string "Min asko badu ere borrokan\l"
+	.string "jarraituko du!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSerious::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "It says it likes to be sneaky even\l"
-	.string "if it has a lot of ouchies!$"
+	.string "Honi ezkutuan ibiltzea gustatzen zaio!\n"
+	.string "Ezkutuan ibiliko da min\l"
+	.string "handia hartu badu ere!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlJolly::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will worry about itself!$"
+	.string "Honi ezkutuan ibiltzea gustatzen zaio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "bere buruaz kezkatuko da!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlModest::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "It says it worries about itself whether\l"
-	.string "or not it has a lot of ouchies!$"
+	.string "Honek bere burua zaintzen duela dio!\n"
+	.string "Bere burua zaintzen omen du\l"
+	.string "mina izan edo ez izan, berdin dio!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlMild::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "Honek bere burua zaintzen duela dio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "ezkutuan ibiltzen hasiko da!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlBashful::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "It says it worries about itself even\l"
-	.string "if it has a lot of ouchies!$"
+	.string "Honek bere burua zaintzen duela dio!\n"
+	.string "Bere burua zainduko omen du\l"
+	.string "min handia baldin badu ere!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlRash::
 	.string "Hmhm…\p"
-	.string "This one says it likes to be sneaky!\n"
-	.string "It says it likes to be sneaky even\l"
-	.string "if it has a lot of ouchies!$"
+	.string "Honi ezkutuan ibiltzea gustatzen zaio!\n"
+	.string "Ezkutuan ibiliko da min\l"
+	.string "handia hartu badu ere!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlCalm::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "It says it worries about itself even\l"
-	.string "if it has a lot of ouchies!$"
+	.string "Honek bere burua zaintzen duela dio!\n"
+	.string "Bere burua zainduko omen du\l"
+	.string "min handia baldin badu ere!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlGentle::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will hit back!$"
+	.string "Honek bere burua zaintzen duela dio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "bueltan egingo du eraso!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSassy::
 	.string "Hmhm…\p"
-	.string "This one says it likes to battle!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "Honi borrokatzea gustatzen zaio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "ezkutuan ibiltzen hasiko da!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlCareful::
 	.string "Hmhm…\p"
-	.string "This one says it looks after itself!\n"
-	.string "But if it gets enough ouchies,\l"
-	.string "it will turn sneaky!$"
+	.string "Honek bere burua zaintzen duela dio!\n"
+	.string "Baina nahikoa min hartzen badu,\l"
+	.string "ezkutuan ibiltzen hasiko da!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlEgg::
-	.string "That's silly! An EGG is asleep!\n"
-	.string "I can't talk to it!$"
+	.string "Hau bai xelebrea! ARRAUTZAK lo daude!\n"
+	.string "Ezin dut berarekin hitz egin!$"
 
 BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon::
-	.string "How charming!\n"
-	.string "That little lady claims she can\l"
-	.string "understand POKéMON!$"
+	.string "Hau bai ederra!\n"
+	.string "Andereño txiki honek POKéMONAK\l"
+	.string "uler ditzakeela dio!$"
 
 BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound::
-	.string "I have this feeling that the little girl\n"
-	.string "is saying something profound.$"
+	.string "Neska txiki hau zerbait oso sakona\n"
+	.string "kontatzen ari dela uste dut.$"
 
 BattleFrontier_Lounge5_Text_GirlPlaysAtRedHouseALot::
-	.string "I know something!\p"
-	.string "That little girl plays at the red house\n"
-	.string "a lot!$"
+	.string "Zerbait dakit!\p"
+	.string "Neska txiki hori askotan ibiltzen da\n"
+	.string "etxe gorrian jolasean!$"
 
