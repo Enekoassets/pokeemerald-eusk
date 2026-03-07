@@ -1235,88 +1235,88 @@ const u8 gForretressPokedexText[] = _(
     "barrualdea ezin dela ikusi ere egin.");
 
 const u8 gDunsparcePokedexText[] = _(
-    "Its drill-tipped tail is used to burrow into\n"
-    "the ground backwards. This POKéMON is\n"
-    "known to make its nest in complex shapes\n"
-    "deep under the ground.");
+    "Bere daratulu puntako buztanarekin lurra\n"
+    "zulatzen du atzeraka. POKéMON honek bere\n"
+    "kabia lur azpian sakon egiten du, forma\n"
+    "konplexu eta arraroekin.");
 
 const u8 gGligarPokedexText[] = _(
-    "It glides without making a single sound.\n"
-    "It grasps the face of its foe using its\n"
-    "hind and large front claws, then stabs\n"
-    "with its poison barb.");
+    "Soinurik egin gabe planeatzen du. Etsaiaren\n"
+    "aurpegia harrapatzen du bere atzeko eta\n"
+    "aurreko atzapar zorrotzekin, eta ondoren\n"
+    "bere buztan pozointsuarekin ziztatzen du.");
 
 const u8 gSteelixPokedexText[] = _(
-    "STEELIX live even further underground\n"
-    "than ONIX. This POKéMON is known to dig\n"
-    "toward the earth's core, reaching a depth\n"
-    "of over six-tenths of a mile underground.");
+    "STEELIX ONIX baino are beherago bizi da\n"
+    "lur azpian. POKéMON honek lurraren\n"
+    "nukleorantz egiten du zuloa, kilometro\n"
+    "baterainoko sakontasunera iritsiz.");
 
 const u8 gSnubbullPokedexText[] = _(
-    "By baring its fangs and making a scary\n"
-    "face, it sends smaller POKéMON scurrying\n"
-    "in terror. The SNUBBULL does seem a\n"
-    "little sad at making its foes flee.");
+    "Letaginak eta aurpegi beldurgarria\n"
+    "erakutsiz, POKéMON txikiak izutzen\n"
+    "ditu. SNUBBULL apur bat triste jartzen\n"
+    "da etsaiak beldurtzen direnean.");
 
 const u8 gGranbullPokedexText[] = _(
-    "It has a particularly well-developed lower\n"
-    "jaw. The huge fangs are heavy, causing\n"
-    "it to tilt its head. Unless it is startled, it\n"
-    "will not try to bite.");
+    "Bereziki ondo garatutako matrailezurra\n"
+    "du. Letagin erraldoi eta astunek burua\n"
+    "makurtzea eragiten diote. Beldurtuta ez\n"
+    "badago, ez da saiatuko hozka egiten.");
 
 const u8 gQwilfishPokedexText[] = _(
-    "A QWILFISH uses the pressure of water\n"
-    "it swallows to shoot toxic quills all at\n"
-    "once from all over its body. It finds\n"
-    "swimming to be somewhat challenging.");
+    "QWILFISHEK edaten duen uraren presioa\n"
+    "erabiltzen du arantza pozointsuak\n"
+    "gorputzetik jaurtitzeko. Igeri egitea\n"
+    "pixka bat kostatzen zaio.");
 
 const u8 gScizorPokedexText[] = _(
-    "A SCIZOR has a body with the hardness of\n"
-    "steel. It is not easily fazed by ordinary\n"
-    "sorts of attacks. It flaps its wings to\n"
-    "regulate its body temperature.");
+    "SCIZORREN gorputza altzairua bezain gogorra\n"
+    "da. eraso arruntek ez diote min handirik\n"
+    "egiten. Hegoak astintzen ditu gorputzeko\n"
+    "tenperatura erregulatzeko.");
 
 const u8 gShucklePokedexText[] = _(
-    "A SHUCKLE hides under rocks, keeping its\n"
-    "body concealed inside its shell while\n"
-    "eating stored berries. The berries mix with\n"
-    "its body fluids to become a juice.");
+    "SHUCKLE arroken azpian ezkutatzen da,\n"
+    "gorputza oskolean ezkutatuz, barruan gordetako\n"
+    "baiak jan bitartean. Baiak bere likidoekin\n"
+    "nahasten dira, zuku bilakatuz.");
 
 const u8 gHeracrossPokedexText[] = _(
-    "They gather in forests seeking the sweet\n"
-    "sap of trees. It is completely clad in a\n"
-    "steel-hard shell. It is proud of its horn,\n"
-    "which it uses to fling foes.");
+    "basoetan elkartzen dira, zuhaitzen izerdia\n"
+    "edateko. Altzairua bezalako oskol gogorrak\n"
+    "biltzen du. Harro dago bere adarraz, eta\n"
+    "etsaiak kolpatzeko erabiltzen du.");
 
 const u8 gSneaselPokedexText[] = _(
-    "A SNEASEL scales trees by punching its\n"
-    "hooked claws into the bark. It seeks out\n"
-    "unguarded nests and steals eggs for food\n"
-    "while the parents are away.");
+    "SNEASEL atzaparrekin enborrak joz igotzen\n"
+    "da zuhaitzetara. Babesik gabeko habiak\n"
+    "bilatzen ditu, arrautzak lapurtzeko\n"
+    "gurasoak bertan ez dauden unean.");
 
 const u8 gTeddiursaPokedexText[] = _(
-    "It licks its palms that are sweetened by\n"
-    "being soaked in honey. A TEDDIURSA makes\n"
-    "its own honey by blending fruits and pollen\n"
-    "collected by BEEDRILL.");
+    "Eztiz estalita izan ohi dituen atzaparrak\n"
+    "miazkatzen ditu uneoro. TEDDIURSAK bere\n"
+    "eztia egiten du, baiak eta BEEDRILLEK\n"
+    "jasotako polena nahasiz.");
 
 const u8 gUrsaringPokedexText[] = _(
-    "In forests, it is said that there are many\n"
-    "streams and towering trees where an\n"
-    "URSARING gathers food. It walks through\n"
-    "its forest collecting food every day.");
+    "Basoetan, URSARINGEK janaria bilatzen\n"
+    "dituen erreka eta zuhaitz garai asko\n"
+    "daudela esaten da. Bere basoa zeharkatzen\n"
+    "du egunero, janari bila.");
 
 const u8 gSlugmaPokedexText[] = _(
-    "It is a species of POKéMON that lives in\n"
-    "volcanic areas. If its body cools, its skin\n"
-    "hardens and immobilizes it. To avoid that,\n"
-    "it sleeps near magma.");
+    "Sumendi inguruetan bizi den POKéMON\n"
+    "espeziea da. Gorputza hozten bazaio, azala\n"
+    "gogortu eta geldi geratzen da. Hori ez\n"
+    "jazotzeko, magmatik hurbil egiten du lo.");
 
 const u8 gMagcargoPokedexText[] = _(
-    "The shell on its back is made of hardened\n"
-    "magma. Tens of thousands of years spent\n"
-    "living in volcanic craters have turned\n"
-    "MAGCARGO's bodies into magma.");
+    "Bizkarreko oskola gogortutako magmaz\n"
+    "osatuta dago. Milaka urtez sumendien\n"
+    "kraterretan bizi izan denez, MAGCARGOREN\n"
+    "gorputza magmazkoa bihurtu da.");
 
 const u8 gSwinubPokedexText[] = _(
     "It roots for food by rubbing its snout\n"
