@@ -57,50 +57,51 @@ enum
     PAGE_EXECUTIVE_DIRECTOR,
     PAGE_EXECUTIVE_PRODUCERS_1,
     PAGE_EXECUTIVE_PRODUCERS_2,
+    PAGE_BASQUE_TRANSLATOR,
     PAGE_COUNT
 };
 
 #define ENTRIES_PER_PAGE 5
 
 static const u8 sCreditsText_EmptyString[]                    = _("");
-static const u8 sCreditsText_PkmnEmeraldVersion[]             = _("POKéMON EMERALD VERSION");
-static const u8 sCreditsText_Credits[]                        = _("Credits");
-static const u8 sCreditsText_ExecutiveDirector[]              = _("Executive Director");
-static const u8 sCreditsText_Director[]                       = _("Director");
-static const u8 sCreditsText_ArtDirector[]                    = _("Art Director");
-static const u8 sCreditsText_BattleDirector[]                 = _("Battle Director");
-static const u8 sCreditsText_MainProgrammer[]                 = _("Main Programmer");
-static const u8 sCreditsText_BattleSystemPgrms[]              = _("Battle System Programmers");
-static const u8 sCreditsText_FieldSystemPgrms[]               = _("Field System Programmer");
-static const u8 sCreditsText_Programmers[]                    = _("Programmers");
-static const u8 sCreditsText_MainGraphicDesigner[]            = _("Main Graphic Designer");
-static const u8 sCreditsText_GraphicDesigners[]               = _("Graphic Designers");
-static const u8 sCreditsText_PkmnDesigners[]                  = _("POKéMON Designers");
-static const u8 sCreditsText_MusicComposition[]               = _("Music Composition");
-static const u8 sCreditsText_SoundEffectsAndPkmnVoices[]      = _("Sound Effects & POKéMON Voices");
-static const u8 sCreditsText_GameDesigners[]                  = _("Game Designers");
-static const u8 sCreditsText_ScenarioPlot[]                   = _("Scenario Plot");
-static const u8 sCreditsText_Scenario[]                       = _("Scenario");
-static const u8 sCreditsText_ScriptDesigners[]                = _("Script Designers");
-static const u8 sCreditsText_MapDesigners[]                   = _("Map Designers");
-static const u8 sCreditsText_MapDataDesigners[]               = _("Map Data Designers");
-static const u8 sCreditsText_ParametricDesigners[]            = _("Parametric Designers");
-static const u8 sCreditsText_PokedexText[]                    = _("POKéDEX Text");
-static const u8 sCreditsText_EnvAndToolPgrms[]                = _("Environment & Tool Programmers");
-static const u8 sCreditsText_NCLProductTesting[]              = _("NCL Product Testing");
-static const u8 sCreditsText_SpecialThanks[]                  = _("Special Thanks");
-static const u8 sCreditsText_Coordinators[]                   = _("Coordinators");
-static const u8 sCreditsText_Producers[]                      = _("Producers");
-static const u8 sCreditsText_ExecProducers[]                  = _("Executive Producers");
-static const u8 sCreditsText_InfoSupervisors[]                = _("Information Supervisors");
-static const u8 sCreditsText_TaskManagers[]                   = _("Task Managers");
-static const u8 sCreditsText_BrailleCodeCheck[]               = _("Braille Code Check");
-static const u8 sCreditsText_WorldDirector[]                  = _("World Director");
-static const u8 sCreditsText_BattleFrontierData[]             = _("Battle Frontier Data");
-static const u8 sCreditsText_SupportProgrammers[]             = _("Support Programmers");
-static const u8 sCreditsText_Artwork[]                        = _("Artwork");
-static const u8 sCreditsText_LeadProgrammer[]                 = _("Lead Programmer");
-static const u8 sCreditsText_LeadGraphicArtist[]              = _("Lead Graphic Artist");
+static const u8 sCreditsText_PkmnEmeraldVersion[]             = _("POKéMON ESMERALD BERTSIOA");
+static const u8 sCreditsText_Credits[]                        = _("Kredituak");
+static const u8 sCreditsText_ExecutiveDirector[]              = _("Zuzendari Exekutiboa");
+static const u8 sCreditsText_Director[]                       = _("Zuzendaria");
+static const u8 sCreditsText_ArtDirector[]                    = _("Arte Zuzendaria");
+static const u8 sCreditsText_BattleDirector[]                 = _("Borroka Zuzendaria");
+static const u8 sCreditsText_MainProgrammer[]                 = _("Programatzaile Nagusia");
+static const u8 sCreditsText_BattleSystemPgrms[]              = _("Borroka Sistemaren Programatzaileak");
+static const u8 sCreditsText_FieldSystemPgrms[]               = _("Kanpo Sistemaren Programatzaileak");
+static const u8 sCreditsText_Programmers[]                    = _("Programatzaileak");
+static const u8 sCreditsText_MainGraphicDesigner[]            = _("Diseinatzaile Grafiko Nagusia");
+static const u8 sCreditsText_GraphicDesigners[]               = _("Diseinatzaile Grafikoak");
+static const u8 sCreditsText_PkmnDesigners[]                  = _("POKéMON Diseinatzaileak");
+static const u8 sCreditsText_MusicComposition[]               = _("Musika Konposatzaileak");
+static const u8 sCreditsText_SoundEffectsAndPkmnVoices[]      = _("Soinu Efektuak & POKéMON Ahotsak");
+static const u8 sCreditsText_GameDesigners[]                  = _("Joko Diseinatzaileak");
+static const u8 sCreditsText_ScenarioPlot[]                   = _("Eszenatoki Muntaia");
+static const u8 sCreditsText_Scenario[]                       = _("Eszenatokiak");
+static const u8 sCreditsText_ScriptDesigners[]                = _("Script Diseinatzaileak");
+static const u8 sCreditsText_MapDesigners[]                   = _("Mapa Diseinatzaileak");
+static const u8 sCreditsText_MapDataDesigners[]               = _("Mapa Datu Diseinatzaileak");
+static const u8 sCreditsText_ParametricDesigners[]            = _("Parametro Diseinatzaileak");
+static const u8 sCreditsText_PokedexText[]                    = _("POKéDEXEKO Testua");
+static const u8 sCreditsText_EnvAndToolPgrms[]                = _("Ingurune & Tresna Programatzaileak");
+static const u8 sCreditsText_NCLProductTesting[]              = _("NCL Produktu Probatzaileak");
+static const u8 sCreditsText_SpecialThanks[]                  = _("Esker Bereziak");
+static const u8 sCreditsText_Coordinators[]                   = _("Koordinatzaileak");
+static const u8 sCreditsText_Producers[]                      = _("Produktoreak");
+static const u8 sCreditsText_ExecProducers[]                  = _("Produktore Exekutiboak");
+static const u8 sCreditsText_InfoSupervisors[]                = _("Informazio Gainbegiraleak");
+static const u8 sCreditsText_TaskManagers[]                   = _("Ataza Kudeatzaileak");
+static const u8 sCreditsText_BrailleCodeCheck[]               = _("Braille Kode Zuzenketa");
+static const u8 sCreditsText_WorldDirector[]                  = _("Munduaren Zuzendaria");
+static const u8 sCreditsText_BattleFrontierData[]             = _("Borroka Fronteko Datuak");
+static const u8 sCreditsText_SupportProgrammers[]             = _("Programatzaile Laguntzaileak");
+static const u8 sCreditsText_Artwork[]                        = _("Artea");
+static const u8 sCreditsText_LeadProgrammer[]                 = _("Programatzaile Nagusia");
+static const u8 sCreditsText_LeadGraphicArtist[]              = _("Artista Grafiko Nagusia");
 static const u8 sCreditsText_SatoshiTajiri[]                  = _("Satoshi Tajiri");
 static const u8 sCreditsText_JunichiMasuda[]                  = _("Junichi Masuda");
 static const u8 sCreditsText_KenSugimori[]                    = _("Ken Sugimori");
@@ -192,13 +193,13 @@ static const u8 sCreditsText_KazukiYoshihara[]                = _("Kazuki Yoshih
 static const u8 sCreditsText_RetsujiNomoto[]                  = _("Retsuji Nomoto");
 static const u8 sCreditsText_AzusaTajima[]                    = _("Azusa Tajima");
 static const u8 sCreditsText_ShusakuEgami[]                   = _("Shusaku Egami");
-static const u8 sCreditsText_PackageAndManual[]               = _("Package & Manual Illustration");
-static const u8 sCreditsText_EnglishVersion[]                 = _("English Version Coordinators");
-static const u8 sCreditsText_Translator[]                     = _("Translator");
-static const u8 sCreditsText_TextEditor[]                     = _("Text Editor");
-static const u8 sCreditsText_NCLCoordinator[]                 = _("NCL Coordinator");
-static const u8 sCreditsText_GraphicDesigner[]                = _("Graphic Designer");
-static const u8 sCreditsText_NOAProductTesting[]              = _("NOA Product Testing");
+static const u8 sCreditsText_PackageAndManual[]               = _("Kutxa & Eskuorri Ilustratzailea");
+static const u8 sCreditsText_EnglishVersion[]                 = _("Ingelesezko bertsioa");
+static const u8 sCreditsText_Translator[]                     = _("Itzultzailea");
+static const u8 sCreditsText_TextEditor[]                     = _("Testu Editorea");
+static const u8 sCreditsText_NCLCoordinator[]                 = _("NCL Koordinatzailea");
+static const u8 sCreditsText_GraphicDesigner[]                = _("Diseinatzaile Grafikoa");
+static const u8 sCreditsText_NOAProductTesting[]              = _("NOA Produktu Probatzaileak");
 static const u8 sCreditsText_HideyukiNakajima[]               = _("Hideyuki Nakajima");
 static const u8 sCreditsText_HidenoriSaeki[]                  = _("Hidenori Saeki");
 static const u8 sCreditsText_YokoWatanabe[]                   = _("Yoko Watanabe");
@@ -221,6 +222,8 @@ static const u8 sCreditsText_MotoyasuTojima[]                 = _("Motoyasu Toji
 static const u8 sCreditsText_NicolaPrattBarlow[]              = _("Nicola Pratt-Barlow");
 static const u8 sCreditsText_ShellieDow[]                     = _("Shellie Dow");
 static const u8 sCreditsText_ErikJohnson[]                    = _("Erik Johnson");
+static const u8 sCreditsText_EuskarazkoItzultzailea[]         = _("Euskarazko Itzultzailea");
+static const u8 sCreditsText_EnekoAtxa[]                      = _("Eneko Atxa");
 static const struct CreditsEntry sCreditsEntry_EmptyString                      = { 0, FALSE, sCreditsText_EmptyString};
 static const struct CreditsEntry sCreditsEntry_PkmnEmeraldVersion               = { 7,  TRUE, sCreditsText_PkmnEmeraldVersion};
 static const struct CreditsEntry sCreditsEntry_Credits                          = {11,  TRUE, sCreditsText_Credits};
@@ -380,6 +383,8 @@ static const struct CreditsEntry sCreditsEntry_MotoyasuTojima                   
 static const struct CreditsEntry sCreditsEntry_NicolaPrattBarlow                = { 0, FALSE, sCreditsText_NicolaPrattBarlow};
 static const struct CreditsEntry sCreditsEntry_ShellieDow                       = { 0, FALSE, sCreditsText_ShellieDow};
 static const struct CreditsEntry sCreditsEntry_ErikJohnson                      = { 0, FALSE, sCreditsText_ErikJohnson};
+static const struct CreditsEntry sCreditsEntry_EnekoAtxa                      = { 0, FALSE, sCreditsText_EnekoAtxa};
+static const struct CreditsEntry sCreditsEntry_EuskarazkoItzultzailea             = { 0, FALSE, sCreditsText_EuskarazkoItzultzailea};
 
 #define _ &sCreditsEntry_EmptyString
 static const struct CreditsEntry *const sCreditsEntryPointerTable[PAGE_COUNT][ENTRIES_PER_PAGE] =
@@ -780,6 +785,13 @@ static const struct CreditsEntry *const sCreditsEntryPointerTable[PAGE_COUNT][EN
         _,
         &sCreditsEntry_ExecProducers,
         &sCreditsEntry_TsunekazIshihara,
+        _,
+        _,
+    },
+    [PAGE_BASQUE_TRANSLATOR] = {
+        _,
+        &sCreditsEntry_EuskarazkoItzultzailea,
+        &sCreditsEntry_EnekoAtxa,
         _,
         _,
     },
