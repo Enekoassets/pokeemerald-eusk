@@ -39,16 +39,16 @@ Route102_Text_AllenIntro:
 	.string "Biok gara hasiberriak!$"
 
 Route102_Text_AllenDefeated:
-	.string "Zure aurka irabaziko nuela uste nuelako\n"
-	.string "soilik deitu dizut…$"
+	.string "Zure aurka irabaziko nuela uste\n"
+	.string "nuelako soilik deitu dizut…$"
 
 Route102_Text_AllenPostBattle:
 	.string "Ez dut behin ere irabazi…\n"
 	.string "Ea laister irabazten dudan…$"
 
 Route102_Text_RickIntro:
-	.string "Kar-kar-kar! Begiratu egin didazu!\n"
-	.string "Nire ZOMORRO POKéMONEKIN txikituko zaitut!$"
+	.string "Kar-kar-kar! Begiratu egin didazu! Nire\n"
+	.string "ZOMORRO POKéMONEKIN txikituko zaitut!$"
 
 Route102_Text_RickDefeated:
 	.string "Ai! Hori bai egurra!$"

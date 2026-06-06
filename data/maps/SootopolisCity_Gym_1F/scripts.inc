@@ -241,7 +241,7 @@ SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis:
 	.string "beti obedituko zaituzte, zure\l"
 	.string "agindu guztiak jarraituz.\p"
 	.string "EURI DOMINAK, gainera, UR-JAUZIA\n"
-	.string "HMA erailtzen utziko dizu, edozein\l"
+	.string "ME-A eraBiltzen utziko dizu, edozein\l"
 	.string "ur-jauzi igo ahal izateko.\p"
 	.string "Eta inoiz ez dezazun gure arteko\n"
 	.string "borroka ahaztu, tori hau…$"

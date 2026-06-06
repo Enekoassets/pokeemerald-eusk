@@ -216,16 +216,16 @@ BerryTree_Text_CareAdverbGood:
 	.string "era galantean$"
 
 BerryTree_Text_WantToPick:
-	.string "{STR_VAR_2} {STR_VAR_1} aurkitu duzu!\p"
-	.string "Nahi al duzu {STR_VAR_1}\n"
-	.string "hau bildu?$"
+	.string "{STR_VAR_2} {STR_VAR_1} aurkitu dituzu!\p"
+	.string "Nahi al dituzu {STR_VAR_1}\n"
+	.string "hauek bildu?$"
 
 BerryTree_Text_PickedTheBerry:
-	.string "{PLAYER}(e)k {STR_VAR_2} {STR_VAR_1} jaso du.$"
+	.string "{PLAYER}(e)k {STR_VAR_2} {STR_VAR_1} jaso ditu.$"
 
 BerryTree_Text_PutAwayBerry:
-	.string "{PLAYER}(e)k {STR_VAR_1} gorde du\n"
-	.string "POLTSAKO BAIEN POLTSIKOAN.\p"
+	.string "{PLAYER}(e)k {STR_VAR_1} gorde\n"
+	.string "du/ditu POLTSAKO BAIEN POLTSIKOAN.\p"
 	.string "Lurra lehen bezain bigun eta\n"
 	.string "emankor dago orain.$"
 
