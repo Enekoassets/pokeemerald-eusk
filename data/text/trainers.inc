@@ -39,8 +39,8 @@ Route102_Text_AllenIntro:
 	.string "Biok gara hasiberriak!$"
 
 Route102_Text_AllenDefeated:
-	.string "Zure aurka irabaziko nuela uste nuelako\n"
-	.string "soilik deitu dizut…$"
+	.string "Zure aurka irabaziko nuela uste\n"
+	.string "nuelako soilik deitu dizut…$"
 
 Route102_Text_AllenPostBattle:
 	.string "Ez dut behin ere irabazi…\n"
