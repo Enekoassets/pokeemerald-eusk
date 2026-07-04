@@ -280,8 +280,8 @@ BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
 	.string "Zure FRONTE PASEA, mesedez!$"
 
 BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol:
-	.string "Ausardia Sinboloa grabatu da\n"
-	.string "FRONTE PASEAN!$"
+	.string "Ausardia Sinboloa FRONTE PASEAN\n"
+	.string "grabatu da!$"
 
 BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
 	.string "Esploratzaile gaztea!\n"

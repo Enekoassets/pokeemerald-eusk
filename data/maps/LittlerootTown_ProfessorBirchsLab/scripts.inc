@@ -752,11 +752,11 @@ LittlerootTown_ProfessorBirchsLab_Text_ReceivedPokedex:
 LittlerootTown_ProfessorBirchsLab_Text_ExplainPokedex:
 	.string "URKI DOKT.: POKéDEXA goi-mailako tresna\n"
 	.string "teknologikoa da, ikusi edo harrapatzen\l"
-	.string "POKéMONAK erregistratzen dituen.\p"
+	.string "POKéMONAK erregistratzen dituena.\p"
 	.string "Nire haurrak, {RIVAL}(e)k, toki\n"
 	.string "guztietara eramaten du beti.\p"
 	.string "POKéMON arraroren bat harrapatu eta\n"
-	.string "haren datuak POKéDEXEAN erregistratzean,\l"
+	.string "haren datuak POKéDEXEAN gordetzean,\l"
 	.string "{RIVAL} nire bila etorri ohi da,\l"
 	.string "bere emaitzak niri erakusteko.$"
 

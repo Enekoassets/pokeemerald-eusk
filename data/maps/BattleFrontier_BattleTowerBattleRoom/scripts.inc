@@ -526,8 +526,8 @@ BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized:
 	.string "Zure talentuak aitorpena merezi du.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
-	.string "Abilezia Sinboloa grabatu da\n"
-	.string "FRONTE PASEAN!$"
+	.string "Abilezia Sinboloa FRONTE PASEAN\n"
+	.string "grabatu da!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime:
 	.string "… … … … … …\p"

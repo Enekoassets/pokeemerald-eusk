@@ -710,8 +710,8 @@ PetalburgCity_Text_WhereIsWally:
 	.string "dugu laister…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
-	.string "Aizu! Ez al zara zu izango…\n"
-	.string "ENTRENATZAILE hasiberria?\p"
+	.string "Aizu! Ez al zara zu… ENTRENATZAILE\n"
+	.string "hasiberria izango?\p"
 	.string "Badakizu zer egiten duten POKéMON\n"
 	.string "ENTRENATZAILEEK herri batera iristean?\p"
 	.string "Lehenengo zein motatako GIMNASIOA\n"

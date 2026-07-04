@@ -525,18 +525,18 @@ BattleFrontier_BattlePyramidLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattlePyramidLobby_Text_WelcomeToBattlePyramid:
-	.string "Where the courage of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "Welcome to the BATTLE PYRAMID!\p"
-	.string "I am your guide to\n"
-	.string "the Battle Quest.$"
+	.string "ENTRENATZAILEEN KURAIA jokoan\n"
+	.string "jartzen den tokira!\p"
+	.string "Ongi etorri BORROKA PIRAMIDERA!\p"
+	.string "Bilaketa Borrokarako\n"
+	.string "zure gida izango naiz.$"
 
 BattleFrontier_BattlePyramidLobby_Text_EmbarkOnChallenge:
-	.string "Have you the courage to embark on\n"
-	.string "the Battle Quest challenge?$"
+	.string "Ba al duzu Bilaketa Borrokako\n"
+	.string "erronkari aurre egiteko kuraia?$"
 
 BattleFrontier_BattlePyramidLobby_Text_AwaitFutureChallenge:
-	.string "We await your challenge in the future!$"
+	.string "Berriro etorriko zarela espero dugu!$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
 	.string "The Battle Quest is a battling\n"

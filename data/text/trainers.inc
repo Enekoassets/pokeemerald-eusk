@@ -48,7 +48,7 @@ Route102_Text_AllenPostBattle:
 
 Route102_Text_RickIntro:
 	.string "Kar-kar-kar! Begiratu egin didazu!\n"
-	.string "Nire ZOMORRO POKéMONEKIN txikituko zaitut!$"
+	.string "Nire ZOMORROEKIN txikituko zaitut!$"
 
 Route102_Text_RickDefeated:
 	.string "Ai! Hori bai egurra!$"
@@ -63,7 +63,7 @@ Route102_Text_TianaIntro:
 	.string "Lagundu nire bidea egiten!$"
 
 Route102_Text_TianaDefeated:
-	.string "Azkenean nik lagundu dizut zure bidean…$"
+	.string "Azkenean nik lagundu dizut zuri…$"
 
 Route102_Text_TianaPostBattle:
 	.string "Irabazten jarraitu nahi badut, POKéMON\n"

@@ -1166,7 +1166,7 @@ PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon:
 	.string "EKAITZ: BERDEZELAI HERRIRA etorri\n"
 	.string "naiz nire familiarekin.\p"
 	.string "Bakarrik sentituko nintzela uste nuenez,\n"
-	.string "POKéMON bat nahi nuen hori ez gertatzeko.\p"
+	.string "POKéMON bat nahi nuen hala ez izateko.\p"
 	.string "Baina ez dut inoiz POKéMONIK harrapatu.\n"
 	.string "Ez dakit nola egiten den…$"
 
@@ -1180,14 +1180,14 @@ PetalburgCity_Gym_Text_DadPlayerGoWithWally:
 	.string "iezaiozu POKéMON bat harrapatzen.$"
 
 PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon:
-	.string "EKAITZ, tori, nire POKéMONA utziko dizut.\p"
+	.string "Tori, nire POKéMONA utziko dizut.\p"
 	.string "EKAITZEK ZIGZAGOON bat jaso du!$"
 
 PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall:
 	.string "EKAITZ: Ene bada!\n"
 	.string "POKéMON bat!\p"
-	.string "AITA: Bai. POKé BALL bat ere emango dizut.\n"
-	.string "Aurrera!\p"
+	.string "AITA: Bai. POKé BALL bat ere emango\n"
+	.string "dizut. Aurrera!\p"
 	.string "EKAITZEK POKé BALL bat jaso du!$"
 
 PetalburgCity_Gym_Text_WallyOhWowThankYou:
@@ -1222,14 +1222,14 @@ PetalburgCity_Gym_Text_DadGoCollectBadges:
 	.string "hemendik aurrera jarraituz.\p"
 	.string "Bertan, ROXANNERI, GIMNASIOKO\n"
 	.string "LIDERRARI aurre egin behar diozu.\p"
-	.string "Bere ostean, beste POKéMON GIMNASIOETARA\n"
+	.string "Bere ostean, beste GIMNASIOETARA\n"
 	.string "joan LIDERRAK garaitzera.\p"
 	.string "Beraiek emandako DOMINAK jaso\n"
 	.string "behar dituzu, ulertzen?\p"
 	.string "Ni ere GIMNASIOKO LIDERRA naiz, noski.\n"
-	.string "Egunen batean borrokatuko dugu, {PLAYER}.\p"
+	.string "Noizbait borrokatuko dugu, {PLAYER}.\p"
 	.string "Baina horretarako indartsuagoa\n"
-	.string "bihurtu behar duzu.$"
+	.string "bihurtu behar zara.$"
 
 PetalburgCity_Gym_Text_NormanGoToRustboro:
 	.string "AITA: Zer? Ez al zoaz BURDINTZA\n"

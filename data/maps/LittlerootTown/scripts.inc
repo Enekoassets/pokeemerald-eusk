@@ -943,7 +943,7 @@ LittlerootTown_Text_ExplainRunningShoes:
 	.string "AMA: {PLAYER}, zapatila horiek\n"
 	.string "argibideak zekartzaten.\p"
 	.string "“Sakatu B Botoia KORRIKAKO ZAPATILAK\n"
-	.string "jantzita dituzunean, ziztu bizian joateko!\p"
+	.string "jantzita, ziztu bizian joateko!\p"
 	.string "“Jantzi KORRIKAKO ZAPATILA hauek eta\n"
 	.string "ziztu bizian zeharkatu kaleak!”$"
 

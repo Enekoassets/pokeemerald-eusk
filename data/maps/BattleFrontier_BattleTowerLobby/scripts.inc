@@ -978,58 +978,58 @@ BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer:
 	.string "Zorte on!$"
 
 BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons:
-	.string "Here are some RIBBONS for beating\n"
-	.string "seven tough TRAINERS in a row.\p"
-	.string "{PLAYER} received some RIBBONS!$"
+	.string "Tori ZINTA hauek, zazpi ENTRENATZAILE\n"
+	.string "jarraian garaitzeagatik.\p"
+	.string "{PLAYER}(r)ek ZINTAK jaso ditu!$"
 
 BattleFrontier_BattleTowerLobby_Text_PutRibbonOnMons:
-	.string "{PLAYER} put the RIBBONS on\n"
-	.string "the challenger POKéMON.$"
+	.string "{PLAYER}(r)ek ZINTAK jarri dizkie\n"
+	.string "parte hartu duten POKéMONEI.$"
 
 BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower:
-	.string "Excuse me, do you have a moment?\p"
-	.string "Can you describe your feelings when\n"
-	.string "you're about to begin a BATTLE TOWER\l"
-	.string "match, or when you've either won or\l"
-	.string "lost a match?$"
+	.string "Barkatu, ba al duzu denbora apur bat?\p"
+	.string "Deskriba zenezake nola sentitzen zaren\n"
+	.string "BORROKA DORREKO erronka bat hasi behar\l"
+	.string "duzunean, edo, borroka bat irabazi edo\l"
+	.string "galdu berri duzunean?$"
 
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouBegin:
-	.string "Okay, what are your feelings when\n"
-	.string "you're about to begin a match?$"
+	.string "Ongi, nola sentitzen zara borroka\n"
+	.string "bat hasi behar duzunean?$"
 
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveWon:
-	.string "What do you feel when you've won\n"
-	.string "a match?$"
+	.string "Nola sentitzen zara borroka\n"
+	.string "bat irabazi berri duzunean?$"
 
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveLost:
-	.string "Can I hear about your feelings when\n"
-	.string "you have lost a match?$"
+	.string "Esango zenidake nola sentitzen zaren\n"
+	.string "borroka bat galdu berri duzunean?$"
 
 BattleFrontier_BattleTowerLobby_Text_DontThinkMuchAboutIt:
-	.string "Oh, so you don't think much about it?\n"
-	.string "You're one cool customer.$"
+	.string "Beraz, ez dizkiozu buelta asko ematen?\n"
+	.string "Gazte itzela zara zu, gero.$"
 
 BattleFrontier_BattleTowerLobby_Text_ChangedYourMind:
-	.string "Hunh? You changed your mind?\n"
-	.string "I guess you're fickle.$"
+	.string "Nola? Iritzia aldatu duzula?\n"
+	.string "Aldabera zara, gero.$"
 
 BattleFrontier_BattleTowerLobby_Text_ThatsHowYouFeel:
-	.string "Okay, so that's how you feel?\n"
-	.string "That's quite original.\p"
-	.string "Thanks!$"
+	.string "Hala sentitzen zara orduan?\n"
+	.string "Nahikoa originala da hori, bai.\p"
+	.string "Eskerrik asko!$"
 
 BattleFrontier_BattleTowerLobby_Text_WinsInRowRecorded:
-	.string "The number of matches you win in a row\n"
-	.string "is recorded.\p"
-	.string "I'd better not get beaten in\n"
-	.string "an embarrassing way!$"
+	.string "Jarraian irabazten dituzun borroka\n"
+	.string "kopurua gorde egiten da.\p"
+	.string "Hobe dut era lotsagarrian\n"
+	.string "ez galdu!$"
 
 BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins:
-	.string "Once you've entered the BATTLE TOWER,\n"
-	.string "you can't leave until you either lose\l"
-	.string "or you beat seven TRAINERS in a row.\p"
-	.string "You'd best be certain that you're up\n"
-	.string "to the challenge.$"
+	.string "Behin BORROKA DORREAN sartuz gero,\n"
+	.string "ezin zara atera galdu ed zazpi\l"
+	.string "ENTRENATZAILE jarraian garaitu arte.\p"
+	.string "Sartu aurretik, hobe duzu ziur egon\n"
+	.string "erronkari aurre egiteko gai zarela.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction:
@@ -1050,13 +1050,13 @@ BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction:
 	.string "is completed.$"
 
 BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge:
-	.string "We look forward to seeing you on\n"
-	.string "another challenge!$"
+	.string "Berriro beste erronka batean izena\n"
+	.string "emango duzula espero dugu!$"
 
 BattleFrontier_BattleTowerLobby_Text_WhichLevelMode:
-	.string "The BATTLE ROOM offers two levels\n"
-	.string "of challenge, Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "BORROKA GELAN bi mailatako erronkak\n"
+	.string "daude, 50. Maila eta Maila Irekia.\l"
+	.string "Zein aukeratu nahi duzu?$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons:
@@ -1064,16 +1064,16 @@ BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons:
 	.string "to enter.$"
 
 BattleFrontier_BattleTowerLobby_Text_OkayToSaveBeforeEntering:
-	.string "Before entering a BATTLE ROOM, your\n"
-	.string "progress must be saved. Is that okay?$"
+	.string "BORROKA GELA batera sartu aurretik,\n"
+	.string "partida gorde behar dugu, ados?$"
 
 BattleFrontier_BattleTowerLobby_Text_ShowYouToBattleRoom:
-	.string "I will now show you to the\n"
-	.string "{STR_VAR_1} BATTLE ROOM.$"
+	.string "Oraintxe eramango zaitut\n"
+	.string "{STR_VAR_1} BORROKA GELARA.$"
 
 BattleFrontier_BattleTowerLobby_Text_RecordLastMatch:
-	.string "Shall I record your last BATTLE TOWER\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "Nahi duzu BORROKA DORREKO azken\n"
+	.string "borroka FRONTE PASEAN grabatu?$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50:
@@ -1098,105 +1098,105 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Please come see me when you are ready.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Singles:
-	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "You must have three different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Barkatu!\p"
+	.string "Ez dauzkazu hiru POKéMON aukeragarri.\p"
+	.string "50 Maila edo gutxiagoko hiru\n"
+	.string "POKéMON behar dituzu gutxienez.\p"
+	.string "Item desberdinak eduki behar dituzte,\n"
+	.string "gainera.\p"
+	.string "ARRAUTZAK{STR_VAR_1} ezin dira aukeratu.\p"
+	.string "Mesedez, itzuli prest zaudenean.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenSingles:
-	.string "Excuse me!\p"
-	.string "You don't have three eligible POKéMON.\p"
-	.string "You must have three different POKéMON\n"
-	.string "to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Barkatu!\p"
+	.string "Ez dauzkazu hiru POKéMON aukeragarri.\p"
+	.string "Hiru POKéMON desberdin eduki behar\n"
+	.string "dituzu gutxienez.\p"
+	.string "Item desberdinak eduki behar dituzte,\n"
+	.string "gainera.\p"
+	.string "ARRAUTZAK{STR_VAR_1} ezin dira aukeratu.\p"
+	.string "Mesedez, itzuli prest zaudenean.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Doubles:
-	.string "Excuse me!\p"
-	.string "You don't have four eligible POKéMON.\p"
-	.string "You must have four different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Barkatu!\p"
+	.string "Ez dauzkazu lau POKéMON aukeragarri.\p"
+	.string "50 Maila edo gutxiagoko lau\n"
+	.string "POKéMON behar dituzu gutxienez.\p"
+	.string "Item desberdinak eduki behar dituzte,\n"
+	.string "gainera.\p"
+	.string "ARRAUTZAK{STR_VAR_1} ezin dira aukeratu.\p"
+	.string "Mesedez, itzuli prest zaudenean.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenDoubles:
-	.string "Excuse me!\p"
-	.string "You don't have four eligible POKéMON.\p"
-	.string "You must have four different POKéMON\n"
-	.string "to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Barkatu!\p"
+	.string "Ez dauzkazu lau POKéMON aukeragarri.\p"
+	.string "Lau POKéMON desberdin eduki behar\n"
+	.string "dituzu gutxienez.\p"
+	.string "Item desberdinak eduki behar dituzte,\n"
+	.string "gainera.\p"
+	.string "ARRAUTZAK{STR_VAR_1} ezin dira aukeratu.\p"
+	.string "Mesedez, itzuli prest zaudenean.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Multis:
-	.string "Excuse me!\p"
-	.string "You don't have two eligible POKéMON.\p"
-	.string "You must have two different POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Barkatu!\p"
+	.string "Ez dauzkazu bi POKéMON aukeragarri.\p"
+	.string "50 Maila edo gutxiagoko bi\n"
+	.string "POKéMON behar dituzu gutxienez.\p"
+	.string "Item desberdinak eduki behar dituzte,\n"
+	.string "gainera.\p"
+	.string "ARRAUTZAK{STR_VAR_1} ezin dira aukeratu.\p"
+	.string "Mesedez, itzuli prest zaudenean.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenMultis:
-	.string "Excuse me!\p"
-	.string "You don't have two eligible POKéMON.\p"
-	.string "You must have two different POKéMON\n"
-	.string "to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Barkatu!\p"
+	.string "Ez dauzkazu bi POKéMON aukeragarri.\p"
+	.string "Bi POKéMON desberdin eduki behar\n"
+	.string "dituzu gutxienez.\p"
+	.string "Item desberdinak eduki behar dituzte,\n"
+	.string "gainera.\p"
+	.string "ARRAUTZAK{STR_VAR_1} ezin dira aukeratu.\p"
+	.string "Mesedez, itzuli prest zaudenean.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomSingleBattle:
-	.string "Where the talents of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE TOWER!\p"
-	.string "I am your guide to the SINGLE\n"
-	.string "BATTLE ROOMS.$"
+	.string "ENTRENATZAILEEN talentua\n"
+	.string "jokoan jartzen den tokira!\p"
+	.string "Ongi etorri BORROKA DORRERA!\p"
+	.string "BANAKAKO BORROKA GELETARAKO\n"
+	.string "zure gida izango naiz.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeSinglesChallenge:
-	.string "Would you like to take the SINGLE\n"
-	.string "BATTLE ROOM challenge?$"
+	.string "Nahi duzu BANAKAKO BORROKA GELEN\n"
+	.string "erronkan parte hartu?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainSinglesChallenge:
-	.string "The BATTLE TOWER's SINGLE BATTLE\n"
-	.string "ROOMS are facilities for conducting\l"
-	.string "SINGLE BATTLES with three POKéMON.\p"
-	.string "There are many SINGLE BATTLE ROOMS\n"
-	.string "in the BATTLE TOWER for team battles.\p"
-	.string "In each of the SINGLE BATTLE ROOMS,\n"
-	.string "seven TRAINERS await your challenge.\p"
-	.string "If you manage to defeat all seven,\n"
-	.string "you will earn Battle Points.\p"
-	.string "If you want to interrupt your\n"
-	.string "challenge, please save the game.\p"
-	.string "If you don't save before interrupting,\n"
-	.string "you will be disqualified.$"
+	.string "BORROKA DORREKO BANAKAKO BORROKA\n"
+	.string "GELAK hiru POKéMON erabiliz BANAKAKO\l"
+	.string "BORROKAK egiteko lekuak dira.\p"
+	.string "Hainbat BANAKAKO BORROKA GELA daude\n"
+	.string "BORROKA DORREAN borrokak egiteko.\p"
+	.string "BANAKAKO BORROKA GELA bakoitzean,\n"
+	.string "zazpi ENTRENATZAILE dituzu zain.\p"
+	.string "Zazpiak garaitzea lortzen baduzu,\n"
+	.string "Borroka Puntuak irabaziko dituzu.\p"
+	.string "Erronka eten nahi baduzu, gorde\n"
+	.string "partida, mesedez.\p"
+	.string "Ez baduzu gordetzen utzi aurretik,\n"
+	.string "deskalifikatu egingo zaitugu.$"
 
 BattleFrontier_BattleTowerLobby_Text_SelectThreeMons:
-	.string "Now please select the three POKéMON\n"
-	.string "that are to be entered.$"
+	.string "Mesedez, hartu parte hartuko\n"
+	.string "duten hiru POKéMONAK.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeDoubleBattle:
-	.string "Where the talents of TRAINERS\n"
-	.string "are put to the test!\p"
-	.string "Welcome to the BATTLE TOWER!\p"
-	.string "I am your guide to the DOUBLE\n"
-	.string "BATTLE ROOMS.$"
+	.string "ENTRENATZAILEEN talentua\n"
+	.string "jokoan jartzen den tokira!\p"
+	.string "Ongi etorri BORROKA DORRERA!\p"
+	.string "BINAKAKO BORROKA GELETARAKO\n"
+	.string "zure gida izango naiz.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeDoublesChallenge:
-	.string "Would you like to take the DOUBLE\n"
-	.string "BATTLE ROOM challenge?$"
+	.string "Nahi duzu BINAKAKO BORROKA GELEN\n"
+	.string "erronkan parte hartu?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainDoublesChallenge:
 	.string "The BATTLE TOWER's DOUBLE BATTLE\n"
@@ -1214,8 +1214,8 @@ BattleFrontier_BattleTowerLobby_Text_ExplainDoublesChallenge:
 	.string "you will be disqualified.$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectFourMons:
-	.string "Now please select the four POKéMON\n"
-	.string "that are to be entered.$"
+	.string "Mesedez, hartu parte hartuko\n"
+	.string "duten lau POKéMONAK.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeMultiBattle:
 	.string "Where the talents of TRAINERS\n"
@@ -1225,8 +1225,8 @@ BattleFrontier_BattleTowerLobby_Text_WelcomeMultiBattle:
 	.string "BATTLE ROOMS.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeMultisChallenge:
-	.string "Would you like to take the MULTI\n"
-	.string "BATTLE ROOM challenge?$"
+	.string "Nahi duzu MUTLI BORROKA GELEN\n"
+	.string "erronkan parte hartu?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge:
 	.string "The BATTLE TOWER's MULTI BATTLE\n"
@@ -1252,8 +1252,8 @@ BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge:
 	.string "you will be disqualified.$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons:
-	.string "Now please select the two POKéMON\n"
-	.string "that are to be entered.$"
+	.string "Mesedez, hartu parte hartuko\n"
+	.string "duten bi POKéMONAK.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeLinkMultiBattle:
 	.string "Where the talents of TRAINERS\n"
@@ -1263,8 +1263,8 @@ BattleFrontier_BattleTowerLobby_Text_WelcomeLinkMultiBattle:
 	.string "BATTLE ROOMS.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeLinkMultisChallenge:
-	.string "Would you like to take the LINK MULTI\n"
-	.string "BATTLE ROOM challenge?$"
+	.string "Nahi duzu LINK MUTLI BORROKA GELEN\n"
+	.string "erronkan parte hartu?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge:
 	.string "The BATTLE TOWER's MULTI BATTLE\n"
@@ -1288,8 +1288,8 @@ BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge:
 	.string "MULTI BATTLES in a row nonstop.$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons2:
-	.string "Now please select the two POKéMON\n"
-	.string "that are to be entered.$"
+	.string "Mesedez, hartu parte hartuko\n"
+	.string "duten bi POKéMONAK.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend:

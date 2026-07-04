@@ -5,7 +5,7 @@ gText_TheBagIsFull::
 	.string "POLTSA beteta dago…$"
 
 gText_PutItemInPocket::
-	.string "{PLAYER}(e)k {STR_VAR_2} gorde du\n"
+	.string "{PLAYER}(e)k {STR_VAR_2} gorde d(it)u\n"
 	.string "{STR_VAR_3} POLTSIKOAN.$"
 
 gText_PlayerFoundOneItem::
@@ -17,7 +17,7 @@ gText_TooBadBagIsFull::
 
 gText_PlayerPutItemInBag::
 	.string "{PLAYER}(e)k {STR_VAR_2} POLTSAN\n"
-	.string "gorde du.$"
+	.string "gorde d(it)u.$"
 
 gText_ObtainedTheDecor::
 	.string "{STR_VAR_2} lortu duzu!$"

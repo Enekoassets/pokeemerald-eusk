@@ -647,24 +647,24 @@ BattleFrontier_BattlePikeRoomNormal_Movement_CameraPanDown:
 	step_end
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth:
-	.string "Welcome…\n"
-	.string "You must be commended for your luck…\p"
-	.string "Your POKéMON shall be restored\n"
-	.string "to full health…$"
+	.string "Ongi etorri…\n"
+	.string "Zure zorteagatik txalotu behar zaitugu…\p"
+	.string "Zure POKéMONAK guztiz sendatzeko\n"
+	.string "aukera duzu orain…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge:
-	.string "I urge you to enjoy the rest of your\n"
-	.string "Battle Choice challenge…$"
+	.string "Aukera Borrokako erronka hemendik\n"
+	.string "aurrera ere gozatuko duzula espero dut…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon:
-	.string "Ah, you're a lucky one.\n"
-	.string "I'm in somewhat-good spirits now.\p"
-	.string "I will restore one of your POKéMON\n"
-	.string "to full health.$"
+	.string "Bai, zortekoa zara zu.\n"
+	.string "Umore onez harrapatu nauzu.\p"
+	.string "Zure POKéMONETAKO bat guztiz\n"
+	.string "sendatuko dut.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell:
-	.string "The best of luck to you.\n"
-	.string "Farewell.$"
+	.string "Zorterik onena opa dizut.\n"
+	.string "Agur.$"
 
 @ Seems there was a planned room type where the player could choose to battle and would be healed if they won
 @ Possibly replaced/superseded by the hard battle room, which is the same but the battle isnt optional
@@ -696,156 +696,156 @@ BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2:
 	.string "Farewell.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WatchOut:
-	.string "Oh, my!\p"
-	.string "Watch out!$"
+	.string "Ai ene!\p"
+	.string "Kontuz ibili!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaStop:
-	.string "Now, now!\n"
-	.string "KIRLIA, stop that!$"
+	.string "Aizu, aizu!\n"
+	.string "KIRLIA, gelditu zaitez!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsStop:
-	.string "Now, now!\n"
-	.string "DUSCLOPS, stop that!$"
+	.string "Aizu, aizu!\n"
+	.string "DUSCLOPS, gelditu zaitez!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedToxic:
-	.string "KIRLIA used TOXIC!$"
+	.string "KIRLIAK TOXIKOA erabili du!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis:
-	.string "KIRLIA used HYPNOSIS!$"
+	.string "KIRLIAK HIPNOSIA erabili du!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedThunderWave:
-	.string "KIRLIA used THUNDER WAVE!$"
+	.string "KIRLIAK TRUMOI UHINA erabili du!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedWillOWisp:
-	.string "KIRLIA used WILL-O-WISP!$"
+	.string "KIRLIAK SUTXAKURRA erabili du!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedWillOWisp:
-	.string "DUSCLOPS used WILL-O-WISP!$"
+	.string "DUSCLOPSEK SUTXAKURRA erabili du!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedIceBeam:
-	.string "DUSCLOPS used ICE BEAM!$"
+	.string "DUSCLOPSEK IZOTZ IZPIA erabili du!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
-	.string "Look here!\n"
-	.string "That's quite enough!$"
+	.string "Begiratu hona!\n"
+	.string "Nahikoa da, aizu!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
-	.string "I must apologize to you…\p"
-	.string "My KIRLIA has a TIMID nature…$"
+	.string "Barkamena eskatu behar dizut…\p"
+	.string "Nire KIRLIAK izaera BELDURTIA du…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
-	.string "I must apologize to you…\p"
-	.string "My DUSCLOPS has a TIMID nature…$"
+	.string "Barkamena eskatu behar dizut…\p"
+	.string "Nire DUSCLOPSEK izaera BELDURTIA du…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
-	.string "It attacks without warning if it is\n"
-	.string "startled by another person…\p"
-	.string "Are you and your POKéMON all right?$"
+	.string "Abisatu gabe erasotzen du beste\n"
+	.string "pertsona batekin beldurtzen bada…\p"
+	.string "Ondo al zaudete zu eta zure POKéMONAK?$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine:
-	.string "I do apologize for what happened…\n"
-	.string "I do hope your POKéMON are fine.$"
+	.string "Barkatu gertatu denagatik…\n"
+	.string "Zure POKéMONAK ondo daudela espero dut.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence:
 	.string "… … … … … …\n"
 	.string "… … … … … …$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer:
-	.string "Welcome…\p"
-	.string "Here, we will have you battle\n"
-	.string "a somewhat-tough TRAINER…$"
+	.string "Ongi etorri…\p"
+	.string "Hemen, ENTRENATZAILE nahikoa indartsu\n"
+	.string "baten aurka egingo duzu borrokan…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth:
-	.string "How wonderful…\p"
-	.string "To honor your victory, your POKéMON\n"
-	.string "shall be restored to full health…$"
+	.string "Izugarria…\p"
+	.string "Zure garaipena ospatzeko, POKéMONAK\n"
+	.string "guztiz sendatuko dizkizugu…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge2:
-	.string "I urge you to enjoy the rest of your\n"
-	.string "Battle Choice challenge…$"
+	.string "Aukera Borrokako erronka hemendik\n"
+	.string "aurrera ere gozatuko duzula espero dut…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen:
-	.string "I am LUCY…\n"
-	.string "I am the law here…\l"
-	.string "For I am the PIKE QUEEN…\p"
-	.string "You already know it, but to advance,\n"
-	.string "you must defeat me…\p"
-	.string "…I'm not one for idle chatter.\n"
-	.string "Hurry. Come on…$"
+	.string "AINHOA naiz…\n"
+	.string "Hemengo nagusia…\l"
+	.string "SUGEKO ERREGINA bainaiz…\p"
+	.string "Badakizu jada, baina, jarraitzeko,\n"
+	.string "garaitu egin behar nauzu…\p"
+	.string "…Ez zait hizketan aritzea gustatzen.\n"
+	.string "Ea bada. Has gaitezen…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck:
-	.string "Your luck…\n"
-	.string "I hope you didn't use it all up here…$"
+	.string "Zure zortea…\n"
+	.string "Espero dut ez duzula hari esker irabazi…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass:
-	.string "LUCY: … … … … … …\n"
-	.string "Show me your FRONTIER PASS…$"
+	.string "AINHOA: … … … … … …\n"
+	.string "Eman zure FRONTE PASEA…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol:
-	.string "The Luck Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Zorte Sinboloa FRONTE PASEAN\n"
+	.string "grabatu da!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear:
-	.string "…That's all there is…\n"
-	.string "Disappear already…$"
+	.string "…Horixe zen dena…\n"
+	.string "Alde hemendik…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain:
-	.string "LUCY: …You again…\p"
+	.string "AINHOA: …Zu berriro…\p"
 	.string "… … … … … …\p"
-	.string "…I've trampled flowers and braved\n"
-	.string "storms to get to where I am…\p"
-	.string "I don't feel any compulsion to keep\n"
-	.string "losing to the same opponent…\p"
+	.string "…Loreak zapadu eta ekaitzak\n"
+	.string "garaitu ditut hona iristeko…\p"
+	.string "Ez daukat inolako gogorik etsai\n"
+	.string "berdinaren aurka borrokatzeko…\p"
 	.string "… … … … … …\n"
-	.string "Fine… I'll do it…$"
+	.string "Beno… Borroka dezagun…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn:
-	.string "Now!\n"
-	.string "Come on!$"
+	.string "Baina!\n"
+	.string "Nola, baina!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass:
-	.string "LUCY: … … … … … …\p"
-	.string "…FRONTIER PASS…$"
+	.string "AINHOA: … … … … … …\p"
+	.string "…FRONTE PASEA…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine:
-	.string "The Luck Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Zorte Sinboloak urre koloreko\n"
+	.string "distira hartu du!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_IWontForget:
-	.string "…You, I won't forget…\n"
-	.string "…Ever…$"
+	.string "…Zu, ez zaitut inoiz ahaztuko…\n"
+	.string "…Inoiz ez…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal:
-	.string "I welcome you…\p"
-	.string "Giggle…\n"
-	.string "You seem to be bereft of luck…\p"
-	.string "If only you hadn't chosen this room,\n"
-	.string "your POKéMON could have been healed…$"
+	.string "Ongi etorri…\p"
+	.string "Jijiji…\n"
+	.string "Zorterik ez duzula dirudi…\p"
+	.string "Gela hau aukeratu ez bazenu, zure\n"
+	.string "POKéMONAK sendatuta egongo ziren…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne:
-	.string "I welcome you…\p"
-	.string "Since you have chosen this room, I will\n"
-	.string "restore one POKéMON to full health…$"
+	.string "Ongi etorri…\p"
+	.string "Gela hau aukeratu duzunez, zure\n"
+	.string "POKéMONETAKO bat guztiz sendatuko dut…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo:
-	.string "I welcome you…\p"
-	.string "Since you have chosen this room, I will\n"
-	.string "restore two POKéMON to full health…$"
+	.string "Ongi etorri…\p"
+	.string "Gela hau aukeratu duzunez, zure\n"
+	.string "POKéMONETAKO bi guztiz sendatuko ditut…$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons:
-	.string "I welcome you…\p"
-	.string "Giggle…\n"
-	.string "You should thank your lucky stars…\p"
-	.string "Since you have chosen this room,\n"
-	.string "all your POKéMON will be restored…$"
+	.string "Ongi etorri…\p"
+	.string "Jijiji…\n"
+	.string "Eman eskerraz zure zorteari…\p"
+	.string "Gela hau aukeratu duzunez, zure\n"
+	.string "POKéMON guztiak sendatuko dizkizut…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster:
-	.string "I shall go fetch our master…$"
+	.string "Nagusiaren bila joan behar dut…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreTwoMons:
-	.string "Ah, you're a lucky one!\n"
-	.string "I'm in good spirits now.\p"
-	.string "I will restore two of your POKéMON\n"
-	.string "to full health!$"
+	.string "Ene, zorte onekoa zara!\n"
+	.string "Gustora nago oraintxe.\p"
+	.string "Zure POKéMONETAKO bi guztiz\n"
+	.string "sendatuko ditut!$"
 

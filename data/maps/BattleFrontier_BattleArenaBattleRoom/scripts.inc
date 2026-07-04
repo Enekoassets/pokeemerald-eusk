@@ -597,8 +597,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
 	.string "Ikus dezagun zure FRONTE PASEA.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
-	.string "Ausardia Sinboloa grabatu da\n"
-	.string "FRONTE PASEAN!$"
+	.string "Ausardia Sinboloa FRONTE PASEAN\n"
+	.string "grabatu da!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
 	.string "Hmm…\p"
